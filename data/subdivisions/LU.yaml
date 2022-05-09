@@ -1,223 +1,15 @@
 ---
-D: 
-  name: Diekirch
-  code: 
-  unofficial_names: Diekirch
-  geo:
-    latitude: 49.8671784
-    longitude: 6.159563299999999
-    min_latitude: 49.83493
-    min_longitude: 6.1175201
-    max_latitude: 49.8987
-    max_longitude: 6.180689999999999
-  translations:
-    en: Diekirch²
-    de: Diekirch²
-    ccp: "\U00011113\U0001112D\U00011107\U00011128\U00011122\U00011134\U0001110C\U00011134"
-  comments: 
-G: 
-  name: Grevenmacher
-  code: 
-  unofficial_names: Grevenmacher
-  geo:
-    latitude: 49.680841
-    longitude: 6.440759300000001
-    min_latitude: 49.6540799
-    min_longitude: 6.3601101
-    max_latitude: 49.6997
-    max_longitude: 6.4610601
-  translations:
-    en: Grevenmacher²
-    de: Grevenmacher
-    ccp: "\U00011109\U00011133\U00011122\U0001112C\U0001111E\U0001112C\U0001111A\U00011134\U0001111F\U0001110C\U0001112C\U00011122\U00011134"
-  comments: 
-L: 
-  name: Luxembourg (fr)
-  code: 
+CA:
+  name: Kapellen
+  code:
   unofficial_names:
-  - Luxemburg
   geo:
-    latitude: 48.845577
-    longitude: 2.339852
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
-  translations:
-    en: Luxembourg²
-    de: Luxemburg²
-    ccp: "\U00011123\U0001112A\U00011107\U00011134\U00011125\U0001112C\U0001111F\U00011134\U0001111D\U00011122\U00011134\U00011107\U00011134"
-  comments: 
-LU: 
-  name: 
-  code: 
-  unofficial_names: 
-  geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
-  translations:
-    be: Люксембург
-    ca: Cantó de Luxemburg
-    cs: Kanton Lucemburk
-    da: Luxembourg
-    de: Luxemburg
-    el: Καντόνιο του Λουξεμβούργου
-    en: Luxembourg
-    es: Cantón de Luxemburgo
-    fa: لوکزامبورگ (ایالت)
-    fi: Luxemburg
-    fr: canton de Luxembourg
-    id: Kanton Luksemburg
-    it: Cantone di Lussemburgo
-    ja: ルクセンブルク (カントン)
-    ko: 룩셈부르크 주
-    lt: Liuksemburgo kantonas
-    nb: Luxembourg
-    nl: Kanton Luxemburg
-    pl: Kanton Luksemburg
-    pt: Luxemburgo
-    ro: Luxemburg
-    ru: Люксембург
-    sk: Luxemburg
-    sv: Luxemburg
-    tr: Lüksemburg kantonu
-    ur: لگزمبرگ (صوبہ)
-    vi: Luxembourg
-    ceb: Canton de Luxembourg
-    ccp: "\U00011123\U0001112A\U00011107\U00011134\U00011125\U0001112C\U0001111F\U00011134\U0001111D\U00011122\U00011134\U00011107\U00011134"
-  comments: 
-ME: 
-  name: 
-  code: 
-  unofficial_names: 
-  geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
-  translations:
-    be: Мерш
-    ca: Cantó de Mersch
-    cs: Kanton Mersch
-    da: Mersch
-    de: Mersch
-    en: Mersch
-    es: Cantón de Mersch
-    fr: canton de Mersch
-    id: Kanton Mersch
-    it: Cantone di Mersch
-    ko: 메르슈 주
-    lt: Meršo kantonas
-    nb: Mersch
-    nl: Kanton Mersch
-    pl: Kanton Mersch
-    pt: Mersch
-    ro: Mersch
-    ru: Мерш
-    sk: Mersch
-    sv: Mersch
-    tr: Mersch kantonu
-    uk: Люксембург
-    vi: Mersch
-    ceb: Canton de Mersch (kanton sa Luksemburgo)
-    ccp: "\U0001111F\U00011122\U00011134\U00011125\U00011134\U0001110C\U00011134"
-    az: Merş
-  comments: 
-RD: 
-  name: 
-  code: 
-  unofficial_names: 
-  geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
-  translations:
-    be: кантон Рэданж
-    ca: Cantó de Redange
-    cs: Kanton Redingen
-    da: Redange
-    de: Redingen
-    en: Redange
-    es: Cantón de Redange
-    fr: canton de Redange
-    id: Kanton Redange
-    it: Cantone di Redange
-    ko: 레당주 주
-    lt: Redanžo kantonas
-    nb: Redingen
-    nl: Kanton Redange
-    pl: Kanton Redange
-    pt: Redange
-    ro: Redange
-    ru: Реданж
-    sk: Redange
-    sv: Canton de Redange
-    tr: Redange kantonu
-    uk: Реданж
-    vi: Redange
-    ceb: Canton de Redange
-    ccp: "\U00011122\U0001112C\U00011113\U0001110B\U00011134\U00011109\U0001112C"
-  comments: 
-RM: 
-  name: 
-  code: 
-  unofficial_names: 
-  geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
-  translations:
-    be: Кантон Рэміх
-    ca: Cantó de Remich
-    cs: Kanton Remich
-    da: Remich
-    de: Remich
-    en: Remich
-    es: Cantón de Remich
-    fa: رمیش (ایالت)
-    fr: canton de Remich
-    id: Kanton Remich
-    it: Cantone di Remich
-    ko: 레미히 주
-    lt: Rėmicho kantonas
-    nb: Remich
-    nl: Kanton Remich
-    pl: Kanton Remich
-    pt: Remich
-    ro: Remich
-    ru: Ремих
-    sk: Remich
-    sv: Remich
-    tr: Remich kantonu
-    uk: Реміх
-    ur: ریمیش (صوبہ)
-    vi: Remich
-    ceb: Canton de Remich
-    ccp: "\U00011122\U0001112C\U0001111F\U00011128\U0001110C\U00011134"
-  comments: 
-CA: 
-  name: 
-  code: 
-  unofficial_names: 
-  geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
+    latitude: 49.633333
+    longitude: 6
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ca: Cantó de Capellen
     cs: Kanton Capellen
@@ -243,18 +35,19 @@ CA:
     vi: Capellen
     ceb: Canton de Capellen
     ccp: "\U00011107\U0001111B\U0001112C\U00011123\U0001112C\U0001111A\U00011134"
-  comments: 
-CL: 
-  name: 
-  code: 
-  unofficial_names: 
+    'no': Capellen
+  comments:
+CL:
+  name: Klierf
+  code:
+  unofficial_names:
   geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
+    latitude: 50.066667
+    longitude: 6.033333
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ca: Cantó de Clervaux
     cs: Kanton Clerf
@@ -284,18 +77,19 @@ CL:
     ccp: "\U00011107\U00011133\U00011123\U00011122\U00011134\U0001111E\U0001112F\U00011107\U00011134"
     az: Klervo
     be: Клерво
-  comments: 
-DI: 
-  name: 
-  code: 
-  unofficial_names: 
+    'no': Clervaux
+  comments:
+DI:
+  name: Diekrech
+  code:
+  unofficial_names:
   geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
+    latitude: 49.8671784
+    longitude: 6.159563299999999
+    min_latitude: 49.83493
+    min_longitude: 6.1175201
+    max_latitude: 49.8987
+    max_longitude: 6.180689999999999
   translations:
     ca: Cantó de Diekirch
     cs: Kanton Diekirch
@@ -325,18 +119,19 @@ DI:
     ceb: Canton de Diekirch
     zh: 迪基希县
     ccp: "\U00011113\U0001112D\U00011107\U00011128\U00011122\U00011134\U0001110C\U00011134"
-  comments: 
-EC: 
-  name: 
-  code: 
-  unofficial_names: 
+    'no': Diekirch
+  comments:
+EC:
+  name: Iechternach
+  code:
+  unofficial_names:
   geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
+    latitude: 49.8
+    longitude: 6.4
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ca: Cantó d’Echternach
     cs: Kanton Echternach
@@ -365,18 +160,19 @@ EC:
     vi: Echternach
     ceb: Canton d’Echternach
     ccp: "\U00011103\U00011128\U0001110C\U00011134\U00011111\U00011122\U00011134\U0001111A\U0001110C\U00011134"
-  comments: 
-ES: 
-  name: 
-  code: 
-  unofficial_names: 
+    'no': Echternach
+  comments:
+ES:
+  name: Esch-Uelzecht
+  code:
+  unofficial_names:
   geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
+    latitude: 49.5
+    longitude: 6
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ca: Cantó d’Esch-sur-Alzette
     cs: Kanton Esch an der Alzette
@@ -405,18 +201,19 @@ ES:
     vi: Esch-sur-Alzette
     ceb: Canton d’Esch-sur-Alzette
     ccp: "\U00011103\U00011128\U0001110C\U00011134-\U00011125\U00011122\U00011134-\U00011103\U00011123\U00011134\U0001110E\U0001112C\U00011111\U00011128"
-  comments: 
-GR: 
-  name: 
-  code: 
-  unofficial_names: 
+    'no': Esch-sur-Alzette
+  comments:
+GR:
+  name: Gréivemaacher
+  code:
+  unofficial_names:
   geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
+    latitude: 49.680841
+    longitude: 6.440759300000001
+    min_latitude: 49.6540799
+    min_longitude: 6.3601101
+    max_latitude: 49.6997
+    max_longitude: 6.4610601
   translations:
     ca: Cantó de Grevenmacher
     cs: Kanton Grevenmacher
@@ -447,18 +244,182 @@ GR:
     ccp: "\U00011109\U00011133\U00011122\U0001112C\U0001111E\U0001112C\U0001111A\U00011134\U0001111F\U0001110C\U0001112C\U00011122\U00011134"
     az: Qrevenmaxer
     th: อำเภอเกรเวินมัคเคอร์
-  comments: 
-VD: 
-  name: 
-  code: 
-  unofficial_names: 
+    'no': Grevenmacher
+  comments:
+LU:
+  name: Lëtzebuerg
+  code:
+  unofficial_names:
   geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    be: Люксембург
+    ca: Cantó de Luxemburg
+    cs: Kanton Lucemburk
+    da: Luxembourg
+    de: Luxemburg
+    el: Καντόνιο του Λουξεμβούργου
+    en: Luxembourg
+    es: Cantón de Luxemburgo
+    fa: لوکزامبورگ (ایالت)
+    fi: Luxemburg
+    fr: canton de Luxembourg
+    id: Kanton Luksemburg
+    it: Cantone di Lussemburgo
+    ja: ルクセンブルク (カントン)
+    ko: 룩셈부르크 주
+    lt: Liuksemburgo kantonas
+    nb: Luxembourg
+    nl: Kanton Luxemburg
+    pl: Kanton Luksemburg
+    pt: Luxemburgo
+    ro: Luxemburg
+    ru: Люксембург
+    sk: Luxemburg
+    sv: Luxemburg
+    tr: Lüksemburg kantonu
+    ur: لگزمبرگ (صوبہ)
+    vi: Luxembourg
+    ceb: Canton de Luxembourg
+    ccp: "\U00011123\U0001112A\U00011107\U00011134\U00011125\U0001112C\U0001111F\U00011134\U0001111D\U00011122\U00011134\U00011107\U00011134"
+    'no': Luxembourg
+  comments:
+ME:
+  name: Miersch
+  code:
+  unofficial_names:
+  geo:
+    latitude: 49.6
+    longitude: 6.1
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    be: Мерш
+    ca: Cantó de Mersch
+    cs: Kanton Mersch
+    da: Mersch
+    de: Mersch
+    en: Mersch
+    es: Cantón de Mersch
+    fr: canton de Mersch
+    id: Kanton Mersch
+    it: Cantone di Mersch
+    ko: 메르슈 주
+    lt: Meršo kantonas
+    nb: Mersch
+    nl: Kanton Mersch
+    pl: Kanton Mersch
+    pt: Mersch
+    ro: Mersch
+    ru: Мерш
+    sk: Mersch
+    sv: Mersch
+    tr: Mersch kantonu
+    uk: Люксембург
+    vi: Mersch
+    ceb: Canton de Mersch (kanton sa Luksemburgo)
+    ccp: "\U0001111F\U00011122\U00011134\U00011125\U00011134\U0001110C\U00011134"
+    az: Merş
+    'no': Mersch
+  comments:
+RD:
+  name: Réiden-Atert
+  code:
+  unofficial_names:
+  geo:
+    latitude: 49.8
+    longitude: 5.8
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    be: кантон Рэданж
+    ca: Cantó de Redange
+    cs: Kanton Redingen
+    da: Redange
+    de: Redingen
+    en: Redange
+    es: Cantón de Redange
+    fr: canton de Redange
+    id: Kanton Redange
+    it: Cantone di Redange
+    ko: 레당주 주
+    lt: Redanžo kantonas
+    nb: Redingen
+    nl: Kanton Redange
+    pl: Kanton Redange
+    pt: Redange
+    ro: Redange
+    ru: Реданж
+    sk: Redange
+    sv: Canton de Redange
+    tr: Redange kantonu
+    uk: Реданж
+    vi: Redange
+    ceb: Canton de Redange
+    ccp: "\U00011122\U0001112C\U00011113\U0001110B\U00011134\U00011109\U0001112C"
+    'no': Redingen
+  comments:
+RM:
+  name: Réimech
+  code:
+  unofficial_names:
+  geo:
+    latitude: 49.5
+    longitude: 6.3
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    be: Кантон Рэміх
+    ca: Cantó de Remich
+    cs: Kanton Remich
+    da: Remich
+    de: Remich
+    en: Remich
+    es: Cantón de Remich
+    fa: رمیش (ایالت)
+    fr: canton de Remich
+    id: Kanton Remich
+    it: Cantone di Remich
+    ko: 레미히 주
+    lt: Rėmicho kantonas
+    nb: Remich
+    nl: Kanton Remich
+    pl: Kanton Remich
+    pt: Remich
+    ro: Remich
+    ru: Ремих
+    sk: Remich
+    sv: Remich
+    tr: Remich kantonu
+    uk: Реміх
+    ur: ریمیش (صوبہ)
+    vi: Remich
+    ceb: Canton de Remich
+    ccp: "\U00011122\U0001112C\U0001111F\U00011128\U0001110C\U00011134"
+    'no': Remich
+  comments:
+VD:
+  name: Veianen
+  code:
+  unofficial_names:
+  geo:
+    latitude: 49.933333
+    longitude: 6.166667
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ca: Cantó de Vianden
     cs: Kanton Vianden
@@ -486,18 +447,19 @@ VD:
     vi: Vianden
     ceb: Canton de Vianden
     ccp: "\U0001111E\U0001112D\U0001111A\U00011134\U00011113\U0001112C\U0001111A\U00011134"
-  comments: 
-WI: 
-  name: 
-  code: 
-  unofficial_names: 
+    'no': Vianden
+  comments:
+WI:
+  name: Wolz
+  code:
+  unofficial_names:
   geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
+    latitude: 49.95
+    longitude: 5.933333
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ca: Cantó de Wiltz
     cs: Kanton Wiltz
@@ -525,4 +487,5 @@ WI:
     vi: Wiltz
     ceb: Canton de Wiltz
     ccp: "\U00011105\U0001112A\U00011103\U00011128\U00011123\U00011134\U00011111\U00011134\U0001110E\U00011134"
-  comments: 
+    'no': Wiltz
+  comments:

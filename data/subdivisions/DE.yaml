@@ -1,7 +1,7 @@
 ---
-BB: 
+BB:
   name: Brandenburg
-  code: 
+  code:
   unofficial_names:
   - Brandenbourg
   - Brandenburgo
@@ -13,7 +13,6 @@ BB:
     max_latitude: 52.5417764
     max_longitude: 12.7259978
   translations:
-    en: Brandenburg
     af: Brandenburg
     am: ብራንደንቡርግ
     ar: براندنبورغ
@@ -26,6 +25,7 @@ BB:
     da: Brandenburg
     de: Brandenburg
     el: Βραδεμβούργο
+    en: Brandenburg
     es: Brandeburgo
     et: Brandenburg
     eu: Brandenburgo
@@ -90,10 +90,12 @@ BB:
     uz: Brandenburg
     bs: Brandenburg
     mk: Бранденбург
-  comments: 
-BE: 
+    'no': Brandenburg
+    yo_BJ: Brandenburg
+  comments:
+BE:
   name: Berlin
-  code: 
+  code:
   unofficial_names:
   - Berlín
   geo:
@@ -104,7 +106,6 @@ BE:
     max_latitude: 52.6754542
     max_longitude: 13.7611176
   translations:
-    en: Berlin
     af: Berlyn
     am: በርሊን
     ar: برلين
@@ -117,6 +118,7 @@ BE:
     da: Berlin
     de: Berlin
     el: Βερολίνο
+    en: Berlin
     es: Berlín
     et: Berliin
     eu: Berlin
@@ -187,10 +189,13 @@ BE:
     uz: Berlin
     bs: Berlin
     mk: Берлин
-  comments: 
-BW: 
+    ha_NE: Berlin
+    'no': Berlin
+    yo_BJ: Berlin
+  comments:
+BW:
   name: Baden-Württemberg
-  code: 
+  code:
   unofficial_names: Baden-Württemberg
   geo:
     latitude: 48.6616037
@@ -200,7 +205,6 @@ BW:
     max_latitude: 49.7913278
     max_longitude: 10.495573
   translations:
-    en: Baden-Württemberg
     af: Baden-Württemberg
     am: ባደን-ቩርተምቡርግ
     ar: بادن-فورتمبيرغ
@@ -213,6 +217,7 @@ BW:
     da: Baden-Württemberg
     de: Baden-Württemberg
     el: Βάδη-Βυρτεμβέργη
+    en: Baden-Württemberg
     es: Baden-Wurtemberg
     et: Baden-Württemberg
     eu: Baden-Württemberg
@@ -276,10 +281,12 @@ BW:
     uz: Baden-Vyurtemberg
     bs: Baden-Württemberg
     mk: Баден-Виртемберг
-  comments: 
-BY: 
+    'no': Baden-Württemberg
+    yo_BJ: Baden-Württemberg
+  comments:
+BY:
   name: Bayern
-  code: 
+  code:
   unofficial_names:
   - Bavière
   - Bayern
@@ -292,7 +299,6 @@ BY:
     max_latitude: 50.5647142
     max_longitude: 13.8396371
   translations:
-    en: Bavaria
     af: Beiere
     am: ባቫሪያ
     ar: بافاريا
@@ -305,6 +311,7 @@ BY:
     da: Bayern
     de: Bayern
     el: Βαυαρία
+    en: Bavaria
     es: Baviera
     et: Baieri
     eu: Bavaria
@@ -370,10 +377,12 @@ BY:
     uz: Bavariya
     bs: Bavarska
     mk: Баварија
-  comments: 
-HB: 
+    'no': Bayern
+    yo_BJ: Bavaria
+  comments:
+HB:
   name: Bremen
-  code: 
+  code:
   unofficial_names:
   - Brème
   geo:
@@ -384,7 +393,6 @@ HB:
     max_latitude: 53.2289105
     max_longitude: 8.9908131
   translations:
-    en: Bremen
     af: Vrye Hansestad Bremen
     ar: ولاية بريمن
     az: Bremen əyaləti
@@ -396,6 +404,7 @@ HB:
     da: Bremen
     de: Bremen
     el: Βρέμη
+    en: Bremen
     es: Bremen
     et: Bremeni liidumaa
     eu: Bremen
@@ -456,10 +465,12 @@ HB:
     uz: Bremen
     bs: Bremen
     mk: Бремен
-  comments: 
-HE: 
+    'no': Bremen
+    yo_BJ: Bremen
+  comments:
+HE:
   name: Hessen
-  code: 
+  code:
   unofficial_names:
   - Hessen
   - Hesse
@@ -471,7 +482,6 @@ HE:
     max_latitude: 51.6575571
     max_longitude: 10.2363207
   translations:
-    en: Hesse
     af: Hesse
     ar: هسن
     az: Hessen
@@ -483,6 +493,7 @@ HE:
     da: Hessen
     de: Hessen
     el: Έσση
+    en: Hesse
     es: Hasse
     et: Hessen
     eu: Hessen
@@ -548,10 +559,12 @@ HE:
     uz: Hessen
     bs: Hessen
     mk: Хесен
-  comments: 
-HH: 
+    'no': Hessen
+    yo_BJ: Hesse
+  comments:
+HH:
   name: Hamburg
-  code: 
+  code:
   unofficial_names:
   - Amburgo
   - Hambourg
@@ -564,7 +577,6 @@ HH:
     max_latitude: 53.7394338
     max_longitude: 10.32528
   translations:
-    en: Hamburg
     af: Hamburg
     am: ሃምቡርግ
     ar: هامبورغ
@@ -577,6 +589,7 @@ HH:
     da: Hamborg
     de: Hamburg
     el: Αμβούργο
+    en: Hamburg
     es: Hamburgo
     et: Hamburg
     eu: Hanburgo
@@ -645,10 +658,13 @@ HH:
     uz: Gamburg
     bs: Hamburg
     mk: Хамбург
-  comments: 
-MV: 
+    ha_NE: Hamburg
+    'no': Hamburg
+    yo_BJ: Hamburg
+  comments:
+MV:
   name: Mecklenburg-Vorpommern
-  code: 
+  code:
   unofficial_names:
   - Mecklenburg-Vorpommern
   geo:
@@ -659,7 +675,6 @@ MV:
     max_latitude: 54.68469
     max_longitude: 14.412257
   translations:
-    en: Mecklenburg-Vorpommern
     af: Mecklenburg-Voorpommere
     ar: مكلنبورغ فوربومرن
     az: Meklenburq-Ön Pomeraniya
@@ -671,6 +686,7 @@ MV:
     da: Mecklenburg-Vorpommern
     de: Mecklenburg-Vorpommern
     el: Μεκλεμβούργο-Δυτική Πομερανία
+    en: Mecklenburg-Vorpommern
     es: Mecklemburgo-Pomerania Occidental
     et: Mecklenburg-Vorpommern
     eu: Mecklenburg-Aurrepomerania
@@ -732,10 +748,12 @@ MV:
     bs: Mecklenburg-Zapadno Pomorje
     mk: Мекленбург-Западна Померанија
     ne: मेक्लेनबर्ग-वोर्पोमेर्न
-  comments: 
-NI: 
+    'no': Mecklenburg-Vorpommern
+    yo_BJ: Mecklenburg-Vorpommern
+  comments:
+NI:
   name: Niedersachsen
-  code: 
+  code:
   unofficial_names:
   - Niedersachsen
   geo:
@@ -746,7 +764,6 @@ NI:
     max_latitude: 53.89221329999999
     max_longitude: 11.5982055
   translations:
-    en: Lower Saxony
     af: Nedersakse
     ar: سكسونيا السفلى
     az: Aşağı Saksoniya
@@ -758,6 +775,7 @@ NI:
     da: Niedersachsen
     de: Niedersachsen
     el: Κάτω Σαξωνία
+    en: Lower Saxony
     es: Baja Sajonia
     et: Alam-Saksi
     eu: Saxonia Beherea
@@ -820,10 +838,12 @@ NI:
     uz: Niedersachsen
     bs: Donja Saksonija
     mk: Долна Саксонија
-  comments: 
-NW: 
+    'no': Niedersachsen
+    yo_BJ: Lower Saxony
+  comments:
+NW:
   name: Nordrhein-Westfalen
-  code: 
+  code:
   unofficial_names:
   - Nordrhein-Westfalen
   - Rhénanie-Westphalie
@@ -835,7 +855,6 @@ NW:
     max_latitude: 52.53146959999999
     max_longitude: 9.461634900000002
   translations:
-    en: North Rhine-Westphalia
     af: Noordryn-Wesfale
     am: ኖርድራይን-ቬስትፋለን
     ar: شمال الراين-وستفاليا
@@ -848,6 +867,7 @@ NW:
     da: Nordrhein-Westfalen
     de: Nordrhein-Westfalen
     el: Βόρεια Ρηνανία-Βεστφαλία
+    en: North Rhine-Westphalia
     es: Renania del Norte-Westfalia
     et: Nordrhein-Westfalen
     eu: Ipar Renania-Westfalia
@@ -910,10 +930,12 @@ NW:
     uz: Shimoliy Reyn-Vestfaliya
     bs: Sjeverna Rajna-Vestfalija
     mk: Северна Рајна-Вестфалија
-  comments: 
-RP: 
+    'no': Nordrhein-Westfalen
+    yo_BJ: Nordrhein-Westfalen
+  comments:
+RP:
   name: Rheinland-Pfalz
-  code: 
+  code:
   unofficial_names:
   - Rheinland-Pfalz
   - Rhénanie-Palatinat
@@ -926,7 +948,6 @@ RP:
     max_latitude: 50.9423053
     max_longitude: 8.5083135
   translations:
-    en: Rhineland-Palatinate
     af: Rynland-Palts
     ar: راينلند بالاتينات
     az: Reynland-Pfalts
@@ -938,6 +959,7 @@ RP:
     da: Rheinland-Pfalz
     de: Rheinland-Pfalz
     el: Ρηνανία-Παλατινάτο
+    en: Rhineland-Palatinate
     es: Renania-Palatinado
     et: Rheinland-Pfalz
     eu: Renania-Palatinatua
@@ -998,10 +1020,12 @@ RP:
     yo: Rhineland-Palatinate
     bs: Porajnje-Falačka
     mk: Рајнска област-Пфалц
-  comments: 
-SH: 
+    'no': Rheinland-Pfalz
+    yo_BJ: Rhineland-Palatinate
+  comments:
+SH:
   name: Schleswig-Holstein
-  code: 
+  code:
   unofficial_names: Schleswig-Holstein
   geo:
     latitude: 54.21936720000001
@@ -1011,7 +1035,6 @@ SH:
     max_latitude: 55.05812359999999
     max_longitude: 11.3129207
   translations:
-    en: Schleswig-Holstein
     af: Sleeswyk-Holstein
     ar: شليسفيغ هولشتاين
     az: Şlezviq-Holşteyn
@@ -1023,6 +1046,7 @@ SH:
     da: Slesvig-Holsten
     de: Schleswig-Holstein
     el: Σλέσβιχ-Χόλσταϊν
+    en: Schleswig-Holstein
     es: Schleswig-Holstein
     et: Schleswig-Holstein
     eu: Schleswig-Holstein
@@ -1084,10 +1108,12 @@ SH:
     uz: Schleswig-Holstein
     bs: Schleswig-Holstein
     mk: Шлезвиг-Холштајн
-  comments: 
-SL: 
+    'no': Schleswig-Holstein
+    yo_BJ: Schleswig-Holstein
+  comments:
+SL:
   name: Saarland
-  code: 
+  code:
   unofficial_names: Saarland
   geo:
     latitude: 49.3964234
@@ -1097,7 +1123,6 @@ SL:
     max_latitude: 49.6394088
     max_longitude: 7.404583799999999
   translations:
-    en: Saarland
     af: Saarland
     ar: سارلاند
     az: Saarland
@@ -1109,6 +1134,7 @@ SL:
     da: Saarland
     de: Saarland
     el: Σάαρλαντ
+    en: Saarland
     es: Sarre
     et: Saarimaa
     eu: Sarre
@@ -1174,10 +1200,12 @@ SL:
     uz: Saarland
     bs: Saarland
     mk: Сар
-  comments: 
-SN: 
+    'no': Saarland
+    yo_BJ: Saarland
+  comments:
+SN:
   name: Sachsen
-  code: 
+  code:
   unofficial_names:
   - Sachsen
   geo:
@@ -1188,7 +1216,6 @@ SN:
     max_latitude: 51.6847089
     max_longitude: 15.0418962
   translations:
-    en: Saxony
     af: Sakse
     ar: ساكسونيا
     az: Saksoniya
@@ -1200,6 +1227,7 @@ SN:
     da: Sachsen
     de: Sachsen
     el: Σαξωνία
+    en: Saxony
     es: Sajonia
     et: Saksimaa
     eu: Saxonia
@@ -1263,10 +1291,12 @@ SN:
     uz: Saksoniya
     bs: Saksonija
     mk: Саксонија
-  comments: 
-ST: 
+    'no': Sachsen
+    yo_BJ: Saxony
+  comments:
+ST:
   name: Sachsen-Anhalt
-  code: 
+  code:
   unofficial_names: Sachsen-Anhalt
   geo:
     latitude: 51.9502649
@@ -1276,7 +1306,6 @@ ST:
     max_latitude: 53.0404507
     max_longitude: 13.1869875
   translations:
-    en: Saxony-Anhalt
     af: Sakse-Anhalt
     ar: ساكسونيا أنهالت
     az: Saksoniya-Anhalt
@@ -1288,6 +1317,7 @@ ST:
     da: Sachsen-Anhalt
     de: Sachsen-Anhalt
     el: Σαξωνία-Άνχαλτ
+    en: Saxony-Anhalt
     es: Sajonia-Anhalt
     et: Saksi-Anhalt
     eu: Saxonia-Anhalt
@@ -1348,10 +1378,12 @@ ST:
     uz: Saksoniya-Anhalt
     bs: Saksonija-Anhalt
     mk: Саксонија-Анхалт
-  comments: 
-TH: 
+    'no': Sachsen-Anhalt
+    yo_BJ: Saxony-Anhalt
+  comments:
+TH:
   name: Thüringen
-  code: 
+  code:
   unofficial_names:
   - Thüringen
   geo:
@@ -1362,7 +1394,6 @@ TH:
     max_latitude: 51.6489359
     max_longitude: 12.6539327
   translations:
-    en: Thuringia
     af: Thüringen
     ar: تورينغن
     az: Türingiya
@@ -1374,6 +1405,7 @@ TH:
     da: Thüringen
     de: Thüringen
     el: Θουριγγία
+    en: Thuringia
     es: Turingia
     et: Tüüringi
     eu: Turingia
@@ -1437,4 +1469,6 @@ TH:
     uz: Turingiya
     bs: Tiringija
     mk: Тирингија
-  comments: 
+    'no': Thüringen
+    yo_BJ: Thuringia
+  comments:
