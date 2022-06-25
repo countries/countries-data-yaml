@@ -1,7 +1,7 @@
 ---
 '11':
   name: Bouenza
-  code:
+  code: '11'
   unofficial_names:
   - Bouénza
   geo:
@@ -54,9 +54,10 @@
     uk: Регіон Буенза
     'no': Bouenza
   comments:
+  type: department
 '12':
   name: Pool
-  code:
+  code: '12'
   unofficial_names: Pool
   geo:
     latitude: -2.420088
@@ -109,9 +110,10 @@
     uk: Регіон Пул
     'no': Pool
   comments:
+  type: department
 '13':
   name: Sangha
-  code:
+  code: '13'
   unofficial_names: Sangha
   geo:
     latitude: 1.4662328
@@ -163,9 +165,10 @@
     uk: Регіон Санга
     'no': Sangha
   comments:
+  type: department
 '14':
   name: Plateaux
-  code:
+  code: '14'
   unofficial_names: Plateaux
   geo:
     latitude: -2.0680088
@@ -219,9 +222,10 @@
     yue: 高原省
     'no': Plateaux
   comments:
+  type: department
 '15':
   name: Cuvette-Ouest
-  code:
+  code: '15'
   unofficial_names:
   - Cuvette Ouest
   geo:
@@ -275,9 +279,28 @@
     uk: Регіон Західний Кювет
     'no': Cuvette-Ouest
   comments:
+  type: department
+'16':
+  name: Pointe-Noire
+  code: '16'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    en: Pointe-Noire
+    ceb: Pointe-Noire (distrito)
+    sv: Pointe-Noire
+    ccp: "\U0001111B\U00011127\U00011120\U0001112C\U0001111A\U00011133\U00011111\U00011134-\U0001111A\U00011127\U00011120\U00011128\U00011122\U00011134"
+  comments:
+  type: department
 '2':
   name: Lékoumou
-  code:
+  code: '2'
   unofficial_names: Lékoumou
   geo:
     latitude: -3.170382
@@ -331,9 +354,10 @@
     yue: 萊庫穆省
     'no': Lékoumou
   comments:
+  type: department
 '5':
   name: Kouilou
-  code:
+  code: '5'
   unofficial_names: Kouilou
   geo:
     latitude: -4.1428413
@@ -385,9 +409,10 @@
     uk: Куілу
     'no': Kouilou
   comments:
+  type: department
 '7':
   name: Likouala
-  code:
+  code: '7'
   unofficial_names: Likouala
   geo:
     latitude: 2.043924000000001
@@ -440,9 +465,10 @@
     uk: Регіон Лікуала
     'no': Likouala
   comments:
+  type: department
 '8':
   name: Cuvette
-  code:
+  code: '8'
   unofficial_names: Cuvette
   geo:
     latitude: -0.2877446
@@ -496,9 +522,10 @@
     yue: 盆地省
     'no': Cuvette
   comments:
+  type: department
 '9':
   name: Niari
-  code:
+  code: '9'
   unofficial_names: Niari
   geo:
     latitude: -3.18427
@@ -552,9 +579,10 @@
     yue: 尼阿里省
     'no': Niari
   comments:
+  type: department
 BZV:
   name: Brazzaville
-  code:
+  code: BZV
   unofficial_names: Brazzaville
   geo:
     latitude: -4.267778
@@ -646,20 +674,4 @@ BZV:
     'no': Brazzaville
     yo_BJ: Brazzaville
   comments:
-'16':
-  name: Pointe-Noire
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    en: Pointe-Noire
-    ceb: Pointe-Noire (distrito)
-    sv: Pointe-Noire
-    ccp: "\U0001111B\U00011127\U00011120\U0001112C\U0001111A\U00011133\U00011111\U00011134-\U0001111A\U00011127\U00011120\U00011128\U00011122\U00011134"
-  comments:
+  type: department

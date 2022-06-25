@@ -1,7 +1,7 @@
 ---
 B:
   name: Banjul
-  code:
+  code: B
   unofficial_names: Banjul
   geo:
     latitude: 13.453056
@@ -91,9 +91,10 @@ B:
     'no': Banjul
     yo_BJ: Banjul
   comments:
+  type: city
 L:
   name: Lower River
-  code:
+  code: L
   unofficial_names:
   - Lower River
   geo:
@@ -153,9 +154,10 @@ L:
     mk: Долна Река
     'no': Lower River
   comments:
+  type: division
 M:
   name: MacCarthy Island
-  code:
+  code: M
   unofficial_names: MacCarthy Island
   geo:
     latitude: 13.5336211
@@ -213,9 +215,10 @@ M:
     mk: Средна Река
     'no': Central River
   comments:
+  type: division
 N:
   name: North Bank
-  code:
+  code: N
   unofficial_names:
   - North Bank
   geo:
@@ -274,9 +277,10 @@ N:
     mk: Северен Брег
     'no': North Bank
   comments:
+  type: division
 U:
   name: Upper River
-  code:
+  code: U
   unofficial_names:
   - Upper River
   geo:
@@ -335,9 +339,10 @@ U:
     mk: Горна Река
     'no': Upper River
   comments:
+  type: division
 W:
   name: Western
-  code:
+  code: W
   unofficial_names:
   - Western
   geo:
@@ -396,3 +401,4 @@ W:
     mk: Западен Округ
     'no': West Coast
   comments:
+  type: division

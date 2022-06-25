@@ -1,7 +1,7 @@
 ---
 BGO:
   name: Bengo
-  code:
+  code: BGO
   unofficial_names: Bengo
   geo:
     latitude: -9.104225699999999
@@ -68,9 +68,10 @@ BGO:
     yue: 本哥省
     'no': Bengo
   comments:
+  type: province
 BGU:
   name: Benguela
-  code:
+  code: BGU
   unofficial_names: Benguela
   geo:
     latitude: -12.5905158
@@ -135,9 +136,10 @@ BGU:
     yue: 班圭拉省
     'no': Benguela
   comments:
+  type: province
 BIE:
   name: Bié
-  code:
+  code: BIE
   unofficial_names: Bié
   geo:
     latitude: -12.5727907
@@ -201,9 +203,10 @@ BIE:
     yue: 比耶省
     'no': Bié
   comments:
+  type: province
 CAB:
   name: Cabinda
-  code:
+  code: CAB
   unofficial_names:
   - Kabinda
   geo:
@@ -275,9 +278,10 @@ CAB:
     yue: 喀丙達省
     'no': Cabinda
   comments:
+  type: province
 CCU:
   name: Cuando-Cubango
-  code:
+  code: CCU
   unofficial_names:
   - Cuando-Cubango
   geo:
@@ -342,9 +346,10 @@ CCU:
     yue: 庫安多古班哥省
     'no': Cuando Cubango
   comments:
+  type: province
 CNN:
   name: Cunene
-  code:
+  code: CNN
   unofficial_names: Cunene
   geo:
     latitude: -16.2802221
@@ -406,9 +411,10 @@ CNN:
     yue: 庫內納省
     'no': Cunene
   comments:
+  type: province
 CNO:
   name: Cuanza Norte
-  code:
+  code: CNO
   unofficial_names:
   - Cuanza-Norte
   geo:
@@ -471,9 +477,10 @@ CNO:
     yue: 北廣薩省
     'no': Cuanza Norte
   comments:
+  type: province
 CUS:
   name: Cuanza Sul
-  code:
+  code: CUS
   unofficial_names:
   - Cuanza-Sul
   geo:
@@ -536,9 +543,10 @@ CUS:
     yue: 南廣薩省
     'no': Cuanza Sul
   comments:
+  type: province
 HUA:
   name: Huambo
-  code:
+  code: HUA
   unofficial_names: Huambo
   geo:
     latitude: -12.766667
@@ -602,9 +610,10 @@ HUA:
     yue: 萬博省
     'no': Huambo
   comments:
+  type: province
 HUI:
   name: Huíla
-  code:
+  code: HUI
   unofficial_names: Huíla
   geo:
     latitude: -14.9280553
@@ -666,9 +675,10 @@ HUI:
     yue: 威拉省
     'no': Huíla
   comments:
+  type: province
 LNO:
   name: Lunda Norte
-  code:
+  code: LNO
   unofficial_names: Lunda Norte
   geo:
     latitude: -8.352502200000002
@@ -730,9 +740,10 @@ LNO:
     yue: 北倫達省
     'no': Lunda Norte
   comments:
+  type: province
 LSU:
   name: Lunda Sul
-  code:
+  code: LSU
   unofficial_names: Lunda Sul
   geo:
     latitude: -10.2866578
@@ -794,9 +805,10 @@ LSU:
     yue: 南倫達省
     'no': Lunda Sul
   comments:
+  type: province
 LUA:
   name: Luanda
-  code:
+  code: LUA
   unofficial_names: Luanda
   geo:
     latitude: -8.838333
@@ -860,9 +872,10 @@ LUA:
     yue: 羅安達省
     'no': Luanda
   comments:
+  type: province
 MAL:
   name: Malange
-  code:
+  code: MAL
   unofficial_names:
   - Malange
   geo:
@@ -925,9 +938,10 @@ MAL:
     yue: 馬蘭哲省
     'no': Malanje
   comments:
+  type: province
 MOX:
   name: Moxico
-  code:
+  code: MOX
   unofficial_names: Moxico
   geo:
     latitude: -13.4293579
@@ -992,9 +1006,10 @@ MOX:
     yue: 莫西古省
     'no': Moxico
   comments:
+  type: province
 NAM:
   name: Namibe
-  code:
+  code: NAM
   unofficial_names: Namibe
   geo:
     latitude: -15.195278
@@ -1058,9 +1073,10 @@ NAM:
     yue: 納米貝省
     'no': Namibe
   comments:
+  type: province
 UIG:
   name: Uíge
-  code:
+  code: UIG
   unofficial_names: Uíge
   geo:
     latitude: -7.616667
@@ -1122,9 +1138,10 @@ UIG:
     yue: 威熱省
     'no': Uíge
   comments:
+  type: province
 ZAI:
   name: Zaire
-  code:
+  code: ZAI
   unofficial_names: Zaire
   geo:
     latitude: -6.573345799999999
@@ -1185,3 +1202,4 @@ ZAI:
     yue: 薩伊省
     'no': Zaire
   comments:
+  type: province

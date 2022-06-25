@@ -1,7 +1,7 @@
 ---
 BO:
   name: Bonaire
-  code:
+  code: BO
   unofficial_names: Bonaire
   geo:
     latitude: 12.1783611
@@ -78,9 +78,10 @@ BO:
     'no': Bonaire
     yo_BJ: Bonaire
   comments:
+  type: special_municipality
 SA:
   name: Saba
-  code:
+  code: SA
   unofficial_names: Saba
   geo:
     latitude: 17.6354642
@@ -147,9 +148,10 @@ SA:
     mk: Саба
     'no': Saba
   comments:
+  type: special_municipality
 SE:
   name: Sint Eustatius
-  code:
+  code: SE
   unofficial_names: Sint Eustatius
   geo:
     latitude: 17.4890306
@@ -222,3 +224,4 @@ SE:
     mk: Свети Евстахиј
     'no': Sint Eustatius
   comments:
+  type: special_municipality

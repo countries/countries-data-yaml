@@ -1,7 +1,7 @@
 ---
 AR:
   name: Artigas
-  code:
+  code: AR
   unofficial_names: Artigas
   geo:
     latitude: -30.4880891
@@ -61,9 +61,10 @@ AR:
     mk: Артигас
     'no': Artigas
   comments:
+  type: department
 CA:
   name: Canelones
-  code:
+  code: CA
   unofficial_names: Canelones
   geo:
     latitude: -34.721
@@ -123,71 +124,10 @@ CA:
     mk: Канелонес (департман)
     'no': Canelones
   comments:
-CO:
-  name: Colonia
-  code:
-  unofficial_names: Colonia
-  geo:
-    latitude: -34.4607
-    longitude: -57.8339
-    min_latitude: -35.5012
-    min_longitude: -56.7844
-    max_latitude: -34.4517
-    max_longitude: -57.7667
-  translations:
-    en: Colonia
-    ar: إدارة كولونيا
-    be: дэпартамент Калонія
-    bg: Колония (департамент)
-    bn: কুলুনিয়া বিভাগ
-    ca: Departament de Colonia
-    da: Colonia (departement)
-    de: Departamento Colonia
-    el: Κολόνια
-    es: Departamento de Colonia
-    eu: Colonia departamendua
-    fi: Colonia (departementti)
-    fr: Colonia
-    gl: Departamento de Colonia
-    gu: કોલોનિયા વિભાગ
-    hi: कोलोनिया विभाग
-    hr: Colonia
-    hu: Colonia megye
-    id: Departemen Colonia
-    it: dipartimento di Colonia
-    ja: コロニア県
-    ka: კოლონიის დეპარტამენტი
-    kn: ಕಲೋನಿಯಾ ಇಲಾಖೆ
-    ko: 콜로니아 주
-    lt: Kolonijos departamentas
-    mr: कॉलोनिया विभाग
-    ms: Colonia Department
-    nb: Colonia (departement)
-    nl: Colonia (departement)
-    pl: Colonia (departament)
-    pt: Colonia
-    ru: Колония
-    si: කොලොනියා දෙපාර්තමේන්තුව
-    sv: Colonia (departement)
-    ta: கோலோனியா துறை
-    te: కొలోనియా డిపార్ట్మెంట్
-    th: โคโลเนีย
-    tr: Colonia Department
-    uk: Колонія
-    ur: کولونیا محکمہ
-    vi: Colonia (tỉnh)
-    lv: Kolonijas departaments
-    ceb: Departamento de Colonia
-    zh: 科洛尼亚省
-    fa: بخش کولونیا
-    ccp: "\U00011107\U00011133\U00011120\U00011123\U0001112E\U0001111A\U00011128\U00011120"
-    sk: Colonia
-    mk: Колонија (департман)
-    'no': Colonia (departement)
-  comments:
+  type: department
 CL:
   name: Cerro Lago
-  code:
+  code: CL
   unofficial_names: Cerro Lago
   geo:
     latitude: -32.3769
@@ -247,9 +187,73 @@ CL:
     mk: Серо Ларго
     'no': Cerro Largo
   comments:
+  type: department
+CO:
+  name: Colonia
+  code: CO
+  unofficial_names: Colonia
+  geo:
+    latitude: -34.4607
+    longitude: -57.8339
+    min_latitude: -35.5012
+    min_longitude: -56.7844
+    max_latitude: -34.4517
+    max_longitude: -57.7667
+  translations:
+    en: Colonia
+    ar: إدارة كولونيا
+    be: дэпартамент Калонія
+    bg: Колония (департамент)
+    bn: কুলুনিয়া বিভাগ
+    ca: Departament de Colonia
+    da: Colonia (departement)
+    de: Departamento Colonia
+    el: Κολόνια
+    es: Departamento de Colonia
+    eu: Colonia departamendua
+    fi: Colonia (departementti)
+    fr: Colonia
+    gl: Departamento de Colonia
+    gu: કોલોનિયા વિભાગ
+    hi: कोलोनिया विभाग
+    hr: Colonia
+    hu: Colonia megye
+    id: Departemen Colonia
+    it: dipartimento di Colonia
+    ja: コロニア県
+    ka: კოლონიის დეპარტამენტი
+    kn: ಕಲೋನಿಯಾ ಇಲಾಖೆ
+    ko: 콜로니아 주
+    lt: Kolonijos departamentas
+    mr: कॉलोनिया विभाग
+    ms: Colonia Department
+    nb: Colonia (departement)
+    nl: Colonia (departement)
+    pl: Colonia (departament)
+    pt: Colonia
+    ru: Колония
+    si: කොලොනියා දෙපාර්තමේන්තුව
+    sv: Colonia (departement)
+    ta: கோலோனியா துறை
+    te: కొలోనియా డిపార్ట్మెంట్
+    th: โคโลเนีย
+    tr: Colonia Department
+    uk: Колонія
+    ur: کولونیا محکمہ
+    vi: Colonia (tỉnh)
+    lv: Kolonijas departaments
+    ceb: Departamento de Colonia
+    zh: 科洛尼亚省
+    fa: بخش کولونیا
+    ccp: "\U00011107\U00011133\U00011120\U00011123\U0001112E\U0001111A\U00011128\U00011120"
+    sk: Colonia
+    mk: Колонија (департман)
+    'no': Colonia (departement)
+  comments:
+  type: department
 DU:
   name: Durazno
-  code:
+  code: DU
   unofficial_names: Durazno
   geo:
     latitude: -33.3822982
@@ -309,9 +313,10 @@ DU:
     mk: Дурасно
     'no': Durazno
   comments:
+  type: department
 FD:
   name: Florida
-  code:
+  code: FD
   unofficial_names:
   - FLorida
   geo:
@@ -371,9 +376,10 @@ FD:
     mk: Флорида
     'no': Florida
   comments:
+  type: department
 FS:
   name: Flores
-  code:
+  code: FS
   unofficial_names: Flores
   geo:
     latitude: -33.5629477
@@ -432,9 +438,10 @@ FS:
     mk: Флорес
     'no': Flores
   comments:
+  type: department
 LA:
   name: Lavalleja
-  code:
+  code: LA
   unofficial_names: Lavalleja
   geo:
     latitude: -34.0040354
@@ -493,9 +500,10 @@ LA:
     cs: Lavalleja
     'no': Lavalleja
   comments:
+  type: department
 MA:
   name: Maldonado
-  code:
+  code: MA
   unofficial_names: Maldonado
   geo:
     latitude: -34.6277617
@@ -554,9 +562,10 @@ MA:
     sk: Maldonado
     'no': Maldonado
   comments:
+  type: department
 MO:
   name: Montevideo
-  code:
+  code: MO
   unofficial_names: Montevideo
   geo:
     latitude: -34.9011127
@@ -648,9 +657,10 @@ MO:
     'no': Montevideo
     yo_BJ: Montevideo
   comments:
+  type: department
 PA:
   name: Paysandú
-  code:
+  code: PA
   unofficial_names: Paysandú
   geo:
     latitude: -32.2216595
@@ -708,9 +718,10 @@ PA:
     sk: Paysandú
     'no': Paysandú
   comments:
+  type: department
 RN:
   name: Río Negro
-  code:
+  code: RN
   unofficial_names: Río Negro
   geo:
     latitude: -32.7625409
@@ -769,9 +780,10 @@ RN:
     be: дэпартамент Рыа-Негра
     'no': Río Negro
   comments:
+  type: department
 RO:
   name: Rocha
-  code:
+  code: RO
   unofficial_names: Rocha
   geo:
     latitude: -33.9674948
@@ -829,9 +841,10 @@ RO:
     sk: Rocha
     'no': Rocha
   comments:
+  type: department
 RV:
   name: Rivera
-  code:
+  code: RV
   unofficial_names: Rivera
   geo:
     latitude: -30.9025
@@ -889,9 +902,10 @@ RV:
     sk: Rivera
     'no': Rivera
   comments:
+  type: department
 SA:
   name: Salto
-  code:
+  code: SA
   unofficial_names: Salto
   geo:
     latitude: -31.4679335
@@ -950,9 +964,10 @@ SA:
     be: дэпартамент Сальта
     'no': Salto
   comments:
+  type: department
 SJ:
   name: San José
-  code:
+  code: SJ
   unofficial_names: San José
   geo:
     latitude: -34.250223
@@ -1011,9 +1026,10 @@ SJ:
     he: סן חוסה (מחוז באורוגוואי)
     'no': San José
   comments:
+  type: department
 SO:
   name: Soriano
-  code:
+  code: SO
   unofficial_names: Soriano
   geo:
     latitude: -33.5103372
@@ -1071,9 +1087,10 @@ SO:
     sk: Soriano
     'no': Soriano
   comments:
+  type: department
 TA:
   name: Tacuarembó
-  code:
+  code: TA
   unofficial_names: Tacuarembó
   geo:
     latitude: -32.0106717
@@ -1133,9 +1150,10 @@ TA:
     sk: Tacuarembó
     'no': Tacuarembó
   comments:
+  type: department
 TT:
   name: Treinta y Tres
-  code:
+  code: TT
   unofficial_names: Treinta y Tres
   geo:
     latitude: -33.1476661
@@ -1195,3 +1213,4 @@ TT:
     sk: Treinta y Tres
     'no': Treinta y Tres
   comments:
+  type: department

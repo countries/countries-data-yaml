@@ -1,7 +1,7 @@
 ---
 HH:
   name: Hhohho
-  code:
+  code: HH
   unofficial_names: Hhohho
   geo:
     latitude: -26.1365662
@@ -57,9 +57,10 @@ HH:
     he: מחוז האהוהאהו
     'no': Hhohho
   comments:
+  type: region
 LU:
   name: Lubombo
-  code:
+  code: LU
   unofficial_names:
   - Lebombo
   geo:
@@ -114,9 +115,10 @@ LU:
     ca: Lubombo
     'no': Lubombo
   comments:
+  type: region
 MA:
   name: Manzini
-  code:
+  code: MA
   unofficial_names: Manzini
   geo:
     latitude: -26.644588
@@ -169,9 +171,10 @@ MA:
     he: מחוז מנזיני
     'no': Manzini
   comments:
+  type: region
 SH:
   name: Shiselweni
-  code:
+  code: SH
   unofficial_names: Shiselweni
   geo:
     latitude: -26.9827577
@@ -225,3 +228,4 @@ SH:
     he: מחוז שיסלוואני
     'no': Shiselweni
   comments:
+  type: region

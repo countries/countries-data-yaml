@@ -1,7 +1,7 @@
 ---
 '1':
   name: Concepción
-  code:
+  code: '1'
   unofficial_names: Concepción
   geo:
     latitude: -22.811926
@@ -42,9 +42,10 @@
     eu: Concepcióngo departamendua
     mk: Консепсион
   comments:
+  type: department
 '10':
   name: Alto Paraná
-  code:
+  code: '10'
   unofficial_names: Alto Paraná
   geo:
     latitude: -25.6075546
@@ -102,9 +103,10 @@
     mk: Алто Парана (департман)
     'no': Alto Parana
   comments:
+  type: department
 '11':
   name: Central
-  code:
+  code: '11'
   unofficial_names: Central
   geo:
     latitude: -25.5628115
@@ -163,9 +165,10 @@
     mk: Централен департман
     'no': Sentral
   comments:
+  type: department
 '12':
   name: Ñeembucú
-  code:
+  code: '12'
   unofficial_names:
   - Neembucú
   geo:
@@ -224,9 +227,10 @@
     mk: Њембуку
     'no': Neembucu
   comments:
+  type: department
 '13':
   name: Amambay
-  code:
+  code: '13'
   unofficial_names: Amambay
   geo:
     latitude: -22.5590272
@@ -285,9 +289,10 @@
     mk: Амамбај (департман)
     'no': Amambay
   comments:
+  type: department
 '14':
   name: Canindeyú
-  code:
+  code: '14'
   unofficial_names:
   - Canindeyú
   - Canindiyú
@@ -347,9 +352,10 @@
     mk: Каниндеју
     'no': Canindeyu
   comments:
+  type: department
 '15':
   name: Presidente Hayes
-  code:
+  code: '15'
   unofficial_names: Presidente Hayes
   geo:
     latitude: -23.3512605
@@ -407,9 +413,10 @@
     mk: Пресиденте Ајес
     'no': Presidente Hayes
   comments:
+  type: department
 '16':
   name: Alto Paraguay
-  code:
+  code: '16'
   unofficial_names: Alto Paraguay
   geo:
     latitude: -20.0852508
@@ -467,9 +474,10 @@
     mk: Алто Парагвај (департман)
     'no': Alto Paraguai
   comments:
+  type: department
 '19':
   name: Boquerón
-  code:
+  code: '19'
   unofficial_names: Boquerón
   geo:
     latitude: -21.7449254
@@ -528,9 +536,10 @@
     mk: Бокерон
     'no': XVI Boqueron
   comments:
+  type: department
 '2':
   name: San Pedro
-  code:
+  code: '2'
   unofficial_names: San Pedro
   geo:
     latitude: -24.1948668
@@ -587,9 +596,10 @@
     mk: Сан Педро
     'no': San Pedro
   comments:
+  type: department
 '3':
   name: Cordillera
-  code:
+  code: '3'
   unofficial_names: Cordillera
   geo:
     latitude: -25.2289491
@@ -646,9 +656,10 @@
     mk: Кордилјера
     'no': Cordillera
   comments:
+  type: department
 '4':
   name: Guairá
-  code:
+  code: '4'
   unofficial_names: Guairá
   geo:
     latitude: -25.8810932
@@ -706,9 +717,10 @@
     mk: Гваира
     'no': Guaira
   comments:
+  type: department
 '5':
   name: Caaguazú
-  code:
+  code: '5'
   unofficial_names: Caaguazú
   geo:
     latitude: -25.46
@@ -767,9 +779,10 @@
     mk: Кагвазу
     'no': Caaguazu
   comments:
+  type: department
 '6':
   name: Caazapá
-  code:
+  code: '6'
   unofficial_names: Caazapá
   geo:
     latitude: -26.2260696
@@ -826,9 +839,10 @@
     mk: Казапа
     'no': Caazapa
   comments:
+  type: department
 '7':
   name: Itapúa
-  code:
+  code: '7'
   unofficial_names: Itapúa
   geo:
     latitude: -26.7923623
@@ -886,9 +900,10 @@
     mk: Итапуа
     'no': Itapua
   comments:
+  type: department
 '8':
   name: Misiones
-  code:
+  code: '8'
   unofficial_names: Misiones
   geo:
     latitude: -26.8433512
@@ -947,9 +962,10 @@
     mk: Мисионес
     'no': Misiones
   comments:
+  type: department
 '9':
   name: Paraguarí
-  code:
+  code: '9'
   unofficial_names: Paraguarí
   geo:
     latitude: -25.633333
@@ -988,9 +1004,10 @@
     eu: Paraguaríko departamendua
     mk: Парагвари
   comments:
+  type: department
 ASU:
   name: Asunción
-  code:
+  code: ASU
   unofficial_names: Asunción
   geo:
     latitude: -25.282197
@@ -1082,3 +1099,4 @@ ASU:
     'no': Asunción
     yo_BJ: Asunción
   comments:
+  type: capital

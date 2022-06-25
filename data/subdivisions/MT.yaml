@@ -1,7 +1,7 @@
 ---
 '01':
   name: Attard
-  code:
+  code: '01'
   unofficial_names: Attard
   geo:
     latitude: 35.892778
@@ -57,9 +57,10 @@
     ccp: "\U00011103\U00011111\U00011133\U00011126\U00011122\U00011134\U00011113\U00011134"
     'no': Attard
   comments:
+  type: local_council
 '02':
   name: Balzan
-  code:
+  code: '02'
   unofficial_names: Balzan
   geo:
     latitude: 35.898056
@@ -113,9 +114,10 @@
     uk: Бальцан
     'no': Balzan
   comments:
+  type: local_council
 '03':
   name: Birgu
-  code:
+  code: '03'
   unofficial_names: Birgu
   geo:
     latitude: 35.888056
@@ -174,9 +176,10 @@
     mk: Биргу
     'no': Birgu
   comments:
+  type: local_council
 '04':
   name: Birkirkara
-  code:
+  code: '04'
   unofficial_names: Birkirkara
   geo:
     latitude: 35.896667
@@ -244,9 +247,10 @@
     ga: Birkirkara
     'no': Birkirkara
   comments:
+  type: local_council
 '05':
   name: Birżebbuġa
-  code:
+  code: '05'
   unofficial_names: Birżebbuġa
   geo:
     latitude: 35.825556
@@ -301,9 +305,10 @@
     ccp: "\U0001111D\U00011128\U00011122\U00011134\U0001110E\U0001112C\U0001111B\U00011134\U0001111D\U0001112A\U00011109"
     'no': Bizebbuga
   comments:
+  type: local_council
 '06':
   name: Bormla
-  code:
+  code: '06'
   unofficial_names: Bormla
   geo:
     latitude: 35.882222
@@ -359,9 +364,10 @@
     ccp: "\U00011107\U00011127\U0001110C\U00011134\U0001111B\U00011128\U00011107\U00011131"
     'no': Cospicua
   comments:
+  type: local_council
 '07':
   name: Dingli
-  code:
+  code: '07'
   unofficial_names: Dingli
   geo:
     latitude: 35.860278
@@ -416,9 +422,10 @@
     uk: Дінглі
     'no': Dingli
   comments:
+  type: local_council
 '08':
   name: Fgura
-  code:
+  code: '08'
   unofficial_names: Fgura
   geo:
     latitude: 35.8725
@@ -483,9 +490,10 @@
     bs: Fgura
     'no': Fgura
   comments:
+  type: local_council
 '09':
   name: Floriana
-  code:
+  code: '09'
   unofficial_names: Floriana
   geo:
     latitude: 35.893333
@@ -539,9 +547,10 @@
     ccp: "\U0001111C\U00011133\U00011123\U0001112E\U00011122\U00011128\U00011120\U0001111A"
     'no': Floriana
   comments:
+  type: local_council
 '10':
   name: Fontana
-  code:
+  code: '10'
   unofficial_names: Fontana
   geo:
     latitude: 36.0369053
@@ -593,9 +602,10 @@
     uk: Фонтана
     'no': Fontana
   comments:
+  type: local_council
 '11':
   name: Gudja
-  code:
+  code: '11'
   unofficial_names: Gudja
   geo:
     latitude: 35.848333
@@ -647,9 +657,10 @@
     uk: Гудья
     'no': Gudja
   comments:
+  type: local_council
 '12':
   name: Gżira
-  code:
+  code: '12'
   unofficial_names: Gżira
   geo:
     latitude: 35.905897
@@ -704,9 +715,10 @@
     ccp: "\U0001110E\U00011128\U00011122"
     'no': Gżira
   comments:
+  type: local_council
 '13':
   name: Għajnsielem
-  code:
+  code: '13'
   unofficial_names: Għajnsielem
   geo:
     latitude: 36.026944
@@ -762,9 +774,10 @@
     ccp: "\U0001110A\U00011116\U00011134\U00011125\U00011128\U00011123\U0001112C\U0001111F\U00011134"
     'no': Ghajnsielem
   comments:
+  type: local_council
 '14':
   name: Għarb
-  code:
+  code: '14'
   unofficial_names: Għarb
   geo:
     latitude: 36.061111
@@ -816,9 +829,10 @@
     uk: Арб
     'no': Gharb
   comments:
+  type: local_council
 '15':
   name: Għargħur
-  code:
+  code: '15'
   unofficial_names: Għargħur
   geo:
     latitude: 35.924069
@@ -871,9 +885,10 @@
     uk: Гаргур
     'no': Gharghur
   comments:
+  type: local_council
 '16':
   name: Għasri
-  code:
+  code: '16'
   unofficial_names: Għasri
   geo:
     latitude: 36.058333
@@ -926,9 +941,10 @@
     uk: Асрі
     'no': Ghasri
   comments:
+  type: local_council
 '17':
   name: Għaxaq
-  code:
+  code: '17'
   unofficial_names: Għaxaq
   geo:
     latitude: 35.848333
@@ -980,9 +996,10 @@
     uk: Гашак
     'no': Ghazaq
   comments:
+  type: local_council
 '18':
   name: Ħamrun
-  code:
+  code: '18'
   unofficial_names: Ħamrun
   geo:
     latitude: 35.886111
@@ -1037,9 +1054,10 @@
     ccp: "\U00011126\U0001111F\U00011134\U00011122\U0001112A\U0001111A\U00011134"
     'no': Gzira
   comments:
+  type: local_council
 '19':
   name: Iklin
-  code:
+  code: '19'
   unofficial_names: Iklin
   geo:
     latitude: 35.904167
@@ -1091,9 +1109,10 @@
     uk: Іклін
     'no': Iklin
   comments:
+  type: local_council
 '20':
   name: Isla
-  code:
+  code: '20'
   unofficial_names: Isla
   geo:
     latitude: 35.887778
@@ -1149,9 +1168,10 @@
     uk: Сенглея
     'no': Senglea
   comments:
+  type: local_council
 '21':
   name: Kalkara
-  code:
+  code: '21'
   unofficial_names: Kalkara
   geo:
     latitude: 35.889167
@@ -1216,9 +1236,10 @@
     uk: Калкара
     'no': Kalkara
   comments:
+  type: local_council
 '22':
   name: Kerċem
-  code:
+  code: '22'
   unofficial_names: Kerċem
   geo:
     latitude: 36.040556
@@ -1270,9 +1291,10 @@
     uk: Керчем
     'no': Kercem
   comments:
+  type: local_council
 '23':
   name: Kirkop
-  code:
+  code: '23'
   unofficial_names: Kirkop
   geo:
     latitude: 35.840854
@@ -1326,9 +1348,10 @@
     uk: Кіркоп
     'no': Kirkop
   comments:
+  type: local_council
 '24':
   name: Lija
-  code:
+  code: '24'
   unofficial_names: Lija
   geo:
     latitude: 35.901389
@@ -1380,9 +1403,10 @@
     uk: Лія
     'no': Lija
   comments:
+  type: local_council
 '25':
   name: Luqa
-  code:
+  code: '25'
   unofficial_names: Luqa
   geo:
     latitude: 35.859722
@@ -1438,9 +1462,10 @@
     uk: Лука
     'no': Luqa
   comments:
+  type: local_council
 '26':
   name: Marsa
-  code:
+  code: '26'
   unofficial_names: Marsa
   geo:
     latitude: 35.883333
@@ -1480,9 +1505,10 @@
     be: Марса
     'no': Marsa
   comments:
+  type: local_council
 '27':
   name: Marsaskala
-  code:
+  code: '27'
   unofficial_names: Marsaskala
   geo:
     latitude: 35.8625
@@ -1536,9 +1562,10 @@
     uk: Марсаскала
     'no': Marsakala
   comments:
+  type: local_council
 '28':
   name: Marsaxlokk
-  code:
+  code: '28'
   unofficial_names: Marsaxlokk
   geo:
     latitude: 35.84166700000001
@@ -1591,9 +1618,10 @@
     ccp: "\U0001111F\U00011122\U00011134\U00011125\U00011107\U00011134\U00011123\U0001112E\U00011107\U00011133\U00011126\U00011134"
     'no': Marsaxlokk
   comments:
+  type: local_council
 '29':
   name: Mdina
-  code:
+  code: '29'
   unofficial_names: Mdina
   geo:
     latitude: 35.885833
@@ -1654,9 +1682,10 @@
     sl: Mdina
     'no': Mdina
   comments:
+  type: local_council
 '30':
   name: Mellieħa
-  code:
+  code: '30'
   unofficial_names: Mellieħa
   geo:
     latitude: 35.95638900000001
@@ -1709,9 +1738,10 @@
     uk: Мелліха
     'no': Mellieħa
   comments:
+  type: local_council
 '31':
   name: Mġarr
-  code:
+  code: '31'
   unofficial_names: Mġarr
   geo:
     latitude: 35.919722
@@ -1764,9 +1794,10 @@
     ccp: "\U0001111F\U00011127\U00011109\U00011122\U00011134"
     'no': Mgarr
   comments:
+  type: local_council
 '32':
   name: Mosta
-  code:
+  code: '32'
   unofficial_names: Mosta
   geo:
     latitude: 35.909722
@@ -1824,9 +1855,10 @@
     uk: Моста
     'no': Mosta
   comments:
+  type: local_council
 '33':
   name: Mqabba
-  code:
+  code: '33'
   unofficial_names: Mqabba
   geo:
     latitude: 35.844167
@@ -1878,9 +1910,10 @@
     uk: Мкаба
     'no': Mqabba
   comments:
+  type: local_council
 '34':
   name: Msida
-  code:
+  code: '34'
   unofficial_names: Msida
   geo:
     latitude: 35.897778
@@ -1934,9 +1967,10 @@
     ccp: "\U0001111F\U00011127\U00011125\U00011128\U00011113"
     'no': Msida
   comments:
+  type: local_council
 '35':
   name: Mtarfa
-  code:
+  code: '35'
   unofficial_names: Mtarfa
   geo:
     latitude: 35.890833
@@ -1988,9 +2022,10 @@
     uk: Мтарфа
     'no': Mtarfa
   comments:
+  type: local_council
 '36':
   name: Munxar
-  code:
+  code: '36'
   unofficial_names: Munxar
   geo:
     latitude: 36.030278
@@ -2042,9 +2077,10 @@
     uk: Муншар
     'no': Munxar
   comments:
+  type: local_council
 '37':
   name: Nadur
-  code:
+  code: '37'
   unofficial_names: Nadur
   geo:
     latitude: 36.038056
@@ -2096,9 +2132,10 @@
     uk: Нудур
     'no': Nadur
   comments:
+  type: local_council
 '38':
   name: Naxxar
-  code:
+  code: '38'
   unofficial_names: Naxxar
   geo:
     latitude: 35.915
@@ -2151,9 +2188,10 @@
     uk: Нашар
     'no': Naxxar
   comments:
+  type: local_council
 '39':
   name: Paola
-  code:
+  code: '39'
   unofficial_names: Paola
   geo:
     latitude: 35.872778
@@ -2207,9 +2245,10 @@
     uk: Паола
     'no': Paola
   comments:
+  type: local_council
 '40':
   name: Pembroke
-  code:
+  code: '40'
   unofficial_names: Pembroke
   geo:
     latitude: 35.926389
@@ -2261,9 +2300,10 @@
     uk: Пембрук
     'no': Pembroke
   comments:
+  type: local_council
 '41':
   name: Pietà
-  code:
+  code: '41'
   unofficial_names: Pietà
   geo:
     latitude: 35.893056
@@ -2298,9 +2338,10 @@
     ccp: "\U0001111B\U0001112D\U00011111"
     da: Pietà
   comments:
+  type: local_council
 '42':
   name: Qala
-  code:
+  code: '42'
   unofficial_names: Qala
   geo:
     latitude: 36.035278
@@ -2352,9 +2393,10 @@
     uk: Кала
     'no': Qala
   comments:
+  type: local_council
 '43':
   name: Qormi
-  code:
+  code: '43'
   unofficial_names: Qormi
   geo:
     latitude: 35.879444
@@ -2412,9 +2454,10 @@
     be: Кормі
     'no': Qormi
   comments:
+  type: local_council
 '44':
   name: Qrendi
-  code:
+  code: '44'
   unofficial_names: Qrendi
   geo:
     latitude: 35.834167
@@ -2468,9 +2511,10 @@
     uk: Кренді
     'no': Qrendi
   comments:
+  type: local_council
 '45':
   name: Rabat Gozo
-  code:
+  code: '45'
   unofficial_names:
   - Rabat Gozo
   - Rabat Għawdex
@@ -2533,9 +2577,10 @@
     sl: Victoria, Gozo
     'no': Victoria
   comments:
+  type: local_council
 '46':
   name: Rabat Malta
-  code:
+  code: '46'
   unofficial_names: Rabat Malta
   geo:
     latitude: 35.881667
@@ -2593,9 +2638,10 @@
     sl: Rabat, Malta
     'no': Rabat
   comments:
+  type: local_council
 '47':
   name: Safi
-  code:
+  code: '47'
   unofficial_names: Safi
   geo:
     latitude: 35.833333
@@ -2649,9 +2695,10 @@
     uk: Сафі
     'no': Safi
   comments:
+  type: local_council
 '48':
   name: Saint Julian's
-  code:
+  code: '48'
   unofficial_names:
   - Saint Julian's
   - San Ġiljan
@@ -2712,9 +2759,10 @@
     uk: Сент-Джуліанс
     'no': St. Julians
   comments:
+  type: local_council
 '49':
   name: Saint John
-  code:
+  code: '49'
   unofficial_names:
   - Saint John
   - San Ġwann
@@ -2770,9 +2818,10 @@
     uk: Сан-Гванн
     'no': San Gwann
   comments:
+  type: local_council
 '50':
   name: Saint Lawrence
-  code:
+  code: '50'
   unofficial_names:
   - Saint Lawrence
   - San Lawrenz
@@ -2829,9 +2878,10 @@
     uk: Сан-Лоренц
     'no': San Lawrenz
   comments:
+  type: local_council
 '51':
   name: Saint Paul's Bay
-  code:
+  code: '51'
   unofficial_names:
   - Saint Paul's Bay
   - San Pawl il-Baħar
@@ -2889,9 +2939,10 @@
       \U0001111D\U0001112C"
     'no': St.Pauls Bay
   comments:
+  type: local_council
 '52':
   name: Sannat
-  code:
+  code: '52'
   unofficial_names: Sannat
   geo:
     latitude: 36.024444
@@ -2943,9 +2994,10 @@
     uk: Саннат
     'no': Sannat
   comments:
+  type: local_council
 '53':
   name: Saint Lucia's
-  code:
+  code: '53'
   unofficial_names:
   - Saint Lucia's
   - Santa Luċija
@@ -2999,9 +3051,10 @@
     uk: Санта-Лучія
     'no': Saint Lucia
   comments:
+  type: local_council
 '54':
   name: Santa Venera
-  code:
+  code: '54'
   unofficial_names: Santa Venera
   geo:
     latitude: 35.889722
@@ -3054,9 +3107,10 @@
     ccp: "\U00011125\U0001111A\U00011134\U00011111 \U0001111E\U0001112C\U0001111A\U0001112C\U00011122"
     'no': Santa Venera
   comments:
+  type: local_council
 '55':
   name: Siġġiewi
-  code:
+  code: '55'
   unofficial_names: Siġġiewi
   geo:
     latitude: 35.854167
@@ -3111,9 +3165,10 @@
     uk: Сіґґієві
     'no': Siggiewi
   comments:
+  type: local_council
 '56':
   name: Sliema
-  code:
+  code: '56'
   unofficial_names: Sliema
   geo:
     latitude: 35.912222
@@ -3174,9 +3229,10 @@
     bs: Sliema
     'no': Sliema
   comments:
+  type: local_council
 '57':
   name: Swieqi
-  code:
+  code: '57'
   unofficial_names: Swieqi
   geo:
     latitude: 35.920833
@@ -3230,9 +3286,10 @@
     uk: Свікі
     'no': Sweiqi
   comments:
+  type: local_council
 '58':
   name: Ta' Xbiex
-  code:
+  code: '58'
   unofficial_names: Ta' Xbiex
   geo:
     latitude: 35.899167
@@ -3285,9 +3342,10 @@
     uk: Та-Шбіш
     'no': Ta Xbiex
   comments:
+  type: local_council
 '59':
   name: Tarxien
-  code:
+  code: '59'
   unofficial_names: Tarxien
   geo:
     latitude: 35.86583299999999
@@ -3340,9 +3398,10 @@
     ccp: "\U00011111\U00011122\U00011134\U0001110E\U00011128\U00011120\U0001112C\U0001111A\U00011134"
     'no': Tarxien
   comments:
+  type: local_council
 '60':
   name: Valletta
-  code:
+  code: '60'
   unofficial_names: Valletta
   geo:
     latitude: 35.8989085
@@ -3433,9 +3492,10 @@
     'no': Valletta
     yo_BJ: Valletta
   comments:
+  type: local_council
 '61':
   name: Xagħra
-  code:
+  code: '61'
   unofficial_names: Xagħra
   geo:
     latitude: 36.050278
@@ -3488,9 +3548,10 @@
     uk: Шаара
     'no': Xaghra
   comments:
+  type: local_council
 '62':
   name: Xewkija
-  code:
+  code: '62'
   unofficial_names: Xewkija
   geo:
     latitude: 36.033009
@@ -3542,9 +3603,10 @@
     uk: Шевкія
     'no': Xewkija
   comments:
+  type: local_council
 '63':
   name: Xgħajra
-  code:
+  code: '63'
   unofficial_names: Xgħajra
   geo:
     latitude: 35.8868282
@@ -3597,9 +3659,10 @@
     uk: Шайра
     'no': Xgħajra
   comments:
+  type: local_council
 '64':
   name: Żabbar
-  code:
+  code: '64'
   unofficial_names: Żabbar
   geo:
     latitude: 35.877222
@@ -3658,9 +3721,10 @@
     mk: Забар (Малта)
     'no': Żabbar
   comments:
+  type: local_council
 '65':
   name: Żebbuġ Gozo
-  code:
+  code: '65'
   unofficial_names:
   - Żebbuġ Gozo
   - Żebbuġ Għawdex
@@ -3692,9 +3756,10 @@
     zh: 泽布季 (戈佐岛)
     ccp: "\U0001110E\U0001112C\U0001111D\U0001112A\U00011107\U00011134 \U00011109\U0001112E\U0001110E\U0001112E"
   comments:
+  type: local_council
 '66':
   name: Żebbuġ Malta
-  code:
+  code: '66'
   unofficial_names: Żebbuġ Malta
   geo:
     latitude: 35.873056
@@ -3751,9 +3816,10 @@
     ccp: "\U0001110E\U0001112C\U0001111D\U0001112A\U00011107\U00011134"
     'no': Zebbug
   comments:
+  type: local_council
 '67':
   name: Żejtun
-  code:
+  code: '67'
   unofficial_names: Żejtun
   geo:
     latitude: 35.855556
@@ -3808,9 +3874,10 @@
     ccp: "\U0001110E\U0001112C\U00011107\U00011134\U00011111\U0001112A\U0001111A\U00011134"
     'no': Iz-Zejtun
   comments:
+  type: local_council
 '68':
   name: Żurrieq
-  code:
+  code: '68'
   unofficial_names: Żurrieq
   geo:
     latitude: 35.829167
@@ -3865,3 +3932,4 @@
     bg: Зурик
     'no': Zurrieq
   comments:
+  type: local_council

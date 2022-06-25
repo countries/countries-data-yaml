@@ -1,7 +1,7 @@
 ---
 AR:
   name: Artibonite
-  code:
+  code: AR
   unofficial_names:
   - LʿArtibonite
   geo:
@@ -54,9 +54,10 @@ AR:
     ca: Artibonite
     'no': Artibonite
   comments:
+  type: department
 CE:
   name: Centre
-  code:
+  code: CE
   unofficial_names: Centre
   geo:
     latitude: 18.9582742
@@ -109,9 +110,10 @@ CE:
     bs: Centre
     'no': Centre
   comments:
+  type: department
 GA:
   name: Grande-Anse
-  code:
+  code: GA
   unofficial_names:
   - Grande Anse
   geo:
@@ -165,9 +167,10 @@ GA:
     ca: Grand’Anse
     'no': Grand’Anse
   comments:
+  type: department
 ND:
   name: Nord
-  code:
+  code: ND
   unofficial_names: Nord
   geo:
     latitude: 19.5687715
@@ -219,9 +222,10 @@ ND:
     ca: Nord
     'no': Nord
   comments:
+  type: department
 NE:
   name: Nord-Est
-  code:
+  code: NE
   unofficial_names: Nord-Est
   geo:
     latitude: 19.4889723
@@ -273,9 +277,65 @@ NE:
     ca: Nord-Est
     'no': Nord-Est
   comments:
+  type: department
+NI:
+  name: Nippes
+  code: NI
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: إدارة نيبيس
+    bn: নিপেস
+    da: Nippes
+    de: Département Nippes
+    el: Νιπς
+    en: Nippes
+    es: Nippes
+    fa: شهرستان نیپ
+    fi: Nippes
+    fr: Nippes
+    gu: નિપ્પ્સ
+    hi: निपेस
+    hr: Nippes
+    id: Nippes
+    it: dipartimento di Nippes
+    ja: ニップ県
+    kn: ನಿಪ್ಪೆಸ್
+    ko: 니프 주
+    mr: निप्प्स
+    ms: Nippes
+    nb: Nippes
+    nl: Nippes
+    pl: Departament Nippes
+    pt: Nippes
+    ru: Нип
+    si: නිපස්
+    sv: Nippes
+    ta: நிப்பேஸ்
+    te: నిప్పెస్
+    th: นิปเป้
+    tr: Nippes
+    ur: نیپ محکمہ
+    vi: Nippes
+    lv: Nipesa
+    ceb: Département de Nippes
+    lt: Nipesas
+    zh: 尼普斯省
+    ccp: "\U0001111A\U00011128\U0001111B\U0001112C\U0001110C\U00011134"
+    uk: Ніп
+    ca: Nippes
+    'no': Nippes
+  comments:
+  type: department
 'NO':
   name: Nord-Ouest
-  code:
+  code: 'NO'
   unofficial_names: Nord-Ouest
   geo:
     latitude: 19.8374009
@@ -327,9 +387,10 @@ NE:
     ca: Nord-Ouest
     'no': Nord-Ouest
   comments:
+  type: department
 OU:
   name: Ouest
-  code:
+  code: OU
   unofficial_names: Ouest
   geo:
     latitude: 18.4957015
@@ -382,9 +443,10 @@ OU:
     ca: Ouest
     'no': Ouest
   comments:
+  type: department
 SD:
   name: Sud
-  code:
+  code: SD
   unofficial_names: Sud
   geo:
     latitude: 18.3320005
@@ -436,9 +498,10 @@ SD:
     ca: Sud
     'no': Sud
   comments:
+  type: department
 SE:
   name: Sud-Est
-  code:
+  code: SE
   unofficial_names: Sud-Est
   geo:
     latitude: 18.2783598
@@ -490,57 +553,4 @@ SE:
     ca: Sud-Est
     'no': Sud-Est
   comments:
-NI:
-  name: Nippes
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    ar: إدارة نيبيس
-    bn: নিপেস
-    da: Nippes
-    de: Département Nippes
-    el: Νιπς
-    en: Nippes
-    es: Nippes
-    fa: شهرستان نیپ
-    fi: Nippes
-    fr: Nippes
-    gu: નિપ્પ્સ
-    hi: निपेस
-    hr: Nippes
-    id: Nippes
-    it: dipartimento di Nippes
-    ja: ニップ県
-    kn: ನಿಪ್ಪೆಸ್
-    ko: 니프 주
-    mr: निप्प्स
-    ms: Nippes
-    nb: Nippes
-    nl: Nippes
-    pl: Departament Nippes
-    pt: Nippes
-    ru: Нип
-    si: නිපස්
-    sv: Nippes
-    ta: நிப்பேஸ்
-    te: నిప్పెస్
-    th: นิปเป้
-    tr: Nippes
-    ur: نیپ محکمہ
-    vi: Nippes
-    lv: Nipesa
-    ceb: Département de Nippes
-    lt: Nipesas
-    zh: 尼普斯省
-    ccp: "\U0001111A\U00011128\U0001111B\U0001112C\U0001110C\U00011134"
-    uk: Ніп
-    ca: Nippes
-    'no': Nippes
-  comments:
+  type: department

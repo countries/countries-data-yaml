@@ -1,7 +1,7 @@
 ---
 AN:
   name: Andijon
-  code:
+  code: AN
   unofficial_names:
   - Andijon
   - Andizhan
@@ -67,9 +67,10 @@ AN:
     mk: Андиџанска област
     'no': Andijan region
   comments:
+  type: region
 BU:
   name: Buxoro
-  code:
+  code: BU
   unofficial_names:
   - Boukhara
   - Buchara
@@ -137,9 +138,10 @@ BU:
     mk: Бухарска област
     'no': Bukhara region
   comments:
+  type: region
 FA:
   name: Farg‘ona
-  code:
+  code: FA
   unofficial_names:
   - Farghona
   - Fergana
@@ -205,9 +207,10 @@ FA:
     mk: Ферганска област
     'no': Fergana region
   comments:
+  type: region
 JI:
   name: Jizzax
-  code:
+  code: JI
   unofficial_names:
   - Cizah
   - Cizak
@@ -272,9 +275,10 @@ JI:
     mk: Џизачка област
     'no': Jizzakh region
   comments:
+  type: region
 NG:
   name: Namangan
-  code:
+  code: NG
   unofficial_names:
   - Namangan
   - Namaņgan
@@ -337,9 +341,10 @@ NG:
     mk: Наманганска област
     'no': Namangan region
   comments:
+  type: region
 NW:
   name: Navoiy
-  code:
+  code: NW
   unofficial_names:
   - Navoi
   - Navoj
@@ -403,9 +408,10 @@ NW:
     mk: Навојска област
     'no': Navoiy region
   comments:
+  type: region
 QA:
   name: Qashqadaryo
-  code:
+  code: QA
   unofficial_names:
   - Kashkadar
   - Kashkadaria
@@ -473,9 +479,10 @@ QA:
     mk: Кашкадарјанска област
     'no': Qashqadryo region
   comments:
+  type: region
 QR:
   name: Qoraqalpog‘iston Respublikasi
-  code:
+  code: QR
   unofficial_names:
   - Karakalpakistan
   - Qoraqalpoghiston
@@ -551,9 +558,10 @@ QR:
     mk: Каракалпакстан
     'no': Karakalpakstan
   comments:
+  type: republic
 SA:
   name: Samarqand
-  code:
+  code: SA
   unofficial_names:
   - Samarqand
   - Samarķand
@@ -620,9 +628,10 @@ SA:
     mk: Самаркандска област
     'no': Samarqand region
   comments:
+  type: region
 SI:
   name: Sirdaryo
-  code:
+  code: SI
   unofficial_names:
   - Sirdare
   - Syrdarja
@@ -684,9 +693,10 @@ SI:
     mk: Сирдарјанска област
     'no': Sirdarya region
   comments:
+  type: region
 SU:
   name: Surxondaryo
-  code:
+  code: SU
   unofficial_names:
   - Surkhondar
   geo:
@@ -750,9 +760,10 @@ SU:
     mk: Сурхандарјанска област
     'no': Surxondaryo region
   comments:
+  type: region
 TK:
   name: Toshkent City
-  code:
+  code: TK
   unofficial_names: Toshkent City
   geo:
     latitude: 41.266667
@@ -842,9 +853,10 @@ TK:
     'no': Tasjkent
     yo_BJ: Tashkent
   comments:
+  type: city
 TO:
   name: Toshkent
-  code:
+  code: TO
   unofficial_names:
   - Taškent
   - Toshkent
@@ -914,9 +926,10 @@ TO:
     mk: Ташкентска област
     'no': Tashkent region
   comments:
+  type: region
 XO:
   name: Xorazm
-  code:
+  code: XO
   unofficial_names:
   - Khorazm
   geo:
@@ -978,3 +991,4 @@ XO:
     mk: Хорезмска област
     'no': Xorazm region
   comments:
+  type: region

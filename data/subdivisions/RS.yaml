@@ -1,7 +1,7 @@
 ---
 '00':
   name: Belgrade
-  code:
+  code: '00'
   unofficial_names: Belgrade
   geo:
     latitude: 44.786568
@@ -91,9 +91,10 @@
     'no': Beograd
     yo_BJ: Belgrade
   comments:
+  type: city
 '01':
   name: Severna Backa
-  code:
+  code: '01'
   unofficial_names: Severna Backa
   geo:
     latitude: 45.9803394
@@ -156,9 +157,10 @@
     mn: Умар Бачка аймаг
     'no': Nord Backa distrikt
   comments:
+  type: district
 '02':
   name: Srednji Banat
-  code:
+  code: '02'
   unofficial_names: Srednji Banat
   geo:
     latitude: 45.4788485
@@ -220,9 +222,10 @@
     mn: Төв Банат аймаг
     'no': Sentral Banat distrikt
   comments:
+  type: district
 '03':
   name: Severni Banat
-  code:
+  code: '03'
   unofficial_names: Severni Banat
   geo:
     latitude: 45.906839
@@ -285,9 +288,10 @@
     be: Паўночна-Банацкая акруга
     'no': Nord Banat distrikt
   comments:
+  type: district
 '04':
   name: Južni Banat
-  code:
+  code: '04'
   unofficial_names: Južni Banat
   geo:
     latitude: 45.0027457
@@ -351,9 +355,10 @@
     mk: Јужнобанатски округ
     'no': Sør Banat distrikt
   comments:
+  type: district
 '05':
   name: Zapadna Backa
-  code:
+  code: '05'
   unofficial_names: Zapadna Backa
   geo:
     latitude: 45.7355385
@@ -414,9 +419,10 @@
     bs: Zapadnobački upravni okrug
     'no': Vest Backa Distrikt
   comments:
+  type: district
 '06':
   name: Južna Backa
-  code:
+  code: '06'
   unofficial_names: Južna Backa
   geo:
     latitude: 45.4890344
@@ -478,9 +484,10 @@
     mn: Өмнө Бачка аймаг
     'no': Sør Backa
   comments:
+  type: district
 '07':
   name: Srem
-  code:
+  code: '07'
   unofficial_names: Srem
   geo:
     latitude: 45.0029171
@@ -540,9 +547,10 @@
     ccp: "\U00011125\U00011133\U00011122\U0001112C\U0001111F\U00011134"
     'no': Srem Distrikt
   comments:
+  type: district
 '08':
   name: Macva
-  code:
+  code: '08'
   unofficial_names: Macva
   geo:
     latitude: 44.5925314
@@ -600,9 +608,10 @@
     bs: Mačvanski upravni okrug
     'no': Macva distrikt
   comments:
+  type: district
 '09':
   name: Kolubara
-  code:
+  code: '09'
   unofficial_names: Kolubara
   geo:
     latitude: 44.2674361
@@ -662,9 +671,10 @@
     bs: Kolubarski upravni okrug
     'no': Kolubare distrikt
   comments:
+  type: district
 '10':
   name: Podunavlje
-  code:
+  code: '10'
   unofficial_names: Podunavlje
   geo:
     latitude: 44.4729156
@@ -722,9 +732,10 @@
     mk: Подунавски округ
     'no': Podunavlje distrikt
   comments:
+  type: district
 '11':
   name: Branicevo
-  code:
+  code: '11'
   unofficial_names: Branicevo
   geo:
     latitude: 44.705
@@ -784,9 +795,10 @@
     uk: Бранічевський район
     'no': Branicevo distrikt
   comments:
+  type: district
 '12':
   name: Šumadija
-  code:
+  code: '12'
   unofficial_names: Šumadija
   geo:
     latitude: 44.20506779999999
@@ -846,9 +858,10 @@
     bs: Šumadijski upravni okrug
     'no': Sumadija distrikt
   comments:
+  type: district
 '13':
   name: Pomoravlje
-  code:
+  code: '13'
   unofficial_names: Pomoravlje
   geo:
     latitude: 43.95913789999999
@@ -906,9 +919,10 @@
     bs: Pomoravski upravni okrug
     'no': Pomoravlje distrikt
   comments:
+  type: district
 '14':
   name: Bor
-  code:
+  code: '14'
   unofficial_names: Bor
   geo:
     latitude: 44.0698918
@@ -968,9 +982,10 @@
     uk: Район Бор
     'no': Bor distrikt
   comments:
+  type: district
 '15':
   name: Zajecar
-  code:
+  code: '15'
   unofficial_names: Zajecar
   geo:
     latitude: 43.9015048
@@ -1027,9 +1042,10 @@
     mn: Заечар аймаг
     'no': Zajecar distrikt
   comments:
+  type: district
 '16':
   name: Zlatibor
-  code:
+  code: '16'
   unofficial_names: Zlatibor
   geo:
     latitude: 43.6554553
@@ -1090,9 +1106,10 @@
     bs: Zlatiborski upravni okrug
     'no': Zlatibor distrikt
   comments:
+  type: district
 '17':
   name: Moravica
-  code:
+  code: '17'
   unofficial_names: Moravica
   geo:
     latitude: 43.5393662
@@ -1152,9 +1169,10 @@
     bs: Moravički upravni okrug
     'no': Moravica distrikt
   comments:
+  type: district
 '18':
   name: Raška
-  code:
+  code: '18'
   unofficial_names: Raška
   geo:
     latitude: 43.291944
@@ -1213,9 +1231,10 @@
     bs: Raški upravni okrug
     'no': Raska distrikt
   comments:
+  type: district
 '19':
   name: Rasina
-  code:
+  code: '19'
   unofficial_names: Rasina
   geo:
     latitude: 43.5789182
@@ -1274,9 +1293,10 @@
     bs: Rasinski okrug
     'no': Rasina distrikt
   comments:
+  type: district
 '20':
   name: Nišava
-  code:
+  code: '20'
   unofficial_names: Nišava
   geo:
     latitude: 43.3738902
@@ -1336,9 +1356,10 @@
     uk: Нишавський район
     'no': Nisava Distrikt
   comments:
+  type: district
 '21':
   name: Toplica
-  code:
+  code: '21'
   unofficial_names: Toplica
   geo:
     latitude: 43.1906592
@@ -1396,9 +1417,10 @@
     mn: Топлич аймаг
     'no': Toplica distrikt
   comments:
+  type: district
 '22':
   name: Pirot
-  code:
+  code: '22'
   unofficial_names: Pirot
   geo:
     latitude: 43.1557012
@@ -1455,9 +1477,10 @@
     mn: Пирот аймаг
     'no': Pirot distrikt
   comments:
+  type: district
 '23':
   name: Jablanica
-  code:
+  code: '23'
   unofficial_names: Jablanica
   geo:
     latitude: 43.443889
@@ -1519,9 +1542,10 @@
     mk: Јабланички округ
     'no': Jablanica distrikt
   comments:
+  type: district
 '24':
   name: Pcinja
-  code:
+  code: '24'
   unofficial_names: Pcinja
   geo:
     latitude: 42.5836362
@@ -1579,9 +1603,10 @@
     mk: Пчињски округ
     'no': Pcinja distrikt
   comments:
+  type: district
 '25':
   name: Kosovo
-  code:
+  code: '25'
   unofficial_names: Kosovo
   geo:
     latitude: 44.016521
@@ -1613,9 +1638,10 @@
     es: distrito de Kosovo
     mn: Косов аймаг
   comments:
+  type: district
 '26':
   name: Pec´
-  code:
+  code: '26'
   unofficial_names: Pec´
   geo:
     latitude: 43.5725
@@ -1641,9 +1667,10 @@
     mn: Печ аймаг
     be: Печская акруга
   comments:
+  type: district
 '27':
   name: Prizren
-  code:
+  code: '27'
   unofficial_names: Prizren
   geo:
     latitude: 43.6930556
@@ -1670,9 +1697,10 @@
     ccp: "\U0001111B\U00011133\U00011122\U0001112D\U0001110C\U00011134\U00011122\U0001112C\U0001111A\U00011134"
     mn: Призрен аймаг
   comments:
+  type: district
 '28':
   name: Kosovska Mitrovica
-  code:
+  code: '28'
   unofficial_names: Kosovska Mitrovica
   geo:
     latitude: 44.9980615
@@ -1696,9 +1724,10 @@
     fr: Kosovska Mitrovica
     mn: Косов-Митровиц аймаг
   comments:
+  type: district
 '29':
   name: Kosovo-Pomoravlje
-  code:
+  code: '29'
   unofficial_names: Kosovo-Pomoravlje
   geo:
     latitude:
@@ -1726,9 +1755,52 @@
     ccp: "\U00011107\U00011127\U00011125\U0001112E\U0001111E\U0001112E \U0001111B\U00011127\U0001111F\U0001112E\U00011122\U0001111B\U00011134\U0001110E\U0001112C"
     mn: Косов-Поморав аймаг
   comments:
+  type: district
+KM:
+  name: Косово и Метохија
+  code: KM
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    be: Косава і Мятохія
+    ca: Província autònoma de Kosovo i Metòkhia
+    cs: Autonomní oblast Kosovo a Metohije
+    de: Autonome Provinz Kosovo und Metochien
+    el: Αυτόνομη Επαρχία του Κόσοβο και Μετόχια
+    en: Kosovo-Metohija
+    es: Provincia Autónoma de Kosovo y Metohija
+    fa: استان خودمختار کوزوو و متوهیا
+    fr: Kossovo-et-Métochie
+    hu: Koszovó és Metóhia Autonóm Tartomány
+    it: Provincia autonoma del Kosovo
+    ja: コソボ・メトヒヤ自治州
+    ko: 코소보 메토히야 자치주
+    nl: Autonome Provincie Kosovo en Metohija
+    pt: Província Autônoma de Kosovo e Metohija
+    ro: Provincia Autonomă Kosovo și Metohia
+    ru: Косово и Метохия
+    sr: Косово и Метохија
+    tr: Kosova ve Metohiya Özerk Bölgesi
+    uk: Автономний край Косово і Метохія
+    ar: مقاطعة كوسوفو وميتوهيا المتمتعة بالحكم الذاتي
+    sr_Latn: Kosovo i Metohija
+    zh: 科索沃和梅托希亚自治省
+    sq: Krahina Autonome e Kosovës dhe Metohisë
+    ccp: "\U00011107\U00011127\U00011125\U0001112E\U0001111E\U0001112C-\U0001111F\U0001112C\U00011111\U0001112E\U00011126\U00011128\U0001110E"
+    id: Kosovo dan Metohija
+    az: Kosova ve Metohiya muxtar vilayəti
+    mn: Косов-Метох
+  comments:
+  type: autonomous_province
 VO:
   name: Војводина
-  code:
+  code: VO
   unofficial_names:
   geo:
     latitude:
@@ -1801,44 +1873,4 @@ VO:
     'no': Vojvodina
     yo_BJ: Vojvodina
   comments:
-KM:
-  name: Косово и Метохија
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    be: Косава і Мятохія
-    ca: Província autònoma de Kosovo i Metòkhia
-    cs: Autonomní oblast Kosovo a Metohije
-    de: Autonome Provinz Kosovo und Metochien
-    el: Αυτόνομη Επαρχία του Κόσοβο και Μετόχια
-    en: Kosovo-Metohija
-    es: Provincia Autónoma de Kosovo y Metohija
-    fa: استان خودمختار کوزوو و متوهیا
-    fr: Kossovo-et-Métochie
-    hu: Koszovó és Metóhia Autonóm Tartomány
-    it: Provincia autonoma del Kosovo
-    ja: コソボ・メトヒヤ自治州
-    ko: 코소보 메토히야 자치주
-    nl: Autonome Provincie Kosovo en Metohija
-    pt: Província Autônoma de Kosovo e Metohija
-    ro: Provincia Autonomă Kosovo și Metohia
-    ru: Косово и Метохия
-    sr: Косово и Метохија
-    tr: Kosova ve Metohiya Özerk Bölgesi
-    uk: Автономний край Косово і Метохія
-    ar: مقاطعة كوسوفو وميتوهيا المتمتعة بالحكم الذاتي
-    sr_Latn: Kosovo i Metohija
-    zh: 科索沃和梅托希亚自治省
-    sq: Krahina Autonome e Kosovës dhe Metohisë
-    ccp: "\U00011107\U00011127\U00011125\U0001112E\U0001111E\U0001112C-\U0001111F\U0001112C\U00011111\U0001112E\U00011126\U00011128\U0001110E"
-    id: Kosovo dan Metohija
-    az: Kosova ve Metohiya muxtar vilayəti
-    mn: Косов-Метох
-  comments:
+  type: autonomous_province

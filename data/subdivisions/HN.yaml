@@ -1,7 +1,7 @@
 ---
 AT:
   name: Atlántida
-  code:
+  code: AT
   unofficial_names: Atlántida
   geo:
     latitude: 15.6696283
@@ -59,9 +59,10 @@ AT:
     ccp: "\U00011103\U00011116\U00011134\U00011123\U00011125\U00011111\U00011128\U00011113"
     'no': Atlantida department
   comments:
+  type: department
 CH:
   name: Choluteca
-  code:
+  code: CH
   unofficial_names: Choluteca
   geo:
     latitude: 13.3198572
@@ -119,9 +120,10 @@ CH:
     ccp: "\U0001110C\U0001112E\U00011123\U00011128\U00011105\U0001112A\U00011111\U0001112C\U00011107"
     'no': Choluteca
   comments:
+  type: department
 CL:
   name: Colón
-  code:
+  code: CL
   unofficial_names: Colón
   geo:
     latitude: 15.6391768
@@ -178,9 +180,10 @@ CL:
     ccp: "\U00011107\U0001112E\U00011123\U0001112E\U0001111A\U00011134"
     'no': Colon department
   comments:
+  type: department
 CM:
   name: Comayagua
-  code:
+  code: CM
   unofficial_names: Comayagua
   geo:
     latitude: 14.5534828
@@ -223,9 +226,10 @@ CM:
     zh: 科馬亞瓜省
     ccp: "\U00011107\U0001112E\U0001111F\U0001112C\U00011120\U0001110B\U00011134\U00011109\U0001112A\U00011120"
   comments:
+  type: department
 CP:
   name: Copán
-  code:
+  code: CP
   unofficial_names: Copán
   geo:
     latitude: 14.9360838
@@ -281,9 +285,10 @@ CP:
     ccp: "\U00011107\U0001112E\U0001111B\U0001111A\U00011134"
     'no': Copan department
   comments:
+  type: department
 CR:
   name: Cortés
-  code:
+  code: CR
   unofficial_names: Cortés
   geo:
     latitude: 15.4909515
@@ -341,9 +346,10 @@ CR:
     ccp: "\U00011107\U00011127\U00011122\U00011134\U00011111\U0001112C\U0001110C\U00011134"
     'no': Cortes
   comments:
+  type: department
 EP:
   name: El Paraíso
-  code:
+  code: EP
   unofficial_names: El Paraíso
   geo:
     latitude: 14.0736932
@@ -400,9 +406,10 @@ EP:
     ccp: "\U00011103\U0001112C\U00011123\U00011134 \U0001111B\U00011122\U0001112D\U00011125\U0001112E"
     'no': El Paraiso
   comments:
+  type: department
 FM:
   name: Francisco Morazán
-  code:
+  code: FM
   unofficial_names: Francisco Morazán
   geo:
     latitude: 14.45411
@@ -460,9 +467,10 @@ FM:
     be: Франсіска Марасан
     'no': Franciso Morazan department
   comments:
+  type: department
 GD:
   name: Gracias a Dios
-  code:
+  code: GD
   unofficial_names: Gracias a Dios
   geo:
     latitude: 15.341806
@@ -521,9 +529,10 @@ GD:
       \U00011103 \U00011113\U00011128\U00011120\U0001112E\U0001110C\U00011134"
     'no': Gracias a Dios
   comments:
+  type: department
 IB:
   name: Islas de la Bahía
-  code:
+  code: IB
   unofficial_names: Islas de la Bahía
   geo:
     latitude: 16.3526078
@@ -586,9 +595,10 @@ IB:
     yue: 海灣群島省
     'no': Bay Islands department
   comments:
+  type: department
 IN:
   name: Intibucá
-  code:
+  code: IN
   unofficial_names: Intibucá
   geo:
     latitude: 14.316667
@@ -644,9 +654,10 @@ IN:
     ccp: "\U00011103\U00011128\U0001111A\U00011134\U00011111\U00011128\U0001111D\U00011128\U00011105\U0001112A\U00011107"
     'no': Intibuca department
   comments:
+  type: department
 LE:
   name: Lempira
-  code:
+  code: LE
   unofficial_names: Lempira
   geo:
     latitude: 14.1887698
@@ -702,9 +713,10 @@ LE:
     ccp: "\U00011123\U0001112C\U0001111F\U00011134\U0001111B\U00011128\U00011122"
     'no': Lampira department
   comments:
+  type: department
 LP:
   name: La Paz
-  code:
+  code: LP
   unofficial_names: La Paz
   geo:
     latitude: 13.9984833
@@ -761,9 +773,10 @@ LP:
     ccp: "\U00011123 \U0001111B\U0001110C\U00011134"
     'no': La Paz department
   comments:
+  type: department
 OC:
   name: Ocotepeque
-  code:
+  code: OC
   unofficial_names: Ocotepeque
   geo:
     latitude: 14.5170347
@@ -819,9 +832,10 @@ OC:
     ccp: "\U00011103\U0001112E\U00011107\U0001112E\U00011111\U0001112C\U0001111B\U0001112C\U00011107\U00011134"
     'no': Ocotepeque department
   comments:
+  type: department
 OL:
   name: Olancho
-  code:
+  code: OL
   unofficial_names: Olancho
   geo:
     latitude: 14.8067406
@@ -877,9 +891,10 @@ OL:
     ccp: "\U00011103\U0001112E\U00011123\U0001111A\U00011134\U00011107\U0001112E"
     'no': Olancho department
   comments:
+  type: department
 SB:
   name: Santa Bárbara
-  code:
+  code: SB
   unofficial_names: Santa Bárbara
   geo:
     latitude: 15.1202795
@@ -936,9 +951,10 @@ SB:
     ccp: "\U00011125\U0001111A\U00011134\U00011111 \U0001111D\U00011122\U00011134\U0001111D\U00011122"
     'no': Santa Barbara Department
   comments:
+  type: department
 VA:
   name: Valle
-  code:
+  code: VA
   unofficial_names: Valle
   geo:
     latitude: 13.5782936
@@ -996,9 +1012,10 @@ VA:
     be: Валье
     'no': Valle
   comments:
+  type: department
 YO:
   name: Yoro
-  code:
+  code: YO
   unofficial_names: Yoro
   geo:
     latitude: 15.2949679
@@ -1054,3 +1071,4 @@ YO:
     ccp: "\U00011103\U00011128\U00011120\U0001112E\U00011122\U0001112E"
     'no': Yoro department
   comments:
+  type: department

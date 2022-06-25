@@ -1,7 +1,7 @@
 ---
 A:
   name: Salta
-  code:
+  code: A
   unofficial_names: Salta
   geo:
     latitude: -24.7829323
@@ -67,9 +67,10 @@ A:
     mk: Салта
     'no': Salta
   comments:
+  type: province
 B:
   name: Buenos Aires
-  code:
+  code: B
   unofficial_names: Buenos Aires
   geo:
     latitude: -34.6037232
@@ -143,9 +144,10 @@ B:
     mk: Буенос Аирес
     'no': Buenos Aires
   comments:
+  type: province
 C:
   name: Capital federal
-  code:
+  code: C
   unofficial_names: Capital federal
   geo:
     latitude: -34.6037232
@@ -243,9 +245,10 @@ C:
     'no': Buenos Aires²
     yo_BJ: Buenos Aires
   comments:
+  type: city
 D:
   name: San Luis
-  code:
+  code: D
   unofficial_names: San Luis
   geo:
     latitude: -33.3022202
@@ -311,9 +314,10 @@ D:
     mk: Сан Луис
     'no': San Luis
   comments:
+  type: province
 E:
   name: Entre Ríos
-  code:
+  code: E
   unofficial_names: Entre Ríos
   geo:
     latitude: -32.5175643
@@ -383,9 +387,10 @@ E:
     mk: Ентре Риос
     'no': Entre Ríos
   comments:
+  type: province
 F:
   name: La Rioja
-  code:
+  code: F
   unofficial_names: La Rioja
   geo:
     latitude: -29.4128001
@@ -451,9 +456,10 @@ F:
     mk: Ла Риоха
     'no': La Rioja
   comments:
+  type: province
 G:
   name: Santiago del Estero
-  code:
+  code: G
   unofficial_names: Santiago del Estero
   geo:
     latitude: -27.78442
@@ -519,9 +525,10 @@ G:
     mk: Сантјаго дел Естеро
     'no': Santiago del Estero
   comments:
+  type: province
 H:
   name: Chaco
-  code:
+  code: H
   unofficial_names: Chaco
   geo:
     latitude: -26.5857656
@@ -593,9 +600,10 @@ H:
     mk: Чако
     'no': Chaco
   comments:
+  type: province
 J:
   name: San Juan
-  code:
+  code: J
   unofficial_names: San Juan
   geo:
     latitude: -31.5272732
@@ -661,9 +669,10 @@ J:
     mk: Сан Хуан
     'no': San Juan
   comments:
+  type: province
 K:
   name: Catamarca
-  code:
+  code: K
   unofficial_names: Catamarca
   geo:
     latitude: -28.4689906
@@ -734,9 +743,10 @@ K:
     mk: Катамарка
     'no': Catamarca
   comments:
+  type: province
 L:
   name: La Pampa
-  code:
+  code: L
   unofficial_names:
   - Pampa
   geo:
@@ -802,9 +812,10 @@ L:
     mk: Ла Пампа
     'no': La Pampa
   comments:
+  type: province
 M:
   name: Mendoza
-  code:
+  code: M
   unofficial_names: Mendoza
   geo:
     latitude: -32.890183
@@ -875,9 +886,10 @@ M:
     mk: Мендоза
     'no': Mendoza
   comments:
+  type: province
 N:
   name: Misiones
-  code:
+  code: N
   unofficial_names: Misiones
   geo:
     latitude: -26.9377146
@@ -944,9 +956,10 @@ N:
     mk: Мисионес
     'no': Misiones
   comments:
+  type: province
 P:
   name: Formosa
-  code:
+  code: P
   unofficial_names: Formosa
   geo:
     latitude: -26.185201
@@ -1012,9 +1025,10 @@ P:
     mk: Формоза
     'no': Formosa
   comments:
+  type: province
 Q:
   name: Neuquén
-  code:
+  code: Q
   unofficial_names: Neuquén
   geo:
     latitude: -38.9524444
@@ -1084,9 +1098,10 @@ Q:
     mk: Неуквен
     'no': Neuquén
   comments:
+  type: province
 R:
   name: Río Negro
-  code:
+  code: R
   unofficial_names: Río Negro
   geo:
     latitude: -40.7344343
@@ -1153,9 +1168,10 @@ R:
     mk: Рио Негро
     'no': Río Negro
   comments:
+  type: province
 S:
   name: Santa Fe
-  code:
+  code: S
   unofficial_names: Santa Fe
   geo:
     latitude: -31.6323891
@@ -1222,9 +1238,10 @@ S:
     mk: Санта Фе
     'no': Santa Fe
   comments:
+  type: province
 T:
   name: Tucumán
-  code:
+  code: T
   unofficial_names: Tucumán
   geo:
     latitude: -26.8082848
@@ -1289,9 +1306,10 @@ T:
     mk: Тукуман
     'no': Tucumán
   comments:
+  type: province
 U:
   name: Chubut
-  code:
+  code: U
   unofficial_names: Chubut
   geo:
     latitude: -43.6846192
@@ -1363,9 +1381,10 @@ U:
     mk: Чубут
     'no': Chubut
   comments:
+  type: province
 V:
   name: Tierra del Fuego
-  code:
+  code: V
   unofficial_names: Tierra del Fuego
   geo:
     latitude: -54.3083548
@@ -1434,9 +1453,10 @@ V:
     mk: Огнена Земја, Антарктика и Јужни Атлантски Острови
     'no': Tierra del Fuego, Antártida e Islas del Atlántico Sur
   comments:
+  type: province
 W:
   name: Corrientes
-  code:
+  code: W
   unofficial_names: Corrientes
   geo:
     latitude: -27.4712257
@@ -1502,9 +1522,10 @@ W:
     mk: Кориентес
     'no': Corrientes
   comments:
+  type: province
 X:
   name: Córdoba
-  code:
+  code: X
   unofficial_names: Córdoba
   geo:
     latitude: -31.3989296
@@ -1574,9 +1595,10 @@ X:
     mk: Кордоба
     'no': Córdoba
   comments:
+  type: province
 Y:
   name: Jujuy
-  code:
+  code: Y
   unofficial_names: Jujuy
   geo:
     latitude: -24.1857864
@@ -1643,9 +1665,10 @@ Y:
     mk: Хухуј
     'no': Jujuy
   comments:
+  type: province
 Z:
   name: Santa Cruz
-  code:
+  code: Z
   unofficial_names: Santa Cruz
   geo:
     latitude: -48.7736825
@@ -1716,3 +1739,4 @@ Z:
     mk: Санта Круз
     'no': Santa Cruz
   comments:
+  type: province

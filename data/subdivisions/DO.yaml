@@ -1,7 +1,7 @@
 ---
 '01':
   name: Distrito Nacional (Santo Domingo)
-  code:
+  code: '01'
   unofficial_names: Distrito Nacional (Santo Domingo)
   geo:
     latitude: 18.466667
@@ -29,9 +29,10 @@
     pl: Distrito Nacional
     ccp: "\U00011113\U00011128\U0001110C\U00011134\U00011111\U00011133\U00011122\U00011128\U00011111\U0001112E\U0001111A\U00011125\U00011128\U00011103\U0001112E\U0001111A\U00011123\U00011134"
   comments:
+  type: district
 '02':
   name: Azua
-  code:
+  code: '02'
   unofficial_names: Azua
   geo:
     latitude: 18.46
@@ -84,9 +85,10 @@
     ccp: "\U00011103\U0001110E\U0001112A\U00011120"
     'no': Azua provins
   comments:
+  type: province
 '03':
   name: Bahoruco
-  code:
+  code: '03'
   unofficial_names:
   - Bahoruco
   - Baoruco
@@ -139,9 +141,10 @@
     uk: Провінція Баоруко
     'no': Baoruco provins
   comments:
+  type: province
 '04':
   name: Barahona
-  code:
+  code: '04'
   unofficial_names: Barahona
   geo:
     latitude: 18.2120807
@@ -193,9 +196,10 @@
     uk: Бараона
     'no': Barahona provins
   comments:
+  type: province
 '05':
   name: Dajabón
-  code:
+  code: '05'
   unofficial_names: Dajabón
   geo:
     latitude: 19.5499241
@@ -226,9 +230,10 @@
     pl: Dajabón
     ccp: "\U00011113\U0001110E\U0001111D\U00011127\U0001111A\U00011134"
   comments:
+  type: province
 '06':
   name: Duarte
-  code:
+  code: '06'
   unofficial_names: Duarte
   geo:
     latitude: 19.2535285
@@ -279,9 +284,10 @@
     uk: Провінція Дуарте
     'no': Duarte kommune
   comments:
+  type: province
 '07':
   name: La Estrelleta [Elías Piña]
-  code:
+  code: '07'
   unofficial_names: La Estrelleta [Elías Piña]
   geo:
     latitude: 18.8766964
@@ -334,9 +340,10 @@
     uk: Еліас-Пінья
     'no': Elias Pina provins
   comments:
+  type: province
 '08':
   name: El Seybo [El Seibo]
-  code:
+  code: '08'
   unofficial_names: El Seybo [El Seibo]
   geo:
     latitude: 18.763
@@ -387,9 +394,10 @@
     ccp: "\U00011103\U0001112C\U00011123\U00011134 \U00011125\U0001112C\U0001112D\U0001111D\U0001112E"
     'no': El Seibo provins
   comments:
+  type: province
 '09':
   name: Espaillat
-  code:
+  code: '09'
   unofficial_names: Espaillat
   geo:
     latitude: 19.5788064
@@ -440,9 +448,10 @@
     ccp: "\U00011103\U0001112C\U0001110C\U00011134\U0001111B\U0001112D\U00011123\U00011127\U00011116\U00011134"
     'no': Espaillat provins
   comments:
+  type: province
 '10':
   name: Independencia
-  code:
+  code: '10'
   unofficial_names: Independencia
   geo:
     latitude: 18.4126807
@@ -493,9 +502,10 @@
     uk: Провінція Індепенденсія
     'no': Independencia provins
   comments:
+  type: province
 '11':
   name: La Altagracia
-  code:
+  code: '11'
   unofficial_names: La Altagracia
   geo:
     latitude: 18.5850236
@@ -547,9 +557,10 @@
     uk: Провінція Ла-Альтаграсіа
     'no': La Altagracia provins
   comments:
+  type: province
 '12':
   name: La Romana
-  code:
+  code: '12'
   unofficial_names: La Romana
   geo:
     latitude: 18.43
@@ -600,9 +611,10 @@
     uk: Провінція Ла-Романа
     'no': La Romana provins
   comments:
+  type: province
 '13':
   name: La Vega
-  code:
+  code: '13'
   unofficial_names: La Vega
   geo:
     latitude: 19.22
@@ -655,9 +667,10 @@
     kk: Ла-Вега
     'no': La Vega provins
   comments:
+  type: province
 '14':
   name: María Trinidad Sánchez
-  code:
+  code: '14'
   unofficial_names: María Trinidad Sánchez
   geo:
     latitude: 19.4245445
@@ -709,9 +722,10 @@
       \U00011125\U0001111A\U00011134\U00011125\U0001112C\U0001110C\U00011134"
     'no': Maria Trinidad Sanchez Provins
   comments:
+  type: province
 '15':
   name: Monte Cristi
-  code:
+  code: '15'
   unofficial_names: Monte Cristi
   geo:
     latitude: 19.8473452
@@ -762,9 +776,10 @@
     uk: Провінція Монте-Крісті
     'no': Monte Cristi provins
   comments:
+  type: province
 '16':
   name: Pedernales
-  code:
+  code: '16'
   unofficial_names: Pedernales
   geo:
     latitude: 18.033333
@@ -815,9 +830,10 @@
     uk: Провінція Педерналес
     'no': Pedernales Provins
   comments:
+  type: province
 '17':
   name: Peravia
-  code:
+  code: '17'
   unofficial_names: Peravia
   geo:
     latitude: 18.2855033
@@ -868,9 +884,10 @@
     ccp: "\U0001111B\U0001112C\U00011122\U0001111E\U00011128\U00011120"
     'no': Peravia provins
   comments:
+  type: province
 '18':
   name: Puerto Plata
-  code:
+  code: '18'
   unofficial_names: Puerto Plata
   geo:
     latitude: 19.7807686
@@ -923,9 +940,10 @@
       \U0001111B\U00011133\U00011123\U00011111"
     'no': Puerto Plata provins
   comments:
+  type: province
 '19':
   name: Salcedo
-  code:
+  code: '19'
   unofficial_names: Salcedo
   geo:
     latitude: 19.3966586
@@ -977,9 +995,10 @@
     uk: Провінція Германас-Мірабаль
     'no': Hermanas Mirabal provins
   comments:
+  type: province
 '20':
   name: Samaná
-  code:
+  code: '20'
   unofficial_names: Samaná
   geo:
     latitude: 19.2080704
@@ -1030,9 +1049,10 @@
     uk: Провінція Самана
     'no': Samana provins
   comments:
+  type: province
 '21':
   name: San Cristóbal
-  code:
+  code: '21'
   unofficial_names: San Cristóbal
   geo:
     latitude: 18.4188797
@@ -1083,9 +1103,10 @@
     ccp: "\U00011125\U0001111A\U00011134 \U00011107\U00011133\U00011122\U00011128\U0001110C\U00011134\U00011111\U0001112E\U0001111D\U00011127\U00011123\U00011134"
     'no': San Cristobal provins
   comments:
+  type: province
 '22':
   name: San Juan
-  code:
+  code: '22'
   unofficial_names: San Juan
   geo:
     latitude: 18.8810919
@@ -1137,9 +1158,10 @@
     kk: Сан-Хуан
     'no': San Juan
   comments:
+  type: province
 '23':
   name: San Pedro de Macorís
-  code:
+  code: '23'
   unofficial_names: San Pedro de Macorís
   geo:
     latitude: 18.45
@@ -1191,9 +1213,10 @@
     uk: Провінція Сан-Педро-де-Макоріс
     'no': San Pedro de Macoris
   comments:
+  type: province
 '24':
   name: Sánchez Ramírez
-  code:
+  code: '24'
   unofficial_names: Sánchez Ramírez
   geo:
     latitude: 18.9808932
@@ -1244,9 +1267,10 @@
     uk: Провінція Санчес-Рамірес
     'no': Sanchez Ramirez provins
   comments:
+  type: province
 '25':
   name: Santiago
-  code:
+  code: '25'
   unofficial_names: Santiago
   geo:
     latitude: 19.466667
@@ -1299,9 +1323,10 @@
     eu: Santiago probintzia
     'no': Santiago provins
   comments:
+  type: province
 '26':
   name: Santiago Rodríguez
-  code:
+  code: '26'
   unofficial_names: Santiago Rodríguez
   geo:
     latitude: 19.4713181
@@ -1353,9 +1378,10 @@
     uk: Провінція Сантьяго-Родрігес
     'no': Santiago Rodriguez provins
   comments:
+  type: province
 '27':
   name: Valverde
-  code:
+  code: '27'
   unofficial_names: Valverde
   geo:
     latitude: 19.6323442
@@ -1406,9 +1432,10 @@
     uk: Провінція Вальверде
     'no': Valverde
   comments:
+  type: province
 '28':
   name: Monseñor Nouel
-  code:
+  code: '28'
   unofficial_names: Monseñor Nouel
   geo:
     latitude: 18.9215234
@@ -1460,9 +1487,10 @@
     uk: Провінція Монсеньор-Новель
     'no': Monsenor Nouel provins
   comments:
+  type: province
 '29':
   name: Monte Plata
-  code:
+  code: '29'
   unofficial_names: Monte Plata
   geo:
     latitude: 18.81
@@ -1513,9 +1541,10 @@
     uk: Провінція Монте-Плата
     'no': Monte Plata Provins
   comments:
+  type: province
 '30':
   name: Hato Mayor
-  code:
+  code: '30'
   unofficial_names: Hato Mayor
   geo:
     latitude: 18.766667
@@ -1567,9 +1596,10 @@
     kk: Ато-Майор
     'no': Hato Mayor Provins
   comments:
+  type: province
 '31':
   name: San Jose de Ocoa
-  code:
+  code: '31'
   unofficial_names: San Jose de Ocoa
   geo:
     latitude: 18.55
@@ -1621,9 +1651,10 @@
     uk: Провінція Сан-Хосе-де-Окоа
     'no': San jose provins
   comments:
+  type: province
 '32':
   name: Santo Domingo
-  code:
+  code: '32'
   unofficial_names:
   geo:
     latitude:
@@ -1674,9 +1705,10 @@
     uk: Санто-Домінго
     'no': Santo Domingo provins
   comments:
+  type: province
 '33':
   name: Cibao Nordeste
-  code:
+  code: '33'
   unofficial_names:
   geo:
     latitude:
@@ -1689,9 +1721,10 @@
     en: Cibao Nordeste
     ccp: "\U00011125\U00011128\U0001111D\U00011103\U0001112E \U0001111A\U00011127\U00011122\U00011134\U00011113\U0001112C\U0001110C\U00011134\U00011111\U0001112C"
   comments:
+  type: region
 '34':
   name: Cibao Noroeste
-  code:
+  code: '34'
   unofficial_names:
   geo:
     latitude:
@@ -1704,9 +1737,10 @@
     en: Cibao Noroeste
     ccp: "\U00011125\U00011128\U0001111D\U00011103\U0001112E \U0001111A\U00011127\U00011122\U00011127\U00011120\U0001112C\U0001110C\U00011134\U00011111\U0001112C"
   comments:
+  type: region
 '35':
   name: Cibao Norte
-  code:
+  code: '35'
   unofficial_names:
   geo:
     latitude:
@@ -1719,9 +1753,10 @@
     en: Cibao Norte
     ccp: "\U00011125\U00011128\U0001111D\U00011103\U0001112E \U0001111A\U00011127\U00011122\U00011134\U00011111\U0001112C"
   comments:
+  type: region
 '36':
   name: Cibao Sur
-  code:
+  code: '36'
   unofficial_names:
   geo:
     latitude:
@@ -1734,9 +1769,10 @@
     en: Cibao Sur
     ccp: "\U00011125\U00011128\U0001111D\U00011103\U0001112E \U00011125\U00011122\U00011134"
   comments:
+  type: region
 '37':
   name: El Valle
-  code:
+  code: '37'
   unofficial_names:
   geo:
     latitude:
@@ -1749,9 +1785,10 @@
     en: El Valle
     ccp: "\U00011103\U0001112C\U00011123\U00011134 \U0001111E\U00011123\U0001112C"
   comments:
+  type: region
 '38':
   name: Enriquillo
-  code:
+  code: '38'
   unofficial_names:
   geo:
     latitude:
@@ -1764,9 +1801,10 @@
     en: Enriquillo
     ccp: "\U00011103\U0001112C\U0001111A\U00011134\U00011122\U00011128\U00011107\U0001112A\U00011103\U00011128\U00011123\U0001112E"
   comments:
+  type: region
 '39':
   name: Higüamo
-  code:
+  code: '39'
   unofficial_names:
   geo:
     latitude:
@@ -1779,9 +1817,10 @@
     en: Higüamo
     ccp: "\U00011126\U0001112D\U00011109\U0001112A\U00011120\U0001111F\U0001112E"
   comments:
+  type: region
 '40':
   name: Ozama
-  code:
+  code: '40'
   unofficial_names:
   geo:
     latitude:
@@ -1794,9 +1833,10 @@
     en: Ozama
     ccp: "\U00011103\U00011127\U0001110E\U0001111F"
   comments:
+  type: region
 '41':
   name: Valdesia
-  code:
+  code: '41'
   unofficial_names:
   geo:
     latitude:
@@ -1809,9 +1849,10 @@
     en: Valdesia
     ccp: "\U0001111E\U00011127\U00011123\U00011134\U00011113\U0001112C\U00011125\U00011128\U00011120"
   comments:
+  type: region
 '42':
   name: Yuma
-  code:
+  code: '42'
   unofficial_names:
   geo:
     latitude:
@@ -1824,3 +1865,4 @@
     en: Yuma
     ccp: "\U00011103\U00011128\U00011120\U0001111F"
   comments:
+  type: region

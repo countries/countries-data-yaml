@@ -1,7 +1,7 @@
 ---
 AJ:
   name: "'Ajmān"
-  code:
+  code: AJ
   unofficial_names: "-إمارة عجمانّ - Ujman"
   geo:
     latitude: 25.3995
@@ -74,9 +74,10 @@ AJ:
     'no': Emiratet Ajman
     yo_BJ: Ajman
   comments:
+  type: emirate
 AZ:
   name: Abū Z̧aby [Abu Dhabi]
-  code:
+  code: AZ
   unofficial_names:
   - أبو ظبي
   - Abu Zabi
@@ -157,9 +158,10 @@ AZ:
     mk: Абу Даби
     'no': Emiratet Abu Dhabi
   comments:
+  type: emirate
 DU:
   name: Dubayy
-  code:
+  code: DU
   unofficial_names:
   - دبي
   - Dubai
@@ -232,9 +234,10 @@ DU:
     bs: Dubai
     'no': Emiratet Dubai
   comments:
+  type: emirate
 FU:
   name: Al Fujayrah
-  code:
+  code: FU
   unofficial_names:
   - الفجيرة
   - Al Fujayrah
@@ -309,9 +312,10 @@ FU:
     'no': Emiratet Fujairah
     yo_BJ: Fujairah
   comments:
+  type: emirate
 RK:
   name: Ra's al Khaymah
-  code:
+  code: RK
   unofficial_names:
   - إمارة رأس الخيمة
   - Ras al-Khaimah
@@ -385,9 +389,10 @@ RK:
     'no': Emiratet Ras al-Khaimah
     yo_BJ: Ras al Khaimah
   comments:
+  type: emirate
 SH:
   name: Ash Shariqah [Sharjah]
-  code:
+  code: SH
   unofficial_names:
   - إمارة الشارقةّ
   - Ash Shariqah
@@ -462,9 +467,10 @@ SH:
     'no': Emiratet Sharjah
     yo_BJ: Sharjah
   comments:
+  type: emirate
 UQ:
   name: Umm al Qaywayn
-  code:
+  code: UQ
   unofficial_names:
   - أمّ القيوين
   - Umm al-Quwain
@@ -537,3 +543,4 @@ UQ:
     'no': Emiratet Umm al-Qaiwain
     yo_BJ: Um Al Quwain
   comments:
+  type: emirate

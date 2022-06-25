@@ -1,7 +1,7 @@
 ---
 AB:
   name: Abia
-  code:
+  code: AB
   unofficial_names: Abia
   geo:
     latitude: 5.430892099999999
@@ -66,9 +66,10 @@ AB:
     ha_NE: Abiya
     'no': Abia
   comments:
+  type: state
 AD:
   name: Adamawa
-  code:
+  code: AD
   unofficial_names:
   - Adamaoua
   - Gongola
@@ -134,9 +135,10 @@ AD:
     ha_NE: Adamawa
     'no': Adamawa
   comments:
+  type: state
 AK:
   name: Akwa Ibom
-  code:
+  code: AK
   unofficial_names: Akwa Ibom
   geo:
     latitude: 4.929986899999999
@@ -200,9 +202,10 @@ AK:
     ha_NE: Akwa Ibom
     'no': Akwa Ibom
   comments:
+  type: state
 AN:
   name: Anambra
-  code:
+  code: AN
   unofficial_names: Anambra
   geo:
     latitude: 6.2757656
@@ -268,9 +271,10 @@ AN:
     ha_NE: Anambra
     'no': Anambra
   comments:
+  type: state
 BA:
   name: Bauchi
-  code:
+  code: BA
   unofficial_names: Bauchi
   geo:
     latitude: 10.315833
@@ -335,9 +339,10 @@ BA:
     ha_NE: Bauchi
     'no': Bauchi
   comments:
+  type: state
 BE:
   name: Benue
-  code:
+  code: BE
   unofficial_names: Benue
   geo:
     latitude: 7.350825899999999
@@ -401,9 +406,10 @@ BE:
     ha_NE: Benue
     'no': Benue
   comments:
+  type: state
 BO:
   name: Borno
-  code:
+  code: BO
   unofficial_names: Borno
   geo:
     latitude: 11.5097479
@@ -471,9 +477,10 @@ BO:
     ha_NE: jihar Borno
     'no': Borno
   comments:
+  type: state
 BY:
   name: Bayelsa
-  code:
+  code: BY
   unofficial_names: Bayelsa
   geo:
     latitude: 4.867776699999999
@@ -537,9 +544,10 @@ BY:
     ha_NE: Bayelsa
     'no': Bayelsa
   comments:
+  type: state
 CR:
   name: Cross River
-  code:
+  code: CR
   unofficial_names: Cross River
   geo:
     latitude: 6.167031499999999
@@ -603,9 +611,10 @@ CR:
     ha_NE: Cross River
     'no': Cross River
   comments:
+  type: state
 DE:
   name: Delta
-  code:
+  code: DE
   unofficial_names: Delta
   geo:
     latitude: 5.5324624
@@ -672,9 +681,10 @@ DE:
     ha_NE: Delta
     'no': Delta
   comments:
+  type: state
 EB:
   name: Ebonyi
-  code:
+  code: EB
   unofficial_names: Ebonyi
   geo:
     latitude: 6.177973
@@ -736,9 +746,10 @@ EB:
     ha_NE: Ebonyi
     'no': Ebonyi
   comments:
+  type: state
 ED:
   name: Edo
-  code:
+  code: ED
   unofficial_names:
   - Bendel
   geo:
@@ -805,9 +816,10 @@ ED:
     ha_NE: Edo
     'no': Edo
   comments:
+  type: state
 EK:
   name: Ekiti
-  code:
+  code: EK
   unofficial_names: Ekiti
   geo:
     latitude: 7.665581299999999
@@ -871,9 +883,10 @@ EK:
     ha_NE: Ekiti
     'no': Ekiti
   comments:
+  type: state
 EN:
   name: Enugu
-  code:
+  code: EN
   unofficial_names: Enugu
   geo:
     latitude: 6.452667
@@ -938,9 +951,10 @@ EN:
     ha_NE: Enugu
     'no': Enugu
   comments:
+  type: state
 FC:
   name: Abuja Capital Territory
-  code:
+  code: FC
   unofficial_names: Abuja Capital Territory
   geo:
     latitude: 8.8556838
@@ -1000,9 +1014,10 @@ FC:
     yo: Agbègbè Olú-ìlú Ìjọba Àpapọ̀ Nàíjíríà
     'no': Federal Capital Territory
   comments:
+  type: capital_territory
 GO:
   name: Gombe
-  code:
+  code: GO
   unofficial_names: Gombe
   geo:
     latitude: 10.283333
@@ -1067,9 +1082,10 @@ GO:
     ha_NE: Gombe
     'no': Gombe
   comments:
+  type: state
 IM:
   name: Imo
-  code:
+  code: IM
   unofficial_names: Imo
   geo:
     latitude: 5.5214533
@@ -1135,9 +1151,10 @@ IM:
     ha_NE: Imo
     'no': Imo
   comments:
+  type: state
 JI:
   name: Jigawa
-  code:
+  code: JI
   unofficial_names: Jigawa
   geo:
     latitude: 12.5700315
@@ -1201,9 +1218,10 @@ JI:
     ha_NE: Jigawa
     'no': Jigawa
   comments:
+  type: state
 KD:
   name: Kaduna
-  code:
+  code: KD
   unofficial_names: Kaduna
   geo:
     latitude: 10.516667
@@ -1267,9 +1285,10 @@ KD:
     ha_NE: Kaduna
     'no': Kaduna (delstat)
   comments:
+  type: state
 KE:
   name: Kebbi
-  code:
+  code: KE
   unofficial_names: Kebbi
   geo:
     latitude: 11.6781241
@@ -1333,9 +1352,10 @@ KE:
     ha_NE: Kebbi
     'no': Kebbi
   comments:
+  type: state
 KN:
   name: Kano
-  code:
+  code: KN
   unofficial_names: Kano
   geo:
     latitude: 12.0021794
@@ -1400,9 +1420,10 @@ KN:
     ha_NE: jihar Kano
     'no': Kano
   comments:
+  type: state
 KO:
   name: Kogi
-  code:
+  code: KO
   unofficial_names: Kogi
   geo:
     latitude: 7.561891
@@ -1466,9 +1487,10 @@ KO:
     ha_NE: Kogi
     'no': Kogi
   comments:
+  type: state
 KT:
   name: Katsina
-  code:
+  code: KT
   unofficial_names: Katsina
   geo:
     latitude: 12.983333
@@ -1533,9 +1555,10 @@ KT:
     ha_NE: Jihar Katsina
     'no': Katsina
   comments:
+  type: state
 KW:
   name: Kwara
-  code:
+  code: KW
   unofficial_names: Kwara
   geo:
     latitude: 8.9847995
@@ -1600,9 +1623,10 @@ KW:
     ha_NE: Kwara
     'no': Kwara
   comments:
+  type: state
 LA:
   name: Lagos
-  code:
+  code: LA
   unofficial_names: Lagos
   geo:
     latitude: 6.5243793
@@ -1657,9 +1681,10 @@ LA:
     'no': Lagos
     yo_BJ: Èkó
   comments:
+  type: state
 NA:
   name: Nassarawa
-  code:
+  code: NA
   unofficial_names:
   - Nasarawa
   geo:
@@ -1725,9 +1750,10 @@ NA:
     ha_NE: Nasarawa
     'no': Nasarawa
   comments:
+  type: state
 NI:
   name: Niger
-  code:
+  code: NI
   unofficial_names: Niger
   geo:
     latitude: 9.081999
@@ -1791,9 +1817,10 @@ NI:
     ha_NE: Neja
     'no': Niger
   comments:
+  type: state
 OG:
   name: Ogun
-  code:
+  code: OG
   unofficial_names: Ogun
   geo:
     latitude: 6.9098333
@@ -1859,9 +1886,10 @@ OG:
     ha_NE: Ogun
     'no': Ogun
   comments:
+  type: state
 'ON':
   name: Ondo
-  code:
+  code: 'ON'
   unofficial_names: Ondo
   geo:
     latitude: 7.083333
@@ -1926,9 +1954,10 @@ OG:
     ha_NE: Ondo
     'no': Ondo
   comments:
+  type: state
 OS:
   name: Osun
-  code:
+  code: OS
   unofficial_names: Osun
   geo:
     latitude: 7.5875843
@@ -1991,9 +2020,10 @@ OS:
     ha_NE: Osun
     'no': Osun
   comments:
+  type: state
 OY:
   name: Oyo
-  code:
+  code: OY
   unofficial_names: Oyo
   geo:
     latitude: 7.85
@@ -2044,9 +2074,10 @@ OY:
     ha_NE: Oyo
     'no': Oyo
   comments:
+  type: state
 PL:
   name: Plateau
-  code:
+  code: PL
   unofficial_names: Plateau
   geo:
     latitude: 9.2350817
@@ -2111,9 +2142,10 @@ PL:
     ha_NE: Plateau
     'no': Plateau
   comments:
+  type: state
 RI:
   name: Rivers
-  code:
+  code: RI
   unofficial_names: Rivers
   geo:
     latitude: 4.8580767
@@ -2180,9 +2212,10 @@ RI:
     ha_NE: Rivers
     'no': Rivers
   comments:
+  type: state
 SO:
   name: Sokoto
-  code:
+  code: SO
   unofficial_names: Sokoto
   geo:
     latitude: 13.066667
@@ -2247,9 +2280,10 @@ SO:
     ha_NE: jihar Sokoto
     'no': Sokoto
   comments:
+  type: state
 TA:
   name: Taraba
-  code:
+  code: TA
   unofficial_names: Taraba
   geo:
     latitude: 7.9868755
@@ -2314,9 +2348,10 @@ TA:
     ha_NE: Taraba
     'no': Taraba
   comments:
+  type: state
 YO:
   name: Yobe
-  code:
+  code: YO
   unofficial_names: Yobe
   geo:
     latitude: 12.1871412
@@ -2381,9 +2416,10 @@ YO:
     ha_NE: Yobe
     'no': Yobe
   comments:
+  type: state
 ZA:
   name: Zamfara
-  code:
+  code: ZA
   unofficial_names: Zamfara
   geo:
     latitude: 12.1844159
@@ -2447,3 +2483,4 @@ ZA:
     ha_NE: Zamfara
     'no': Zamfara
   comments:
+  type: state

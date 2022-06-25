@@ -1,7 +1,7 @@
 ---
 '01':
   name: "'Eua"
-  code:
+  code: '01'
   unofficial_names:
   - Middleburg Island
   - ʿEua
@@ -50,9 +50,10 @@
     lt: Eva
     ccp: "\U00011103\U00011128\U00011105\U0001112A\U00011120"
   comments:
+  type: division
 '02':
   name: Ha'apai
-  code:
+  code: '02'
   unofficial_names: Ha'apai
   geo:
     latitude: -19.7506337
@@ -104,9 +105,10 @@
     ccp: "\U00011126‘\U00011103\U0001112C\U0001111B\U0001112D"
     'no': Ha’apai
   comments:
+  type: division
 '03':
   name: Niuas
-  code:
+  code: '03'
   unofficial_names: Niuas
   geo:
     latitude: -15.6097616
@@ -158,9 +160,10 @@
     ccp: "\U0001111A\U00011128\U00011105\U0001112A\U00011120\U0001110C\U00011134"
     'no': Niuas
   comments:
+  type: division
 '04':
   name: Tongatapu
-  code:
+  code: '04'
   unofficial_names: Tongatapu
   geo:
     latitude: -21.1465968
@@ -215,9 +218,10 @@
     ccp: "\U00011111\U00011127\U00011101\U00011109\U00011111\U0001111B\U0001112A"
     'no': Tongatapu
   comments:
+  type: division
 '05':
   name: Vava'u
-  code:
+  code: '05'
   unofficial_names: Vava'u
   geo:
     latitude: -18.5811962
@@ -270,3 +274,4 @@
     ccp: "\U0001111E\U0001111E‘\U00011105\U0001112A"
     'no': Vava’u
   comments:
+  type: division

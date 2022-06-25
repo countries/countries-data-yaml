@@ -1,7 +1,609 @@
 ---
+'01':
+  name: Boucle du Mouhoun
+  code: '01'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    bg: Букъл дю Муун
+    da: Boucle du Mouhoun
+    de: Boucle du Mouhoun
+    en: Boucle du Mouhoun
+    es: Región Boucle du Mouhoun
+    eu: Boucle du Mouhoun eskualdea
+    fi: Boucle du Mouhoun
+    fr: Boucle du Mouhoun
+    gl: Boucle du Mouhoun
+    hr: Boucle du Mouhoun
+    id: Region Boucle du Mouhoun
+    it: regione di Boucle du Mouhoun
+    ja: ブクル・デュ・ムウン地方
+    ko: 부클뒤무운 주
+    lt: Muhuno Kilpos regionas
+    nb: Boucle du Mouhoun
+    nl: Boucle du Mouhoun
+    pl: Region Boucle du Mouhoun
+    pt: Boucle du Mouhoun
+    ro: Regiunea Boucle du Mouhoun, Burkina Faso
+    ru: Букле-ду-Мухун
+    sv: Boucle du Mouhoun
+    tr: Boucle du Mouhoun Bölgesi
+    uk: Букле-ду-Мухун
+    ur: بوکل دی موہون علاقہ
+    zh: 布克萊迪穆翁大區
+    ceb: Boucle du Mouhoun Region
+    ar: بوكل دو موهون
+    ccp: "\U0001111D\U00011127\U00011105\U0001112A\U0001110C\U00011134\U00011123\U0001112C
+      \U00011113\U0001112A \U0001111F\U0001112F\U00011126\U0001112F\U0001111A\U00011134"
+    ka: ბუკლე-დუ-მუჰუნის რეგიონი
+    he: מחוז בוקל דו מואון
+    ca: Regió Boucle du Mouhoun
+    'no': Boucle du Mouhoun
+  comments:
+  type: region
+'02':
+  name: Cascades
+  code: '02'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    bg: Каскадес
+    da: Cascades
+    de: Cascades
+    el: Κασκάντ
+    en: Cascades
+    es: Región Cascades
+    eu: Cascades eskualdea
+    fi: Cascades
+    fr: Cascades
+    gl: Cascades, Burquina Faso
+    hr: Cascades
+    id: Region Cascades
+    it: regione delle Cascate
+    ja: カスカード地方
+    ko: 카스카드 주
+    lt: Kaskadų regionas
+    nb: Cascades
+    nl: Cascades
+    pl: Region Cascades
+    pt: Região Cascades
+    ro: Regiunea Cascades, Burkina Faso
+    ru: Каскады
+    sv: Cascades, Burkina Faso
+    tr: Cascades Bölgesi
+    uk: Каскади
+    ur: آبشار علاقہ
+    ceb: Cascades Region
+    ar: الشالالات
+    zh: 瀑布大區
+    ccp: "\U00011107\U0001110C\U00011134\U00011107\U00011133\U00011120\U00011113\U0001112C\U0001110C\U00011134"
+    ka: კასკადების რეგიონი
+    ca: Regió Cascades
+    'no': Cascades
+  comments:
+  type: region
+'03':
+  name: Centre
+  code: '03'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    bg: Централен регион
+    da: Centre
+    de: Centre
+    en: Centre
+    es: Región Centro
+    eu: Erdialdeko eskualdea
+    fi: Centre
+    fr: Centre
+    gl: Rexión Centro, Burquina Faso
+    hr: Centralna regija, Burkina Faso
+    id: Region Centre
+    it: regione del Centro
+    ja: 中部地方 (ブルキナファソ)
+    ko: 중부 주
+    lt: Centrinis regionas (Burkina Fasas)
+    nb: Centre
+    nl: Centre
+    pl: Region Centre
+    pt: Região Centro
+    ro: Regiunea Centre, Burkina Faso
+    ru: Центральная область
+    sv: Centre, Burkina Faso
+    tr: Centre Bölgesi
+    uk: Центральна область
+    ur: وسطی علاقہ
+    ceb: Centre
+    zh: 中央大區
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011122\U00011134"
+    ka: ცენტრალური რეგიონი
+    ca: Regió Centre
+    be: Цэнтральная вобласць
+    'no': Centre
+  comments:
+  type: region
+'04':
+  name: Centre-Est
+  code: '04'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    bg: Централно-източен регион
+    da: Centre-Est
+    de: Centre-Est
+    en: Centre-Est
+    es: Región Centro-Este
+    eu: Erdialde Ekialdeko eskualdea
+    fi: Centre-Est
+    fr: Centre-Est
+    gl: Rexión Centro-Leste
+    hr: Centralno-istočna regija, Burkina Faso
+    id: Region Centre-Est
+    it: regione del Centro-Est
+    ja: 中東部地方 (ブルキナファソ)
+    ko: 중동부 주
+    lt: Vidurio Rytų regionas
+    nb: Centre-Est
+    nl: Centre-Est
+    pl: Region Centre-Est
+    pt: Região Centro-Este
+    ro: Regiunea Centre-Est, Burkina Faso
+    ru: Восточно-Центральная область
+    sv: Centre-Est
+    tr: Centre-Est Bölgesi
+    uk: Східно-Центральна область
+    ur: وسطی-مشرقی علاقہ
+    ceb: Centre-Est
+    zh: 中東大區
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011122\U00011134-\U00011103\U00011128\U0001110C\U00011133\U00011111\U00011134"
+    ka: აღმოსავლეთ-ცენტრალური რეგიონი
+    ca: Regió Centre-Est
+    'no': Centre-Est
+  comments:
+  type: region
+'05':
+  name: Centre-Nord
+  code: '05'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    bg: Централно-северен регион
+    da: Centre-Nord
+    de: Centre-Nord
+    en: Centre-Nord
+    es: Región Centro-Norte
+    eu: Erdialde Iparraldeko eskualdea
+    fi: Centre-Nord
+    fr: Centre-Nord
+    gl: Rexión Centro-Norte
+    hr: Centralno-sjeverna regija
+    id: Region Centre-Nord
+    it: regione del Centro-Nord
+    ja: 中北部地方 (ブルキナファソ)
+    ko: 중북부 주
+    lt: Vidurio Šiaurės regionas
+    nb: Centre-Nord
+    nl: Centre-Nord
+    pl: Region Centre-Nord
+    pt: Região Centro-Norte
+    ro: Regiunea Centre-Nord, Burkina Faso
+    ru: Северо-Центральная область
+    sv: Centre-Nord
+    tr: Centre-Nord Bölgesi
+    uk: Північно-Центральна область
+    ur: وسطی-شمالی علاقہ
+    ceb: Centre-Nord
+    ar: الوسط شمالي
+    zh: 中北大區
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011122\U00011134-\U0001111A\U00011127\U00011122\U00011133\U00011113\U00011134"
+    ka: ჩრდილო-ცენტრალური რეგიონი
+    he: מחוז מרכז-צפון (בורקינה פאסו)
+    ca: Regió Centre-Nord
+    'no': Centre-Nord
+  comments:
+  type: region
+'06':
+  name: Centre-Ouest
+  code: '06'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    bg: Централно-западен регион
+    da: Centre-Ouest
+    de: Centre-Ouest
+    el: Σαντρ-Ουέστ
+    en: Centre-Ouest
+    es: Región Centro-Oeste
+    eu: Erdialde Mendebaldeko eskualdea
+    fi: Centre-Ouest
+    fr: Centre-Ouest
+    gl: Rexión Centro-Oeste
+    hr: Centralno-zapadna regija
+    id: Region Centre-Ouest
+    it: regione del Centro-Ovest
+    ja: 中西部地方 (ブルキナファソ)
+    ko: 중서부 주
+    lt: Vidurio Vakarų regionas
+    nb: Centre-Ouest
+    nl: Centre-Ouest
+    pl: Region Centre-Ouest
+    pt: Região Centro-Oeste
+    ro: Regiunea Centre-Ouest, Burkina Faso
+    ru: Западно-Центральная область
+    sv: Centre-Ouest
+    tr: Centre-Ouest Bölgesi
+    uk: Західно-Центральна область
+    ur: وسطی-مغربی علاقہ
+    ceb: Centre-Ouest
+    ar: وسط كويست
+    zh: 中西大區
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011122\U00011134-\U00011103\U0001112F\U00011120\U0001112C\U0001110C\U00011133\U00011111\U00011134"
+    ka: დასავლეთ-ცენტრალური რეგიონი
+    'no': Centre-Ouest
+  comments:
+  type: region
+'07':
+  name: Centre-Sud
+  code: '07'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    bg: Централно-южен регион
+    da: Centre-Sud
+    de: Centre-Sud
+    en: Centre-Sud
+    es: Región Centro-Sur
+    eu: Erdialde Hegoaldeko eskualdea
+    fi: Centre-Sud
+    fr: Centre-Sud
+    gl: Rexión Centro-Sur
+    hr: Centralno-južna regija
+    id: Region Centre-Sud
+    it: regione del Centro-Sud
+    ja: 中南部地方 (ブルキナファソ)
+    ko: 중남부 주
+    lt: Vidurio Pietų regionas
+    nb: Centre-Sud
+    nl: Centre-Sud
+    pl: Region Centre-Sud
+    pt: Região Centro-Sul
+    ro: Regiunea Centre-Sud, Burkina Faso
+    ru: Юго-Центральная область
+    sv: Centre-Sud
+    tr: Centre-Sud Bölgesi
+    uk: Південно-Центральна область
+    ur: وسطی-جنوبی علاقہ
+    ceb: Centre-Sud
+    ar: الوسط الجنوبي
+    zh: 中南大區
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011122\U00011134-\U00011125\U00011116\U00011134"
+    ka: სამხრეთ-ცენტრალური რეგიონი
+    ca: Regió Centre-Sud
+    'no': Centre-Sud
+  comments:
+  type: region
+'08':
+  name: Est
+  code: '08'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    bg: Източен регион
+    da: Est
+    de: Est
+    en: Est
+    es: Región Este
+    eu: Ekialdeko eskualdea
+    fi: Est
+    fr: Est
+    gl: Rexión Leste, Burquina Faso
+    hr: Istočna regija
+    id: Region Est
+    it: regione dell’Est
+    ja: 東部地方 (ブルキナファソ)
+    ko: 동부 주
+    lt: Rytų regionas
+    nb: Est
+    nl: Est
+    pl: Region Est
+    pt: Região Este
+    ro: Regiunea Est, Burkina Faso
+    ru: Восточная область
+    sv: Est, Burkina Faso
+    tr: Est Bölgesi
+    uk: Східна область
+    ur: مشرقی علاقہ
+    ceb: Est
+    ar: الشرقي
+    zh: 東部大區
+    ccp: "\U00011103\U00011128\U0001110C\U00011133\U00011111\U00011134"
+    ka: აღმოსავლეთი რეგიონი
+    ca: Regió Est
+    'no': Est
+  comments:
+  type: region
+'09':
+  name: Hauts-Bassins
+  code: '09'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    bg: От Басен
+    da: Hauts-Bassins
+    de: Hauts-Bassins
+    el: Ω-Μπασάν
+    en: Hauts-Bassins
+    es: Región Hauts-Bassins
+    eu: Hauts-Bassins eskualdea
+    fa: منطقه هوت-باسین
+    fi: Hauts-Bassins
+    fr: Hauts-Bassins
+    gl: Hauts-Bassins
+    hr: Hauts-Bassins
+    id: Region Hauts-Bassins
+    it: regione degli Alti Bacini
+    ja: 上流域地方
+    ko: 오트바생 주
+    lt: Aukštutinių Baseinų regionas
+    nb: Hauts-Bassins
+    nl: Hauts-Bassins
+    pl: Region Hauts-Bassins
+    pt: Região Hauts-Bassins
+    ro: Regiunea Hauts-Bassins, Burkina Faso
+    ru: Верхние Бассейны
+    sv: Hauts-Bassins
+    tr: Hauts-Bassins Bölgesi
+    uk: Верхні Басейни
+    ur: بالائی-طاس علاقہ
+    ceb: High-Basins Region
+    zh: 上盆地大區
+    ccp: "\U00011126\U00011127\U00011105\U0001112A\U00011111\U00011133\U00011125\U00011134-\U0001111D\U00011125\U00011128\U00011101"
+    ka: ზემო აუზების რეგიონი
+    he: מחוז אוט בסינס
+    ca: Regió Hauts-Bassins
+    'no': Hauts-Bassins
+  comments:
+  type: region
+'10':
+  name: Nord
+  code: '10'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ca: Regió Nord
+    da: Nord
+    de: Nord
+    en: Nord
+    es: Región Norte
+    eu: Iparraldeko eskualdea
+    fi: Nord
+    fr: Nord
+    gl: Rexión Norte
+    hr: Sjeverna regija
+    id: Region Nord
+    it: regione del Nord
+    ja: 北部地方 (ブルキナファソ)
+    ko: 북부 주
+    lt: Šiaurės regionas
+    nb: Nord
+    nl: Nord
+    pl: Region Nord
+    pt: Região Norte
+    ro: Regiunea Nord, Burkina Faso
+    ru: Северная область
+    sv: Nord, Burkina Faso
+    tr: Nord Bölgesi
+    uk: Північна область
+    ur: شمالی علاقہ
+    ceb: Nord
+    ar: الشمالي
+    zh: 北部大區
+    ccp: "\U0001111A\U00011127\U00011122\U00011133\U00011113\U00011134"
+    ka: ჩრდილოეთი რეგიონი
+    be: Паўночная вобласць
+    'no': Nord
+  comments:
+  type: region
+'11':
+  name: Plateau-Central
+  code: '11'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    bg: Плато Сентрал
+    da: Plateau-Central
+    de: Plateau Central
+    en: Plateau-Central
+    es: Región Plateau-Central
+    eu: Plateau-Central eskualdea
+    fi: Plateau-Central
+    fr: Plateau-Central
+    gl: Plateau-Central
+    hr: Plato-centralna regija
+    id: Region Plateau-Central
+    it: regione dell’Altopiano Centrale
+    ja: 中央大地地方
+    ko: 플라토상트랄 주
+    lt: Vidurio Plokščiakalnio regionas
+    nb: Plateau-Central
+    nl: Plateau-Central
+    pl: Region Plateau-Central
+    pt: Região Plateau-Central
+    ro: Regiunea Plateau-Central, Burkina Faso
+    ru: Центральное Плато
+    sv: Plateau-Central
+    tr: Plateau-Central Bölgesi
+    uk: Центральне Плато
+    ur: مرتفع-وسطی علاقہ
+    ceb: Plateau-Central
+    ar: الهضبة الوسطى
+    zh: 高原-中部大區
+    ccp: "\U0001111B\U00011133\U00011123\U00011127\U00011111\U0001112E-\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011123\U00011134"
+    ka: ცენტრალური პლატოს რეგიონი
+    ca: Regió Plateau-Central
+    'no': Plateau-Central
+  comments:
+  type: region
+'12':
+  name: Sahel
+  code: '12'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    bg: Саел
+    da: Sahel
+    de: Sahel
+    en: Sahel
+    es: Región del Sahel
+    eu: Sahel eskualdea
+    fi: Sahel
+    fr: Sahel
+    gl: Sahel, Burquina Faso
+    hr: Sahel, Burkina Faso
+    id: Region Sahel
+    it: regione del Sahel
+    ja: サヘル地方
+    ko: 사엘 주
+    lt: Sahelio regionas
+    nb: Sahel
+    nl: Sahel
+    pl: Region Sahel
+    pt: Região Sahel
+    ru: Сахель
+    sv: Sahel, Burkina Faso
+    tr: Sahel Bölgesi
+    uk: Сахель
+    ur: سہیل ریجن
+    ceb: Sahel
+    ar: الساحل
+    zh: 薩赫勒大區
+    ccp: "\U00011125\U00011127\U00011126\U0001112C\U00011123\U00011134"
+    ka: საჰელის რეგიონი
+    ca: Regió del Sahel
+    'no': Sahel
+  comments:
+  type: region
+'13':
+  name: Sud-Ouest
+  code: '13'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    bg: Югозападен регион
+    da: Sud-Ouest
+    de: Sud-Ouest
+    el: Συντ-Ουέστ
+    en: Sud-Ouest
+    es: Región Suroeste
+    eu: Hego-mendebaldeko eskualdea
+    fi: Sud-Ouest
+    fr: Sud-Ouest
+    gl: Rexión Sur-Oeste
+    hr: Jugo-zapadna regija, Burkina Faso
+    id: Region Sud-Ouest
+    it: regione del Sud-Ovest
+    ja: 南西地方 (ブルキナファソ)
+    ko: 남서부 주
+    lt: Pietvakarių regionas
+    nb: Sud-Ouest
+    nl: Sud-Ouest
+    pl: Region Sud-Ouest
+    pt: Região Sul-Oeste
+    ro: Regiunea Sud-Ouest, Burkina Faso
+    ru: Юго-Западная область
+    sv: Sud-Ouest, Burkina Faso
+    tr: Sud-Ouest Bölgesi
+    uk: Південно-Західна область
+    ur: جنوبی-مغربی علاقہ
+    ceb: Southwest Region
+    zh: 西南大區
+    ccp: "\U00011125\U00011116\U00011134-\U00011103\U0001112F\U00011120\U0001112C\U00011125\U00011133\U00011111\U00011134"
+    ka: სამხრეთ-დასავლეთი რეგიონი
+    ca: Regió Sud-Oest
+    'no': Sud-Ouest
+  comments:
+  type: region
 BAL:
   name: Balé
-  code:
+  code: BAL
   unofficial_names: Balé
   geo:
     latitude: 13.383333
@@ -54,9 +656,10 @@ BAL:
     eu: Balé probintzia
     'no': Balé
   comments:
+  type: province
 BAM:
   name: Bam
-  code:
+  code: BAM
   unofficial_names: Bam
   geo:
     latitude: 13.4061979
@@ -109,9 +712,10 @@ BAM:
     eu: Bam probintzia
     'no': Bam
   comments:
+  type: province
 BAN:
   name: Banwa
-  code:
+  code: BAN
   unofficial_names: Banwa
   geo:
     latitude: 12.1323053
@@ -164,9 +768,10 @@ BAN:
     eu: Banwa probintzia
     'no': Banwa
   comments:
+  type: province
 BAZ:
   name: Bazèga
-  code:
+  code: BAZ
   unofficial_names: Bazèga
   geo:
     latitude: 11.9767692
@@ -219,9 +824,10 @@ BAZ:
     eu: Bazèga probintzia
     'no': Bazèga
   comments:
+  type: province
 BGR:
   name: Bougouriba
-  code:
+  code: BGR
   unofficial_names: Bougouriba
   geo:
     latitude: 10.8722646
@@ -272,9 +878,10 @@ BGR:
     ccp: "\U0001111D\U0001112F\U00011109\U0001112F\U00011122\U00011128\U0001111D"
     'no': Bougouriba
   comments:
+  type: province
 BLG:
   name: Boulgou
-  code:
+  code: BLG
   unofficial_names: Boulgou
   geo:
     latitude: 11.4336766
@@ -328,9 +935,10 @@ BLG:
     ca: Boulgou
     'no': Boulgou
   comments:
+  type: province
 BLK:
   name: Boulkiemdé
-  code:
+  code: BLK
   unofficial_names: Boulkiemdé
   geo:
     latitude: 12.3373752
@@ -382,9 +990,10 @@ BLK:
     eu: Boulkiemdé probintzia
     'no': Boulkiemdé
   comments:
+  type: province
 COM:
   name: Comoé
-  code:
+  code: COM
   unofficial_names: Comoé
   geo:
     latitude: 10.4072992
@@ -435,9 +1044,10 @@ COM:
     eu: Comoé probintzia
     'no': Comoé
   comments:
+  type: province
 GAN:
   name: Ganzourgou
-  code:
+  code: GAN
   unofficial_names: Ganzourgou
   geo:
     latitude: 12.2537648
@@ -489,9 +1099,10 @@ GAN:
     ccp: "\U00011109\U0001111A\U00011134\U0001110E\U0001112F\U00011122\U00011134\U00011109\U0001112F"
     'no': Ganzourgou
   comments:
+  type: province
 GNA:
   name: Gnagna
-  code:
+  code: GNA
   unofficial_names: Gnagna
   geo:
     latitude: 12.8974992
@@ -545,9 +1156,10 @@ GNA:
     eu: Gnagna probintzia
     'no': Gnagna
   comments:
+  type: province
 GOU:
   name: Gourma
-  code:
+  code: GOU
   unofficial_names: Gourma
   geo:
     latitude: 12.1624473
@@ -599,9 +1211,10 @@ GOU:
     eu: Gourma probintzia
     'no': Gourma
   comments:
+  type: province
 HOU:
   name: Houet
-  code:
+  code: HOU
   unofficial_names: Houet
   geo:
     latitude: 11.1320447
@@ -653,9 +1266,10 @@ HOU:
     eu: Houet probintzia
     'no': Houet
   comments:
+  type: province
 IOB:
   name: Ioba
-  code:
+  code: IOB
   unofficial_names: Ioba
   geo:
     latitude: 11.0562034
@@ -706,9 +1320,10 @@ IOB:
     ccp: "\U00011123\U00011127\U0001111D"
     'no': Ioba
   comments:
+  type: province
 KAD:
   name: Kadiogo
-  code:
+  code: KAD
   unofficial_names: Kadiogo
   geo:
     latitude: 12.3425897
@@ -762,9 +1377,10 @@ KAD:
     be: правінцыя Кадыёга
     'no': Kadiogo
   comments:
+  type: province
 KEN:
   name: Kénédougou
-  code:
+  code: KEN
   unofficial_names: Kénédougou
   geo:
     latitude: 11.3919395
@@ -816,9 +1432,10 @@ KEN:
     eu: Kénédougou probintzia
     'no': Kénédougou
   comments:
+  type: province
 KMD:
   name: Komondjari
-  code:
+  code: KMD
   unofficial_names:
   - Komandjoari
   - Komondjari
@@ -872,9 +1489,10 @@ KMD:
     uk: Провінція Комонджарі
     'no': Komondjari
   comments:
+  type: province
 KMP:
   name: Kompienga
-  code:
+  code: KMP
   unofficial_names: Kompienga
   geo:
     latitude: 11.5238362
@@ -926,9 +1544,10 @@ KMP:
     eu: Kompienga probintzia
     'no': Kompienga
   comments:
+  type: province
 KOP:
   name: Koulpélogo
-  code:
+  code: KOP
   unofficial_names: Koulpélogo
   geo:
     latitude: 11.5247674
@@ -980,9 +1599,10 @@ KOP:
     eu: Koulpélogo probintzia
     'no': Koulpélogo
   comments:
+  type: province
 KOS:
   name: Kossi
-  code:
+  code: KOS
   unofficial_names: Kossi
   geo:
     latitude: 12.960458
@@ -1034,9 +1654,10 @@ KOS:
     eu: Kossi probintzia
     'no': Kossi
   comments:
+  type: province
 KOT:
   name: Kouritenga
-  code:
+  code: KOT
   unofficial_names: Kouritenga
   geo:
     latitude: 12.1631813
@@ -1088,9 +1709,10 @@ KOT:
     eu: Kouritenga probintzia
     'no': Kouritenga
   comments:
+  type: province
 KOW:
   name: Kourwéogo
-  code:
+  code: KOW
   unofficial_names: Kourwéogo
   geo:
     latitude: 12.7077495
@@ -1141,9 +1763,10 @@ KOW:
     ccp: "\U00011107\U0001112F\U00011122\U00011134\U00011103\U0001112A\U00011103\U00011128\U00011109\U0001112E"
     'no': Kourwéogo
   comments:
+  type: province
 LER:
   name: Léraba
-  code:
+  code: LER
   unofficial_names: Léraba
   geo:
     latitude: 10.6648785
@@ -1196,9 +1819,10 @@ LER:
     eu: Léraba probintzia
     'no': Léraba
   comments:
+  type: province
 LOR:
   name: Loroum
-  code:
+  code: LOR
   unofficial_names: Loroum
   geo:
     latitude: 13.8129814
@@ -1250,9 +1874,10 @@ LOR:
     eu: Loroum probintzia
     'no': Loroum
   comments:
+  type: province
 MOU:
   name: Mouhoun
-  code:
+  code: MOU
   unofficial_names: Mouhoun
   geo:
     latitude: 12.1432381
@@ -1304,9 +1929,10 @@ MOU:
     ccp: "\U0001111F\U0001112F\U00011126\U0001112F"
     'no': Mouhoun
   comments:
+  type: province
 NAM:
   name: Namentenga
-  code:
+  code: NAM
   unofficial_names: Namentenga
   geo:
     latitude: 13.0812584
@@ -1359,9 +1985,10 @@ NAM:
     eu: Namentenga probintzia
     'no': Namentenga
   comments:
+  type: province
 NAO:
   name: Nahouri
-  code:
+  code: NAO
   unofficial_names:
   - Naouri
   geo:
@@ -1414,9 +2041,10 @@ NAO:
     eu: Nahouri probintzia
     'no': Nahouri
   comments:
+  type: province
 NAY:
   name: Nayala
-  code:
+  code: NAY
   unofficial_names: Nayala
   geo:
     latitude: 12.6964558
@@ -1468,9 +2096,10 @@ NAY:
     eu: Nayala probintzia
     'no': Nayala
   comments:
+  type: province
 NOU:
   name: Noumbiel
-  code:
+  code: NOU
   unofficial_names: Noumbiel
   geo:
     latitude: 9.8440946
@@ -1521,9 +2150,10 @@ NOU:
     ccp: "\U0001111A\U0001112F\U0001111F\U00011134\U0001111D\U0001112D\U00011120\U0001112C\U00011123\U00011134"
     'no': Noumbiel
   comments:
+  type: province
 OUB:
   name: Oubritenga
-  code:
+  code: OUB
   unofficial_names: Oubritenga
   geo:
     latitude: 12.7096087
@@ -1574,9 +2204,10 @@ OUB:
     ccp: "\U00011103\U0001112E\U00011105\U0001112A\U0001111D\U00011133\U00011122\U00011128\U00011111\U0001112C\U00011101\U00011109"
     'no': Oubritenga
   comments:
+  type: province
 OUD:
   name: Oudalan
-  code:
+  code: OUD
   unofficial_names: Oudalan
   geo:
     latitude: 14.471902
@@ -1627,9 +2258,10 @@ OUD:
     ccp: "\U00011103\U0001112E\U00011105\U0001112A\U00011113\U00011123\U0001111A\U00011134"
     'no': Oudalan
   comments:
+  type: province
 PAS:
   name: Passoré
-  code:
+  code: PAS
   unofficial_names: Passoré
   geo:
     latitude: 12.8881221
@@ -1682,9 +2314,10 @@ PAS:
     be: правінцыя Пасарэ
     'no': Passoré
   comments:
+  type: province
 PON:
   name: Poni
-  code:
+  code: PON
   unofficial_names: Poni
   geo:
     latitude: 10.3325996
@@ -1736,9 +2369,10 @@ PON:
     ccp: "\U0001111B\U00011127\U0001111A\U00011128"
     'no': Poni
   comments:
+  type: province
 SEN:
   name: Séno
-  code:
+  code: SEN
   unofficial_names: Séno
   geo:
     latitude: 14.0072234
@@ -1790,9 +2424,10 @@ SEN:
     ccp: "\U00011125\U00011128\U0001111A\U0001112E"
     'no': Séno
   comments:
+  type: province
 SIS:
   name: Sissili
-  code:
+  code: SIS
   unofficial_names: Sissili
   geo:
     latitude: 11.2441219
@@ -1845,9 +2480,10 @@ SIS:
     eu: Sissili probintzia
     'no': Sissili
   comments:
+  type: province
 SMT:
   name: Sanmatenga
-  code:
+  code: SMT
   unofficial_names: Sanmatenga
   geo:
     latitude: 13.3565304
@@ -1899,9 +2535,10 @@ SMT:
     eu: Sanmatenga probintzia
     'no': Sanmatenga
   comments:
+  type: province
 SNG:
   name: Sanguié
-  code:
+  code: SNG
   unofficial_names: Sanguié
   geo:
     latitude: 12.1501861
@@ -1953,9 +2590,10 @@ SNG:
     eu: Sanguié probintzia
     'no': Sanguié
   comments:
+  type: province
 SOM:
   name: Soum
-  code:
+  code: SOM
   unofficial_names: Soum
   geo:
     latitude: 12.600536
@@ -1989,9 +2627,10 @@ SOM:
     ccp: "\U00011125\U0001112F\U0001111F\U00011134"
     'no': Soum
   comments:
+  type: province
 SOR:
   name: Sourou
-  code:
+  code: SOR
   unofficial_names: Sourou
   geo:
     latitude: 13.341803
@@ -2043,9 +2682,10 @@ SOR:
     eu: Sourou probintzia
     'no': Sourou
   comments:
+  type: province
 TAP:
   name: Tapoa
-  code:
+  code: TAP
   unofficial_names: Tapoa
   geo:
     latitude: 12.2497072
@@ -2097,9 +2737,10 @@ TAP:
     eu: Tapoa probintzia
     'no': Tapoa
   comments:
+  type: province
 TUI:
   name: Tui
-  code:
+  code: TUI
   unofficial_names:
   - Tui
   geo:
@@ -2152,9 +2793,10 @@ TUI:
     eu: Tuy probintzia
     'no': Tuy
   comments:
+  type: province
 YAG:
   name: Yagha
-  code:
+  code: YAG
   unofficial_names: Yagha
   geo:
     latitude: 13.3576157
@@ -2205,9 +2847,10 @@ YAG:
     ccp: "\U00011121\U0001112E\U0001110A"
     'no': Yagha
   comments:
+  type: province
 YAT:
   name: Yatenga
-  code:
+  code: YAT
   unofficial_names: Yatenga
   geo:
     latitude: 13.6249344
@@ -2259,9 +2902,10 @@ YAT:
     ccp: "\U00011103\U00011128\U00011111\U0001112C\U00011101\U00011109"
     'no': Yatenga
   comments:
+  type: province
 ZIR:
   name: Ziro
-  code:
+  code: ZIR
   unofficial_names: Ziro
   geo:
     latitude: 11.6094995
@@ -2314,9 +2958,10 @@ ZIR:
     eu: Ziro probintzia
     'no': Ziro
   comments:
+  type: province
 ZON:
   name: Zondoma
-  code:
+  code: ZON
   unofficial_names: Zondoma
   geo:
     latitude: 13.1165926
@@ -2367,9 +3012,10 @@ ZON:
     ccp: "\U0001110E\U00011127\U0001111A\U00011134\U00011113\U0001112E\U0001111F"
     'no': Zondoma
   comments:
+  type: province
 ZOU:
   name: Zoundwéogo
-  code:
+  code: ZOU
   unofficial_names: Zoundwéogo
   geo:
     latitude: 11.6141174
@@ -2421,592 +3067,4 @@ ZOU:
     eu: Zoundwéogo probintzia
     'no': Zoundwéogo
   comments:
-'01':
-  name: Boucle du Mouhoun
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    bg: Букъл дю Муун
-    da: Boucle du Mouhoun
-    de: Boucle du Mouhoun
-    en: Boucle du Mouhoun
-    es: Región Boucle du Mouhoun
-    eu: Boucle du Mouhoun eskualdea
-    fi: Boucle du Mouhoun
-    fr: Boucle du Mouhoun
-    gl: Boucle du Mouhoun
-    hr: Boucle du Mouhoun
-    id: Region Boucle du Mouhoun
-    it: regione di Boucle du Mouhoun
-    ja: ブクル・デュ・ムウン地方
-    ko: 부클뒤무운 주
-    lt: Muhuno Kilpos regionas
-    nb: Boucle du Mouhoun
-    nl: Boucle du Mouhoun
-    pl: Region Boucle du Mouhoun
-    pt: Boucle du Mouhoun
-    ro: Regiunea Boucle du Mouhoun, Burkina Faso
-    ru: Букле-ду-Мухун
-    sv: Boucle du Mouhoun
-    tr: Boucle du Mouhoun Bölgesi
-    uk: Букле-ду-Мухун
-    ur: بوکل دی موہون علاقہ
-    zh: 布克萊迪穆翁大區
-    ceb: Boucle du Mouhoun Region
-    ar: بوكل دو موهون
-    ccp: "\U0001111D\U00011127\U00011105\U0001112A\U0001110C\U00011134\U00011123\U0001112C
-      \U00011113\U0001112A \U0001111F\U0001112F\U00011126\U0001112F\U0001111A\U00011134"
-    ka: ბუკლე-დუ-მუჰუნის რეგიონი
-    he: מחוז בוקל דו מואון
-    ca: Regió Boucle du Mouhoun
-    'no': Boucle du Mouhoun
-  comments:
-'02':
-  name: Cascades
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    bg: Каскадес
-    da: Cascades
-    de: Cascades
-    el: Κασκάντ
-    en: Cascades
-    es: Región Cascades
-    eu: Cascades eskualdea
-    fi: Cascades
-    fr: Cascades
-    gl: Cascades, Burquina Faso
-    hr: Cascades
-    id: Region Cascades
-    it: regione delle Cascate
-    ja: カスカード地方
-    ko: 카스카드 주
-    lt: Kaskadų regionas
-    nb: Cascades
-    nl: Cascades
-    pl: Region Cascades
-    pt: Região Cascades
-    ro: Regiunea Cascades, Burkina Faso
-    ru: Каскады
-    sv: Cascades, Burkina Faso
-    tr: Cascades Bölgesi
-    uk: Каскади
-    ur: آبشار علاقہ
-    ceb: Cascades Region
-    ar: الشالالات
-    zh: 瀑布大區
-    ccp: "\U00011107\U0001110C\U00011134\U00011107\U00011133\U00011120\U00011113\U0001112C\U0001110C\U00011134"
-    ka: კასკადების რეგიონი
-    ca: Regió Cascades
-    'no': Cascades
-  comments:
-'03':
-  name: Centre
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    bg: Централен регион
-    da: Centre
-    de: Centre
-    en: Centre
-    es: Región Centro
-    eu: Erdialdeko eskualdea
-    fi: Centre
-    fr: Centre
-    gl: Rexión Centro, Burquina Faso
-    hr: Centralna regija, Burkina Faso
-    id: Region Centre
-    it: regione del Centro
-    ja: 中部地方 (ブルキナファソ)
-    ko: 중부 주
-    lt: Centrinis regionas (Burkina Fasas)
-    nb: Centre
-    nl: Centre
-    pl: Region Centre
-    pt: Região Centro
-    ro: Regiunea Centre, Burkina Faso
-    ru: Центральная область
-    sv: Centre, Burkina Faso
-    tr: Centre Bölgesi
-    uk: Центральна область
-    ur: وسطی علاقہ
-    ceb: Centre
-    zh: 中央大區
-    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011122\U00011134"
-    ka: ცენტრალური რეგიონი
-    ca: Regió Centre
-    be: Цэнтральная вобласць
-    'no': Centre
-  comments:
-'04':
-  name: Centre-Est
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    bg: Централно-източен регион
-    da: Centre-Est
-    de: Centre-Est
-    en: Centre-Est
-    es: Región Centro-Este
-    eu: Erdialde Ekialdeko eskualdea
-    fi: Centre-Est
-    fr: Centre-Est
-    gl: Rexión Centro-Leste
-    hr: Centralno-istočna regija, Burkina Faso
-    id: Region Centre-Est
-    it: regione del Centro-Est
-    ja: 中東部地方 (ブルキナファソ)
-    ko: 중동부 주
-    lt: Vidurio Rytų regionas
-    nb: Centre-Est
-    nl: Centre-Est
-    pl: Region Centre-Est
-    pt: Região Centro-Este
-    ro: Regiunea Centre-Est, Burkina Faso
-    ru: Восточно-Центральная область
-    sv: Centre-Est
-    tr: Centre-Est Bölgesi
-    uk: Східно-Центральна область
-    ur: وسطی-مشرقی علاقہ
-    ceb: Centre-Est
-    zh: 中東大區
-    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011122\U00011134-\U00011103\U00011128\U0001110C\U00011133\U00011111\U00011134"
-    ka: აღმოსავლეთ-ცენტრალური რეგიონი
-    ca: Regió Centre-Est
-    'no': Centre-Est
-  comments:
-'05':
-  name: Centre-Nord
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    bg: Централно-северен регион
-    da: Centre-Nord
-    de: Centre-Nord
-    en: Centre-Nord
-    es: Región Centro-Norte
-    eu: Erdialde Iparraldeko eskualdea
-    fi: Centre-Nord
-    fr: Centre-Nord
-    gl: Rexión Centro-Norte
-    hr: Centralno-sjeverna regija
-    id: Region Centre-Nord
-    it: regione del Centro-Nord
-    ja: 中北部地方 (ブルキナファソ)
-    ko: 중북부 주
-    lt: Vidurio Šiaurės regionas
-    nb: Centre-Nord
-    nl: Centre-Nord
-    pl: Region Centre-Nord
-    pt: Região Centro-Norte
-    ro: Regiunea Centre-Nord, Burkina Faso
-    ru: Северо-Центральная область
-    sv: Centre-Nord
-    tr: Centre-Nord Bölgesi
-    uk: Північно-Центральна область
-    ur: وسطی-شمالی علاقہ
-    ceb: Centre-Nord
-    ar: الوسط شمالي
-    zh: 中北大區
-    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011122\U00011134-\U0001111A\U00011127\U00011122\U00011133\U00011113\U00011134"
-    ka: ჩრდილო-ცენტრალური რეგიონი
-    he: מחוז מרכז-צפון (בורקינה פאסו)
-    ca: Regió Centre-Nord
-    'no': Centre-Nord
-  comments:
-'06':
-  name: Centre-Ouest
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    bg: Централно-западен регион
-    da: Centre-Ouest
-    de: Centre-Ouest
-    el: Σαντρ-Ουέστ
-    en: Centre-Ouest
-    es: Región Centro-Oeste
-    eu: Erdialde Mendebaldeko eskualdea
-    fi: Centre-Ouest
-    fr: Centre-Ouest
-    gl: Rexión Centro-Oeste
-    hr: Centralno-zapadna regija
-    id: Region Centre-Ouest
-    it: regione del Centro-Ovest
-    ja: 中西部地方 (ブルキナファソ)
-    ko: 중서부 주
-    lt: Vidurio Vakarų regionas
-    nb: Centre-Ouest
-    nl: Centre-Ouest
-    pl: Region Centre-Ouest
-    pt: Região Centro-Oeste
-    ro: Regiunea Centre-Ouest, Burkina Faso
-    ru: Западно-Центральная область
-    sv: Centre-Ouest
-    tr: Centre-Ouest Bölgesi
-    uk: Західно-Центральна область
-    ur: وسطی-مغربی علاقہ
-    ceb: Centre-Ouest
-    ar: وسط كويست
-    zh: 中西大區
-    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011122\U00011134-\U00011103\U0001112F\U00011120\U0001112C\U0001110C\U00011133\U00011111\U00011134"
-    ka: დასავლეთ-ცენტრალური რეგიონი
-    'no': Centre-Ouest
-  comments:
-'07':
-  name: Centre-Sud
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    bg: Централно-южен регион
-    da: Centre-Sud
-    de: Centre-Sud
-    en: Centre-Sud
-    es: Región Centro-Sur
-    eu: Erdialde Hegoaldeko eskualdea
-    fi: Centre-Sud
-    fr: Centre-Sud
-    gl: Rexión Centro-Sur
-    hr: Centralno-južna regija
-    id: Region Centre-Sud
-    it: regione del Centro-Sud
-    ja: 中南部地方 (ブルキナファソ)
-    ko: 중남부 주
-    lt: Vidurio Pietų regionas
-    nb: Centre-Sud
-    nl: Centre-Sud
-    pl: Region Centre-Sud
-    pt: Região Centro-Sul
-    ro: Regiunea Centre-Sud, Burkina Faso
-    ru: Юго-Центральная область
-    sv: Centre-Sud
-    tr: Centre-Sud Bölgesi
-    uk: Південно-Центральна область
-    ur: وسطی-جنوبی علاقہ
-    ceb: Centre-Sud
-    ar: الوسط الجنوبي
-    zh: 中南大區
-    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011122\U00011134-\U00011125\U00011116\U00011134"
-    ka: სამხრეთ-ცენტრალური რეგიონი
-    ca: Regió Centre-Sud
-    'no': Centre-Sud
-  comments:
-'08':
-  name: Est
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    bg: Източен регион
-    da: Est
-    de: Est
-    en: Est
-    es: Región Este
-    eu: Ekialdeko eskualdea
-    fi: Est
-    fr: Est
-    gl: Rexión Leste, Burquina Faso
-    hr: Istočna regija
-    id: Region Est
-    it: regione dell’Est
-    ja: 東部地方 (ブルキナファソ)
-    ko: 동부 주
-    lt: Rytų regionas
-    nb: Est
-    nl: Est
-    pl: Region Est
-    pt: Região Este
-    ro: Regiunea Est, Burkina Faso
-    ru: Восточная область
-    sv: Est, Burkina Faso
-    tr: Est Bölgesi
-    uk: Східна область
-    ur: مشرقی علاقہ
-    ceb: Est
-    ar: الشرقي
-    zh: 東部大區
-    ccp: "\U00011103\U00011128\U0001110C\U00011133\U00011111\U00011134"
-    ka: აღმოსავლეთი რეგიონი
-    ca: Regió Est
-    'no': Est
-  comments:
-'09':
-  name: Hauts-Bassins
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    bg: От Басен
-    da: Hauts-Bassins
-    de: Hauts-Bassins
-    el: Ω-Μπασάν
-    en: Hauts-Bassins
-    es: Región Hauts-Bassins
-    eu: Hauts-Bassins eskualdea
-    fa: منطقه هوت-باسین
-    fi: Hauts-Bassins
-    fr: Hauts-Bassins
-    gl: Hauts-Bassins
-    hr: Hauts-Bassins
-    id: Region Hauts-Bassins
-    it: regione degli Alti Bacini
-    ja: 上流域地方
-    ko: 오트바생 주
-    lt: Aukštutinių Baseinų regionas
-    nb: Hauts-Bassins
-    nl: Hauts-Bassins
-    pl: Region Hauts-Bassins
-    pt: Região Hauts-Bassins
-    ro: Regiunea Hauts-Bassins, Burkina Faso
-    ru: Верхние Бассейны
-    sv: Hauts-Bassins
-    tr: Hauts-Bassins Bölgesi
-    uk: Верхні Басейни
-    ur: بالائی-طاس علاقہ
-    ceb: High-Basins Region
-    zh: 上盆地大區
-    ccp: "\U00011126\U00011127\U00011105\U0001112A\U00011111\U00011133\U00011125\U00011134-\U0001111D\U00011125\U00011128\U00011101"
-    ka: ზემო აუზების რეგიონი
-    he: מחוז אוט בסינס
-    ca: Regió Hauts-Bassins
-    'no': Hauts-Bassins
-  comments:
-'11':
-  name: Plateau-Central
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    bg: Плато Сентрал
-    da: Plateau-Central
-    de: Plateau Central
-    en: Plateau-Central
-    es: Región Plateau-Central
-    eu: Plateau-Central eskualdea
-    fi: Plateau-Central
-    fr: Plateau-Central
-    gl: Plateau-Central
-    hr: Plato-centralna regija
-    id: Region Plateau-Central
-    it: regione dell’Altopiano Centrale
-    ja: 中央大地地方
-    ko: 플라토상트랄 주
-    lt: Vidurio Plokščiakalnio regionas
-    nb: Plateau-Central
-    nl: Plateau-Central
-    pl: Region Plateau-Central
-    pt: Região Plateau-Central
-    ro: Regiunea Plateau-Central, Burkina Faso
-    ru: Центральное Плато
-    sv: Plateau-Central
-    tr: Plateau-Central Bölgesi
-    uk: Центральне Плато
-    ur: مرتفع-وسطی علاقہ
-    ceb: Plateau-Central
-    ar: الهضبة الوسطى
-    zh: 高原-中部大區
-    ccp: "\U0001111B\U00011133\U00011123\U00011127\U00011111\U0001112E-\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011123\U00011134"
-    ka: ცენტრალური პლატოს რეგიონი
-    ca: Regió Plateau-Central
-    'no': Plateau-Central
-  comments:
-'12':
-  name: Sahel
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    bg: Саел
-    da: Sahel
-    de: Sahel
-    en: Sahel
-    es: Región del Sahel
-    eu: Sahel eskualdea
-    fi: Sahel
-    fr: Sahel
-    gl: Sahel, Burquina Faso
-    hr: Sahel, Burkina Faso
-    id: Region Sahel
-    it: regione del Sahel
-    ja: サヘル地方
-    ko: 사엘 주
-    lt: Sahelio regionas
-    nb: Sahel
-    nl: Sahel
-    pl: Region Sahel
-    pt: Região Sahel
-    ru: Сахель
-    sv: Sahel, Burkina Faso
-    tr: Sahel Bölgesi
-    uk: Сахель
-    ur: سہیل ریجن
-    ceb: Sahel
-    ar: الساحل
-    zh: 薩赫勒大區
-    ccp: "\U00011125\U00011127\U00011126\U0001112C\U00011123\U00011134"
-    ka: საჰელის რეგიონი
-    ca: Regió del Sahel
-    'no': Sahel
-  comments:
-'13':
-  name: Sud-Ouest
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    bg: Югозападен регион
-    da: Sud-Ouest
-    de: Sud-Ouest
-    el: Συντ-Ουέστ
-    en: Sud-Ouest
-    es: Región Suroeste
-    eu: Hego-mendebaldeko eskualdea
-    fi: Sud-Ouest
-    fr: Sud-Ouest
-    gl: Rexión Sur-Oeste
-    hr: Jugo-zapadna regija, Burkina Faso
-    id: Region Sud-Ouest
-    it: regione del Sud-Ovest
-    ja: 南西地方 (ブルキナファソ)
-    ko: 남서부 주
-    lt: Pietvakarių regionas
-    nb: Sud-Ouest
-    nl: Sud-Ouest
-    pl: Region Sud-Ouest
-    pt: Região Sul-Oeste
-    ro: Regiunea Sud-Ouest, Burkina Faso
-    ru: Юго-Западная область
-    sv: Sud-Ouest, Burkina Faso
-    tr: Sud-Ouest Bölgesi
-    uk: Південно-Західна область
-    ur: جنوبی-مغربی علاقہ
-    ceb: Southwest Region
-    zh: 西南大區
-    ccp: "\U00011125\U00011116\U00011134-\U00011103\U0001112F\U00011120\U0001112C\U00011125\U00011133\U00011111\U00011134"
-    ka: სამხრეთ-დასავლეთი რეგიონი
-    ca: Regió Sud-Oest
-    'no': Sud-Ouest
-  comments:
-'10':
-  name: Nord
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    ca: Regió Nord
-    da: Nord
-    de: Nord
-    en: Nord
-    es: Región Norte
-    eu: Iparraldeko eskualdea
-    fi: Nord
-    fr: Nord
-    gl: Rexión Norte
-    hr: Sjeverna regija
-    id: Region Nord
-    it: regione del Nord
-    ja: 北部地方 (ブルキナファソ)
-    ko: 북부 주
-    lt: Šiaurės regionas
-    nb: Nord
-    nl: Nord
-    pl: Region Nord
-    pt: Região Norte
-    ro: Regiunea Nord, Burkina Faso
-    ru: Северная область
-    sv: Nord, Burkina Faso
-    tr: Nord Bölgesi
-    uk: Північна область
-    ur: شمالی علاقہ
-    ceb: Nord
-    ar: الشمالي
-    zh: 北部大區
-    ccp: "\U0001111A\U00011127\U00011122\U00011133\U00011113\U00011134"
-    ka: ჩრდილოეთი რეგიონი
-    be: Паўночная вобласць
-    'no': Nord
-  comments:
+  type: province

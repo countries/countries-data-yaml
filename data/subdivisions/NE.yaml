@@ -1,7 +1,7 @@
 ---
 '1':
   name: Agadez
-  code:
+  code: '1'
   unofficial_names: Agadez
   geo:
     latitude: 16.966667
@@ -56,9 +56,10 @@
     ha_NE: Yankin Agadez
     'no': Agadez (region)
   comments:
+  type: region
 '2':
   name: Diffa
-  code:
+  code: '2'
   unofficial_names: Diffa
   geo:
     latitude: 13.316667
@@ -113,9 +114,10 @@
     ha_NE: Yankin Diffa
     'no': Diffa
   comments:
+  type: region
 '3':
   name: Dosso
-  code:
+  code: '3'
   unofficial_names: Dosso
   geo:
     latitude: 13.05
@@ -171,9 +173,10 @@
     ha_NE: Yankin Dosso
     'no': Dosso
   comments:
+  type: region
 '4':
   name: Maradi
-  code:
+  code: '4'
   unofficial_names: Maradi
   geo:
     latitude: 13.483333
@@ -228,9 +231,10 @@
     ha_NE: Yankin Maradi
     'no': Maradi
   comments:
+  type: region
 '5':
   name: Tahoua
-  code:
+  code: '5'
   unofficial_names: Tahoua
   geo:
     latitude: 14.883333
@@ -285,9 +289,10 @@
     ha_NE: Yankin Tahoua
     'no': Tahoua
   comments:
+  type: region
 '6':
   name: Tillabéri
-  code:
+  code: '6'
   unofficial_names:
   - Tillaberi
   geo:
@@ -343,9 +348,10 @@
     ha_NE: Tillabéri
     'no': Tillabéri
   comments:
+  type: region
 '7':
   name: Zinder
-  code:
+  code: '7'
   unofficial_names: Zinder
   geo:
     latitude: 13.805278
@@ -399,9 +405,10 @@
     ha_NE: Yankin Zinder
     'no': Zinder
   comments:
+  type: region
 '8':
   name: Niamey
-  code:
+  code: '8'
   unofficial_names: Niamey
   geo:
     latitude: 13.521389
@@ -491,3 +498,4 @@
     'no': Niamey
     yo_BJ: Niamey
   comments:
+  type: urban_community

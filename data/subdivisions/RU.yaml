@@ -1,7 +1,7 @@
 ---
 AD:
   name: Adygeya, Respublika
-  code:
+  code: AD
   unofficial_names:
   - Adygei Republic
   - Adygeja
@@ -86,9 +86,10 @@ AD:
     mk: Адигеја
     'no': Adygia
   comments:
+  type: republic
 AL:
   name: Altay, Respublika
-  code:
+  code: AL
   unofficial_names:
   - Altaj
   - Altay
@@ -171,9 +172,10 @@ AL:
     mk: Република Алтај
     'no': Altaj
   comments:
+  type: republic
 ALT:
   name: Altayskiy kray
-  code:
+  code: ALT
   unofficial_names:
   - Altai Kray
   - Altajskij Kray
@@ -255,9 +257,10 @@ ALT:
     mk: Алтајски крај
     'no': Altaj²
   comments:
+  type: administrative_territory
 AMU:
   name: Amurskaya oblast'
-  code:
+  code: AMU
   unofficial_names:
   - Amurskaja Oblast
   geo:
@@ -336,9 +339,10 @@ AMU:
     mk: Амурска област
     'no': Amur
   comments:
+  type: administrative_region
 ARK:
   name: Arkhangel'skaya oblast'
-  code:
+  code: ARK
   unofficial_names:
   - Arhangelskaja Oblast
   - Arhangelsk
@@ -420,9 +424,10 @@ ARK:
     mk: Архангелска област
     'no': Arkhangelsk
   comments:
+  type: administrative_region
 AST:
   name: Astrakhanskaya oblast'
-  code:
+  code: AST
   unofficial_names:
   - Astrahanska Oblast
   - Astrahan
@@ -503,9 +508,10 @@ AST:
     mk: Астраханска област
     'no': Astrakhan
   comments:
+  type: administrative_region
 BA:
   name: Bashkortostan, Respublika
-  code:
+  code: BA
   unofficial_names:
   - Baškortostan
   geo:
@@ -592,9 +598,10 @@ BA:
     mk: Башкортостан
     'no': Basjkortostan
   comments:
+  type: republic
 BEL:
   name: Belgorodskaya oblast'
-  code:
+  code: BEL
   unofficial_names:
   - Belgorodskaja Oblast
   geo:
@@ -672,9 +679,10 @@ BEL:
     mk: Белгородска област
     'no': Belgorod
   comments:
+  type: administrative_region
 BRY:
   name: Bryanskaya oblast'
-  code:
+  code: BRY
   unofficial_names:
   - Brjanskaja Oblast
   - Brjansk
@@ -754,9 +762,10 @@ BRY:
     mk: Брјанска област
     'no': Brjansk
   comments:
+  type: administrative_region
 BU:
   name: Buryatiya, Respublika
-  code:
+  code: BU
   unofficial_names:
   - Buryat Republic
   - Burjatija
@@ -839,9 +848,10 @@ BU:
     mk: Бурјатија
     'no': Burjatia
   comments:
+  type: republic
 CE:
   name: Chechenskaya Respublika
-  code:
+  code: CE
   unofficial_names:
   - Chechen
   - Chechenia
@@ -934,9 +944,10 @@ CE:
     mk: Чеченија
     'no': Tsjetsjenia
   comments:
+  type: republic
 CHE:
   name: Chelyabinskaya oblast'
-  code:
+  code: CHE
   unofficial_names:
   - Cheljabinsk
   - Čeljabinskaja Oblast
@@ -1017,9 +1028,10 @@ CHE:
     mk: Чељабинска област
     'no': Tsjeljabinsk
   comments:
+  type: administrative_region
 CHU:
   name: Chukotskiy avtonomnyy okrug
-  code:
+  code: CHU
   unofficial_names:
   - Chuckchi
   - Čukotskij Avtonomnyj Okrug
@@ -1100,9 +1112,10 @@ CHU:
     mk: Чукотски автономен округ
     'no': Tsjukotka
   comments:
+  type: autonomous_district
 CU:
   name: Chuvashskaya Respublika
-  code:
+  code: CU
   unofficial_names:
   - Chuvash Republic
   - Chuvashskaya Respublika
@@ -1186,9 +1199,10 @@ CU:
     mk: Чувашија
     'no': Tsjuvasjia
   comments:
+  type: republic
 DA:
   name: Dagestan, Respublika
-  code:
+  code: DA
   unofficial_names: Dagestan, Respublika
   geo:
     latitude: 55.7599606
@@ -1273,9 +1287,10 @@ DA:
     mk: Дагестан
     'no': Dagestan
   comments:
+  type: republic
 IN:
   name: Ingushskaya Respublika [Respublika Ingushetiya]
-  code:
+  code: IN
   unofficial_names:
   - Ingushetija
   - Ingušetija
@@ -1352,9 +1367,10 @@ IN:
     mk: Ингушетија
     'no': Ingusjetia
   comments:
+  type: republic
 IRK:
   name: Irkutskaya oblast'
-  code:
+  code: IRK
   unofficial_names:
   - Irkutskaja Oblast
   geo:
@@ -1432,9 +1448,10 @@ IRK:
     mk: Иркутска област
     'no': Irkutsk
   comments:
+  type: administrative_region
 IVA:
   name: Ivanovskaya oblast'
-  code:
+  code: IVA
   unofficial_names:
   - Ivanovskaja Oblast
   geo:
@@ -1512,9 +1529,10 @@ IVA:
     mk: Ивановска област
     'no': Ivanovo
   comments:
+  type: administrative_region
 KAM:
   name: Kamchatskaya oblast'
-  code:
+  code: KAM
   unofficial_names:
   - Kamchatskaya Oblast
   - Kamčatskaja Oblast
@@ -1597,9 +1615,10 @@ KAM:
     mk: Камчатски крај
     'no': Kamtsjatka
   comments:
+  type: administrative_territory
 KB:
   name: Kabardino-Balkarskaya Respublika
-  code:
+  code: KB
   unofficial_names:
   - Kabardino-Balkarian Republic
   - Kabardino-Balkarskaja Respublika
@@ -1683,9 +1702,10 @@ KB:
     mk: Кабардино-Балкарија
     'no': Kabardino-Balkaria
   comments:
+  type: republic
 KC:
   name: Karachayevo-Cherkesskaya Respublika
-  code:
+  code: KC
   unofficial_names:
   - Karachay-Cherkessian
   - Karačajevo-Čerkesskaja Respublika
@@ -1768,9 +1788,10 @@ KC:
     mk: Карачаево-Черкесија
     'no': Karatsjajevo-Tsjerkessia
   comments:
+  type: republic
 KDA:
   name: Krasnodarskiy kray
-  code:
+  code: KDA
   unofficial_names:
   - Krasnodarskij Kraj
   geo:
@@ -1852,9 +1873,10 @@ KDA:
     mk: Краснодарски крај
     'no': Krasnodar
   comments:
+  type: administrative_territory
 KEM:
   name: Kemerovskaya oblast'
-  code:
+  code: KEM
   unofficial_names:
   - Kemerovskaja Oblast
   geo:
@@ -1932,9 +1954,10 @@ KEM:
     mk: Кемеровска област
     'no': Kemerovo
   comments:
+  type: administrative_region
 KGD:
   name: Kaliningradskaya oblast'
-  code:
+  code: KGD
   unofficial_names:
   - Kaliningradskaja Oblast
   geo:
@@ -2017,9 +2040,10 @@ KGD:
     'no': Kaliningrad
     yo_BJ: Kaliningrad Oblast
   comments:
+  type: administrative_region
 KGN:
   name: Kurganskaya oblast'
-  code:
+  code: KGN
   unofficial_names:
   - Kurganskaja Oblast
   geo:
@@ -2098,9 +2122,10 @@ KGN:
     mk: Курганска област
     'no': Kurgan
   comments:
+  type: administrative_region
 KHA:
   name: Khabarovskiy kray
-  code:
+  code: KHA
   unofficial_names:
   - Habarovskij Kray
   - Habarovsk
@@ -2182,9 +2207,10 @@ KHA:
     mk: Хабаровски крај
     'no': Khabarovsk
   comments:
+  type: administrative_territory
 KHM:
   name: Khanty-Mansiyskiy avtonomnyy okrug [Yugra]
-  code:
+  code: KHM
   unofficial_names:
   - Hanty-Mansijskij Avtonomnyj Okrug
   - Hanty-Mansija
@@ -2262,9 +2288,10 @@ KHM:
     mk: Ханти-Мансиски автономен округ
     'no': Khanty-Mansia
   comments:
+  type: autonomous_district
 KIR:
   name: Kirovskaya oblast'
-  code:
+  code: KIR
   unofficial_names:
   - Kirovskaja Oblast
   geo:
@@ -2342,9 +2369,10 @@ KIR:
     mk: Кировска област
     'no': Kirov
   comments:
+  type: administrative_region
 KK:
   name: Khakasiya, Respublika
-  code:
+  code: KK
   unofficial_names:
   - Khakass Republic
   - Hakasija
@@ -2425,9 +2453,10 @@ KK:
     mk: Хакасија
     'no': Khakasia
   comments:
+  type: republic
 KL:
   name: Kalmykiya, Respublika
-  code:
+  code: KL
   unofficial_names:
   - Halmg-Tangč
   - Kalmyk Republic
@@ -2512,9 +2541,10 @@ KL:
     mk: Калмикија
     'no': Kalmykia
   comments:
+  type: republic
 KLU:
   name: Kaluzhskaya oblast'
-  code:
+  code: KLU
   unofficial_names:
   - Kaluzhskaya Oblast
   - Kalužskaja Oblast
@@ -2592,9 +2622,10 @@ KLU:
     mk: Калушка област
     'no': Kaluga
   comments:
+  type: administrative_region
 KO:
   name: Komi, Respublika
-  code:
+  code: KO
   unofficial_names: Komi, Respublika
   geo:
     latitude: 63.8630539
@@ -2674,9 +2705,10 @@ KO:
     mk: Коми
     'no': Komi
   comments:
+  type: republic
 KOS:
   name: Kostromskaya oblast'
-  code:
+  code: KOS
   unofficial_names:
   - Kostromskaja Oblast
   geo:
@@ -2754,9 +2786,10 @@ KOS:
     mk: Костромска област
     'no': Kostroma
   comments:
+  type: administrative_region
 KR:
   name: Kareliya, Respublika
-  code:
+  code: KR
   unofficial_names:
   - Karelian Republic
   - Karelija
@@ -2839,9 +2872,10 @@ KR:
     mk: Република Карелија
     'no': Karelia
   comments:
+  type: republic
 KRS:
   name: Kurskaya oblast'
-  code:
+  code: KRS
   unofficial_names:
   - Kurskaja Oblast
   geo:
@@ -2918,9 +2952,10 @@ KRS:
     mk: Курска област
     'no': Kursk
   comments:
+  type: administrative_region
 KYA:
   name: Krasnoyarskiy kray
-  code:
+  code: KYA
   unofficial_names:
   - Krasnojarsk
   - Krasnojarskij Kraj
@@ -3002,9 +3037,10 @@ KYA:
     mk: Краснојарски крај
     'no': Krasnojarsk
   comments:
+  type: administrative_territory
 LEN:
   name: Leningradskaya oblast'
-  code:
+  code: LEN
   unofficial_names:
   - Leningradskaja Oblast
   geo:
@@ -3085,9 +3121,10 @@ LEN:
     mk: Ленинградска област
     'no': Leningrad
   comments:
+  type: administrative_region
 LIP:
   name: Lipetskaya oblast'
-  code:
+  code: LIP
   unofficial_names:
   - Lipeckaja Oblast
   - Lipeck
@@ -3168,9 +3205,10 @@ LIP:
     mk: Липецка област
     'no': Lipetsk
   comments:
+  type: administrative_region
 MAG:
   name: Magadanskaya oblast'
-  code:
+  code: MAG
   unofficial_names:
   - Magadanskaja Oblast
   geo:
@@ -3249,9 +3287,10 @@ MAG:
     mk: Магаданска област
     'no': Magadan
   comments:
+  type: administrative_region
 ME:
   name: Mariy El, Respublika
-  code:
+  code: ME
   unofficial_names:
   - Mariy El
   - Marij El
@@ -3333,9 +3372,10 @@ ME:
     mk: Мариј Ел
     'no': Mari El
   comments:
+  type: republic
 MO:
   name: Mordoviya, Respublika
-  code:
+  code: MO
   unofficial_names:
   - Mordovian Republic
   - Mordovija
@@ -3416,9 +3456,10 @@ MO:
     mk: Мордовија
     'no': Mordovia
   comments:
+  type: republic
 MOS:
   name: Moskovskaya oblast'
-  code:
+  code: MOS
   unofficial_names:
   - Moskovskaja Oblast
   geo:
@@ -3497,9 +3538,10 @@ MOS:
     mk: Московска област
     'no': Moskva
   comments:
+  type: administrative_region
 MOW:
   name: Moskva
-  code:
+  code: MOW
   unofficial_names:
   - Moskva
   - Moskau
@@ -3601,9 +3643,10 @@ MOW:
     ha_NE: Moscow
     'no': Moskva²
   comments:
+  type: autonomous_city
 MUR:
   name: Murmanskaya oblast'
-  code:
+  code: MUR
   unofficial_names:
   - Murmanskaja Oblast
   geo:
@@ -3682,9 +3725,10 @@ MUR:
     mk: Мурманска област
     'no': Murmansk
   comments:
+  type: administrative_region
 NEN:
   name: Nenetskiy avtonomnyy okrug
-  code:
+  code: NEN
   unofficial_names:
   - Nenetskij Avtonomnyj Okrug
   geo:
@@ -3761,9 +3805,10 @@ NEN:
     mk: Ненецки автономен округ
     'no': Nenetsk
   comments:
+  type: autonomous_district
 NGR:
   name: Novgorodskaya oblast'
-  code:
+  code: NGR
   unofficial_names:
   - Novgorodskaja Oblast
   geo:
@@ -3840,9 +3885,10 @@ NGR:
     mk: Новгородска област
     'no': Novgorod
   comments:
+  type: administrative_region
 NIZ:
   name: Nizhegorodskaya oblast'
-  code:
+  code: NIZ
   unofficial_names:
   - Gorki
   - Gorkij
@@ -3925,9 +3971,10 @@ NIZ:
     mk: Нижегородска област
     'no': Nizjnij Novgorod
   comments:
+  type: administrative_region
 NVS:
   name: Novosibirskaya oblast'
-  code:
+  code: NVS
   unofficial_names:
   - Novosibirskaja Oblast
   geo:
@@ -4005,9 +4052,10 @@ NVS:
     mk: Новосибирска област
     'no': Novosibirsk
   comments:
+  type: administrative_region
 OMS:
   name: Omskaya oblast'
-  code:
+  code: OMS
   unofficial_names:
   - Omskaja Oblast
   geo:
@@ -4086,9 +4134,10 @@ OMS:
     mk: Омска област
     'no': Omsk
   comments:
+  type: administrative_region
 ORE:
   name: Orenburgskaya oblast'
-  code:
+  code: ORE
   unofficial_names:
   - Orenburgskaja Oblast
   geo:
@@ -4168,9 +4217,10 @@ ORE:
     mk: Оренбуршка област
     'no': Orenburg
   comments:
+  type: administrative_region
 ORL:
   name: Orlovskaya oblast'
-  code:
+  code: ORL
   unofficial_names:
   - Orlovskaja Oblast
   - Orjol
@@ -4249,9 +4299,10 @@ ORL:
     mk: Орловска област
     'no': Orjol
   comments:
+  type: administrative_region
 PER:
   name: Perm
-  code:
+  code: PER
   unofficial_names:
   - Permskaja Oblast
   geo:
@@ -4327,9 +4378,10 @@ PER:
     mk: Пермски крај
     'no': Perm
   comments:
+  type: administrative_territory
 PNZ:
   name: Penzenskaya oblast'
-  code:
+  code: PNZ
   unofficial_names:
   - Penzenskaja Oblast
   geo:
@@ -4406,9 +4458,10 @@ PNZ:
     mk: Пензенска област
     'no': Penza
   comments:
+  type: administrative_region
 PRI:
   name: Primorskiy kray
-  code:
+  code: PRI
   unofficial_names:
   - Primorskij
   - Primorskij Kraj
@@ -4490,9 +4543,10 @@ PRI:
     mk: Приморски крај
     'no': Primorskij
   comments:
+  type: administrative_territory
 PSK:
   name: Pskovskaya oblast'
-  code:
+  code: PSK
   unofficial_names:
   - Pihkva
   - Pleskau
@@ -4571,9 +4625,10 @@ PSK:
     mk: Псковска област
     'no': Pskov
   comments:
+  type: administrative_region
 ROS:
   name: Rostovskaya oblast'
-  code:
+  code: ROS
   unofficial_names:
   - Rostovskaja Oblast
   geo:
@@ -4653,9 +4708,10 @@ ROS:
     mk: Ростовска област
     'no': Rostov
   comments:
+  type: administrative_region
 RYA:
   name: Ryazanskaya oblast'
-  code:
+  code: RYA
   unofficial_names:
   - Rjazanskaja Oblast
   - Rjazan
@@ -4734,9 +4790,10 @@ RYA:
     mk: Рјазањска област
     'no': Rjazan
   comments:
+  type: administrative_region
 SA:
   name: Sakha, Respublika [Yakutiya]
-  code:
+  code: SA
   unofficial_names:
   - Jakutija
   - Sakha
@@ -4824,9 +4881,10 @@ SA:
     mk: Јакутија
     'no': Sakha
   comments:
+  type: republic
 SAK:
   name: Sakhalinskaya oblast'
-  code:
+  code: SAK
   unofficial_names:
   - Sahalinskaya Oblast
   - Sahalin
@@ -4908,9 +4966,10 @@ SAK:
     mk: Сахалинска област
     'no': Sakhalin
   comments:
+  type: administrative_region
 SAM:
   name: Samarskaya oblast'
-  code:
+  code: SAM
   unofficial_names:
   - Samarskaja Oblast
   geo:
@@ -4987,9 +5046,10 @@ SAM:
     mk: Самарска област
     'no': Samara
   comments:
+  type: administrative_region
 SAR:
   name: Saratovskaya oblast'
-  code:
+  code: SAR
   unofficial_names:
   - Saratovskaja Oblast
   geo:
@@ -5066,9 +5126,10 @@ SAR:
     mk: Саратовска област
     'no': Saratov
   comments:
+  type: administrative_region
 SE:
   name: Severnaya Osetiya, Respublika [Alaniya] [Respublika Severnaya Osetiya-Alaniya]
-  code:
+  code: SE
   unofficial_names:
   - Alania
   - North Ossetian Republic
@@ -5154,9 +5215,10 @@ SE:
     mk: Северна Осетија-Аланија
     'no': Nord-Ossetia
   comments:
+  type: republic
 SMO:
   name: Smolenskaya oblast'
-  code:
+  code: SMO
   unofficial_names:
   - Smolenskaja Oblast
   geo:
@@ -5233,9 +5295,10 @@ SMO:
     mk: Смоленска област
     'no': Smolensk
   comments:
+  type: administrative_region
 SPE:
   name: Sankt-Peterburg
-  code:
+  code: SPE
   unofficial_names:
   - San Pietroburgo
   - Sankt-Peterburg
@@ -5334,9 +5397,10 @@ SPE:
     'no': St. Petersburg
     yo_BJ: Saint Petersburg
   comments:
+  type: autonomous_city
 STA:
   name: Stavropol'skiy kray
-  code:
+  code: STA
   unofficial_names:
   - Stavropolskij Kraj
   geo:
@@ -5414,9 +5478,10 @@ STA:
     mk: Ставрополски крај
     'no': Stavropol
   comments:
+  type: administrative_territory
 SVE:
   name: Sverdlovskaya oblast'
-  code:
+  code: SVE
   unofficial_names:
   - Sverdlovskaja Oblast
   geo:
@@ -5494,9 +5559,10 @@ SVE:
     mk: Свердловска област
     'no': Sverdlovsk
   comments:
+  type: administrative_region
 TA:
   name: Tatarstan, Respublika
-  code:
+  code: TA
   unofficial_names: Tatarstan, Respublika
   geo:
     latitude: 55.1802364
@@ -5580,9 +5646,10 @@ TA:
     mk: Татарстан
     'no': Tatarstan
   comments:
+  type: republic
 TAM:
   name: Tambovskaya oblast'
-  code:
+  code: TAM
   unofficial_names:
   - Tambovskaja Oblast
   geo:
@@ -5659,9 +5726,10 @@ TAM:
     mk: Тамбовска област
     'no': Tambov
   comments:
+  type: administrative_region
 TOM:
   name: Tomskaya oblast'
-  code:
+  code: TOM
   unofficial_names:
   - Tomskaja Oblast
   geo:
@@ -5738,9 +5806,10 @@ TOM:
     mk: Томска област
     'no': Tomsk
   comments:
+  type: administrative_region
 TUL:
   name: Tul'skaya oblast'
-  code:
+  code: TUL
   unofficial_names:
   - Tulskaja Oblast
   geo:
@@ -5818,9 +5887,10 @@ TUL:
     mk: Тулска област
     'no': Tula
   comments:
+  type: administrative_region
 TVE:
   name: Tverskaya oblast'
-  code:
+  code: TVE
   unofficial_names:
   - Tverskaja Oblast
   geo:
@@ -5898,9 +5968,10 @@ TVE:
     mk: Тверска област
     'no': Tver
   comments:
+  type: administrative_region
 TY:
   name: Tyva, Respublika [Tuva]
-  code:
+  code: TY
   unofficial_names:
   - Tuva
   geo:
@@ -5983,9 +6054,10 @@ TY:
     mk: Тува
     'no': Tuva
   comments:
+  type: republic
 TYU:
   name: Tyumenskaya oblast'
-  code:
+  code: TYU
   unofficial_names:
   - Tjumenskaja Oblast
   - Tumen
@@ -6065,9 +6137,10 @@ TYU:
     mk: Тјумењска област
     'no': Tjumen
   comments:
+  type: administrative_region
 UD:
   name: Udmurtskaya Respublika
-  code:
+  code: UD
   unofficial_names:
   - Udmurt Republic
   - Udmurtskaya Respublika
@@ -6150,9 +6223,10 @@ UD:
     mk: Удмуртија
     'no': Udmurtia
   comments:
+  type: republic
 ULY:
   name: Ul'yanovskaya oblast'
-  code:
+  code: ULY
   unofficial_names:
   - Uljanovskaja Oblast
   - Uljanovsk
@@ -6231,9 +6305,10 @@ ULY:
     mk: Уљјановска област
     'no': Uljanovsk
   comments:
+  type: administrative_region
 VGG:
   name: Volgogradskaya oblast'
-  code:
+  code: VGG
   unofficial_names:
   - Volgogradskaja Oblast
   geo:
@@ -6312,9 +6387,10 @@ VGG:
     mk: Волгоградска област
     'no': Volgograd
   comments:
+  type: administrative_region
 VLA:
   name: Vladimirskaya oblast'
-  code:
+  code: VLA
   unofficial_names:
   - Vladimirskaja Oblast
   geo:
@@ -6393,9 +6469,10 @@ VLA:
     mk: Владимирска област
     'no': Vladimir
   comments:
+  type: administrative_region
 VLG:
   name: Vologodskaya oblast'
-  code:
+  code: VLG
   unofficial_names:
   - Vologodskaja Oblast
   geo:
@@ -6474,9 +6551,10 @@ VLG:
     mk: Вологодска област
     'no': Vologda
   comments:
+  type: administrative_region
 VOR:
   name: Voronezhskaya oblast'
-  code:
+  code: VOR
   unofficial_names:
   - Voronežskaja Oblast
   - Voronež
@@ -6556,9 +6634,10 @@ VOR:
     mk: Воронешка област
     'no': Voronezj
   comments:
+  type: administrative_region
 YAN:
   name: Yamalo-Nenetskiy avtonomnyy okrug
-  code:
+  code: YAN
   unofficial_names:
   - Jamalija
   - Jamalo-Nenetskij Avtonomnyj Okrug
@@ -6638,9 +6717,10 @@ YAN:
     mk: Јамало-Ненецки автономен округ
     'no': Jamalo-Nenetsk
   comments:
+  type: autonomous_district
 YAR:
   name: Yaroslavskaya oblast'
-  code:
+  code: YAR
   unofficial_names:
   - Jaroslavskaja Oblast
   - Jaroslavl
@@ -6718,9 +6798,10 @@ YAR:
     mk: Јарославска област
     'no': Jaroslavl
   comments:
+  type: administrative_region
 YEV:
   name: Yevreyskaya avtonomnaya oblast'
-  code:
+  code: YEV
   unofficial_names:
   - Jevrejskaja Oblast
   - Jevrejskaja Respublika
@@ -6804,9 +6885,10 @@ YEV:
     mk: Еврејска автономна област
     'no': Den jødiske autonome oblast
   comments:
+  type: autonomous_district
 ZAB:
   name: Zabaykal'skij kray
-  code:
+  code: ZAB
   unofficial_names:
   - Zabajkal'skij kraj
   - Zabajkal'skij
@@ -6886,3 +6968,4 @@ ZAB:
     mk: Забајкалски крај
     'no': Zabajkalskij
   comments:
+  type: administrative_territory

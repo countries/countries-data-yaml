@@ -1,7 +1,7 @@
 ---
 AMA:
   name: Amazonas
-  code:
+  code: AMA
   unofficial_names: Amazonas
   geo:
     latitude: -1.4429123
@@ -68,9 +68,10 @@ AMA:
     'no': Amazonas
     yo_BJ: Amazonas Department
   comments:
+  type: department
 ANT:
   name: Antioquia
-  code:
+  code: ANT
   unofficial_names: Antioquia
   geo:
     latitude: 7.1986064
@@ -142,9 +143,10 @@ ANT:
     'no': Antioquia
     yo_BJ: Antioquia Department
   comments:
+  type: department
 ARA:
   name: Arauca
-  code:
+  code: ARA
   unofficial_names: Arauca
   geo:
     latitude: 7.079371
@@ -209,9 +211,10 @@ ARA:
     'no': Arauca
     yo_BJ: Arauca Department
   comments:
+  type: department
 ATL:
   name: Atlántico
-  code:
+  code: ATL
   unofficial_names: Atlántico
   geo:
     latitude: 10.6966159
@@ -277,9 +280,10 @@ ATL:
     'no': Atlántico
     yo_BJ: Atlántico Department
   comments:
+  type: department
 BOL:
   name: Bolívar
-  code:
+  code: BOL
   unofficial_names: Bolívar
   geo:
     latitude: 8.6704382
@@ -343,9 +347,10 @@ BOL:
     'no': Bolívar
     yo_BJ: Bolívar Department
   comments:
+  type: department
 BOY:
   name: Boyacá
-  code:
+  code: BOY
   unofficial_names: Boyacá
   geo:
     latitude: 5.45
@@ -409,9 +414,10 @@ BOY:
     'no': Boyacá
     yo_BJ: Boyacá Department
   comments:
+  type: department
 CAL:
   name: Caldas
-  code:
+  code: CAL
   unofficial_names: Caldas
   geo:
     latitude: 5.4815477
@@ -474,9 +480,10 @@ CAL:
     'no': Caldas
     yo_BJ: Caldas Department
   comments:
+  type: department
 CAQ:
   name: Caquetá
-  code:
+  code: CAQ
   unofficial_names: Caquetá
   geo:
     latitude: 0.869892
@@ -538,9 +545,10 @@ CAQ:
     'no': Caquetá
     yo_BJ: Caquetá Department
   comments:
+  type: department
 CAS:
   name: Casanare
-  code:
+  code: CAS
   unofficial_names: Casanare
   geo:
     latitude: 5.7589269
@@ -601,9 +609,10 @@ CAS:
     'no': Casanare
     yo_BJ: Casanare Department
   comments:
+  type: department
 CAU:
   name: Cauca
-  code:
+  code: CAU
   unofficial_names: Cauca
   geo:
     latitude: 2.5725523
@@ -667,9 +676,10 @@ CAU:
     'no': Cauca
     yo_BJ: Cauca Department
   comments:
+  type: department
 CES:
   name: Cesar
-  code:
+  code: CES
   unofficial_names: Cesar
   geo:
     latitude: 9.3372948
@@ -731,9 +741,10 @@ CES:
     'no': Cesar
     yo_BJ: Cesar Department
   comments:
+  type: department
 CHO:
   name: Chocó
-  code:
+  code: CHO
   unofficial_names: Chocó
   geo:
     latitude: 5.2528033
@@ -797,9 +808,10 @@ CHO:
     'no': Chocó
     yo_BJ: Chocó Department
   comments:
+  type: department
 COR:
   name: Córdoba
-  code:
+  code: COR
   unofficial_names: Córdoba
   geo:
     latitude: 8.4029253
@@ -861,9 +873,10 @@ COR:
     'no': Córdoba
     yo_BJ: Córdoba Department
   comments:
+  type: department
 CUN:
   name: Cundinamarca
-  code:
+  code: CUN
   unofficial_names: Cundinamarca
   geo:
     latitude: 5.026002999999999
@@ -925,9 +938,10 @@ CUN:
     'no': Cundinamarca
     yo_BJ: Cundinamarca Department
   comments:
+  type: department
 DC:
   name: Distrito Capital de Bogotá
-  code:
+  code: DC
   unofficial_names:
   - Santafé de Bogotá Distrito Capital
   geo:
@@ -1021,9 +1035,10 @@ DC:
     'no': Bogotá
     yo_BJ: Bogotá
   comments:
+  type: capital_district
 GUA:
   name: Guainía
-  code:
+  code: GUA
   unofficial_names: Guainía
   geo:
     latitude: 2.585393
@@ -1083,9 +1098,10 @@ GUA:
     'no': Guainía
     yo_BJ: Guainía Department
   comments:
+  type: department
 GUV:
   name: Guaviare
-  code:
+  code: GUV
   unofficial_names: Guaviare
   geo:
     latitude: 1.0619181
@@ -1146,9 +1162,10 @@ GUV:
     'no': Guaviare
     yo_BJ: Guaviare Department
   comments:
+  type: department
 HUI:
   name: Huila
-  code:
+  code: HUI
   unofficial_names: Huila
   geo:
     latitude: 2.5359349
@@ -1209,9 +1226,10 @@ HUI:
     'no': Huila
     yo_BJ: Huila Department
   comments:
+  type: department
 LAG:
   name: La Guajira
-  code:
+  code: LAG
   unofficial_names: La Guajira
   geo:
     latitude: 11.3547743
@@ -1271,9 +1289,10 @@ LAG:
     'no': La Guajira
     yo_BJ: La Guajira Department
   comments:
+  type: department
 MAG:
   name: Magdalena
-  code:
+  code: MAG
   unofficial_names: Magdalena
   geo:
     latitude: 10.4113014
@@ -1340,9 +1359,10 @@ MAG:
     'no': Magdalena
     yo_BJ: Magdalena Department
   comments:
+  type: department
 MET:
   name: Meta
-  code:
+  code: MET
   unofficial_names: Meta
   geo:
     latitude: 3.2719904
@@ -1403,9 +1423,10 @@ MET:
     'no': Meta
     yo_BJ: Meta Department
   comments:
+  type: department
 NAR:
   name: Nariño
-  code:
+  code: NAR
   unofficial_names: Nariño
   geo:
     latitude: 1.289822
@@ -1469,9 +1490,10 @@ NAR:
     'no': Nariño
     yo_BJ: Nariño Department
   comments:
+  type: department
 NSA:
   name: Norte de Santander
-  code:
+  code: NSA
   unofficial_names: Norte de Santander
   geo:
     latitude: 7.9462831
@@ -1534,9 +1556,10 @@ NSA:
     'no': Norte de Santander
     yo_BJ: Norte de Santander Department
   comments:
+  type: department
 PUT:
   name: Putumayo
-  code:
+  code: PUT
   unofficial_names: Putumayo
   geo:
     latitude: 0.4359506
@@ -1597,9 +1620,10 @@ PUT:
     'no': Putumayo
     yo_BJ: Putumayo Department
   comments:
+  type: department
 QUI:
   name: Quindío
-  code:
+  code: QUI
   unofficial_names: Quindío
   geo:
     latitude: 4.4610191
@@ -1660,9 +1684,10 @@ QUI:
     'no': Quindío
     yo_BJ: Quindío Department
   comments:
+  type: department
 RIS:
   name: Risaralda
-  code:
+  code: RIS
   unofficial_names: Risaralda
   geo:
     latitude: 4.99243
@@ -1723,9 +1748,10 @@ RIS:
     'no': Risaralda
     yo_BJ: Risaralda Department
   comments:
+  type: department
 SAN:
   name: Santander
-  code:
+  code: SAN
   unofficial_names: Santander
   geo:
     latitude: 6.6437076
@@ -1785,9 +1811,10 @@ SAN:
     'no': Santander
     yo_BJ: Santander Department
   comments:
+  type: department
 SAP:
   name: San Andrés, Providencia y Santa Catalina
-  code:
+  code: SAP
   unofficial_names: San Andrés, Providencia y Santa Catalina
   geo:
     latitude: 13.35395
@@ -1853,9 +1880,10 @@ SAP:
     'no': San Andrés y Providencia
     yo_BJ: San Andrés, Providencia àti Santa Catalina
   comments:
+  type: department
 SUC:
   name: Sucre
-  code:
+  code: SUC
   unofficial_names: Sucre
   geo:
     latitude: 8.813889999999999
@@ -1915,9 +1943,10 @@ SUC:
     'no': Sucre
     yo_BJ: Sucre Department
   comments:
+  type: department
 TOL:
   name: Tolima
-  code:
+  code: TOL
   unofficial_names: Tolima
   geo:
     latitude: 4.092516799999999
@@ -1978,9 +2007,10 @@ TOL:
     'no': Tolima
     yo_BJ: Tolima Department
   comments:
+  type: department
 VAC:
   name: Valle del Cauca
-  code:
+  code: VAC
   unofficial_names: Valle del Cauca
   geo:
     latitude: 3.8008893
@@ -2043,9 +2073,10 @@ VAC:
     'no': Valle del Cauca
     yo_BJ: Valle del Cauca Department
   comments:
+  type: department
 VAU:
   name: Vaupés
-  code:
+  code: VAU
   unofficial_names: Vaupés
   geo:
     latitude: 0.8553561
@@ -2106,9 +2137,10 @@ VAU:
     'no': Vaupés
     yo_BJ: Vaupés Department
   comments:
+  type: department
 VID:
   name: Vichada
-  code:
+  code: VID
   unofficial_names: Vichada
   geo:
     latitude: 4.4234452
@@ -2168,3 +2200,4 @@ VID:
     'no': Vichada
     yo_BJ: Vichada Department
   comments:
+  type: department

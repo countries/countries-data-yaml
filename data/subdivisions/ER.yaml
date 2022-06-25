@@ -1,7 +1,7 @@
 ---
 AN:
   name: Anseba
-  code:
+  code: AN
   unofficial_names: Anseba
   geo:
     latitude: 16.4745531
@@ -59,9 +59,10 @@ AN:
     yue: 安塞巴地區
     'no': Anseba
   comments:
+  type: region
 DK:
   name: Debubawi Keyih Bahri [Debub-Keih-Bahri]
-  code:
+  code: DK
   unofficial_names: Debubawi Keyih Bahri [Debub-Keih-Bahri]
   geo:
     latitude: 13.5137103
@@ -120,9 +121,10 @@ DK:
     yue: 南紅海地區
     'no': Debubawi Keyih Bahri
   comments:
+  type: region
 DU:
   name: Debub
-  code:
+  code: DU
   unofficial_names: Debub
   geo:
     latitude: 14.9478692
@@ -180,9 +182,10 @@ DU:
     yue: 南部地區
     'no': Debub
   comments:
+  type: region
 GB:
   name: Gash-Barka
-  code:
+  code: GB
   unofficial_names: Gash-Barka
   geo:
     latitude: 15.4068825
@@ -239,9 +242,10 @@ GB:
     yue: 加什-巴爾卡地區
     'no': Gash-Barka
   comments:
+  type: region
 MA:
   name: Maakel [Maekel]
-  code:
+  code: MA
   unofficial_names: Maakel [Maekel]
   geo:
     latitude: 15.3551409
@@ -299,9 +303,10 @@ MA:
     yue: 中部地區
     'no': Maekel
   comments:
+  type: region
 SK:
   name: Semenawi Keyih Bahri [Semien-Keih-Bahri]
-  code:
+  code: SK
   unofficial_names: Semenawi Keyih Bahri [Semien-Keih-Bahri]
   geo:
     latitude: 16.2583997
@@ -359,3 +364,4 @@ SK:
     yue: 北紅海地區
     'no': Semenawi Keyih Bahri
   comments:
+  type: region

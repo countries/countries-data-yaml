@@ -1,7 +1,7 @@
 ---
 '10':
   name: Krung Thep Maha Nakhon [Bangkok]
-  code:
+  code: '10'
   unofficial_names:
   - Krung Thep
   - Bangkok
@@ -103,9 +103,10 @@
     'no': Bangkok
     yo_BJ: Bangkok
   comments:
+  type: metropolitan_administration
 '11':
   name: Samut Prakan
-  code:
+  code: '11'
   unofficial_names: Samut Prakan
   geo:
     latitude: 13.5990961
@@ -161,9 +162,10 @@
     yue: 北欖府
     'no': Samut Prakan
   comments:
+  type: province
 '12':
   name: Nonthaburi
-  code:
+  code: '12'
   unofficial_names: Nonthaburi
   geo:
     latitude: 13.8621125
@@ -222,9 +224,10 @@
     mk: Нонтабури
     'no': Nonthaburi
   comments:
+  type: province
 '13':
   name: Pathum Thani
-  code:
+  code: '13'
   unofficial_names: Pathum Thani
   geo:
     latitude: 14.0208391
@@ -280,9 +283,10 @@
     yue: 巴吞他尼府
     'no': Pathum Thani
   comments:
+  type: province
 '14':
   name: Phra Nakhon Si Ayutthaya
-  code:
+  code: '14'
   unofficial_names: Phra Nakhon Si Ayutthaya
   geo:
     latitude: 14.3532128
@@ -340,9 +344,10 @@
     yue: 大城府
     'no': Ayutthaya
   comments:
+  type: province
 '15':
   name: Ang Thong
-  code:
+  code: '15'
   unofficial_names: Ang Thong
   geo:
     latitude: 14.5896054
@@ -399,9 +404,10 @@
     yue: 紅統府
     'no': Ang Thong
   comments:
+  type: province
 '16':
   name: Lop Buri
-  code:
+  code: '16'
   unofficial_names: Lop Buri
   geo:
     latitude: 14.7995081
@@ -458,9 +464,10 @@
     yue: 華富里府
     'no': Lop Buri
   comments:
+  type: province
 '17':
   name: Sing Buri
-  code:
+  code: '17'
   unofficial_names: Sing Buri
   geo:
     latitude: 14.8936253
@@ -516,9 +523,10 @@
     yue: 信武里府
     'no': Sing Buri
   comments:
+  type: province
 '18':
   name: Chai Nat
-  code:
+  code: '18'
   unofficial_names:
   - Chainat
   - Jainat
@@ -577,9 +585,10 @@
     yue: 猜納府
     'no': Chainat
   comments:
+  type: province
 '19':
   name: Saraburi
-  code:
+  code: '19'
   unofficial_names: Saraburi
   geo:
     latitude: 14.5289154
@@ -636,9 +645,10 @@
     yue: 北標府
     'no': Saraburi
   comments:
+  type: province
 '20':
   name: Chon Buri
-  code:
+  code: '20'
   unofficial_names: Chon Buri
   geo:
     latitude: 13.3611431
@@ -697,9 +707,10 @@
     my: ချွန်ဘူရီ ပြည်နယ်
     'no': Chonburi
   comments:
+  type: province
 '21':
   name: Rayong
-  code:
+  code: '21'
   unofficial_names: Rayong
   geo:
     latitude: 12.707434
@@ -772,9 +783,10 @@
     yue: 羅勇府
     'no': Rayong
   comments:
+  type: province
 '22':
   name: Chanthaburi
-  code:
+  code: '22'
   unofficial_names: Chanthaburi
   geo:
     latitude: 12.6112485
@@ -833,9 +845,10 @@
     yue: 尖竹汶府
     'no': Chanthaburi
   comments:
+  type: province
 '23':
   name: Trat
-  code:
+  code: '23'
   unofficial_names: Trat
   geo:
     latitude: 12.2427563
@@ -892,9 +905,10 @@
     yue: 桐艾
     'no': Trat
   comments:
+  type: province
 '24':
   name: Chachoengsao
-  code:
+  code: '24'
   unofficial_names: Chachoengsao
   geo:
     latitude: 13.6904194
@@ -951,9 +965,10 @@
     yue: 北柳府
     'no': Chachoengsao
   comments:
+  type: province
 '25':
   name: Prachin Buri
-  code:
+  code: '25'
   unofficial_names: Prachin Buri
   geo:
     latitude: 14.0420699
@@ -1010,9 +1025,10 @@
     yue: 巴真府
     'no': Prachinburi
   comments:
+  type: province
 '26':
   name: Nakhon Nayok
-  code:
+  code: '26'
   unofficial_names: Nakhon Nayok
   geo:
     latitude: 14.2038387
@@ -1069,9 +1085,10 @@
     yue: 坤西育府
     'no': Nakhon Nayok
   comments:
+  type: province
 '27':
   name: Sa Kaeo
-  code:
+  code: '27'
   unofficial_names: Sa Kaeo
   geo:
     latitude: 13.8240407
@@ -1128,9 +1145,10 @@
     yue: 沙繳府
     'no': Sa Kaeo
   comments:
+  type: province
 '30':
   name: Nakhon Ratchasima
-  code:
+  code: '30'
   unofficial_names: Nakhon Ratchasima
   geo:
     latitude: 14.9798997
@@ -1186,9 +1204,10 @@
     yue: 呵叻府
     'no': Nakhon Ratchasima
   comments:
+  type: province
 '31':
   name: Buri Ram
-  code:
+  code: '31'
   unofficial_names: Buri Ram
   geo:
     latitude: 14.9930017
@@ -1245,9 +1264,10 @@
     yue: 武里喃府
     'no': Buriram
   comments:
+  type: province
 '32':
   name: Surin
-  code:
+  code: '32'
   unofficial_names: Surin
   geo:
     latitude: 14.882905
@@ -1304,9 +1324,10 @@
     yue: 素輦府
     'no': Surin
   comments:
+  type: province
 '33':
   name: Si Sa Ket
-  code:
+  code: '33'
   unofficial_names: Si Sa Ket
   geo:
     latitude: 15.1186009
@@ -1362,9 +1383,10 @@
     yue: 四色菊府
     'no': Sisaket
   comments:
+  type: province
 '34':
   name: Ubon Ratchathani
-  code:
+  code: '34'
   unofficial_names: Ubon Ratchathani
   geo:
     latitude: 15.2286861
@@ -1422,9 +1444,10 @@
     yue: 烏汶府
     'no': Ubon Ratchathani
   comments:
+  type: province
 '35':
   name: Yasothon
-  code:
+  code: '35'
   unofficial_names: Yasothon
   geo:
     latitude: 15.792641
@@ -1480,9 +1503,10 @@
     yue: 益梭通府
     'no': Yasothon
   comments:
+  type: province
 '36':
   name: Chaiyaphum
-  code:
+  code: '36'
   unofficial_names: Chaiyaphum
   geo:
     latitude: 15.8068173
@@ -1538,9 +1562,10 @@
     yue: 猜也賁府
     'no': Chaiyaphum
   comments:
+  type: province
 '37':
   name: Amnat Charoen
-  code:
+  code: '37'
   unofficial_names: Amnat Charoen
   geo:
     latitude: 15.8656783
@@ -1596,9 +1621,67 @@
     yue: 安納乍能府
     'no': Amnat Charoen
   comments:
+  type: province
+'38':
+  name: จังหวัดบึงกาฬ
+  code: '38'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: بوينغ كان
+    bn: বুয়েং কান
+    da: Bueng Kan
+    de: Bueng Kan
+    el: Μπουένγκ Καν
+    en: Bueng Kan
+    es: Bueng Kan
+    fi: Bueng Kan
+    fr: Province de Bueng Kan
+    gl: Provincia Bueng Kan
+    gu: બુએન કાન
+    hi: बुएंग कान प्रान्त
+    id: Provinsi Bueng Kan
+    it: provincia di Bueng Kan
+    ja: ブンカーン県
+    kn: ಬುಯಿಂಗ್ ಕನ್
+    ko: 븡깐 주
+    lo: ຈັງຫວັດບຶງການ
+    mr: बुइंग कान
+    ms: Bueng Kan
+    nb: Bungkan
+    nl: Bueng Kan
+    pl: Bueng Kan
+    pt: Bungkan
+    ro: Provincia Bueng Kan
+    ru: Бунгкан
+    si: බුඑන්ග් කාන්
+    sv: Bueng Kan
+    ta: புயெங் காண்
+    te: బుయెంగ్ కాన్
+    th: จังหวัดบึงกาฬ
+    tr: Bueng Kan
+    ur: صوبہ بوئنگ کان
+    vi: Bueng Kan (tỉnh)
+    zh: 汶干府
+    lv: Bungkana
+    ceb: Changwat Bueng Kan
+    lt: Bung Kanas
+    yue_Hans: 汶干府
+    ccp: "\U0001111D\U0001112A\U00011120\U0001112C\U00011101 \U00011107\U0001111A\U00011134"
+    uk: Провінція Бунгкан
+    yue: 汶幹府
+    'no': Bungkan
+  comments:
+  type: province
 '39':
   name: Nong Bua Lam Phu
-  code:
+  code: '39'
   unofficial_names: Nong Bua Lam Phu
   geo:
     latitude: 17.2218247
@@ -1655,9 +1738,10 @@
     yue: 廊磨喃蒲府
     'no': Nongbua Lamphu
   comments:
+  type: province
 '40':
   name: Khon Kaen
-  code:
+  code: '40'
   unofficial_names: Khon Kaen
   geo:
     latitude: 16.4419355
@@ -1714,9 +1798,10 @@
     yue: 坤敬府
     'no': Khon Kaen
   comments:
+  type: province
 '41':
   name: Udon Thani
-  code:
+  code: '41'
   unofficial_names: Udon Thani
   geo:
     latitude: 17.4138413
@@ -1774,9 +1859,10 @@
     yue: 烏隆府
     'no': Udon Thani
   comments:
+  type: province
 '42':
   name: Loei
-  code:
+  code: '42'
   unofficial_names: Loei
   geo:
     latitude: 17.4860232
@@ -1832,9 +1918,10 @@
     yue: 黎府
     'no': Loei
   comments:
+  type: province
 '43':
   name: Nong Khai
-  code:
+  code: '43'
   unofficial_names: Nong Khai
   geo:
     latitude: 17.8782803
@@ -1890,9 +1977,10 @@
     yue: 廊開府
     'no': Nong Khai
   comments:
+  type: province
 '44':
   name: Maha Sarakham
-  code:
+  code: '44'
   unofficial_names: Maha Sarakham
   geo:
     latitude: 16.0132015
@@ -1949,9 +2037,10 @@
     yue: 嗎哈沙拉堪府
     'no': Maha Sarakham
   comments:
+  type: province
 '45':
   name: Roi Et
-  code:
+  code: '45'
   unofficial_names: Roi Et
   geo:
     latitude: 16.0538196
@@ -2006,9 +2095,10 @@
     yue: 橫逸府
     'no': Roi Et
   comments:
+  type: province
 '46':
   name: Kalasin
-  code:
+  code: '46'
   unofficial_names: Kalasin
   geo:
     latitude: 16.434167
@@ -2065,9 +2155,10 @@
     yue: 加拉信府
     'no': Kalasin
   comments:
+  type: province
 '47':
   name: Sakon Nakhon
-  code:
+  code: '47'
   unofficial_names: Sakon Nakhon
   geo:
     latitude: 17.1545995
@@ -2123,9 +2214,10 @@
     yue: 色軍府
     'no': Sakon Nakhon
   comments:
+  type: province
 '48':
   name: Nakhon Phanom
-  code:
+  code: '48'
   unofficial_names: Nakhon Phanom
   geo:
     latitude: 17.392039
@@ -2181,9 +2273,10 @@
     yue: 那空拍儂府
     'no': Nakhon Phanom
   comments:
+  type: province
 '49':
   name: Mukdahan
-  code:
+  code: '49'
   unofficial_names: Mukdahan
   geo:
     latitude: 16.5695723
@@ -2239,9 +2332,10 @@
     yue: 莫拉限府
     'no': Mukdahan
   comments:
+  type: province
 '50':
   name: Chiang Mai
-  code:
+  code: '50'
   unofficial_names:
   - Chiangmai
   - Chiengmai
@@ -2304,9 +2398,10 @@
     yue: 清邁府
     'no': Chiang Mai
   comments:
+  type: province
 '51':
   name: Lamphun
-  code:
+  code: '51'
   unofficial_names: Lamphun
   geo:
     latitude: 18.5744606
@@ -2364,9 +2459,10 @@
     yue: 南奔府
     'no': Lamphun
   comments:
+  type: province
 '52':
   name: Lampang
-  code:
+  code: '52'
   unofficial_names: Lampang
   geo:
     latitude: 18.2888404
@@ -2424,9 +2520,10 @@
     yue: 南邦府
     'no': Lampang
   comments:
+  type: province
 '53':
   name: Uttaradit
-  code:
+  code: '53'
   unofficial_names: Uttaradit
   geo:
     latitude: 17.6200886
@@ -2483,9 +2580,10 @@
     yue: 程逸府
     'no': Uttaradit
   comments:
+  type: province
 '54':
   name: Phrae
-  code:
+  code: '54'
   unofficial_names: Phrae
   geo:
     latitude: 18.1445774
@@ -2542,9 +2640,10 @@
     yue: 帕府
     'no': Phrae
   comments:
+  type: province
 '55':
   name: Nan
-  code:
+  code: '55'
   unofficial_names: Nan
   geo:
     latitude: 18.7756318
@@ -2602,9 +2701,10 @@
     yue: 楠府
     'no': Nan
   comments:
+  type: province
 '56':
   name: Phayao
-  code:
+  code: '56'
   unofficial_names: Phayao
   geo:
     latitude: 19.2154367
@@ -2661,9 +2761,10 @@
     yue: 拍天府
     'no': Phayao
   comments:
+  type: province
 '57':
   name: Chiang Rai
-  code:
+  code: '57'
   unofficial_names:
   - Chianpai
   - Chienrai
@@ -2726,9 +2827,10 @@
     yue: 清萊
     'no': Chiang Rai
   comments:
+  type: province
 '58':
   name: Mae Hong Son
-  code:
+  code: '58'
   unofficial_names: Mae Hong Son
   geo:
     latitude: 19.3020296
@@ -2785,9 +2887,10 @@
     yue: 湄宏順府
     'no': Mae Hong Son
   comments:
+  type: province
 '60':
   name: Nakhon Sawan
-  code:
+  code: '60'
   unofficial_names: Nakhon Sawan
   geo:
     latitude: 15.6930072
@@ -2844,9 +2947,10 @@
     mk: Након Саван
     'no': Nakhon Sawan
   comments:
+  type: province
 '61':
   name: Uthai Thani
-  code:
+  code: '61'
   unofficial_names: Uthai Thani
   geo:
     latitude: 15.3835001
@@ -2902,9 +3006,10 @@
     yue: 烏泰他尼府
     'no': Uthai Thani
   comments:
+  type: province
 '62':
   name: Kamphaeng Phet
-  code:
+  code: '62'
   unofficial_names: Kamphaeng Phet
   geo:
     latitude: 16.4827798
@@ -2960,9 +3065,10 @@
     yue: 甘烹碧府
     'no': Kamphaeng Phet
   comments:
+  type: province
 '63':
   name: Tak
-  code:
+  code: '63'
   unofficial_names: Tak
   geo:
     latitude: 16.8839901
@@ -3020,9 +3126,10 @@
     yue: 來興府
     'no': Tak
   comments:
+  type: province
 '64':
   name: Sukhothai
-  code:
+  code: '64'
   unofficial_names:
   - Sakhothai
   geo:
@@ -3080,9 +3187,10 @@
     yue: 素可泰府
     'no': Sukhothai
   comments:
+  type: province
 '65':
   name: Phitsanulok
-  code:
+  code: '65'
   unofficial_names: Phitsanulok
   geo:
     latitude: 16.8211238
@@ -3140,9 +3248,10 @@
     yue: 彭世洛府
     'no': Phitsanulok
   comments:
+  type: province
 '66':
   name: Phichit
-  code:
+  code: '66'
   unofficial_names: Phichit
   geo:
     latitude: 16.2740876
@@ -3198,9 +3307,10 @@
     yue: 披集府
     'no': Phichit
   comments:
+  type: province
 '67':
   name: Phetchabun
-  code:
+  code: '67'
   unofficial_names: Phetchabun
   geo:
     latitude: 16.301669
@@ -3256,9 +3366,10 @@
     yue: 碧差汶府
     'no': Phetchabun
   comments:
+  type: province
 '70':
   name: Ratchaburi
-  code:
+  code: '70'
   unofficial_names: Ratchaburi
   geo:
     latitude: 13.5282893
@@ -3315,9 +3426,10 @@
     yue: 叻丕府
     'no': Ratchaburi
   comments:
+  type: province
 '71':
   name: Kanchanaburi
-  code:
+  code: '71'
   unofficial_names: Kanchanaburi
   geo:
     latitude: 14.0227797
@@ -3375,9 +3487,10 @@
     yue: 北碧府
     'no': Kanchanaburi
   comments:
+  type: province
 '72':
   name: Suphan Buri
-  code:
+  code: '72'
   unofficial_names: Suphan Buri
   geo:
     latitude: 14.4744892
@@ -3433,9 +3546,10 @@
     yue: 素攀武里府
     'no': Suphan Buri
   comments:
+  type: province
 '73':
   name: Nakhon Pathom
-  code:
+  code: '73'
   unofficial_names: Nakhon Pathom
   geo:
     latitude: 13.8199206
@@ -3491,9 +3605,10 @@
     yue: 佛統府
     'no': Nakhon Pathom
   comments:
+  type: province
 '74':
   name: Samut Sakhon
-  code:
+  code: '74'
   unofficial_names: Samut Sakhon
   geo:
     latitude: 13.5475216
@@ -3549,9 +3664,10 @@
     yue: 龍仔厝府
     'no': Samut Sakhon
   comments:
+  type: province
 '75':
   name: Samut Songkhram
-  code:
+  code: '75'
   unofficial_names: Samut Songkhram
   geo:
     latitude: 13.4098217
@@ -3609,9 +3725,10 @@
     yue: 夜功府
     'no': Samut Songkhram
   comments:
+  type: province
 '76':
   name: Phetchaburi
-  code:
+  code: '76'
   unofficial_names: Phetchaburi
   geo:
     latitude: 12.9649215
@@ -3669,9 +3786,10 @@
     yue: 佛丕府
     'no': Phetchaburi
   comments:
+  type: province
 '77':
   name: Prachuap Khiri Khan
-  code:
+  code: '77'
   unofficial_names: Prachuap Khiri Khan
   geo:
     latitude: 11.816667
@@ -3731,9 +3849,10 @@
     yue: 班武里府
     'no': Prachuap Khiri Khan
   comments:
+  type: province
 '80':
   name: Nakhon Si Thammarat
-  code:
+  code: '80'
   unofficial_names: Nakhon Si Thammarat
   geo:
     latitude: 8.4303975
@@ -3791,9 +3910,10 @@
     yue: 洛坤府
     'no': Nakhon Si Thammarat
   comments:
+  type: province
 '81':
   name: Krabi
-  code:
+  code: '81'
   unofficial_names: Krabi
   geo:
     latitude: 8.0862997
@@ -3852,9 +3972,10 @@
     yue: 甲米府
     'no': Krabi
   comments:
+  type: province
 '82':
   name: Phangnga
-  code:
+  code: '82'
   unofficial_names: Phangnga
   geo:
     latitude: 8.4501414
@@ -3911,9 +4032,10 @@
     yue: 攀牙府
     'no': Phang Nga
   comments:
+  type: province
 '83':
   name: Phuket
-  code:
+  code: '83'
   unofficial_names: Phuket
   geo:
     latitude: 7.9519331
@@ -3981,9 +4103,10 @@
     yue: 布吉府
     'no': Phuket
   comments:
+  type: province
 '84':
   name: Surat Thani
-  code:
+  code: '84'
   unofficial_names: Surat Thani
   geo:
     latitude: 9.1382389
@@ -4043,9 +4166,10 @@
     yue: 素叻府
     'no': Surat Thani
   comments:
+  type: province
 '85':
   name: Ranong
-  code:
+  code: '85'
   unofficial_names: Ranong
   geo:
     latitude: 9.9528702
@@ -4102,9 +4226,10 @@
     yue: 拉廊府
     'no': Ranong
   comments:
+  type: province
 '86':
   name: Chumphon
-  code:
+  code: '86'
   unofficial_names: Chumphon
   geo:
     latitude: 10.4930496
@@ -4160,9 +4285,10 @@
     yue: 春蓬府
     'no': Chumphon
   comments:
+  type: province
 '90':
   name: Songkhla
-  code:
+  code: '90'
   unofficial_names: Songkhla
   geo:
     latitude: 7.1756004
@@ -4219,9 +4345,10 @@
     yue: 宋卡府
     'no': Songkhla
   comments:
+  type: province
 '91':
   name: Satun
-  code:
+  code: '91'
   unofficial_names: Satun
   geo:
     latitude: 6.6238158
@@ -4277,9 +4404,10 @@
     yue: 沙敦府
     'no': Satun
   comments:
+  type: province
 '92':
   name: Trang
-  code:
+  code: '92'
   unofficial_names: Trang
   geo:
     latitude: 7.5593851
@@ -4336,9 +4464,10 @@
     yue: 董里府
     'no': Trang
   comments:
+  type: province
 '93':
   name: Phatthalung
-  code:
+  code: '93'
   unofficial_names: Phatthalung
   geo:
     latitude: 7.6166823
@@ -4394,9 +4523,10 @@
     yue: 博他侖府
     'no': Phattalung
   comments:
+  type: province
 '94':
   name: Pattani
-  code:
+  code: '94'
   unofficial_names: Pattani
   geo:
     latitude: 6.761830799999999
@@ -4454,9 +4584,10 @@
     az: Pattani
     'no': Pattani
   comments:
+  type: province
 '95':
   name: Yala
-  code:
+  code: '95'
   unofficial_names: Yala
   geo:
     latitude: 6.541147
@@ -4513,9 +4644,10 @@
     yue: 惹拉府
     'no': Yala
   comments:
+  type: province
 '96':
   name: Narathiwat
-  code:
+  code: '96'
   unofficial_names: Narathiwat
   geo:
     latitude: 6.4254607
@@ -4573,9 +4705,10 @@
     yue: 陶公府
     'no': Narathiwat
   comments:
+  type: province
 S:
   name: Phatthaya
-  code:
+  code: S
   unofficial_names: Phatthaya
   geo:
     latitude: 12.9276082
@@ -4645,59 +4778,4 @@ S:
     mk: Патаја
     'no': Pattaya
   comments:
-'38':
-  name: จังหวัดบึงกาฬ
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    ar: بوينغ كان
-    bn: বুয়েং কান
-    da: Bueng Kan
-    de: Bueng Kan
-    el: Μπουένγκ Καν
-    en: Bueng Kan
-    es: Bueng Kan
-    fi: Bueng Kan
-    fr: Province de Bueng Kan
-    gl: Provincia Bueng Kan
-    gu: બુએન કાન
-    hi: बुएंग कान प्रान्त
-    id: Provinsi Bueng Kan
-    it: provincia di Bueng Kan
-    ja: ブンカーン県
-    kn: ಬುಯಿಂಗ್ ಕನ್
-    ko: 븡깐 주
-    lo: ຈັງຫວັດບຶງການ
-    mr: बुइंग कान
-    ms: Bueng Kan
-    nb: Bungkan
-    nl: Bueng Kan
-    pl: Bueng Kan
-    pt: Bungkan
-    ro: Provincia Bueng Kan
-    ru: Бунгкан
-    si: බුඑන්ග් කාන්
-    sv: Bueng Kan
-    ta: புயெங் காண்
-    te: బుయెంగ్ కాన్
-    th: จังหวัดบึงกาฬ
-    tr: Bueng Kan
-    ur: صوبہ بوئنگ کان
-    vi: Bueng Kan (tỉnh)
-    zh: 汶干府
-    lv: Bungkana
-    ceb: Changwat Bueng Kan
-    lt: Bung Kanas
-    yue_Hans: 汶干府
-    ccp: "\U0001111D\U0001112A\U00011120\U0001112C\U00011101 \U00011107\U0001111A\U00011134"
-    uk: Провінція Бунгкан
-    yue: 汶幹府
-    'no': Bungkan
-  comments:
+  type: special_administrative_city

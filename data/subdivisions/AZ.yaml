@@ -1,21 +1,7 @@
 ---
-AB:
-  name: Äli Bayramli
-  code:
-  unofficial_names: Äli Bayramli
-  geo:
-    latitude: 39.931944
-    longitude: 48.920278
-    min_latitude: 39.8688393
-    min_longitude: 48.867445
-    max_latitude: 39.983434
-    max_longitude: 48.9807415
-  translations:
-    en: Äli Bayramli
-  comments:
 ABS:
   name: Abseron
-  code:
+  code: ABS
   unofficial_names: Abseron
   geo:
     latitude: 40.3629693
@@ -75,9 +61,10 @@ ABS:
     mk: Апшерон
     'no': Abşeron
   comments:
+  type: rayon
 AGA:
   name: Agstafa
-  code:
+  code: AGA
   unofficial_names: Agstafa
   geo:
     latitude: 41.118889
@@ -136,9 +123,10 @@ AGA:
     mk: Агстафа
     'no': Ağstafa
   comments:
+  type: rayon
 AGC:
   name: Agcabädi
-  code:
+  code: AGC
   unofficial_names: Agcabädi
   geo:
     latitude: 40.0257239
@@ -197,9 +185,10 @@ AGC:
     mk: Агџабеди
     'no': Aghjabadi distrikt
   comments:
+  type: rayon
 AGM:
   name: Agdam
-  code:
+  code: AGM
   unofficial_names: Agdam
   geo:
     latitude: 39.5554533
@@ -259,9 +248,10 @@ AGM:
     mk: Агдам
     'no': Ağdam
   comments:
+  type: rayon
 AGS:
   name: Agdas
-  code:
+  code: AGS
   unofficial_names: Agdas
   geo:
     latitude: 40.6335427
@@ -320,9 +310,10 @@ AGS:
     mk: Агдаш
     'no': Ağdaş
   comments:
+  type: rayon
 AGU:
   name: Agsu
-  code:
+  code: AGU
   unofficial_names: Agsu
   geo:
     latitude: 40.569167
@@ -381,9 +372,10 @@ AGU:
     mk: Агсу
     'no': Ağsu
   comments:
+  type: rayon
 AST:
   name: Astara
-  code:
+  code: AST
   unofficial_names: Astara
   geo:
     latitude: 38.45611100000001
@@ -442,9 +434,10 @@ AST:
     mk: Астара
     'no': Astara
   comments:
+  type: rayon
 BA:
   name: Baki
-  code:
+  code: BA
   unofficial_names: Baki
   geo:
     latitude: 40.40926169999999
@@ -537,9 +530,10 @@ BA:
     'no': Baku
     yo_BJ: Baku
   comments:
+  type: municipality
 BAB:
   name: Babäk
-  code:
+  code: BAB
   unofficial_names: Babäk
   geo:
     latitude: 39.1507613
@@ -595,9 +589,10 @@ BAB:
     mk: Бабек
     'no': Babək
   comments:
+  type: rayon
 BAL:
   name: Balakän
-  code:
+  code: BAL
   unofficial_names: Balakän
   geo:
     latitude: 41.725833
@@ -656,9 +651,10 @@ BAL:
     mk: Балакен
     'no': Balakən
   comments:
+  type: rayon
 BAR:
   name: Bärdä
-  code:
+  code: BAR
   unofficial_names: Bärdä
   geo:
     latitude: 40.3667
@@ -716,9 +712,10 @@ BAR:
     mk: Барда
     'no': Bərdə
   comments:
+  type: rayon
 BEY:
   name: Beyläqan
-  code:
+  code: BEY
   unofficial_names: Beyläqan
   geo:
     latitude: 39.766667
@@ -776,9 +773,10 @@ BEY:
     mk: Бејлеган
     'no': Beyləqan
   comments:
+  type: rayon
 BIL:
   name: Biläsuvar
-  code:
+  code: BIL
   unofficial_names: Biläsuvar
   geo:
     latitude: 39.45
@@ -834,9 +832,10 @@ BIL:
     mk: Биљасувар
     'no': Biləsuvar
   comments:
+  type: rayon
 CAB:
   name: Cäbrayil
-  code:
+  code: CAB
   unofficial_names: Cäbrayil
   geo:
     latitude: 39.2645544
@@ -893,9 +892,10 @@ CAB:
     mk: Џебраил
     'no': Cəbrayıl
   comments:
+  type: rayon
 CAL:
   name: Cälilabab
-  code:
+  code: CAL
   unofficial_names: Cälilabab
   geo:
     latitude: 39.218442
@@ -953,9 +953,10 @@ CAL:
     mk: Џелилабад
     'no': Cəlilabab
   comments:
+  type: rayon
 CUL:
   name: Culfa
-  code:
+  code: CUL
   unofficial_names: Culfa
   geo:
     latitude: 38.955833
@@ -1012,9 +1013,10 @@ CUL:
     mk: Џулфа
     'no': Culfa
   comments:
+  type: rayon
 DAS:
   name: Daskäsän
-  code:
+  code: DAS
   unofficial_names: Daskäsän
   geo:
     latitude: 40.5202257
@@ -1073,23 +1075,10 @@ DAS:
     mk: Дашкесен
     'no': Daşkəsən
   comments:
-DAV:
-  name: Däväçi
-  code:
-  unofficial_names: Däväçi
-  geo:
-    latitude: 41.2872222
-    longitude: 49.0747222
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    en: Däväçi
-  comments:
+  type: rayon
 FUZ:
   name: Füzuli
-  code:
+  code: FUZ
   unofficial_names: Füzuli
   geo:
     latitude: 39.6003
@@ -1147,9 +1136,10 @@ FUZ:
     mk: Физули
     'no': Füzuli
   comments:
+  type: rayon
 GA:
   name: Gäncä
-  code:
+  code: GA
   unofficial_names: Gäncä
   geo:
     latitude: 40.682778
@@ -1221,9 +1211,10 @@ GA:
     uz: Ganja
     'no': Gandsja
   comments:
+  type: municipality
 GAD:
   name: Gädäbäy
-  code:
+  code: GAD
   unofficial_names: Gädäbäy
   geo:
     latitude: 40.5087904
@@ -1282,9 +1273,10 @@ GAD:
     mk: Гедебеј
     'no': Gədəbəy
   comments:
+  type: rayon
 GOR:
   name: Goranboy
-  code:
+  code: GOR
   unofficial_names: Goranboy
   geo:
     latitude: 40.610278
@@ -1342,9 +1334,10 @@ GOR:
     mk: Горанбој
     'no': Goranboy
   comments:
+  type: rayon
 GOY:
   name: Göyçay
-  code:
+  code: GOY
   unofficial_names: Göyçay
   geo:
     latitude: 40.65309999999999
@@ -1400,9 +1393,54 @@ GOY:
     mk: Ѓојчај
     'no': Göyçay
   comments:
+  type: rayon
+GYG:
+  name: Göygöl
+  code: GYG
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    az: Göygöl
+    cs: Göygöl
+    de: Göygöl
+    en: Goygol
+    es: Göygöl
+    fa: شهرستان گوی‌گل
+    fi: Göygölin piirikunta
+    fr: Göygöl
+    id: Khanlar
+    it: distretto di Göygöl
+    ja: ギョイギョル県
+    ko: 괴이괼 구
+    ms: Khanlar
+    nb: Göygöl
+    nl: Göygöl
+    pl: Rejon Göygöl
+    pt: Goygol
+    ru: Гёйгёльский район
+    sr: Гогољски рејон
+    sv: Xanlar Rayonu
+    tr: Göygöl Rayonu
+    vi: Goygol
+    ceb: Goygol Rayon
+    sr_Latn: Gogoljski rejon
+    zh: 漢拉爾區
+    sq: Goygol
+    ccp: "\U00011109\U00011127\U00011120\U00011134\U00011109\U0001112E\U00011123\U00011134"
+    hy: Գոյգյոլի շրջան
+    mk: Ѓојѓол
+    'no': Göygöl
+  comments:
+  type: rayon
 HAC:
   name: Haciqabul
-  code:
+  code: HAC
   unofficial_names: Haciqabul
   geo:
     latitude: 40.043333
@@ -1460,9 +1498,10 @@ HAC:
     mk: Аџикабул
     'no': Hacıqabul
   comments:
+  type: rayon
 IMI:
   name: Imisli
-  code:
+  code: IMI
   unofficial_names: Imisli
   geo:
     latitude: 39.8692
@@ -1518,9 +1557,10 @@ IMI:
     mk: Имишли (округ)
     'no': İmişli (distrikt)
   comments:
+  type: rayon
 ISM:
   name: Ismayilli
-  code:
+  code: ISM
   unofficial_names: Ismayilli
   geo:
     latitude: 40.79
@@ -1576,9 +1616,10 @@ ISM:
     mk: Исмаили (округ)
     'no': İsmayıllı (distrikt)
   comments:
+  type: rayon
 KAL:
   name: Kälbäcär
-  code:
+  code: KAL
   unofficial_names: Kälbäcär
   geo:
     latitude: 40.1315615
@@ -1636,9 +1677,68 @@ KAL:
     mk: Келбеџер
     'no': Kəlbəcər
   comments:
+  type: rayon
+KAN:
+  name: Kəngərli
+  code: KAN
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: كنجة
+    az: Kəngərli
+    bn: কানগারলি জেলা
+    da: Kangarli District
+    de: Kəngərli
+    el: Κανγκαρλί
+    en: Kangarli
+    es: Kangarli
+    fa: شهرستان کنگرلی
+    fi: Kəngərlin piirikunta
+    fr: Kangarli
+    gu: કાન્ગરલી જિલ્લો
+    hi: कंगारली जिला
+    hy: Քենգերլիի շրջան
+    id: Kangarli
+    it: Distretto di Kəngərli
+    ja: キャンギャルリ県
+    kn: ಕಾಂಗಾರ್ಲಿ ಜಿಲ್ಲೆ
+    ko: 켄겔리 구
+    mr: कांगारली जिल्हा
+    ms: Kangarli
+    nb: Kəngərli
+    nl: Kəngərli
+    pl: Rejon Kəngərli
+    pt: Kangarli
+    ru: Кенгерлинский район
+    si: කන්ගාර්ලි දිස්ත්‍රික්කය
+    sr: Кенгерлински рејон
+    sv: Kangarli Rayon
+    ta: காங்கரலி மாவட்டம்
+    te: కంగార్లి జిల్లా
+    th: จังหวัดมานัส
+    tr: Kengerli Rayonu
+    uk: Кенгерлінський район
+    ur: کانجارلی ضلع
+    vi: Kangarli
+    lv: Kengerli rajons
+    ceb: Kangarli Rayon
+    sr_Latn: Kengerlinski rejon
+    lt: Kangarlio apskritis
+    zh: 坎加利區
+    ccp: "\U00011107\U0001110B\U00011134\U00011109\U00011122\U00011134\U00011123\U00011128"
+    mk: Кенгерли
+    'no': Kəngərli
+  comments:
+  type: rayon
 KUR:
   name: Kürdämir
-  code:
+  code: KUR
   unofficial_names: Kürdämir
   geo:
     latitude: 40.34
@@ -1693,9 +1793,10 @@ KUR:
     mk: Ќурдемир
     'no': Kürdəmir
   comments:
+  type: rayon
 LA:
   name: Länkäran City
-  code:
+  code: LA
   unofficial_names: Länkäran City
   geo:
     latitude: 38.753611
@@ -1751,9 +1852,10 @@ LA:
     mk: Ленкеран
     'no': Lənkəran
   comments:
+  type: municipality
 LAC:
   name: Laçin
-  code:
+  code: LAC
   unofficial_names: Laçin
   geo:
     latitude: 39.633333
@@ -1795,9 +1897,10 @@ LAC:
     mk: Лачин
     'no': Laçın
   comments:
+  type: rayon
 LAN:
   name: Länkäran
-  code:
+  code: LAN
   unofficial_names: Länkäran
   geo:
     latitude: 38.753611
@@ -1863,9 +1966,10 @@ LAN:
     uz: Lenkoran
     'no': Lənkəran²
   comments:
+  type: rayon
 LER:
   name: Lerik
-  code:
+  code: LER
   unofficial_names: Lerik
   geo:
     latitude: 38.7736192
@@ -1920,9 +2024,10 @@ LER:
     mk: Лерик
     'no': Lerik
   comments:
+  type: rayon
 MAS:
   name: Masalli
-  code:
+  code: MAS
   unofficial_names: Masalli
   geo:
     latitude: 39.033333
@@ -1977,9 +2082,10 @@ MAS:
     mk: Масали
     'no': Masallı
   comments:
+  type: rayon
 MI:
   name: Mingäçevir
-  code:
+  code: MI
   unofficial_names: Mingäçevir
   geo:
     latitude: 40.7702563
@@ -2043,9 +2149,10 @@ MI:
     be: Мінгечаур
     'no': Mingachevir
   comments:
+  type: municipality
 NA:
   name: Naftalan
-  code:
+  code: NA
   unofficial_names: Naftalan
   geo:
     latitude: 40.506667
@@ -2061,9 +2168,10 @@ NA:
     ceb: Naftalan
     ccp: "\U0001111A\U0001111B\U00011134\U00011111\U00011123\U00011127\U0001111A\U00011134"
   comments:
+  type: municipality
 NEF:
   name: Neftçala
-  code:
+  code: NEF
   unofficial_names: Neftçala
   geo:
     latitude: 39.358611
@@ -2118,9 +2226,84 @@ NEF:
     mk: Нефтчала
     'no': Neftçala
   comments:
+  type: rayon
+NV:
+  name: Naxçıvan
+  code: NV
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    af: Nachitsjewan
+    ar: نخجوان
+    az: Naxçıvan
+    be: Горад Нахічэвань
+    bg: Нахичеван
+    bn: নাখচিভান
+    ca: Naxçıvan
+    cs: Nachičevan
+    da: Nakhitjevan
+    de: Naxçıvan
+    el: Ναχιτσεβάν
+    en: Nakhchivan
+    es: Najicheván
+    et: Naxçıvan
+    fa: نخجوان
+    fi: Nahitševan
+    fr: Nakhitchevan
+    gl: Nakhichevan
+    gu: નખચિવેન
+    he: נחיצ׳יבאן
+    hi: नख़्चीवां
+    hu: Nahicseván
+    hy: Նախիջևան
+    id: Kota Nakhchivan
+    it: Naxçıvan
+    ja: ナヒチェヴァン
+    ka: ნახიჩევანი
+    kn: ನಖ್ಚಿವನ್
+    ko: 나히체반
+    lt: Nachičevanė
+    lv: Nahčivana
+    ml: നാഖ്ചിവൻ സിറ്റി
+    mr: नखचीवं
+    ms: Nakhchivan
+    nb: Nachitjevan
+    nl: Nachitsjevan
+    pl: Nachiczewan
+    pt: Naquichevão
+    ro: Naxcivan
+    ru: Нахичевань
+    si: නක්සිවන්
+    sk: Nachičevan
+    sr: Нахчиван
+    sv: Nachitjevan
+    ta: நஃகுசிவான்
+    te: నాక్చివన్
+    th: นาคีชีวัน
+    tr: Nahçıvan
+    uk: Нахічевань
+    ur: ناخچیوان (شہر)
+    vi: Nakhchivan
+    cy: Nakhchivan
+    ceb: Nakhchivan Autonomous Republic
+    sr_Latn: Nahčivan
+    zh: 納希切萬
+    ccp: "\U0001111A\U00011107\U00011134\U0001110C\U00011128\U0001111E\U00011127\U0001111A\U00011134"
+    ky: Нахичеван
+    eu: Nakhitxevan²
+    uz: Naxichevan (shahar)
+    'no': Nachitjevan
+  comments:
+  type: municipality
 NX:
   name: Naxçivan
-  code:
+  code: NX
   unofficial_names: Naxçivan
   geo:
     latitude: 39.208889
@@ -2195,9 +2378,10 @@ NX:
     bs: Nahičevan
     'no': Nakhitsjevan
   comments:
+  type: autonomous_republic
 OGU:
   name: Oguz
-  code:
+  code: OGU
   unofficial_names: Oguz
   geo:
     latitude: 41.070833
@@ -2254,9 +2438,10 @@ OGU:
     mk: Огуз
     'no': Oğuz
   comments:
+  type: rayon
 ORD:
   name: Ordubad
-  code:
+  code: ORD
   unofficial_names: Ordubad
   geo:
     latitude: 38.9
@@ -2313,9 +2498,10 @@ ORD:
     mk: Ордубад
     'no': Ordubad
   comments:
+  type: rayon
 QAB:
   name: Qäbälä
-  code:
+  code: QAB
   unofficial_names: Qäbälä
   geo:
     latitude: 40.9981633
@@ -2375,9 +2561,10 @@ QAB:
     mk: Кабала
     'no': Qəbələ
   comments:
+  type: rayon
 QAX:
   name: Qax
-  code:
+  code: QAX
   unofficial_names: Qax
   geo:
     latitude: 41.4225
@@ -2434,9 +2621,10 @@ QAX:
     mk: Ках
     'no': Qax
   comments:
+  type: rayon
 QAZ:
   name: Qazax
-  code:
+  code: QAZ
   unofficial_names: Qazax
   geo:
     latitude: 41.093333
@@ -2496,9 +2684,10 @@ QAZ:
     mk: Казах
     'no': Qazax
   comments:
+  type: rayon
 QBA:
   name: Quba
-  code:
+  code: QBA
   unofficial_names: Quba
   geo:
     latitude: 41.359722
@@ -2556,9 +2745,10 @@ QBA:
     mk: Куба
     'no': Quba
   comments:
+  type: rayon
 QBI:
   name: Qubadli
-  code:
+  code: QBI
   unofficial_names: Qubadli
   geo:
     latitude: 39.2713996
@@ -2615,9 +2805,10 @@ QBI:
     mk: Кубадли
     'no': Qubadlı
   comments:
+  type: rayon
 QOB:
   name: Qobustan
-  code:
+  code: QOB
   unofficial_names: Qobustan
   geo:
     latitude: 40.0877962
@@ -2674,9 +2865,10 @@ QOB:
     mk: Гобустан
     'no': Qobustan
   comments:
+  type: rayon
 QUS:
   name: Qusar
-  code:
+  code: QUS
   unofficial_names: Qusar
   geo:
     latitude: 41.426389
@@ -2733,9 +2925,10 @@ QUS:
     mk: Кусар
     'no': Qusar
   comments:
+  type: rayon
 SA:
   name: Säki City
-  code:
+  code: SA
   unofficial_names: Säki City
   geo:
     latitude: 34.0489281
@@ -2801,9 +2994,10 @@ SA:
     uz: Sheki
     'no': Şəki
   comments:
+  type: municipality
 SAB:
   name: Sabirabad
-  code:
+  code: SAB
   unofficial_names: Sabirabad
   geo:
     latitude: 40.012778
@@ -2862,9 +3056,10 @@ SAB:
     bg: Сабирабад (район)
     'no': Sabirabad
   comments:
+  type: rayon
 SAD:
   name: Sädäräk
-  code:
+  code: SAD
   unofficial_names: Sädäräk
   geo:
     latitude: 39.7175
@@ -2920,9 +3115,10 @@ SAD:
     mk: Седерек
     'no': Sədərək
   comments:
+  type: rayon
 SAH:
   name: Sahbuz
-  code:
+  code: SAH
   unofficial_names: Sahbuz
   geo:
     latitude: 39.407222
@@ -2976,9 +3172,10 @@ SAH:
     mk: Шахбуз (округ)
     'no': Şahbuz (distrikt)
   comments:
+  type: rayon
 SAK:
   name: Säki
-  code:
+  code: SAK
   unofficial_names: Säki
   geo:
     latitude: 41.1134662
@@ -3036,9 +3233,10 @@ SAK:
     mk: Шеки
     'no': Şəki²
   comments:
+  type: rayon
 SAL:
   name: Salyan
-  code:
+  code: SAL
   unofficial_names: Salyan
   geo:
     latitude: 39.595
@@ -3093,9 +3291,10 @@ SAL:
     mk: Саљан
     'no': Salyan
   comments:
+  type: rayon
 SAR:
   name: Särur
-  code:
+  code: SAR
   unofficial_names: Särur
   geo:
     latitude: 39.5687523
@@ -3137,9 +3336,10 @@ SAR:
     mk: Шерур
     'no': Şərur (distrikt)
   comments:
+  type: rayon
 SAT:
   name: Saatli
-  code:
+  code: SAT
   unofficial_names: Saatli
   geo:
     latitude: 39.930833
@@ -3194,9 +3394,70 @@ SAT:
     mk: Саатли
     'no': Saatlı
   comments:
+  type: rayon
+SBN:
+  name: Şabran (rayon)
+  code: SBN
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: مقاطعة شابران
+    az: Şabran (rayon)
+    bn: সাব্রান জেলা
+    cs: Šabran
+    da: Shabran District
+    de: Şabran (Rayon)
+    el: Σάμπραν
+    en: Shabran
+    es: Şabran (raión)
+    fa: دوه‌چی
+    fi: Şabranin piirikunta
+    fr: Şabran (raion)
+    gu: શબ્રાન જિલ્લો
+    hi: शबरान जिला
+    id: Davachi
+    it: distretto di Şabran
+    ja: ダヴァヒ県
+    kn: ಶಬ್ರಾನ್ ಜಿಲ್ಲೆ
+    ko: 샤브란 구
+    mn: Шабран аймаг
+    mr: शबरण जिल्हा
+    ms: Davachi
+    nb: Şabran
+    nl: Dəvəçi
+    pl: Rejon Dəvəçi
+    pt: Shabran
+    ro: Șabran
+    ru: Шабранский район
+    si: ශබ්රන් දිස්ත්‍රික්කය
+    sr: Шабрански рејон
+    sv: Shabran Rayon
+    ta: சாப்ரான் மாவட்டம்
+    te: షబ్రన్ జిల్లా
+    th: จังหวัดคอปเปอเบล
+    tr: Şabran rayonu
+    ur: شابران ضلع
+    vi: Quận Shabran
+    lv: Šabranas rajons
+    ceb: Shabran Rayon
+    sr_Latn: Šabranski rejon
+    lt: Šabrano apskritis
+    zh: 迪維奇區
+    ccp: "\U00011125\U0001111B\U00011134\U00011122\U0001111A\U00011134"
+    uk: Шабранський район
+    mk: Шабран
+    'no': Şabran
+  comments:
+  type: rayon
 SIY:
   name: Siyäzän
-  code:
+  code: SIY
   unofficial_names: Siyäzän
   geo:
     latitude: 41.0783833
@@ -3252,9 +3513,10 @@ SIY:
     mk: Сијезен
     'no': Siyəzən
   comments:
+  type: rayon
 SKR:
   name: Sämkir
-  code:
+  code: SKR
   unofficial_names: Sämkir
   geo:
     latitude: 40.88123969999999
@@ -3313,9 +3575,10 @@ SKR:
     mk: Шемкир
     'no': Şəmkir
   comments:
+  type: rayon
 SM:
   name: Sumqayit
-  code:
+  code: SM
   unofficial_names: Sumqayit
   geo:
     latitude: 40.5854765
@@ -3388,9 +3651,10 @@ SM:
     mk: Сумгајит
     'no': Sumqayit
   comments:
+  type: municipality
 SMI:
   name: Samaxi
-  code:
+  code: SMI
   unofficial_names: Samaxi
   geo:
     latitude: 40.63187310000001
@@ -3435,9 +3699,10 @@ SMI:
     mk: Шамахи
     'no': Şamaxı
   comments:
+  type: rayon
 SMX:
   name: Samux
-  code:
+  code: SMX
   unofficial_names: Samux
   geo:
     latitude: 40.765833
@@ -3493,23 +3758,62 @@ SMX:
     mk: Самух
     'no': Samux
   comments:
-SS:
-  name: Susa City
-  code:
-  unofficial_names: Susa City
+  type: rayon
+SR:
+  name: Şirvan
+  code: SR
+  unofficial_names:
   geo:
-    latitude: 39.7537438
-    longitude: 46.7464755
-    min_latitude: 39.7456061
-    min_longitude: 46.7307758
-    max_latitude: 39.7725926
-    max_longitude: 46.765623
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
-    en: Susa City
+    ar: شيروان
+    az: Şirvan
+    be: Шырван
+    cs: Širvan
+    de: Şirvan
+    el: Σιρβάν
+    en: Shirvan
+    es: Shirvan
+    fa: شیروان
+    fi: Şirvan
+    fr: Şirvan
+    he: שירוואן
+    hy: Շիրվան
+    id: Shirvan
+    it: Şirvan
+    ja: シルヴァン (市)
+    ka: შირვანი
+    ko: 시르반
+    lt: Širvanas
+    mn: Азербайжаны Ширван
+    ms: Shirvan
+    nl: Şirvan
+    pl: Szyrwan
+    pt: Shirvan
+    ro: Șirvan
+    ru: Ширван
+    sr: Ширван
+    sv: Shirvan
+    tr: Şirvan
+    uk: Ширван
+    ur: شیروان
+    lv: Širvana
+    ceb: Shirvan
+    sr_Latn: Širvan
+    zh: 希爾萬
+    sq: Shirvan
+    ccp: "\U00011125\U00011128\U00011122\U0001111E\U00011127\U0001111A\U00011134"
+    mk: Ширван
   comments:
+  type: municipality
 SUS:
   name: Susa
-  code:
+  code: SUS
   unofficial_names: Susa
   geo:
     latitude: 39.7537438
@@ -3567,9 +3871,10 @@ SUS:
     mk: Шуша
     'no': Şuşa
   comments:
+  type: rayon
 TAR:
   name: Tärtär
-  code:
+  code: TAR
   unofficial_names: Tärtär
   geo:
     latitude: 40.333333
@@ -3626,9 +3931,10 @@ TAR:
     mk: Тертер
     'no': Tərtər
   comments:
+  type: rayon
 TOV:
   name: Tovuz
-  code:
+  code: TOV
   unofficial_names: Tovuz
   geo:
     latitude: 40.9922
@@ -3685,9 +3991,10 @@ TOV:
     mk: Товуз
     'no': Tovuz
   comments:
+  type: rayon
 UCA:
   name: Ucar
-  code:
+  code: UCA
   unofficial_names: Ucar
   geo:
     latitude: 40.518333
@@ -3742,9 +4049,10 @@ UCA:
     mk: Уџар
     'no': Ucar
   comments:
+  type: rayon
 XA:
   name: Xankändi
-  code:
+  code: XA
   unofficial_names: Xankändi
   geo:
     latitude: 39.8196258
@@ -3818,9 +4126,10 @@ XA:
     mk: Степанакерт
     'no': Stepanakert
   comments:
+  type: municipality
 XAC:
   name: Xaçmaz
-  code:
+  code: XAC
   unofficial_names: Xaçmaz
   geo:
     latitude: 41.470833
@@ -3877,23 +4186,10 @@ XAC:
     mk: Хачмаз
     'no': Xaçmaz
   comments:
-XAN:
-  name: Xanlar
-  code:
-  unofficial_names: Xanlar
-  geo:
-    latitude: 40.5008523
-    longitude: 46.3454855
-    min_latitude: 40.274401
-    min_longitude: 46.0786468
-    max_latitude: 40.841456
-    max_longitude: 46.51906
-  translations:
-    en: Xanlar
-  comments:
+  type: rayon
 XCI:
   name: Xocali
-  code:
+  code: XCI
   unofficial_names: Xocali
   geo:
     latitude: 39.9132553
@@ -3953,9 +4249,10 @@ XCI:
     mk: Хоџали
     'no': Xocalı
   comments:
+  type: rayon
 XIZ:
   name: Xizi
-  code:
+  code: XIZ
   unofficial_names: Xizi
   geo:
     latitude: 40.9
@@ -3995,9 +4292,10 @@ XIZ:
     mk: Хизи
     'no': Xızı
   comments:
+  type: rayon
 XVD:
   name: Xocavänd
-  code:
+  code: XVD
   unofficial_names: Xocavänd
   geo:
     latitude: 39.7060287
@@ -4038,9 +4336,10 @@ XVD:
     mk: Хоџавенд
     'no': Xocavənd
   comments:
+  type: rayon
 YAR:
   name: Yardimli
-  code:
+  code: YAR
   unofficial_names: Yardimli
   geo:
     latitude: 38.9058917
@@ -4096,9 +4395,10 @@ YAR:
     mk: Јардимли
     'no': Yardımlı
   comments:
+  type: rayon
 YE:
   name: Yevlax City
-  code:
+  code: YE
   unofficial_names: Yevlax City
   geo:
     latitude: 40.617222
@@ -4142,9 +4442,10 @@ YE:
     ccp: "\U00011103\U00011128\U00011120\U0001112C\U0001111B\U00011134\U00011123\U00011107\U00011134"
     be: Еўлах
   comments:
+  type: municipality
 YEV:
   name: Yevlax
-  code:
+  code: YEV
   unofficial_names: Yevlax
   geo:
     latitude: 40.617222
@@ -4201,9 +4502,10 @@ YEV:
     mk: Јевлах
     'no': Yevlax
   comments:
+  type: rayon
 ZAN:
   name: Zängilan
-  code:
+  code: ZAN
   unofficial_names: Zängilan
   geo:
     latitude: 39.0318935
@@ -4259,9 +4561,10 @@ ZAN:
     mk: Зенгилан (округ)
     'no': Zəngilan (distrikt)
   comments:
+  type: rayon
 ZAQ:
   name: Zaqatala
-  code:
+  code: ZAQ
   unofficial_names: Zaqatala
   geo:
     latitude: 41.63361099999999
@@ -4320,9 +4623,10 @@ ZAQ:
     mk: Закатала (округ)
     'no': Zaqatala (distrikt)
   comments:
+  type: rayon
 ZAR:
   name: Zärdab
-  code:
+  code: ZAR
   unofficial_names: Zärdab
   geo:
     latitude: 40.218333
@@ -4377,286 +4681,4 @@ ZAR:
     mk: Зердаб
     'no': Zərdab (distrikt)
   comments:
-NV:
-  name: Naxçıvan
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    af: Nachitsjewan
-    ar: نخجوان
-    az: Naxçıvan
-    be: Горад Нахічэвань
-    bg: Нахичеван
-    bn: নাখচিভান
-    ca: Naxçıvan
-    cs: Nachičevan
-    da: Nakhitjevan
-    de: Naxçıvan
-    el: Ναχιτσεβάν
-    en: Nakhchivan
-    es: Najicheván
-    et: Naxçıvan
-    fa: نخجوان
-    fi: Nahitševan
-    fr: Nakhitchevan
-    gl: Nakhichevan
-    gu: નખચિવેન
-    he: נחיצ׳יבאן
-    hi: नख़्चीवां
-    hu: Nahicseván
-    hy: Նախիջևան
-    id: Kota Nakhchivan
-    it: Naxçıvan
-    ja: ナヒチェヴァン
-    ka: ნახიჩევანი
-    kn: ನಖ್ಚಿವನ್
-    ko: 나히체반
-    lt: Nachičevanė
-    lv: Nahčivana
-    ml: നാഖ്ചിവൻ സിറ്റി
-    mr: नखचीवं
-    ms: Nakhchivan
-    nb: Nachitjevan
-    nl: Nachitsjevan
-    pl: Nachiczewan
-    pt: Naquichevão
-    ro: Naxcivan
-    ru: Нахичевань
-    si: නක්සිවන්
-    sk: Nachičevan
-    sr: Нахчиван
-    sv: Nachitjevan
-    ta: நஃகுசிவான்
-    te: నాక్చివన్
-    th: นาคีชีวัน
-    tr: Nahçıvan
-    uk: Нахічевань
-    ur: ناخچیوان (شہر)
-    vi: Nakhchivan
-    cy: Nakhchivan
-    ceb: Nakhchivan Autonomous Republic
-    sr_Latn: Nahčivan
-    zh: 納希切萬
-    ccp: "\U0001111A\U00011107\U00011134\U0001110C\U00011128\U0001111E\U00011127\U0001111A\U00011134"
-    ky: Нахичеван
-    eu: Nakhitxevan²
-    uz: Naxichevan (shahar)
-    'no': Nachitjevan
-  comments:
-KAN:
-  name: Kəngərli
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    ar: كنجة
-    az: Kəngərli
-    bn: কানগারলি জেলা
-    da: Kangarli District
-    de: Kəngərli
-    el: Κανγκαρλί
-    en: Kangarli
-    es: Kangarli
-    fa: شهرستان کنگرلی
-    fi: Kəngərlin piirikunta
-    fr: Kangarli
-    gu: કાન્ગરલી જિલ્લો
-    hi: कंगारली जिला
-    hy: Քենգերլիի շրջան
-    id: Kangarli
-    it: Distretto di Kəngərli
-    ja: キャンギャルリ県
-    kn: ಕಾಂಗಾರ್ಲಿ ಜಿಲ್ಲೆ
-    ko: 켄겔리 구
-    mr: कांगारली जिल्हा
-    ms: Kangarli
-    nb: Kəngərli
-    nl: Kəngərli
-    pl: Rejon Kəngərli
-    pt: Kangarli
-    ru: Кенгерлинский район
-    si: කන්ගාර්ලි දිස්ත්‍රික්කය
-    sr: Кенгерлински рејон
-    sv: Kangarli Rayon
-    ta: காங்கரலி மாவட்டம்
-    te: కంగార్లి జిల్లా
-    th: จังหวัดมานัส
-    tr: Kengerli Rayonu
-    uk: Кенгерлінський район
-    ur: کانجارلی ضلع
-    vi: Kangarli
-    lv: Kengerli rajons
-    ceb: Kangarli Rayon
-    sr_Latn: Kengerlinski rejon
-    lt: Kangarlio apskritis
-    zh: 坎加利區
-    ccp: "\U00011107\U0001110B\U00011134\U00011109\U00011122\U00011134\U00011123\U00011128"
-    mk: Кенгерли
-    'no': Kəngərli
-  comments:
-SBN:
-  name: Şabran (rayon)
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    ar: مقاطعة شابران
-    az: Şabran (rayon)
-    bn: সাব্রান জেলা
-    cs: Šabran
-    da: Shabran District
-    de: Şabran (Rayon)
-    el: Σάμπραν
-    en: Shabran
-    es: Şabran (raión)
-    fa: دوه‌چی
-    fi: Şabranin piirikunta
-    fr: Şabran (raion)
-    gu: શબ્રાન જિલ્લો
-    hi: शबरान जिला
-    id: Davachi
-    it: distretto di Şabran
-    ja: ダヴァヒ県
-    kn: ಶಬ್ರಾನ್ ಜಿಲ್ಲೆ
-    ko: 샤브란 구
-    mn: Шабран аймаг
-    mr: शबरण जिल्हा
-    ms: Davachi
-    nb: Şabran
-    nl: Dəvəçi
-    pl: Rejon Dəvəçi
-    pt: Shabran
-    ro: Șabran
-    ru: Шабранский район
-    si: ශබ්රන් දිස්ත්‍රික්කය
-    sr: Шабрански рејон
-    sv: Shabran Rayon
-    ta: சாப்ரான் மாவட்டம்
-    te: షబ్రన్ జిల్లా
-    th: จังหวัดคอปเปอเบล
-    tr: Şabran rayonu
-    ur: شابران ضلع
-    vi: Quận Shabran
-    lv: Šabranas rajons
-    ceb: Shabran Rayon
-    sr_Latn: Šabranski rejon
-    lt: Šabrano apskritis
-    zh: 迪維奇區
-    ccp: "\U00011125\U0001111B\U00011134\U00011122\U0001111A\U00011134"
-    uk: Шабранський район
-    mk: Шабран
-    'no': Şabran
-  comments:
-SR:
-  name: Şirvan
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    ar: شيروان
-    az: Şirvan
-    be: Шырван
-    cs: Širvan
-    de: Şirvan
-    el: Σιρβάν
-    en: Shirvan
-    es: Shirvan
-    fa: شیروان
-    fi: Şirvan
-    fr: Şirvan
-    he: שירוואן
-    hy: Շիրվան
-    id: Shirvan
-    it: Şirvan
-    ja: シルヴァン (市)
-    ka: შირვანი
-    ko: 시르반
-    lt: Širvanas
-    mn: Азербайжаны Ширван
-    ms: Shirvan
-    nl: Şirvan
-    pl: Szyrwan
-    pt: Shirvan
-    ro: Șirvan
-    ru: Ширван
-    sr: Ширван
-    sv: Shirvan
-    tr: Şirvan
-    uk: Ширван
-    ur: شیروان
-    lv: Širvana
-    ceb: Shirvan
-    sr_Latn: Širvan
-    zh: 希爾萬
-    sq: Shirvan
-    ccp: "\U00011125\U00011128\U00011122\U0001111E\U00011127\U0001111A\U00011134"
-    mk: Ширван
-  comments:
-GYG:
-  name: Göygöl
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    az: Göygöl
-    cs: Göygöl
-    de: Göygöl
-    en: Goygol
-    es: Göygöl
-    fa: شهرستان گوی‌گل
-    fi: Göygölin piirikunta
-    fr: Göygöl
-    id: Khanlar
-    it: distretto di Göygöl
-    ja: ギョイギョル県
-    ko: 괴이괼 구
-    ms: Khanlar
-    nb: Göygöl
-    nl: Göygöl
-    pl: Rejon Göygöl
-    pt: Goygol
-    ru: Гёйгёльский район
-    sr: Гогољски рејон
-    sv: Xanlar Rayonu
-    tr: Göygöl Rayonu
-    vi: Goygol
-    ceb: Goygol Rayon
-    sr_Latn: Gogoljski rejon
-    zh: 漢拉爾區
-    sq: Goygol
-    ccp: "\U00011109\U00011127\U00011120\U00011134\U00011109\U0001112E\U00011123\U00011134"
-    hy: Գոյգյոլի շրջան
-    mk: Ѓојѓол
-    'no': Göygöl
-  comments:
+  type: rayon

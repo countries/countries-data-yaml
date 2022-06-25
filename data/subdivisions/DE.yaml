@@ -1,7 +1,7 @@
 ---
 BB:
   name: Brandenburg
-  code:
+  code: BB
   unofficial_names:
   - Brandenbourg
   - Brandenburgo
@@ -93,9 +93,10 @@ BB:
     'no': Brandenburg
     yo_BJ: Brandenburg
   comments:
+  type: state
 BE:
   name: Berlin
-  code:
+  code: BE
   unofficial_names:
   - Berlín
   geo:
@@ -193,9 +194,10 @@ BE:
     'no': Berlin
     yo_BJ: Berlin
   comments:
+  type: state
 BW:
   name: Baden-Württemberg
-  code:
+  code: BW
   unofficial_names: Baden-Württemberg
   geo:
     latitude: 48.6616037
@@ -284,9 +286,10 @@ BW:
     'no': Baden-Württemberg
     yo_BJ: Baden-Württemberg
   comments:
+  type: state
 BY:
   name: Bayern
-  code:
+  code: BY
   unofficial_names:
   - Bavière
   - Bayern
@@ -380,9 +383,10 @@ BY:
     'no': Bayern
     yo_BJ: Bavaria
   comments:
+  type: state
 HB:
   name: Bremen
-  code:
+  code: HB
   unofficial_names:
   - Brème
   geo:
@@ -468,9 +472,10 @@ HB:
     'no': Bremen
     yo_BJ: Bremen
   comments:
+  type: state
 HE:
   name: Hessen
-  code:
+  code: HE
   unofficial_names:
   - Hessen
   - Hesse
@@ -562,9 +567,10 @@ HE:
     'no': Hessen
     yo_BJ: Hesse
   comments:
+  type: state
 HH:
   name: Hamburg
-  code:
+  code: HH
   unofficial_names:
   - Amburgo
   - Hambourg
@@ -662,9 +668,10 @@ HH:
     'no': Hamburg
     yo_BJ: Hamburg
   comments:
+  type: state
 MV:
   name: Mecklenburg-Vorpommern
-  code:
+  code: MV
   unofficial_names:
   - Mecklenburg-Vorpommern
   geo:
@@ -751,9 +758,10 @@ MV:
     'no': Mecklenburg-Vorpommern
     yo_BJ: Mecklenburg-Vorpommern
   comments:
+  type: state
 NI:
   name: Niedersachsen
-  code:
+  code: NI
   unofficial_names:
   - Niedersachsen
   geo:
@@ -841,9 +849,10 @@ NI:
     'no': Niedersachsen
     yo_BJ: Lower Saxony
   comments:
+  type: state
 NW:
   name: Nordrhein-Westfalen
-  code:
+  code: NW
   unofficial_names:
   - Nordrhein-Westfalen
   - Rhénanie-Westphalie
@@ -933,9 +942,10 @@ NW:
     'no': Nordrhein-Westfalen
     yo_BJ: Nordrhein-Westfalen
   comments:
+  type: state
 RP:
   name: Rheinland-Pfalz
-  code:
+  code: RP
   unofficial_names:
   - Rheinland-Pfalz
   - Rhénanie-Palatinat
@@ -1023,9 +1033,10 @@ RP:
     'no': Rheinland-Pfalz
     yo_BJ: Rhineland-Palatinate
   comments:
+  type: state
 SH:
   name: Schleswig-Holstein
-  code:
+  code: SH
   unofficial_names: Schleswig-Holstein
   geo:
     latitude: 54.21936720000001
@@ -1111,9 +1122,10 @@ SH:
     'no': Schleswig-Holstein
     yo_BJ: Schleswig-Holstein
   comments:
+  type: state
 SL:
   name: Saarland
-  code:
+  code: SL
   unofficial_names: Saarland
   geo:
     latitude: 49.3964234
@@ -1203,9 +1215,10 @@ SL:
     'no': Saarland
     yo_BJ: Saarland
   comments:
+  type: state
 SN:
   name: Sachsen
-  code:
+  code: SN
   unofficial_names:
   - Sachsen
   geo:
@@ -1294,9 +1307,10 @@ SN:
     'no': Sachsen
     yo_BJ: Saxony
   comments:
+  type: state
 ST:
   name: Sachsen-Anhalt
-  code:
+  code: ST
   unofficial_names: Sachsen-Anhalt
   geo:
     latitude: 51.9502649
@@ -1381,9 +1395,10 @@ ST:
     'no': Sachsen-Anhalt
     yo_BJ: Saxony-Anhalt
   comments:
+  type: state
 TH:
   name: Thüringen
-  code:
+  code: TH
   unofficial_names:
   - Thüringen
   geo:
@@ -1472,3 +1487,4 @@ TH:
     'no': Thüringen
     yo_BJ: Thuringia
   comments:
+  type: state

@@ -1,7 +1,7 @@
 ---
 '13':
   name: Al Manamah (Al ‘Asimah)
-  code:
+  code: '13'
   unofficial_names:
   - Manāmah
   - al-Manāmah
@@ -45,9 +45,10 @@
     ca: Governació de la Capital
     'no': Hovedstadsguvernementet
   comments:
+  type: governorate
 '14':
   name: Al Janubiyah
-  code:
+  code: '14'
   unofficial_names:
   - Eastern
   - Hawa
@@ -92,9 +93,10 @@
     ca: Governació del Sud
     'no': Sørlige guvernement
   comments:
+  type: governorate
 '15':
   name: Al Muharraq
-  code:
+  code: '15'
   unofficial_names: Al Muharraq
   geo:
     latitude: 26.266941
@@ -149,26 +151,10 @@
     uk: Муніципалітет Мухаррак
     'no': Muharraq guvernement
   comments:
-'16':
-  name: Al Wustá
-  code:
-  unofficial_names:
-  - Central
-  - al-Mintaqah al-Wusta
-  geo:
-    latitude: 26.1426093
-    longitude: 50.5653294
-    min_latitude: 26.096567
-    min_longitude: 50.5095921
-    max_latitude: 26.1932879
-    max_longitude: 50.671664
-  translations:
-    en: Central
-    ccp: "\U00011125\U0001112C\U0001111A\U00011111\U00011133\U00011122\U00011123\U00011134"
-  comments:
+  type: governorate
 '17':
   name: Ash Shamaliyah
-  code:
+  code: '17'
   unofficial_names:
   - Northern
   - al-Mintaqa ash Shamaliyah
@@ -209,3 +195,4 @@
     ca: Governació del Nord
     'no': Nordlige guvernement
   comments:
+  type: governorate

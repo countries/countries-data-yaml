@@ -1,7 +1,7 @@
 ---
 '1':
   name: Burgenland
-  code:
+  code: '1'
   unofficial_names: Burgenland
   geo:
     latitude: 47.15371649999999
@@ -77,9 +77,10 @@
     mk: Градиште
     'no': Burgenland
   comments:
+  type: state
 '2':
   name: Kärnten
-  code:
+  code: '2'
   unofficial_names:
   - Carinthia
   - Koroška
@@ -158,9 +159,10 @@
     mk: Корушка
     'no': Kärnten
   comments:
+  type: state
 '3':
   name: Niederösterreich
-  code:
+  code: '3'
   unofficial_names:
   - Lower Austria
   geo:
@@ -240,9 +242,10 @@
     mk: Долна Австрија
     'no': Niederösterreich
   comments:
+  type: state
 '4':
   name: Oberösterreich
-  code:
+  code: '4'
   unofficial_names:
   - Upper Austria
   geo:
@@ -320,9 +323,10 @@
     mk: Горна Австрија
     'no': Oberösterreich
   comments:
+  type: state
 '5':
   name: Salzburg
-  code:
+  code: '5'
   unofficial_names:
   - Salzbourg
   geo:
@@ -399,9 +403,10 @@
     mk: Салцбург
     'no': Salzburg
   comments:
+  type: state
 '6':
   name: Steiermark
-  code:
+  code: '6'
   unofficial_names:
   - Styria
   geo:
@@ -480,9 +485,10 @@
     mk: Штаерска
     'no': Steiermark
   comments:
+  type: state
 '7':
   name: Tirol
-  code:
+  code: '7'
   unofficial_names:
   - Tyrol
   geo:
@@ -559,9 +565,10 @@
     mk: Тирол
     'no': Tirol
   comments:
+  type: state
 '8':
   name: Vorarlberg
-  code:
+  code: '8'
   unofficial_names: Vorarlberg
   geo:
     latitude: 47.2497427
@@ -639,9 +646,10 @@
     mk: Предарлска
     'no': Vorarlberg
   comments:
+  type: state
 '9':
   name: Wien
-  code:
+  code: '9'
   unofficial_names:
   - Vienna
   geo:
@@ -739,3 +747,4 @@
     'no': Wien
     yo_BJ: Fienna
   comments:
+  type: state

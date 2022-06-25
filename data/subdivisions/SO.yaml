@@ -1,7 +1,7 @@
 ---
 AW:
   name: Awdal
-  code:
+  code: AW
   unofficial_names: Awdal
   geo:
     latitude: 10.6334285
@@ -41,9 +41,10 @@ AW:
     ccp: "\U00011103\U00011127\U00011113\U00011123\U00011134"
     so: Awdal
   comments:
+  type: region
 BK:
   name: Bakool
-  code:
+  code: BK
   unofficial_names: Bakool
   geo:
     latitude: 4.3657221
@@ -98,9 +99,10 @@ BK:
     so: Bakool
     'no': Bakool
   comments:
+  type: region
 BN:
   name: Banaadir
-  code:
+  code: BN
   unofficial_names: Banaadir
   geo:
     latitude: 2.1187375
@@ -155,9 +157,10 @@ BN:
     so: Banaadir
     'no': Banaadir
   comments:
+  type: region
 BR:
   name: Bari
-  code:
+  code: BR
   unofficial_names: Bari
   geo:
     latitude: 10.1203847
@@ -213,9 +216,10 @@ BR:
     so: Bari
     'no': Bari
   comments:
+  type: region
 BY:
   name: Bay
-  code:
+  code: BY
   unofficial_names: Bay
   geo:
     latitude: 2.4825193
@@ -271,9 +275,10 @@ BY:
     so: Baay
     'no': Bay
   comments:
+  type: region
 GA:
   name: Galguduud
-  code:
+  code: GA
   unofficial_names: Galguduud
   geo:
     latitude: 5.1850128
@@ -328,9 +333,10 @@ GA:
     so: Galguduud
     'no': Galguduud
   comments:
+  type: region
 GE:
   name: Gedo
-  code:
+  code: GE
   unofficial_names: Gedo
   geo:
     latitude: 3.5039227
@@ -385,9 +391,10 @@ GE:
     so: Gedo
     'no': Gedo
   comments:
+  type: region
 HI:
   name: Hiiraan
-  code:
+  code: HI
   unofficial_names: Hiiraan
   geo:
     latitude: 4.321015
@@ -442,9 +449,10 @@ HI:
     so: Hiiraan
     'no': Hiiraan
   comments:
+  type: region
 JD:
   name: Jubbada Dhexe
-  code:
+  code: JD
   unofficial_names: Jubbada Dhexe
   geo:
     latitude: 2.0780488
@@ -500,9 +508,10 @@ JD:
     so: Jubbada Dhexe
     'no': Jubbada Dhexe
   comments:
+  type: region
 JH:
   name: Jubbada Hoose
-  code:
+  code: JH
   unofficial_names: Jubbada Hoose
   geo:
     latitude: 0.224021
@@ -558,9 +567,10 @@ JH:
     so: Jubbada Hoose
     'no': Nedre Juba
   comments:
+  type: region
 MU:
   name: Mudug
-  code:
+  code: MU
   unofficial_names: Mudug
   geo:
     latitude: 6.5656726
@@ -616,9 +626,10 @@ MU:
     so: Mudug
     'no': Mudug
   comments:
+  type: region
 NU:
   name: Nugaal
-  code:
+  code: NU
   unofficial_names: Nugaal
   geo:
     latitude: 8.2173496
@@ -672,9 +683,10 @@ NU:
     so: Nugaal
     'no': Nugal
   comments:
+  type: region
 SA:
   name: Sanaag
-  code:
+  code: SA
   unofficial_names: Sanaag
   geo:
     latitude: 10.3938218
@@ -712,9 +724,10 @@ SA:
     ccp: "\U00011125\U0001111A\U00011133\U00011103\U00011107\U00011134"
     so: Sanaag
   comments:
+  type: region
 SD:
   name: Shabeellaha Dhexe
-  code:
+  code: SD
   unofficial_names: Shabeellaha Dhexe
   geo:
     latitude: 2.9250247
@@ -770,9 +783,10 @@ SD:
     be: Сярэдняя Шабеле
     'no': Shabeellaha Dhexe
   comments:
+  type: region
 SH:
   name: Shabeellaha Hoose
-  code:
+  code: SH
   unofficial_names: Shabeellaha Hoose
   geo:
     latitude: 1.8766458
@@ -828,9 +842,10 @@ SH:
     so: Shabeellaha Hoose
     'no': Nedre Shebelle
   comments:
+  type: region
 SO:
   name: Sool
-  code:
+  code: SO
   unofficial_names: Sool
   geo:
     latitude: 8.722155599999999
@@ -870,9 +885,10 @@ SO:
     so: Sool
     'no': Sool
   comments:
+  type: region
 TO:
   name: Togdheer
-  code:
+  code: TO
   unofficial_names: Togdheer
   geo:
     latitude: 9.4460587
@@ -909,9 +925,10 @@ TO:
     ccp: "\U00011111\U0001112E\U00011107\U00011134\U00011119\U00011129\U00011122\U00011134"
     so: Togdheer
   comments:
+  type: region
 WO:
   name: Woqooyi Galbeed
-  code:
+  code: WO
   unofficial_names: Woqooyi Galbeed
   geo:
     latitude: 9.542373999999999
@@ -949,3 +966,4 @@ WO:
     nb: Woqooyi Galbeed
     'no': Woqooyi Galbeed
   comments:
+  type: region

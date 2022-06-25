@@ -1,7 +1,7 @@
 ---
 CPK:
   name: Chimbu
-  code:
+  code: CPK
   unofficial_names:
   - Chimbu
   - Simbúa
@@ -60,9 +60,10 @@ CPK:
     ccp: "\U0001110C\U00011128\U0001111F\U00011134\U0001111D\U0001112A"
     'no': Simbu provins
   comments:
+  type: province
 CPM:
   name: Central
-  code:
+  code: CPM
   unofficial_names:
   - Papua Central
   geo:
@@ -119,9 +120,10 @@ CPM:
     zh: 中央省
     'no': Central
   comments:
+  type: province
 EBR:
   name: East New Britain
-  code:
+  code: EBR
   unofficial_names:
   - New Britain East
   geo:
@@ -178,9 +180,10 @@ EBR:
     mk: Источна Нова Британија
     'no': Øst Ny Britland
   comments:
+  type: province
 EHG:
   name: Eastern Highlands
-  code:
+  code: EHG
   unofficial_names:
   - Highlands East
   geo:
@@ -237,9 +240,10 @@ EHG:
       \U00011126\U0001112D\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011125\U00011134"
     'no': Øst høylands provins
   comments:
+  type: province
 EPW:
   name: Enga
-  code:
+  code: EPW
   unofficial_names: Enga
   geo:
     latitude: -5.3005849
@@ -294,9 +298,10 @@ EPW:
     ccp: "\U00011103\U0001112C\U0001111A\U00011134\U00011109"
     'no': Enga provins
   comments:
+  type: province
 ESW:
   name: East Sepik
-  code:
+  code: ESW
   unofficial_names:
   - Sepik East
   geo:
@@ -352,9 +357,10 @@ ESW:
     ccp: "\U0001111B\U0001112A\U00011107\U00011134 \U00011125\U0001112C\U0001111B\U0001112D\U00011107\U00011134"
     'no': East Sepik
   comments:
+  type: province
 GPK:
   name: Gulf
-  code:
+  code: GPK
   unofficial_names:
   - Papua Gulf
   geo:
@@ -410,9 +416,80 @@ GPK:
     et: Gulfi provints
     'no': Gulf
   comments:
+  type: province
+HLA:
+  name: Hela
+  code: HLA
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    de: Hela Province
+    en: Hela
+    es: Hela
+    eu: Hela
+    fa: استان هلا
+    fr: Hela
+    it: Provincia di Hela
+    ja: ヘラ州
+    ka: ჰელა
+    ko: 헬라 주
+    nl: Hela Province
+    ru: Хела
+    uk: Гела
+    ur: ہیلا صوبہ
+    ceb: Hela (lalawigan)
+    zh: 赫拉省
+    pl: Hela
+    ccp: "\U00011126\U0001112C\U00011123"
+    fi: Hela (maakunta)
+    pt: Hela
+    et: Hela provints
+  comments:
+  type: province
+JWK:
+  name: Jiwaka
+  code: JWK
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    de: Jiwaka Province
+    en: Jiwaka
+    es: Jiwaka
+    eu: Jiwaka (probintzia)
+    fa: استان جیواکا
+    fr: Jiwaka Province
+    it: Provincia di Jiwaka
+    ja: ジワカ州
+    ka: ჯივაკა
+    ko: 지와카 주
+    nl: Jiwaka Province
+    ru: Дживака
+    uk: Дживака
+    ur: جیواکا صوبہ
+    ceb: Jiwaka
+    zh: 吉瓦卡省
+    pl: Jiwaka
+    ccp: "\U0001110E\U00011128\U00011124\U00011107"
+    fi: Jiwaka
+    pt: Jiwaka
+    et: Jiwaka provints
+  comments:
+  type: province
 MBA:
   name: Milne Bay
-  code:
+  code: MBA
   unofficial_names: Milne Bay
   geo:
     latitude: -10.4460842
@@ -466,9 +543,10 @@ MBA:
     ccp: "\U0001111F\U00011128\U00011123\U00011134\U0001111A\U0001112C \U0001111D\U0001112C"
     'no': Milne Bay
   comments:
+  type: province
 MPL:
   name: Morobe
-  code:
+  code: MPL
   unofficial_names: Morobe
   geo:
     latitude: -6.801373700000001
@@ -523,9 +601,10 @@ MPL:
     ccp: "\U0001111F\U00011127\U00011122\U0001112E\U0001111D\U0001112C"
     'no': Morobe provins
   comments:
+  type: province
 MPM:
   name: Madang
-  code:
+  code: MPM
   unofficial_names: Madang
   geo:
     latitude: -5.216667
@@ -581,9 +660,10 @@ MPM:
     ccp: "\U0001111F\U0001112C\U00011113\U0001110B\U00011134"
     'no': Madang provins
   comments:
+  type: province
 MRL:
   name: Manus
-  code:
+  code: MRL
   unofficial_names:
   - Great Admiralty Island
   - Mwanus
@@ -640,9 +720,10 @@ MRL:
     ccp: "\U0001111F\U0001111A\U0001112A\U0001110C\U00011134"
     'no': Manus provins
   comments:
+  type: province
 NCD:
   name: National Capital District (Port Moresby)
-  code:
+  code: NCD
   unofficial_names: National Capital District (Port Moresby)
   geo:
     latitude: -9.443800399999999
@@ -732,9 +813,10 @@ NCD:
     'no': Port Moresby
     yo_BJ: Port Moresby
   comments:
+  type: district
 NIK:
   name: New Ireland
-  code:
+  code: NIK
   unofficial_names:
   - Niu Ailan
   geo:
@@ -790,9 +872,10 @@ NIK:
     ccp: "\U0001111A\U00011128\U00011105\U0001112A \U00011103\U00011120\U00011122\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
     'no': Ny Irland provins
   comments:
+  type: province
 NPP:
   name: Northern
-  code:
+  code: NPP
   unofficial_names:
   - Northern
   geo:
@@ -849,26 +932,69 @@ NPP:
     ccp: "\U00011103\U00011127\U00011122\U0001112E"
     'no': Oro
   comments:
-NSA:
-  name: North Solomons
-  code:
+  type: province
+NSB:
+  name: Bougainville
+  code: NSB
   unofficial_names:
-  - Bougainville
-  - Mekamui
-  - North Solomons
   geo:
-    latitude: -6.053602
-    longitude: 155.1907309
-    min_latitude: -6.8796257
-    min_longitude: 154.1177784
-    max_latitude: -3.1095148
-    max_longitude: 159.4923965
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
-    en: North Solomons
+    ar: مقاطعة بوغانفيل ذات الحكم الذاتي
+    bg: Автономен регион Бугенвил
+    bn: বুগাইনভিলি
+    ca: Bougainville
+    cs: Autonomní území Bougainville
+    da: Bougainville
+    de: Bougainville
+    el: Μπουγκαϊνβίλε
+    en: Bougainville
+    es: Bougainville
+    eu: Bougainvilleko Eskualde Autonomoa
+    fa: استان خودمختار بوگاینویل
+    fi: Bougainville
+    fr: Bougainville
+    gl: Rexión Autónoma de Bougainville
+    gu: બૌગૈનવિલ
+    hi: बोगेनविल
+    id: Daerah Otonom Bougainville
+    it: regione autonoma di Bougainville
+    ja: ブーゲンビル州
+    ka: ბუგენვილის ავტონომიური რეგიონი
+    kn: ಬೌಗೆನ್ವಿಲ್ಲೆ
+    ko: 부건빌 주
+    mr: बोगनविले
+    ms: Bougainville
+    nb: Bougainville
+    nl: Bougainville
+    pl: Bougainville
+    pt: Bougainville
+    ru: Автономный регион Бугенвиль
+    si: බෝගෙන්විලි
+    sv: Bougainville
+    ta: போகஇன்வில்லே
+    te: బోగన్‌విల్లే
+    th: บูแก็งวีล
+    tr: Bougainville
+    uk: Автономний регіон Бугенвіль
+    ur: بووجاینویلی
+    vi: Khu tự trị Bougainville
+    lv: Bugenvile
+    ceb: Bougainville (lalawigan)
+    lt: Bugenvilis
+    zh: 布干维尔省
+    ccp: "\U0001111D\U0001112F\U00011109\U0001112C\U0001112D\U0001111A\U00011134\U0001111E\U00011128\U00011123\U0001112C"
+    'no': Bougainville
   comments:
+  type: autonomous_region
 SAN:
   name: Sandaun [West Sepik]
-  code:
+  code: SAN
   unofficial_names:
   - West Sepik
   geo:
@@ -925,9 +1051,10 @@ SAN:
     ccp: "\U00011125\U0001111A\U00011134\U00011113\U00011105\U0001112A\U0001111A\U00011134"
     'no': Sandaun provins
   comments:
+  type: province
 SHM:
   name: Southern Highlands
-  code:
+  code: SHM
   unofficial_names:
   - Highlands South
   geo:
@@ -983,9 +1110,10 @@ SHM:
       \U00011126\U0001112D\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011125\U00011134"
     'no': Sør høylands provins
   comments:
+  type: province
 WBK:
   name: West New Britain
-  code:
+  code: WBK
   unofficial_names:
   - New Britain West
   geo:
@@ -1043,9 +1171,10 @@ WBK:
     mk: Западна Нова Британија
     'no': Vest Nye Britiske provins
   comments:
+  type: province
 WHM:
   name: Western Highlands
-  code:
+  code: WHM
   unofficial_names:
   - Highlands West
   geo:
@@ -1102,9 +1231,10 @@ WHM:
       \U00011126\U0001112D\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011125\U00011134"
     'no': Vest Høyland provins
   comments:
+  type: province
 WPD:
   name: Western
-  code:
+  code: WPD
   unofficial_names:
   - Papua West
   - Western
@@ -1144,129 +1274,4 @@ WPD:
     ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C"
     fi: Western Province
   comments:
-NSB:
-  name: Bougainville
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    ar: مقاطعة بوغانفيل ذات الحكم الذاتي
-    bg: Автономен регион Бугенвил
-    bn: বুগাইনভিলি
-    ca: Bougainville
-    cs: Autonomní území Bougainville
-    da: Bougainville
-    de: Bougainville
-    el: Μπουγκαϊνβίλε
-    en: Bougainville
-    es: Bougainville
-    eu: Bougainvilleko Eskualde Autonomoa
-    fa: استان خودمختار بوگاینویل
-    fi: Bougainville
-    fr: Bougainville
-    gl: Rexión Autónoma de Bougainville
-    gu: બૌગૈનવિલ
-    hi: बोगेनविल
-    id: Daerah Otonom Bougainville
-    it: regione autonoma di Bougainville
-    ja: ブーゲンビル州
-    ka: ბუგენვილის ავტონომიური რეგიონი
-    kn: ಬೌಗೆನ್ವಿಲ್ಲೆ
-    ko: 부건빌 주
-    mr: बोगनविले
-    ms: Bougainville
-    nb: Bougainville
-    nl: Bougainville
-    pl: Bougainville
-    pt: Bougainville
-    ru: Автономный регион Бугенвиль
-    si: බෝගෙන්විලි
-    sv: Bougainville
-    ta: போகஇன்வில்லே
-    te: బోగన్‌విల్లే
-    th: บูแก็งวีล
-    tr: Bougainville
-    uk: Автономний регіон Бугенвіль
-    ur: بووجاینویلی
-    vi: Khu tự trị Bougainville
-    lv: Bugenvile
-    ceb: Bougainville (lalawigan)
-    lt: Bugenvilis
-    zh: 布干维尔省
-    ccp: "\U0001111D\U0001112F\U00011109\U0001112C\U0001112D\U0001111A\U00011134\U0001111E\U00011128\U00011123\U0001112C"
-    'no': Bougainville
-  comments:
-HLA:
-  name: Hela
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    de: Hela Province
-    en: Hela
-    es: Hela
-    eu: Hela
-    fa: استان هلا
-    fr: Hela
-    it: Provincia di Hela
-    ja: ヘラ州
-    ka: ჰელა
-    ko: 헬라 주
-    nl: Hela Province
-    ru: Хела
-    uk: Гела
-    ur: ہیلا صوبہ
-    ceb: Hela (lalawigan)
-    zh: 赫拉省
-    pl: Hela
-    ccp: "\U00011126\U0001112C\U00011123"
-    fi: Hela (maakunta)
-    pt: Hela
-    et: Hela provints
-  comments:
-JWK:
-  name: Jiwaka
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    de: Jiwaka Province
-    en: Jiwaka
-    es: Jiwaka
-    eu: Jiwaka (probintzia)
-    fa: استان جیواکا
-    fr: Jiwaka Province
-    it: Provincia di Jiwaka
-    ja: ジワカ州
-    ka: ჯივაკა
-    ko: 지와카 주
-    nl: Jiwaka Province
-    ru: Дживака
-    uk: Дживака
-    ur: جیواکا صوبہ
-    ceb: Jiwaka
-    zh: 吉瓦卡省
-    pl: Jiwaka
-    ccp: "\U0001110E\U00011128\U00011124\U00011107"
-    fi: Jiwaka
-    pt: Jiwaka
-    et: Jiwaka provints
-  comments:
+  type: province

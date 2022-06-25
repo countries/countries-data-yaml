@@ -1,7 +1,7 @@
 ---
 '01':
   name: Saint Andrew
-  code:
+  code: '01'
   unofficial_names: Saint Andrew
   geo:
     latitude: 12.1230598
@@ -52,9 +52,10 @@
     uk: Парафія Сент-Андру
     'no': Saint Andrew prestegjeld
   comments:
+  type: parish
 '02':
   name: Saint David
-  code:
+  code: '02'
   unofficial_names: Saint David
   geo:
     latitude: 12.0456435
@@ -104,9 +105,10 @@
     uk: Парафія Сент-Девід
     'no': Saint David prestegjeld
   comments:
+  type: parish
 '03':
   name: Saint George
-  code:
+  code: '03'
   unofficial_names: Saint George
   geo:
     latitude: 12.0714317
@@ -157,9 +159,10 @@
     uk: Парафія Сент-Джордж
     'no': Saint George prestegjeld
   comments:
+  type: parish
 '04':
   name: Saint John
-  code:
+  code: '04'
   unofficial_names: Saint John
   geo:
     latitude: 12.130824
@@ -209,9 +212,10 @@
     uk: Парафія Сент-Джон
     'no': Saint John prestegjeld
   comments:
+  type: parish
 '05':
   name: Saint Mark
-  code:
+  code: '05'
   unofficial_names: Saint Mark
   geo:
     latitude: 12.19023
@@ -261,9 +265,10 @@
     uk: Парафія Сент-Марк
     'no': Saint Mark Parish
   comments:
+  type: parish
 '06':
   name: Saint Patrick
-  code:
+  code: '06'
   unofficial_names: Saint Patrick
   geo:
     latitude: 12.2056921
@@ -313,9 +318,10 @@
     uk: Парафія Сент-Патрік
     'no': Saint Patrick
   comments:
+  type: parish
 '10':
   name: Southern Grenadine Islands
-  code:
+  code: '10'
   unofficial_names: Southern Grenadine Islands
   geo:
     latitude: 12.4785888
@@ -367,3 +373,4 @@
     uk: Карріаку і Малий Мартінік
     'no': Carriacou og Petite Martinique
   comments:
+  type: dependency

@@ -1,7 +1,7 @@
 ---
 CE:
   name: Central
-  code:
+  code: CE
   unofficial_names: Central
   geo:
     latitude: -9.0516057
@@ -57,9 +57,10 @@ CE:
     mk: Централна Провинција
     'no': Sentral provins
   comments:
+  type: province
 CH:
   name: Choiseul
-  code:
+  code: CH
   unofficial_names:
   - Lauru
   geo:
@@ -114,9 +115,10 @@ CH:
     uk: Провінція Шуазйоль
     'no': Chosieul provins
   comments:
+  type: province
 CT:
   name: Capital Territory (Honiara)
-  code:
+  code: CT
   unofficial_names: Capital Territory (Honiara)
   geo:
     latitude: -9.4343868
@@ -199,9 +201,10 @@ CT:
     'no': Honiara
     yo_BJ: Honiara
   comments:
+  type: capital_territory
 GU:
   name: Guadalcanal
-  code:
+  code: GU
   unofficial_names: Guadalcanal
   geo:
     latitude: -9.577328399999999
@@ -254,9 +257,10 @@ GU:
     ccp: "\U00011109\U0001112A\U00011120\U00011113\U00011123\U00011134\U00011107\U0001111A\U00011123\U00011134"
     'no': Guadalcanal provins
   comments:
+  type: province
 IS:
   name: Isabel
-  code:
+  code: IS
   unofficial_names: Isabel
   geo:
     latitude: -8.0592353
@@ -310,9 +314,10 @@ IS:
     uk: Провінція Ісабель
     'no': Isabel provins
   comments:
+  type: province
 MK:
   name: Makira
-  code:
+  code: MK
   unofficial_names:
   - San Cristóbal
   geo:
@@ -347,9 +352,10 @@ MK:
     ccp: "\U0001111F\U00011107\U00011128\U00011122-\U00011103\U00011123\U00011124"
     uk: Макіра-Улава
   comments:
+  type: province
 ML:
   name: Malaita
-  code:
+  code: ML
   unofficial_names:
   - Mala
   geo:
@@ -403,9 +409,10 @@ ML:
     uk: Провінція Малаіта
     'no': Malaita provins
   comments:
+  type: province
 RB:
   name: Rennell and Bellona
-  code:
+  code: RB
   unofficial_names: Rennell and Bellona
   geo:
     latitude: -11.6131435
@@ -460,9 +467,10 @@ RB:
     uk: Провінція Реннелл та Беллона
     'no': Rennell and Bellona provins
   comments:
+  type: province
 TE:
   name: Temotu
-  code:
+  code: TE
   unofficial_names:
   - Eastern Islands
   geo:
@@ -516,9 +524,10 @@ TE:
     uk: Провінція Темоту
     'no': Temotu-provinsen
   comments:
+  type: province
 WE:
   name: Western
-  code:
+  code: WE
   unofficial_names: Western
   geo:
     latitude: -8.128037299999999
@@ -573,3 +582,4 @@ WE:
     ca: Província Occidental
     'no': Vest provinsen
   comments:
+  type: province

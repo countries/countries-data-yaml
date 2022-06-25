@@ -1,7 +1,7 @@
 ---
 BN:
   name: شمال بحر الغزال
-  code:
+  code: BN
   unofficial_names:
   geo:
     latitude:
@@ -61,9 +61,10 @@ BN:
     mk: Северен Бахр ел-Газал
     'no': Northern Bahr el Ghazal
   comments:
+  type: state
 BW:
   name: غرب بحر الغزال
-  code:
+  code: BW
   unofficial_names:
   geo:
     latitude:
@@ -124,9 +125,10 @@ BW:
     mk: Западен Бахр ел-Газал
     'no': Western Bahr el Ghazal
   comments:
+  type: state
 EC:
   name: وسط الاستوائية
-  code:
+  code: EC
   unofficial_names:
   geo:
     latitude:
@@ -189,9 +191,10 @@ EC:
     mk: Централна Екваторија
     'no': Central Equatoria
   comments:
+  type: state
 EE:
   name: شرق الاستوائية
-  code:
+  code: EE
   unofficial_names:
   geo:
     latitude:
@@ -251,9 +254,10 @@ EE:
     mk: Источна Екваторија
     'no': Øst-Ekvatoria
   comments:
+  type: state
 EW:
   name: غرب الاستوائية
-  code:
+  code: EW
   unofficial_names:
   geo:
     latitude:
@@ -312,9 +316,10 @@ EW:
     mk: Западна Екваторија
     'no': Western Equatoria
   comments:
+  type: state
 JG:
   name: جونقلي
-  code:
+  code: JG
   unofficial_names:
   geo:
     latitude:
@@ -374,9 +379,10 @@ JG:
     mk: Џонглеј
     'no': Jonglei
   comments:
+  type: state
 LK:
   name: البحيرات
-  code:
+  code: LK
   unofficial_names:
   geo:
     latitude:
@@ -436,9 +442,10 @@ LK:
     mk: Езера
     'no': Lakes
   comments:
+  type: state
 NU:
   name: أعالي النيل
-  code:
+  code: NU
   unofficial_names:
   geo:
     latitude:
@@ -499,9 +506,10 @@ NU:
     mk: Горен Нил
     'no': Upper Nile
   comments:
+  type: state
 UY:
   name: الوحدة
-  code:
+  code: UY
   unofficial_names:
   geo:
     latitude:
@@ -560,9 +568,10 @@ UY:
     mk: Единство
     'no': Unity
   comments:
+  type: state
 WR:
   name: واراب
-  code:
+  code: WR
   unofficial_names:
   geo:
     latitude:
@@ -622,3 +631,4 @@ WR:
     mk: Варап
     'no': Warrap
   comments:
+  type: state

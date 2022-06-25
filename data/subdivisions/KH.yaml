@@ -1,7 +1,7 @@
 ---
 '1':
   name: Banteay Mean Chey [Bântéay Méanchey]
-  code:
+  code: '1'
   unofficial_names:
   - Banteay Mean Chey [Bântéay Méanchey]
   - banteay meanchey
@@ -57,9 +57,10 @@
     uk: Провінція Бантеаймеантьей
     'no': Banteay Meancheay
   comments:
+  type: province
 '10':
   name: Kracheh [Krâchéh]
-  code:
+  code: '10'
   unofficial_names:
   - Kratié
   - Kratie
@@ -116,9 +117,10 @@
     uk: Провінція Кратьех
     'no': Kratie
   comments:
+  type: province
 '11':
   name: Mondol Kiri [Môndól Kiri]
-  code:
+  code: '11'
   unofficial_names:
   - Mondolkiri
   - Mondulkiri
@@ -176,9 +178,10 @@
     uk: Провінція Мондулкірі
     'no': Mondulkiri
   comments:
+  type: province
 '12':
   name: Phnom Penh [Phnum Pénh]
-  code:
+  code: '12'
   unofficial_names:
   - Phnom Penh
   - pp
@@ -274,9 +277,10 @@
     'no': Phnom Penh
     yo_BJ: Phnom Penh
   comments:
+  type: autonomous_municipality
 '13':
   name: Preah Vihear [Preah Vihéar]
-  code:
+  code: '13'
   unofficial_names:
   - Preah Vihear [Preah Vihéar]
   - pr.h
@@ -332,9 +336,10 @@
     uk: Провінція Преахвіхеа
     'no': Preah Vihear
   comments:
+  type: province
 '14':
   name: Prey Veaeng [Prey Vêng]
-  code:
+  code: '14'
   unofficial_names:
   - Prey Vêng
   - Prey Veng
@@ -392,9 +397,10 @@
     uk: Провінція Прей-Венг
     'no': Prey Veng
   comments:
+  type: province
 '15':
   name: Pousaat [Pouthisat]
-  code:
+  code: '15'
   unofficial_names:
   - Poŭthĭsăt
   - Pursat
@@ -452,9 +458,10 @@
     uk: Провінція Поусат
     'no': Pursat
   comments:
+  type: province
 '16':
   name: Rotanak Kiri [Rôtânôkiri]
-  code:
+  code: '16'
   unofficial_names:
   - Ratanakiri
   - Rotanokiri
@@ -513,9 +520,10 @@
     uk: Провінція Ратанакірі
     'no': Ratanakiri
   comments:
+  type: province
 '17':
   name: Siem Reab [Siemréab]
-  code:
+  code: '17'
   unofficial_names:
   - Siem Reap
   - Siemréab
@@ -574,9 +582,10 @@
     uk: Провінція Сиємреап
     'no': Siem Reap
   comments:
+  type: province
 '18':
   name: Krong Preah Sihanouk [Krong Preah Sihanouk]
-  code:
+  code: '18'
   unofficial_names:
   - Preah Seihânu
   - Sihanoukville
@@ -644,9 +653,10 @@
     ccp: "\U00011125\U00011128\U00011126\U0001111A\U0001112F\U00011107\U00011134\U0001111E\U00011128\U00011123\U0001112C"
     'no': Sihanoukville
   comments:
+  type: province
 '19':
   name: Stueng Traeng
-  code:
+  code: '19'
   unofficial_names:
   - Stoeng Trêng
   - Stung Treng
@@ -703,9 +713,10 @@
     uk: Провінція Стинг-Тренг
     'no': Stung Treng (provins)
   comments:
+  type: province
 '2':
   name: Baat Dambang [Batdâmbâng]
-  code:
+  code: '2'
   unofficial_names:
   - Batdâmbâng
   - Battambang
@@ -762,9 +773,10 @@
     uk: Провінція Батамбанг
     'no': Battambang (provins)
   comments:
+  type: province
 '20':
   name: Svaay Rieng [Svay Rieng]
-  code:
+  code: '20'
   unofficial_names:
   - Svaay Rieng [Svay Rieng]
   - svay rieng
@@ -822,9 +834,10 @@
     uk: Провінція Свайріенг
     'no': Svay Rieng (provins)
   comments:
+  type: province
 '21':
   name: Taakaev [Takêv]
-  code:
+  code: '21'
   unofficial_names:
   - Takeo
   - Takêv
@@ -880,9 +893,10 @@
     uk: Провінція Такео
     'no': Takeo
   comments:
+  type: province
 '22':
   name: 'Otdar Mean Chey [Otdâr Méanchey] '
-  code:
+  code: '22'
   unofficial_names:
   - 'Otdar Mean Chey [Otdâr Méanchey] '
   - Oddar Meanchey
@@ -940,9 +954,10 @@
     uk: Провінція Оддармеантьей
     'no': Oddar Meancheay
   comments:
+  type: province
 '23':
   name: Krong Kep [Krong Kêb]
-  code:
+  code: '23'
   unofficial_names:
   - Krong Kep [Krong Kêb]
   - Kep
@@ -995,9 +1010,10 @@
     uk: Провінція Каеп
     'no': Kep
   comments:
+  type: province
 '24':
   name: Krong Pailin [Krong Pailin]
-  code:
+  code: '24'
   unofficial_names:
   - Krong Pailin [Krong Pailin]
   - Pailin
@@ -1054,9 +1070,26 @@
     uk: Провінція Пайлін
     'no': Pailin
   comments:
+  type: province
+'25':
+  name: Tbong Khmum
+  code: '25'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    en: Tbong Khmum
+    ccp: "\U0001111D\U00011127\U00011101 \U0001111F\U0001111F\U00011134"
+  comments:
+  type: province
 '3':
   name: Kampong Chaam [Kâmpóng Cham]
-  code:
+  code: '3'
   unofficial_names:
   - Kompong Cham
   - Kompong Chaam
@@ -1118,9 +1151,10 @@
       \U0001110C\U0001111F\U00011134"
     'no': Kampong Cham
   comments:
+  type: province
 '4':
   name: Kampong Chhnang [Kâmpóng Chhnang]
-  code:
+  code: '4'
   unofficial_names:
   - Kompong Chhnang
   - k.chhnang
@@ -1176,9 +1210,10 @@
     uk: Провінція Кампонгчнанг
     'no': Kampong Chhnang
   comments:
+  type: province
 '5':
   name: Kampong Spueu [Kâmpóng Spœ]
-  code:
+  code: '5'
   unofficial_names:
   - Kompong Speu
   - Kompong Spoe
@@ -1238,9 +1273,10 @@
     uk: Провінція Кампонгспи
     'no': Kampong Spoe
   comments:
+  type: province
 '6':
   name: Kampong Thum [Kâmpóng Thum]
-  code:
+  code: '6'
   unofficial_names:
   - Kompong Thom
   - Kompong Thum
@@ -1302,9 +1338,10 @@
     uk: Провінція Кампонг-Том
     'no': Kampong Thom
   comments:
+  type: province
 '7':
   name: Kampot [Kâmpôt]
-  code:
+  code: '7'
   unofficial_names:
   - Kampot [Kâmpôt]
   - k.pot
@@ -1361,9 +1398,10 @@
     uk: Провінція Кампот
     'no': Kampot
   comments:
+  type: province
 '8':
   name: Kandaal [Kândal]
-  code:
+  code: '8'
   unofficial_names:
   - Kandaal [Kândal]
   - Kandal
@@ -1419,9 +1457,10 @@
     uk: Провінція Кандал
     'no': Kandal
   comments:
+  type: province
 '9':
   name: Kaoh Kong [Kaôh Kong]
-  code:
+  code: '9'
   unofficial_names:
   - Koh Kong
   - kk
@@ -1477,18 +1516,4 @@
     uk: Провінція Кахконг
     'no': Koh Kong
   comments:
-'25':
-  name: Tbong Khmum
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    en: Tbong Khmum
-    ccp: "\U0001111D\U00011127\U00011101 \U0001111F\U0001111F\U00011134"
-  comments:
+  type: province

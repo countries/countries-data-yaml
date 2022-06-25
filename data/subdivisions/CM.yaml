@@ -1,7 +1,7 @@
 ---
 AD:
   name: Adamaoua
-  code:
+  code: AD
   unofficial_names:
   - Adamawa
   geo:
@@ -60,9 +60,10 @@ AD:
     uk: Адамава
     'no': Adamawa
   comments:
+  type: region
 CE:
   name: Centre
-  code:
+  code: CE
   unofficial_names: Centre
   geo:
     latitude: 4.6298411
@@ -121,9 +122,10 @@ CE:
     'no': Centre
     yo_BJ: àárín
   comments:
+  type: region
 EN:
   name: Far North
-  code:
+  code: EN
   unofficial_names: Far North
   geo:
     latitude: 10.6315589
@@ -180,9 +182,10 @@ EN:
     uk: Крайньопівнічний регіон
     'no': Extrême-Nord
   comments:
+  type: region
 ES:
   name: East
-  code:
+  code: ES
   unofficial_names: East
   geo:
     latitude: 3.950512799999999
@@ -242,9 +245,10 @@ ES:
     'no': Est
     yo_BJ: ilà oòrùn
   comments:
+  type: region
 LT:
   name: Littoral
-  code:
+  code: LT
   unofficial_names: Littoral
   geo:
     latitude: 4.1682138
@@ -302,9 +306,10 @@ LT:
     he: מחוז החוף
     'no': Littoral
   comments:
+  type: region
 'NO':
   name: North
-  code:
+  code: 'NO'
   unofficial_names:
   - Bénoué
   geo:
@@ -364,9 +369,10 @@ LT:
     'no': Nord
     yo_BJ: Àríwá
   comments:
+  type: region
 NW:
   name: North-West
-  code:
+  code: NW
   unofficial_names: North-West
   geo:
     latitude: 6.470373899999999
@@ -423,9 +429,10 @@ NW:
     uk: Північно-Західний регіон
     'no': Nord-Ouest
   comments:
+  type: region
 OU:
   name: West
-  code:
+  code: OU
   unofficial_names: West
   geo:
     latitude: 5.4638158
@@ -484,9 +491,10 @@ OU:
     yo: ìwọ̀ oòrùn
     'no': Ouest
   comments:
+  type: region
 SU:
   name: South
-  code:
+  code: SU
   unofficial_names: South
   geo:
     latitude: 2.7202832
@@ -544,9 +552,10 @@ SU:
     'no': Sud
     yo_BJ: Gúúsù
   comments:
+  type: region
 SW:
   name: South-West
-  code:
+  code: SW
   unofficial_names: South-West
   geo:
     latitude: 5.1573493
@@ -603,3 +612,4 @@ SW:
     uk: Південно-Західний регіон
     'no': Sud-Ouest
   comments:
+  type: region

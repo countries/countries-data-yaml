@@ -1,7 +1,7 @@
 ---
 AH:
   name: Al Ahmadi
-  code:
+  code: AH
   unofficial_names:
   - Ahmadi
   geo:
@@ -53,9 +53,10 @@ AH:
     uk: Муніципалітет Ель-Ахмаді
     'no': Al Ahmadi Governorate
   comments:
+  type: governorate
 FA:
   name: Al Farwaniyah
-  code:
+  code: FA
   unofficial_names:
   - Farwaniyah
   geo:
@@ -108,9 +109,10 @@ FA:
     uk: Меніципалітет Ель-Фарванія
     'no': Al Farwaniyah
   comments:
+  type: governorate
 HA:
   name: Hawalli
-  code:
+  code: HA
   unofficial_names:
   - Hawalli
   geo:
@@ -163,9 +165,10 @@ HA:
     ccp: "\U00011126\U00011124\U00011123\U00011128"
     'no': Hawalli
   comments:
+  type: governorate
 JA:
   name: Al Jahrah
-  code:
+  code: JA
   unofficial_names:
   - Al Jahra
   - Jahra
@@ -205,9 +208,10 @@ JA:
     ccp: "\U00011103\U00011123\U00011134 \U0001110E\U00011126\U00011134\U00011122"
     ca: Governació d’Al Jahra
   comments:
+  type: governorate
 KU:
   name: Al Kuwayt
-  code:
+  code: KU
   unofficial_names:
   - Capital
   - Koweit
@@ -251,9 +255,10 @@ KU:
     ccp: "\U00011103\U00011123\U00011134 \U00011103\U00011125\U00011128\U0001111F\U00011126\U00011134"
     'no': Al Asimah
   comments:
+  type: governorate
 MU:
   name: Mubarak al-Kabir
-  code:
+  code: MU
   unofficial_names: Mubarak al-Kabir
   geo:
     latitude: 29.21224
@@ -304,3 +309,4 @@ MU:
     uk: Муніципалітет Мубарак-аль-Кабір
     'no': Mubarak Al-Kabeer
   comments:
+  type: governorate

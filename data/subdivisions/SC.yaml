@@ -1,7 +1,7 @@
 ---
 '01':
   name: Anse aux Pins
-  code:
+  code: '01'
   unofficial_names: Anse aux Pins
   geo:
     latitude: -4.6900443
@@ -54,9 +54,10 @@
     uk: Анс-о-Пен
     'no': Anse aux Pins
   comments:
+  type: district
 '02':
   name: Anse Boileau
-  code:
+  code: '02'
   unofficial_names: Anse Boileau
   geo:
     latitude: -4.7047268
@@ -109,9 +110,10 @@
     uk: Анс-Буало
     'no': Anse Boileau
   comments:
+  type: district
 '03':
   name: Anse Étoile
-  code:
+  code: '03'
   unofficial_names: Anse Étoile
   geo:
     latitude: -4.5962834
@@ -164,9 +166,10 @@
     uk: Анс-Етуаль
     'no': Anse Etoile
   comments:
+  type: district
 '04':
   name: Anse Louis
-  code:
+  code: '04'
   unofficial_names: Anse Louis
   geo:
     latitude: -4.7189825
@@ -218,9 +221,10 @@
     uk: О-Кап
     'no': Au Cap
   comments:
+  type: district
 '05':
   name: Anse Royale
-  code:
+  code: '05'
   unofficial_names: Anse Royale
   geo:
     latitude: -4.733333
@@ -272,9 +276,10 @@
     uk: Анс-Рояль
     'no': Anse Royale
   comments:
+  type: district
 '06':
   name: Baie Lazare
-  code:
+  code: '06'
   unofficial_names: Baie Lazare
   geo:
     latitude: -4.7482525
@@ -326,9 +331,10 @@
     uk: Бе-Лазар
     'no': Baie Lazare
   comments:
+  type: district
 '07':
   name: Baie Sainte Anne
-  code:
+  code: '07'
   unofficial_names: Baie Sainte Anne
   geo:
     latitude: -4.3193277
@@ -381,9 +387,10 @@
     uk: Бе-Сент-Анн
     'no': Baie Sainte Anne
   comments:
+  type: district
 '08':
   name: Beau Vallon
-  code:
+  code: '08'
   unofficial_names: Beau Vallon
   geo:
     latitude: -4.6210967
@@ -435,9 +442,10 @@
     uk: Бо-Валон
     'no': Beau Vallon
   comments:
+  type: district
 '09':
   name: Bel Air
-  code:
+  code: '09'
   unofficial_names: Bel Air
   geo:
     latitude: -4.6440325
@@ -489,9 +497,10 @@
     uk: Белер
     'no': Bel Air
   comments:
+  type: district
 '10':
   name: Bel Ombre
-  code:
+  code: '10'
   unofficial_names: Bel Ombre
   geo:
     latitude: -4.6204838
@@ -543,9 +552,10 @@
     uk: Бел-Омбре
     'no': Bel Ombre
   comments:
+  type: district
 '11':
   name: Cascade
-  code:
+  code: '11'
   unofficial_names: Cascade
   geo:
     latitude: -4.670554099999999
@@ -597,9 +607,10 @@
     uk: Каскад
     'no': Cascade
   comments:
+  type: district
 '12':
   name: Glacis
-  code:
+  code: '12'
   unofficial_names: Glacis
   geo:
     latitude: -4.5719729
@@ -652,9 +663,10 @@
     be: Гласіс
     'no': Glacis
   comments:
+  type: district
 '13':
   name: Grand' Anse (Mahé)
-  code:
+  code: '13'
   unofficial_names: Grand' Anse (Mahé)
   geo:
     latitude: -4.677392
@@ -683,9 +695,10 @@
     ka: გრანდ-ანსი
     de: Grand Anse (Mahé)
   comments:
+  type: district
 '14':
   name: Grand' Anse (Praslin)
-  code:
+  code: '14'
   unofficial_names: Grand' Anse (Praslin)
   geo:
     latitude: -4.3176219
@@ -737,9 +750,10 @@
     uk: Гранд-Анс-Праслін
     'no': Grand Anse Praslin
   comments:
+  type: district
 '15':
   name: La Digue
-  code:
+  code: '15'
   unofficial_names: La Digue
   geo:
     latitude: -4.3590972
@@ -779,9 +793,10 @@
     ccp: "\U00011123 \U00011113\U00011128\U00011109\U0001112A"
     cs: La Digue
   comments:
+  type: district
 '16':
   name: La Rivière Anglaise
-  code:
+  code: '16'
   unofficial_names: La Rivière Anglaise
   geo:
     latitude: -4.6149553
@@ -833,9 +848,10 @@
     uk: Ла-Рівьєр-Англез
     'no': English River
   comments:
+  type: district
 '17':
   name: Mont Buxton
-  code:
+  code: '17'
   unofficial_names: Mont Buxton
   geo:
     latitude: -4.6166667
@@ -887,9 +903,10 @@
     uk: Монт-Бакстон
     'no': Mont Buxton
   comments:
+  type: district
 '18':
   name: Mont Fleuri
-  code:
+  code: '18'
   unofficial_names: Mont Fleuri
   geo:
     latitude: -4.6356543
@@ -941,9 +958,10 @@
     uk: Монт-Флері
     'no': Mont Fleuri
   comments:
+  type: district
 '19':
   name: Plaisance
-  code:
+  code: '19'
   unofficial_names: Plaisance
   geo:
     latitude: -4.6489918
@@ -995,9 +1013,10 @@
     uk: Плезанс
     'no': Plaisance
   comments:
+  type: district
 '20':
   name: Pointe La Rue
-  code:
+  code: '20'
   unofficial_names: Pointe La Rue
   geo:
     latitude: -4.680489
@@ -1050,9 +1069,10 @@
     uk: Пуант-Ларю
     'no': Pointe La Rue
   comments:
+  type: district
 '21':
   name: Port Glaud
-  code:
+  code: '21'
   unofficial_names: Port Glaud
   geo:
     latitude: -4.6488523
@@ -1104,9 +1124,10 @@
     uk: Пор Гло
     'no': Port Glaud
   comments:
+  type: district
 '22':
   name: Saint Louis
-  code:
+  code: '22'
   unofficial_names: Saint Louis
   geo:
     latitude: -4.625194899999999
@@ -1159,9 +1180,10 @@
     uk: Парафія Сент-Луїс
     'no': Saint Louis
   comments:
+  type: district
 '23':
   name: Takamaka
-  code:
+  code: '23'
   unofficial_names: Takamaka
   geo:
     latitude: -4.7843688
@@ -1213,9 +1235,10 @@
     uk: Такамака
     'no': Takamaka
   comments:
+  type: district
 '24':
   name: Les Mamelles
-  code:
+  code: '24'
   unofficial_names:
   geo:
     latitude:
@@ -1267,9 +1290,10 @@
     uk: Ле-Мамель
     'no': Les Mamelles
   comments:
+  type: district
 '25':
   name: Roche Caïman
-  code:
+  code: '25'
   unofficial_names:
   geo:
     latitude:
@@ -1321,11 +1345,16 @@
     uk: Рош-Кайман
     'no': Roche Caiman
   comments:
+  type: district
 '26':
   translations:
     en: Ile Perseverance I
   name: Ile Perseverance I
+  code: '26'
+  type: district
 '27':
   translations:
     en: Ile Perseverance II
   name: Ile Perseverance II
+  code: '27'
+  type: district

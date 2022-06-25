@@ -1,7 +1,7 @@
 ---
 AA:
   name: A'ana
-  code:
+  code: AA
   unofficial_names: A'ana
   geo:
     latitude: -13.898418
@@ -55,9 +55,10 @@ AA:
     uk: Аана
     'no': A’ana
   comments:
+  type: district
 AL:
   name: Aiga-i-le-Tai
-  code:
+  code: AL
   unofficial_names: Aiga-i-le-Tai
   geo:
     latitude: -13.8513791
@@ -111,9 +112,10 @@ AL:
     uk: Аіга-і-ле-Таі
     'no': Aiga-i-le-Tai
   comments:
+  type: district
 AT:
   name: Atua
-  code:
+  code: AT
   unofficial_names: Atua
   geo:
     latitude: -13.9787053
@@ -166,9 +168,10 @@ AT:
     uk: Район Атуа
     'no': Atua
   comments:
+  type: district
 FA:
   name: Fa'asaleleaga
-  code:
+  code: FA
   unofficial_names: Fa'asaleleaga
   geo:
     latitude: -13.6307638
@@ -221,9 +224,10 @@ FA:
     uk: Фаасалелеага
     'no': Fa’asaleleaga
   comments:
+  type: district
 GE:
   name: Gaga'emauga
-  code:
+  code: GE
   unofficial_names: Gaga'emauga
   geo:
     latitude: -13.5428666
@@ -276,9 +280,10 @@ GE:
     uk: Гагаемауга
     'no': Gaga’emauga
   comments:
+  type: district
 GI:
   name: Gagaifomauga
-  code:
+  code: GI
   unofficial_names: Gagaifomauga
   geo:
     latitude: -13.5468007
@@ -332,9 +337,10 @@ GI:
     bg: Гагаифомауга
     'no': Gaga’ifomauga
   comments:
+  type: district
 PA:
   name: Palauli
-  code:
+  code: PA
   unofficial_names: Palauli
   geo:
     latitude: -13.7294579
@@ -388,9 +394,10 @@ PA:
     uk: Палаулі
     'no': Palauli
   comments:
+  type: district
 SA:
   name: Satupa'itea
-  code:
+  code: SA
   unofficial_names: Satupa'itea
   geo:
     latitude: -13.7731169
@@ -443,9 +450,10 @@ SA:
     uk: Сатупаітеа
     'no': Satupa’itea
   comments:
+  type: district
 TU:
   name: Tuamasaga
-  code:
+  code: TU
   unofficial_names: Tuamasaga
   geo:
     latitude: -13.9163592
@@ -499,9 +507,10 @@ TU:
     uk: Туамасага
     'no': Tuamasaga
   comments:
+  type: district
 VF:
   name: Va'a-o-Fonoti
-  code:
+  code: VF
   unofficial_names: Va'a-o-Fonoti
   geo:
     latitude: -13.9470903
@@ -552,9 +561,10 @@ VF:
     uk: Ваа-о-Фоноті
     'no': Va’a-o-Fonoti
   comments:
+  type: district
 VS:
   name: Vaisigano
-  code:
+  code: VS
   unofficial_names: Vaisigano
   geo:
     latitude: -13.5413827
@@ -608,3 +618,4 @@ VS:
     uk: Ваісігано
     'no': Vaisigano
   comments:
+  type: district

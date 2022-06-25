@@ -1,7 +1,7 @@
 ---
 AN:
   name: Anenii Noi
-  code:
+  code: AN
   unofficial_names:
   geo:
     latitude:
@@ -58,9 +58,10 @@ AN:
     ccp: "\U00011103\U0001111A\U0001112C\U0001111A\U00011128 \U0001111A\U00011130"
     'no': Anenii Noi
   comments:
+  type: district
 BA:
   name: Balti
-  code:
+  code: BA
   unofficial_names: Balti
   geo:
     latitude: 47.7539947
@@ -139,9 +140,10 @@ BA:
     mk: Белци
     'no': Bălți
   comments:
+  type: city
 BD:
   name: Bender [Tighina]
-  code:
+  code: BD
   unofficial_names:
   geo:
     latitude:
@@ -225,9 +227,10 @@ BD:
     'no': Bender
     yo_BJ: Bender
   comments:
+  type: city
 BR:
   name: Briceni
-  code:
+  code: BR
   unofficial_names:
   geo:
     latitude:
@@ -285,9 +288,10 @@ BR:
     be: Брычанскі раён
     'no': Briceni
   comments:
+  type: district
 BS:
   name: Basarabeasca
-  code:
+  code: BS
   unofficial_names:
   geo:
     latitude:
@@ -345,9 +349,10 @@ BS:
     ccp: "\U0001111D\U00011125\U00011122\U00011134\U0001111D\U00011128\U00011120\U0001110C\U00011134\U00011107"
     'no': Basarabeasca
   comments:
+  type: district
 CA:
   name: Cahul
-  code:
+  code: CA
   unofficial_names: Cahul
   geo:
     latitude: 45.8939404
@@ -404,23 +409,10 @@ CA:
     ccp: "\U00011107\U00011126\U0001112A\U00011123\U00011134"
     'no': Cahul
   comments:
-CH:
-  name: Chisinau City
-  code:
-  unofficial_names: Chisinau City
-  geo:
-    latitude: 47.0240102
-    longitude: 28.8313156
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    en: Chisinau City
-  comments:
+  type: district
 CL:
   name: Călărași
-  code:
+  code: CL
   unofficial_names:
   geo:
     latitude:
@@ -478,9 +470,10 @@ CL:
     ccp: "\U00011107\U00011123\U00011122\U00011125\U00011128"
     'no': Călărași
   comments:
+  type: district
 CM:
   name: Cimișlia
-  code:
+  code: CM
   unofficial_names:
   geo:
     latitude:
@@ -536,9 +529,10 @@ CM:
     ccp: "\U00011125\U00011128\U0001111F\U00011128\U0001110C\U00011134\U00011123\U00011128\U00011120"
     'no': Cimișlia
   comments:
+  type: district
 CR:
   name: Criuleni
-  code:
+  code: CR
   unofficial_names:
   geo:
     latitude:
@@ -593,9 +587,10 @@ CR:
     ccp: "\U00011107\U00011133\U00011122\U0001112D\U00011105\U0001112A\U00011123\U0001112C\U0001111A\U00011128"
     'no': Criuleni
   comments:
+  type: district
 CS:
   name: Căușeni
-  code:
+  code: CS
   unofficial_names:
   geo:
     latitude:
@@ -651,9 +646,10 @@ CS:
     ccp: "\U00011107\U0001112F\U00011125\U0001112C\U0001111A\U00011128"
     'no': Căușeni
   comments:
+  type: district
 CT:
   name: Cantemir
-  code:
+  code: CT
   unofficial_names:
   geo:
     latitude:
@@ -710,9 +706,10 @@ CT:
     ccp: "\U00011107\U0001111A\U00011134\U00011111\U0001112C\U0001111F\U00011128\U00011122\U00011134"
     'no': Cantemir
   comments:
+  type: district
 CU:
   name: Chisinau
-  code:
+  code: CU
   unofficial_names: Chisinau
   geo:
     latitude: 47.0240102
@@ -800,9 +797,10 @@ CU:
     'no': Chișinău
     yo_BJ: Chişinău
   comments:
+  type: city
 DO:
   name: Dondușeni
-  code:
+  code: DO
   unofficial_names:
   geo:
     latitude:
@@ -857,9 +855,10 @@ DO:
     ccp: "\U00011113\U00011127\U0001111A\U00011134\U00011113\U0001112A\U00011125\U0001112C\U0001111A\U00011128"
     'no': Dondușeni
   comments:
+  type: district
 DR:
   name: Drochia
-  code:
+  code: DR
   unofficial_names:
   geo:
     latitude:
@@ -915,9 +914,10 @@ DR:
     be: Дрокіеўскі раён
     'no': Drochia
   comments:
+  type: district
 DU:
   name: Dubăsari
-  code:
+  code: DU
   unofficial_names:
   geo:
     latitude:
@@ -973,9 +973,10 @@ DU:
     ccp: "\U00011113\U0001112A\U0001111D\U00011125\U00011122\U00011128"
     'no': Dubășari
   comments:
+  type: district
 ED:
   name: Edinet
-  code:
+  code: ED
   unofficial_names: Edinet
   geo:
     latitude: 48.1678991
@@ -1030,9 +1031,10 @@ ED:
     ccp: "\U00011103\U0001112C\U00011113\U00011128\U0001111A\U0001112C\U00011116\U00011134"
     'no': Edineț
   comments:
+  type: district
 FA:
   name: Fălești
-  code:
+  code: FA
   unofficial_names:
   geo:
     latitude:
@@ -1088,9 +1090,10 @@ FA:
     ccp: "\U0001111C\U00011123\U0001112C\U0001110C\U00011134\U00011111\U00011128"
     'no': Fălești
   comments:
+  type: district
 FL:
   name: Florești
-  code:
+  code: FL
   unofficial_names:
   geo:
     latitude:
@@ -1147,9 +1150,10 @@ FL:
     ccp: "\U0001111C\U00011133\U00011123\U0001112E\U00011122\U0001112C\U0001110C\U00011134\U00011111\U00011128"
     'no': Florești
   comments:
+  type: district
 GA:
   name: Gagauzia, Unitate Teritoriala Autonoma (UTAG)
-  code:
+  code: GA
   unofficial_names: Gagauzia, Unitate Teritoriala Autonoma (UTAG)
   geo:
     latitude:
@@ -1224,9 +1228,10 @@ GA:
     tk: Gagauzystan
     'no': Gagaus
   comments:
+  type: autonomous_territorial_unit
 GL:
   name: Glodeni
-  code:
+  code: GL
   unofficial_names:
   geo:
     latitude:
@@ -1282,9 +1287,10 @@ GL:
     ccp: "\U00011109\U00011133\U00011123\U0001112E\U00011113\U0001112C\U0001111A\U00011128"
     'no': Glodeni
   comments:
+  type: district
 HI:
   name: Hîncești
-  code:
+  code: HI
   unofficial_names:
   geo:
     latitude:
@@ -1340,9 +1346,10 @@ HI:
     hy: Հնչեշտի շրջան
     'no': Hîncești
   comments:
+  type: district
 IA:
   name: Ialoveni
-  code:
+  code: IA
   unofficial_names:
   geo:
     latitude:
@@ -1398,23 +1405,10 @@ IA:
     ccp: "\U00011103\U0001112D\U00011103\U00011123\U0001112E\U0001111E\U0001112C\U0001111A\U00011128"
     'no': Ialoveni
   comments:
-LA:
-  name: Lapusna
-  code:
-  unofficial_names: Lapusna
-  geo:
-    latitude: 46.883333
-    longitude: 28.416667
-    min_latitude: 46.8696098
-    min_longitude: 28.3915901
-    max_latitude: 46.9017563
-    max_longitude: 28.4313728
-  translations:
-    en: Lapusna
-  comments:
+  type: district
 LE:
   name: Leova
-  code:
+  code: LE
   unofficial_names:
   geo:
     latitude:
@@ -1470,9 +1464,10 @@ LE:
     ccp: "\U00011123\U00011128\U00011103\U0001112E\U0001111E"
     'no': Leova
   comments:
+  type: district
 NI:
   name: Nisporeni
-  code:
+  code: NI
   unofficial_names:
   geo:
     latitude:
@@ -1527,9 +1522,10 @@ NI:
     ccp: "\U0001111A\U00011128\U0001110C\U00011134\U0001111B\U00011127\U00011122\U0001112C\U0001111A\U00011128"
     'no': Nisporeni
   comments:
+  type: district
 OC:
   name: Ocnița
-  code:
+  code: OC
   unofficial_names:
   geo:
     latitude:
@@ -1585,9 +1581,10 @@ OC:
     ccp: "\U00011103\U00011127\U00011107\U00011134\U0001111A\U00011128\U00011111"
     'no': Ocnița
   comments:
+  type: district
 OR:
   name: Orhei
-  code:
+  code: OR
   unofficial_names: Orhei
   geo:
     latitude: 47.383333
@@ -1643,9 +1640,10 @@ OR:
     ccp: "\U00011103\U00011127\U00011122\U00011134\U00011126\U0001112C\U0001112D"
     'no': Orhei
   comments:
+  type: district
 RE:
   name: Rezina
-  code:
+  code: RE
   unofficial_names:
   geo:
     latitude:
@@ -1700,9 +1698,10 @@ RE:
     ccp: "\U00011122\U0001112C\U0001110E\U0001111A"
     'no': Rezina
   comments:
+  type: district
 RI:
   name: Rîșcani
-  code:
+  code: RI
   unofficial_names:
   geo:
     latitude:
@@ -1758,9 +1757,10 @@ RI:
     ccp: "\U00011122\U00011128\U0001110C\U00011134\U00011107\U0001111A\U00011128"
     'no': Rîșcani
   comments:
+  type: district
 SD:
   name: Șoldănești
-  code:
+  code: SD
   unofficial_names:
   geo:
     latitude:
@@ -1817,9 +1817,10 @@ SD:
     ccp: "\U00011125\U0001112E\U00011123\U00011134\U00011113\U0001111A\U0001112C\U0001110C\U00011134\U00011111\U00011128"
     'no': Șoldănești
   comments:
+  type: district
 SI:
   name: Sîngerei
-  code:
+  code: SI
   unofficial_names:
   geo:
     latitude:
@@ -1874,9 +1875,10 @@ SI:
     ccp: "\U00011125\U00011128\U0001111A\U00011134\U00011109\U0001112C\U00011122\U0001112D"
     'no': Sîngerei
   comments:
+  type: district
 SN:
   name: Stînga Nistrului, unitatea teritoriala din
-  code:
+  code: SN
   unofficial_names: Stînga Nistrului, unitatea teritoriala din
   geo:
     latitude:
@@ -1901,9 +1903,10 @@ SN:
     ceb: Unitatea Teritorială din Stînga Nistrului
     ccp: "\U00011111\U00011133\U00011122\U0001111A\U00011134\U0001111A\U00011128\U0001110C\U00011134\U00011111\U00011133\U00011122\U00011128\U00011120"
   comments:
+  type: territorial_unit
 SO:
   name: Soroca
-  code:
+  code: SO
   unofficial_names: Soroca
   geo:
     latitude: 48.166667
@@ -1960,9 +1963,10 @@ SO:
     hy: Սորոկի շրջան
     'no': Soroca
   comments:
+  type: district
 ST:
   name: Strășeni
-  code:
+  code: ST
   unofficial_names:
   geo:
     latitude:
@@ -2018,9 +2022,10 @@ ST:
     ccp: "\U00011111\U00011133\U00011122\U00011125\U0001112C\U0001111A\U00011128"
     'no': Strășeni
   comments:
+  type: district
 SV:
   name: Ștefan Vodă
-  code:
+  code: SV
   unofficial_names:
   geo:
     latitude:
@@ -2076,9 +2081,10 @@ SV:
     ccp: "\U0001110C\U00011133\U00011111\U0001112C\U0001111C\U0001111A\U00011134 \U0001111E\U0001112E\U00011113"
     'no': Ștefan Vodă
   comments:
+  type: district
 TA:
   name: Taraclia
-  code:
+  code: TA
   unofficial_names: Taraclia
   geo:
     latitude: 46.5703
@@ -2134,9 +2140,10 @@ TA:
     ccp: "\U00011111\U00011122\U00011107\U00011134\U00011123\U00011128\U00011120"
     'no': Taraclia
   comments:
+  type: district
 TE:
   name: Telenești
-  code:
+  code: TE
   unofficial_names:
   geo:
     latitude:
@@ -2192,23 +2199,10 @@ TE:
     be: Целянешцкі раён
     'no': Telenești
   comments:
-TI:
-  name: Tighina [Bender]
-  code:
-  unofficial_names: Tighina [Bender]
-  geo:
-    latitude: 46.84633609999999
-    longitude: 29.4534416
-    min_latitude: 46.795706
-    min_longitude: 29.39415499999999
-    max_latitude: 46.875329
-    max_longitude: 29.502832
-  translations:
-    en: Tighina [Bender]
-  comments:
+  type: district
 UN:
   name: Ungheni
-  code:
+  code: UN
   unofficial_names: Ungheni
   geo:
     latitude: 47.216667
@@ -2265,3 +2259,4 @@ UN:
     ccp: "\U00011103\U0001111A\U00011134\U0001110A\U0001112C\U0001111A\U00011128"
     'no': Ungheni
   comments:
+  type: district

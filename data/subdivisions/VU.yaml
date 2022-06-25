@@ -1,7 +1,7 @@
 ---
 MAP:
   name: Malampa
-  code:
+  code: MAP
   unofficial_names:
   - Ambrim
   - Ambrym
@@ -63,9 +63,10 @@ MAP:
     mk: Малампа
     'no': Malampa
   comments:
+  type: province
 PAM:
   name: Pénama
-  code:
+  code: PAM
   unofficial_names:
   - Ambae-Maewo
   - Aoba-Maewo
@@ -125,9 +126,10 @@ PAM:
     mk: Пенама
     'no': Penama
   comments:
+  type: province
 SAM:
   name: Sanma
-  code:
+  code: SAM
   unofficial_names:
   - Santo-Malo
   geo:
@@ -185,9 +187,10 @@ SAM:
     mk: Санма
     'no': Sanma
   comments:
+  type: province
 SEE:
   name: Shéfa
-  code:
+  code: SEE
   unofficial_names:
   - Sandwich Island
   - Vaté
@@ -245,9 +248,10 @@ SEE:
     uk: Провінція Шефа
     'no': Shefa
   comments:
+  type: province
 TAE:
   name: Taféa
-  code:
+  code: TAE
   unofficial_names: Taféa
   geo:
     latitude: -18.7237827
@@ -301,9 +305,10 @@ TAE:
     ccp: "\U00011111\U0001111C\U00011128\U00011120"
     'no': Tafea
   comments:
+  type: province
 TOB:
   name: Torba
-  code:
+  code: TOB
   unofficial_names:
   - Banks-Torres
   geo:
@@ -359,3 +364,4 @@ TOB:
     uk: Провінція Торба
     'no': Torba
   comments:
+  type: province

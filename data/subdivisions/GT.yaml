@@ -1,7 +1,7 @@
 ---
 AV:
   name: Alta Verapaz
-  code:
+  code: AV
   unofficial_names: Alta Verapaz
   geo:
     latitude: 15.5942883
@@ -60,9 +60,10 @@ AV:
     bs: Alta Verapaz
     'no': Alta Verapaz
   comments:
+  type: department
 BV:
   name: Baja Verapaz
-  code:
+  code: BV
   unofficial_names: Baja Verapaz
   geo:
     latitude: 15.0787498
@@ -120,9 +121,10 @@ BV:
     bs: Baja Verapaz
     'no': Baja Verapaz
   comments:
+  type: department
 CM:
   name: Chimaltenango
-  code:
+  code: CM
   unofficial_names: Chimaltenango
   geo:
     latitude: 14.662222
@@ -180,9 +182,10 @@ CM:
     bs: Chimaltenango
     'no': Chimaltenango
   comments:
+  type: department
 CQ:
   name: Chiquimula
-  code:
+  code: CQ
   unofficial_names: Chiquimula
   geo:
     latitude: 14.783333
@@ -238,9 +241,10 @@ CQ:
     bs: Chiquimula
     'no': Chiquimula
   comments:
+  type: department
 ES:
   name: Escuintla
-  code:
+  code: ES
   unofficial_names: Escuintla
   geo:
     latitude: 14.3009389
@@ -297,9 +301,10 @@ ES:
     bs: Escuintla
     'no': Escuintla
   comments:
+  type: department
 GU:
   name: Guatemala
-  code:
+  code: GU
   unofficial_names: Guatemala
   geo:
     latitude: 14.613333
@@ -359,9 +364,10 @@ GU:
     bs: Guatemala
     'no': Guatemala
   comments:
+  type: department
 HU:
   name: Huehuetenango
-  code:
+  code: HU
   unofficial_names: Huehuetenango
   geo:
     latitude: 15.314722
@@ -418,9 +424,10 @@ HU:
     bs: Huehuetenango
     'no': Huehuetenango
   comments:
+  type: department
 IZ:
   name: Izabal
-  code:
+  code: IZ
   unofficial_names: Izabal
   geo:
     latitude: 15.4036847
@@ -477,9 +484,10 @@ IZ:
     bs: Izabal
     'no': Izabal
   comments:
+  type: department
 JA:
   name: Jalapa
-  code:
+  code: JA
   unofficial_names: Jalapa
   geo:
     latitude: 14.5655154
@@ -536,9 +544,10 @@ JA:
     bs: Jalapa
     'no': Jalapa
   comments:
+  type: department
 JU:
   name: Jutiapa
-  code:
+  code: JU
   unofficial_names: Jutiapa
   geo:
     latitude: 14.282778
@@ -596,9 +605,10 @@ JU:
     bs: Jutiapa
     'no': Jutiapa
   comments:
+  type: department
 PE:
   name: Petén
-  code:
+  code: PE
   unofficial_names: Petén
   geo:
     latitude: 16.912033
@@ -657,9 +667,10 @@ PE:
     bs: Petén
     'no': Petén
   comments:
+  type: department
 PR:
   name: El Progreso
-  code:
+  code: PR
   unofficial_names: El Progreso
   geo:
     latitude: 14.86527
@@ -716,9 +727,10 @@ PR:
     bs: El Progreso
     'no': El Progreso
   comments:
+  type: department
 QC:
   name: Quiché
-  code:
+  code: QC
   unofficial_names: Quiché
   geo:
     latitude: 15.4983808
@@ -775,9 +787,10 @@ QC:
     bs: Quiché
     'no': Quiché
   comments:
+  type: department
 QZ:
   name: Quetzaltenango
-  code:
+  code: QZ
   unofficial_names:
   - Quetzaltenango
   geo:
@@ -837,9 +850,10 @@ QZ:
     bs: Quetzaltenango
     'no': Quetzaltenango
   comments:
+  type: department
 RE:
   name: Retalhuleu
-  code:
+  code: RE
   unofficial_names: Retalhuleu
   geo:
     latitude: 14.533333
@@ -897,9 +911,10 @@ RE:
     bs: Retalhuleu
     'no': Retalhuleu
   comments:
+  type: department
 SA:
   name: Sacatepéquez
-  code:
+  code: SA
   unofficial_names: Sacatepéquez
   geo:
     latitude: 14.6110576
@@ -958,9 +973,10 @@ SA:
     bs: Sacatepéquez
     'no': Sacatepéquez
   comments:
+  type: department
 SM:
   name: San Marcos
-  code:
+  code: SM
   unofficial_names: San Marcos
   geo:
     latitude: 14.9309569
@@ -1017,9 +1033,10 @@ SM:
     bs: San Marcos
     'no': San Marcos (departement)
   comments:
+  type: department
 SO:
   name: Sololá
-  code:
+  code: SO
   unofficial_names: Sololá
   geo:
     latitude: 14.773889
@@ -1076,9 +1093,10 @@ SO:
     bs: Sololá
     'no': Sololá
   comments:
+  type: department
 SR:
   name: Santa Rosa
-  code:
+  code: SR
   unofficial_names: Santa Rosa
   geo:
     latitude: 14.1928003
@@ -1137,9 +1155,10 @@ SR:
     bs: Santa Rosa
     'no': Santa Rosa (departement)
   comments:
+  type: department
 SU:
   name: Suchitepéquez
-  code:
+  code: SU
   unofficial_names: Suchitepéquez
   geo:
     latitude: 14.4215982
@@ -1196,9 +1215,10 @@ SU:
     bs: Suchitepéquez
     'no': Suchitepéquez
   comments:
+  type: department
 TO:
   name: Totonicapán
-  code:
+  code: TO
   unofficial_names: Totonicapán
   geo:
     latitude: 14.910833
@@ -1255,9 +1275,10 @@ TO:
     bs: Totonicapán
     'no': Totonicapán (departement)
   comments:
+  type: department
 ZA:
   name: Zacapa
-  code:
+  code: ZA
   unofficial_names: Zacapa
   geo:
     latitude: 15.0784265
@@ -1314,3 +1335,4 @@ ZA:
     bs: Zacapa
     'no': Zacapa
   comments:
+  type: department

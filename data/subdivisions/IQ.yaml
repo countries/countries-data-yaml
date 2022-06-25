@@ -1,7 +1,7 @@
 ---
 AN:
   name: Al Anbar
-  code:
+  code: AN
   unofficial_names:
   - al-Anbar
   geo:
@@ -65,9 +65,10 @@ AN:
     ca: Governació d’Al-Anbar
     'no': Anbar
   comments:
+  type: governorate
 AR:
   name: Arbil
-  code:
+  code: AR
   unofficial_names:
   - Arbil
   - Erbil
@@ -134,9 +135,10 @@ AR:
     mk: Ербил
     'no': Arbil
   comments:
+  type: governorate
 BA:
   name: Al Basrah
-  code:
+  code: BA
   unofficial_names:
   - Basra
   - Bassora
@@ -202,9 +204,10 @@ BA:
     mk: Басра
     'no': Basra
   comments:
+  type: governorate
 BB:
   name: Babil
-  code:
+  code: BB
   unofficial_names:
   - Babil
   - Babylon
@@ -267,9 +270,10 @@ BB:
     be: Бабіль
     'no': Babil
   comments:
+  type: governorate
 BG:
   name: Baghdad
-  code:
+  code: BG
   unofficial_names:
   - Baġdād
   - Bagdad
@@ -324,9 +328,10 @@ BG:
     ca: Governació de Bagdad
     'no': Bagdad
   comments:
+  type: governorate
 DA:
   name: Dahuk
-  code:
+  code: DA
   unofficial_names:
   - Dahuk
   geo:
@@ -391,9 +396,10 @@ DA:
     kk: Дахук
     'no': Dahuk
   comments:
+  type: governorate
 DI:
   name: Diyalá
-  code:
+  code: DI
   unofficial_names:
   - Diyala
   geo:
@@ -454,9 +460,10 @@ DI:
     ca: Governació de Diyala
     'no': Diyala
   comments:
+  type: governorate
 DQ:
   name: Dhi Qar
-  code:
+  code: DQ
   unofficial_names:
   - Dhi Qar
   - Thi Qar
@@ -517,9 +524,10 @@ DQ:
     eu: Dhi Qarreko probintzia
     'no': Dhi Qar
   comments:
+  type: governorate
 KA:
   name: Karbala'
-  code:
+  code: KA
   unofficial_names:
   - Karbala
   - Kerbala
@@ -579,9 +587,87 @@ KA:
     eu: Karbalako probintzia
     'no': Karbala
   comments:
+  type: governorate
+KI:
+  name: كركوك
+  code: KI
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: كركوك
+    az: Kərkük
+    bg: Киркук
+    bn: কির্কুক প্রদেশ
+    cs: Kirkúk
+    da: Kirkuk
+    de: Kirkuk
+    el: Κίρκουκ Γκοβερνοράτε
+    en: Kirkuk
+    es: Gobernación de Kirkuk
+    et: Kirkūki kubernerkond
+    eu: At Ta’mim probintzia
+    fa: استان کرکوک
+    fi: Kirkukin maakunta
+    fr: Kirkuk
+    gu: કિર્કુક ગવર્નોરેટ
+    he: כרכוכ
+    hi: करकूक प्रान्त
+    hu: Kirkuk kormányzóság
+    id: Provinsi Kirkuk
+    it: Governatorato di Kirkuk
+    ja: キルクーク県
+    ka: კირკუკის მუჰაფაზა
+    kn: ಕಿರ್ಕ್ಕುಕ್ ಗವರ್ನೇಟ್
+    ko: 키르쿠크 주
+    mr: किर्कुक गव्हर्नोरेट
+    ms: Pentadbiran At-Ta’mim
+    nb: Kirkuk
+    nl: Kirkoek
+    pl: Kirkuk
+    pt: Kirkuk
+    ru: Киркук
+    si: කර්කක් පළාත
+    sv: Kirkuk
+    ta: கிர்குக் கோவெர்னோகைட்
+    te: కిర్కుక్ గవర్నరేట్
+    th: เคอคุก กอเวอโนเรท
+    tr: Kerkük ili
+    uk: Кіркук
+    ur: محافظہ کرکوک
+    vi: Tỉnh Kirkuk
+    lv: Kirkuko muhāfaza
+    lt: Kirkuko gubernija
+    zh: 基爾庫克省
+    ccp: "\U00011107\U00011128\U00011122\U00011134\U00011107\U0001112A\U00011107\U00011134"
+    'no': Kirkuk
+  comments:
+  type: governorate
+KR:
+  name: إقليم كردستان
+  code: KR
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: إقليم كردستان
+    en: Kurdistan
+    ku: ھەرێمی کوردستان
+  comments:
+  type: region
 MA:
   name: Maysan
-  code:
+  code: MA
   unofficial_names: Maysan
   geo:
     latitude: 31.8734002
@@ -641,9 +727,10 @@ MA:
     eu: Maysango probintzia
     'no': Maysan
   comments:
+  type: governorate
 MU:
   name: Al Muthanná
-  code:
+  code: MU
   unofficial_names:
   - al-Muthanna
   geo:
@@ -703,9 +790,10 @@ MU:
     eu: Al-Muthanna probintzia
     'no': Muthanna
   comments:
+  type: governorate
 NA:
   name: An Najaf
-  code:
+  code: NA
   unofficial_names:
   - Najaf
   - Nedjef
@@ -770,9 +858,10 @@ NA:
     ca: Governació de Najaf
     'no': Najaf
   comments:
+  type: governorate
 NI:
   name: Ninawá
-  code:
+  code: NI
   unofficial_names:
   - Nineveh
   - Niniveh
@@ -837,9 +926,10 @@ NI:
     mk: Нинива
     'no': Ninawa
   comments:
+  type: governorate
 QA:
   name: Al Qadisiyah
-  code:
+  code: QA
   unofficial_names:
   - al-Qadisiyah
   geo:
@@ -898,9 +988,10 @@ QA:
     ca: Governació d’Al-Qadisiyyah
     'no': Al-Qadisiyya
   comments:
+  type: governorate
 SD:
   name: Salah ad Din
-  code:
+  code: SD
   unofficial_names:
   - Salah-ad-Din
   geo:
@@ -966,9 +1057,10 @@ SD:
     be: правінцыя Салах-эд-Дзін
     'no': Salah ad Din
   comments:
+  type: governorate
 SU:
   name: As Sulaymaniyah
-  code:
+  code: SU
   unofficial_names:
   - Sulaymaniya
   - Sulaymānīyah
@@ -1033,24 +1125,10 @@ SU:
     ccp: "\U00011125\U0001112A\U00011123\U0001112D\U0001111F\U0001111A\U00011128\U00011120\U00011126\U00011134"
     'no': Suleimania
   comments:
-TS:
-  name: At Ta'mim
-  code:
-  unofficial_names:
-  - at-Tamim
-  geo:
-    latitude: 35.3292014
-    longitude: 43.9436788
-    min_latitude: 34.681948
-    min_longitude: 43.264615
-    max_latitude: 35.906433
-    max_longitude: 44.790187
-  translations:
-    en: At Ta'mim
-  comments:
+  type: governorate
 WA:
   name: Wasit
-  code:
+  code: WA
   unofficial_names:
   - Wasit
   geo:
@@ -1113,62 +1191,4 @@ WA:
     ca: Governació de Wasit
     'no': Wasit
   comments:
-KI:
-  name: كركوك
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    ar: كركوك
-    az: Kərkük
-    bg: Киркук
-    bn: কির্কুক প্রদেশ
-    cs: Kirkúk
-    da: Kirkuk
-    de: Kirkuk
-    el: Κίρκουκ Γκοβερνοράτε
-    en: Kirkuk
-    es: Gobernación de Kirkuk
-    et: Kirkūki kubernerkond
-    eu: At Ta’mim probintzia
-    fa: استان کرکوک
-    fi: Kirkukin maakunta
-    fr: Kirkuk
-    gu: કિર્કુક ગવર્નોરેટ
-    he: כרכוכ
-    hi: करकूक प्रान्त
-    hu: Kirkuk kormányzóság
-    id: Provinsi Kirkuk
-    it: Governatorato di Kirkuk
-    ja: キルクーク県
-    ka: კირკუკის მუჰაფაზა
-    kn: ಕಿರ್ಕ್ಕುಕ್ ಗವರ್ನೇಟ್
-    ko: 키르쿠크 주
-    mr: किर्कुक गव्हर्नोरेट
-    ms: Pentadbiran At-Ta’mim
-    nb: Kirkuk
-    nl: Kirkoek
-    pl: Kirkuk
-    pt: Kirkuk
-    ru: Киркук
-    si: කර්කක් පළාත
-    sv: Kirkuk
-    ta: கிர்குக் கோவெர்னோகைட்
-    te: కిర్కుక్ గవర్నరేట్
-    th: เคอคุก กอเวอโนเรท
-    tr: Kerkük ili
-    uk: Кіркук
-    ur: محافظہ کرکوک
-    vi: Tỉnh Kirkuk
-    lv: Kirkuko muhāfaza
-    lt: Kirkuko gubernija
-    zh: 基爾庫克省
-    ccp: "\U00011107\U00011128\U00011122\U00011134\U00011107\U0001112A\U00011107\U00011134"
-    'no': Kirkuk
-  comments:
+  type: governorate

@@ -1,7 +1,7 @@
 ---
 C:
   name: Connacht
-  code:
+  code: C
   unofficial_names:
   - Connaught
   geo:
@@ -61,9 +61,10 @@ C:
     mk: Конахт
     'no': Connacht
   comments:
+  type: province
 CE:
   name: Clare
-  code:
+  code: CE
   unofficial_names:
   - An Clár
   geo:
@@ -133,9 +134,10 @@ CE:
     mk: Клер
     'no': Clare
   comments:
+  type: county
 CN:
   name: Cavan
-  code:
+  code: CN
   unofficial_names:
   - An Cabhán
   geo:
@@ -148,7 +150,7 @@ CN:
   translations:
     ar: مقاطعة كافان
     bg: Каван
-    bn: কাউন্টি কর্ক
+    bn: কাউন্টি কভেন
     ca: Comtat de Cavan
     cs: Hrabství Cavan
     da: County Cavan
@@ -205,9 +207,10 @@ CN:
     mk: Каван
     'no': Cavan
   comments:
+  type: county
 CO:
   name: Cork
-  code:
+  code: CO
   unofficial_names:
   - Corcaigh
   - County Cork
@@ -281,9 +284,10 @@ CO:
     vi: Hạt Cork
     zh: 科克郡
   comments:
+  type: county
 CW:
   name: Carlow
-  code:
+  code: CW
   unofficial_names:
   - Ceatharlach
   geo:
@@ -354,11 +358,13 @@ CW:
     vi: Hạt Carlow
     zh: 卡洛郡
   comments:
+  type: county
 D:
   name: Dublin
-  code:
+  code: D
   unofficial_names:
   - Átha Cliath
+  - Baile Átha Cliath
   geo:
     latitude: 53.3498053
     longitude: -6.2603097
@@ -412,9 +418,10 @@ D:
     ur: کاؤنٹی ڈبلن
     zh: 都柏林地區
   comments:
+  type: county
 DL:
   name: Donegal
-  code:
+  code: DL
   unofficial_names:
   - Dún na nGall
   geo:
@@ -485,9 +492,10 @@ DL:
     vi: Hạt Donegal
     zh: 多尼戈爾郡
   comments:
+  type: county
 G:
   name: Galway
-  code:
+  code: G
   unofficial_names:
   - Gaillimh
   geo:
@@ -557,9 +565,10 @@ G:
     vi: Hạt Galway
     zh: 戈尔韦郡
   comments:
+  type: county
 KE:
   name: Kildare
-  code:
+  code: KE
   unofficial_names:
   - Cill Dara
   geo:
@@ -630,9 +639,10 @@ KE:
     vi: Hạt Kildare
     zh: 基尔代尔郡
   comments:
+  type: county
 KK:
   name: Kilkenny
-  code:
+  code: KK
   unofficial_names:
   - Cill Chainnigh
   geo:
@@ -703,9 +713,10 @@ KK:
     vi: Hạt Kilkenny
     zh: 基爾肯尼郡
   comments:
+  type: county
 KY:
   name: Kerry
-  code:
+  code: KY
   unofficial_names:
   - Ciarraighe
   - Ciarraí
@@ -775,9 +786,10 @@ KY:
     vi: Hạt Kerry
     zh: 凱里郡
   comments:
+  type: county
 L:
   name: Leinster
-  code:
+  code: L
   unofficial_names:
   geo:
     latitude:
@@ -837,9 +849,10 @@ L:
     yue: 利揚省
     zh: 倫斯特省
   comments:
+  type: province
 LD:
   name: Longford
-  code:
+  code: LD
   unofficial_names:
   - Longphort
   - Longphuirt
@@ -909,9 +922,10 @@ LD:
     vi: Hạt Longford
     zh: 朗福德郡
   comments:
+  type: county
 LH:
   name: Louth
-  code:
+  code: LH
   unofficial_names:
   - Lughbhadh
   - Lú
@@ -982,9 +996,10 @@ LH:
     vi: Hạt Louth
     zh: 劳斯郡
   comments:
+  type: county
 LK:
   name: Limerick
-  code:
+  code: LK
   unofficial_names:
   - Luimneach
   geo:
@@ -1054,9 +1069,10 @@ LK:
     vi: Hạt Limerick
     zh: 利默里克郡
   comments:
+  type: county
 LM:
   name: Leitrim
-  code:
+  code: LM
   unofficial_names:
   - Liathdroim
   geo:
@@ -1124,9 +1140,10 @@ LM:
     vi: Hạt Leitrim
     zh: 利特里姆郡
   comments:
+  type: county
 LS:
   name: Laois
-  code:
+  code: LS
   unofficial_names:
   - Laoighis
   - Queenʿs
@@ -1195,9 +1212,10 @@ LS:
     vi: Hạt Laois
     zh: 萊伊什郡
   comments:
+  type: county
 M:
   name: Munster
-  code:
+  code: M
   unofficial_names:
   geo:
     latitude: 52.2218
@@ -1258,9 +1276,10 @@ M:
     yue: 莫雲省
     zh: 芒斯特省
   comments:
+  type: province
 MH:
   name: Meath
-  code:
+  code: MH
   unofficial_names:
   - An Mhí
   - An Mhídhe
@@ -1331,9 +1350,10 @@ MH:
     yue: 中土郡
     zh: 米斯郡
   comments:
+  type: county
 MN:
   name: Monaghan
-  code:
+  code: MN
   unofficial_names:
   - Muineachán
   geo:
@@ -1401,9 +1421,10 @@ MN:
     vi: Hạt Monaghan
     zh: 莫纳亨郡
   comments:
+  type: county
 MO:
   name: Mayo
-  code:
+  code: MO
   unofficial_names:
   - Maigh Eo
   geo:
@@ -1473,9 +1494,10 @@ MO:
     vi: Hạt Mayo
     zh: 梅奧郡
   comments:
+  type: county
 OY:
   name: Offaly
-  code:
+  code: OY
   unofficial_names:
   - Kingʿs
   - Kingʿs County
@@ -1547,9 +1569,10 @@ OY:
     vi: Hạt Offaly
     zh: 奧法利郡
   comments:
+  type: county
 RN:
   name: Roscommon
-  code:
+  code: RN
   unofficial_names:
   - Ros Comáin
   geo:
@@ -1618,9 +1641,10 @@ RN:
     vi: Hạt Roscommon
     zh: 羅斯康芒郡
   comments:
+  type: county
 SO:
   name: Sligo
-  code:
+  code: SO
   unofficial_names:
   - Sligeach
   geo:
@@ -1691,9 +1715,10 @@ SO:
     vi: Hạt Sligo
     zh: 斯萊戈郡
   comments:
+  type: county
 TA:
   name: Tipperary
-  code:
+  code: TA
   unofficial_names:
   - Tiobraid Árann
   geo:
@@ -1760,9 +1785,78 @@ TA:
     vi: Hạt Tipperary
     zh: 蒂珀雷里郡
   comments:
+  type: county
+U:
+  name: Ulster
+  code: U
+  unofficial_names:
+  geo:
+    latitude: 54.7617
+    longitude: 6.9612
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    'no': Ulster
+    af: Ulster
+    ar: أولستر
+    az: Olster
+    be: Ольстэр
+    bg: Ълстър
+    bs: Ulster
+    ca: Ulster
+    ccp: "\U00011103\U00011123\U00011134\U0001110C\U00011133\U00011111\U00011122\U00011134"
+    ceb: Ulster
+    cs: Ulster
+    cy: Ulster
+    da: Ulster
+    de: Provinz Ulster
+    el: Άλστερ
+    en: Ulster
+    es: Úlster
+    et: Ulster
+    eu: Ulster
+    fa: اولستر
+    fi: Ulster
+    fr: Ulster
+    ga: Cúige Uladh
+    gl: Úlster - Cúige Uladh
+    he: אלסטר
+    hr: Cúige Uladh
+    hy: Օլսթեր
+    id: Ulster
+    is: Ulster
+    it: Ulster
+    ja: アルスター
+    ka: ოლსტერი
+    ko: 얼스터
+    lt: Alsteris
+    lv: Olstera
+    mk: Алстер
+    nb: Ulster
+    nl: Ulster
+    pl: Ulster
+    pt: Ulster
+    ro: Ulster
+    ru: Ольстер
+    sk: Ulster
+    sr_Latn: Alster
+    sr: Алстер
+    sv: Ulster
+    th: อัลสเตอร์
+    tr: Ulster
+    uk: Ольстер
+    ur: السٹر
+    vi: Ulster
+    yue_Hans: 乌勒省
+    yue: 烏勒省
+    zh: 阿爾斯特省
+  comments:
+  type: province
 WD:
   name: Waterford
-  code:
+  code: WD
   unofficial_names:
   - Port Láirge
   geo:
@@ -1831,9 +1925,10 @@ WD:
     vi: Hạt Waterford
     zh: 沃特福德郡
   comments:
+  type: county
 WH:
   name: Westmeath
-  code:
+  code: WH
   unofficial_names:
   - An Iarmhidhe
   geo:
@@ -1900,9 +1995,10 @@ WH:
     vi: Hạt Westmeath
     zh: 韋斯特米斯郡
   comments:
+  type: county
 WW:
   name: Wicklow
-  code:
+  code: WW
   unofficial_names:
   - Cill Maintain
   - Cill Mhanntáin
@@ -1973,9 +2069,10 @@ WW:
     vi: Hạt Wicklow
     zh: 威克洛郡
   comments:
+  type: county
 WX:
   name: Wexford
-  code:
+  code: WX
   unofficial_names:
   - Loch Garman
   geo:
@@ -2043,70 +2140,4 @@ WX:
     vi: Wexford
     zh: 韦克斯福德郡
   comments:
-U:
-  name: Ulster
-  code:
-  unofficial_names:
-  geo:
-    latitude: 54.7617
-    longitude: 6.9612
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    'no': Ulster
-    af: Ulster
-    ar: أولستر
-    az: Olster
-    be: Ольстэр
-    bg: Ълстър
-    bs: Ulster
-    ca: Ulster
-    ccp: "\U00011103\U00011123\U00011134\U0001110C\U00011133\U00011111\U00011122\U00011134"
-    ceb: Ulster
-    cs: Ulster
-    cy: Ulster
-    da: Ulster
-    de: Provinz Ulster
-    el: Άλστερ
-    en: Ulster
-    es: Úlster
-    et: Ulster
-    eu: Ulster
-    fa: اولستر
-    fi: Ulster
-    fr: Ulster
-    ga: Cúige Uladh
-    gl: Úlster - Cúige Uladh
-    he: אלסטר
-    hr: Cúige Uladh
-    hy: Օլսթեր
-    id: Ulster
-    is: Ulster
-    it: Ulster
-    ja: アルスター
-    ka: ოლსტერი
-    ko: 얼스터
-    lt: Alsteris
-    lv: Olstera
-    mk: Алстер
-    nb: Ulster
-    nl: Ulster
-    pl: Ulster
-    pt: Ulster
-    ro: Ulster
-    ru: Ольстер
-    sk: Ulster
-    sr_Latn: Alster
-    sr: Алстер
-    sv: Ulster
-    th: อัลสเตอร์
-    tr: Ulster
-    uk: Ольстер
-    ur: السٹر
-    vi: Ulster
-    yue_Hans: 乌勒省
-    yue: 烏勒省
-    zh: 阿爾斯特省
-  comments:
+  type: county

@@ -1,7 +1,7 @@
 ---
 ACT:
   name: Australian Capital Territory
-  code:
+  code: ACT
   unofficial_names: Australian Capital Territory
   geo:
     latitude: -35.4734679
@@ -81,9 +81,10 @@ ACT:
     mk: Австралиска престолнинска територија
     'no': Australian Capital Territory
   comments:
+  type: territory
 NSW:
   name: New South Wales
-  code:
+  code: NSW
   unofficial_names: New South Wales
   geo:
     latitude: -33.864174
@@ -170,9 +171,10 @@ NSW:
     mk: Нов Јужен Велс
     'no': New South Wales
   comments:
+  type: state
 NT:
   name: Northern Territory
-  code:
+  code: NT
   unofficial_names: Northern Territory
   geo:
     latitude: -19.4914108
@@ -253,9 +255,10 @@ NT:
     mk: Северна Територија
     'no': Nordterritoriet
   comments:
+  type: territory
 QLD:
   name: Queensland
-  code:
+  code: QLD
   unofficial_names: Queensland
   geo:
     latitude: -20.9175738
@@ -345,9 +348,10 @@ QLD:
     'no': Queensland
     yo_BJ: Queensland
   comments:
+  type: state
 SA:
   name: South Australia
-  code:
+  code: SA
   unofficial_names: South Australia
   geo:
     latitude: -30.0002315
@@ -430,9 +434,10 @@ SA:
     mk: Јужна Австралија
     'no': Sør-Australia
   comments:
+  type: state
 TAS:
   name: Tasmania
-  code:
+  code: TAS
   unofficial_names: Tasmania
   geo:
     latitude: -41.3650419
@@ -520,9 +525,10 @@ TAS:
     mk: Тасманија
     'no': Tasmania
   comments:
+  type: state
 VIC:
   name: Victoria
-  code:
+  code: VIC
   unofficial_names: Victoria
   geo:
     latitude: -37.4713077
@@ -604,9 +610,10 @@ VIC:
     mk: Викторија
     'no': Victoria
   comments:
+  type: state
 WA:
   name: Western Australia
-  code:
+  code: WA
   unofficial_names: Western Australia
   geo:
     latitude: -27.6728168
@@ -688,3 +695,4 @@ WA:
     mk: Западна Австралија
     'no': Vest-Australia
   comments:
+  type: state

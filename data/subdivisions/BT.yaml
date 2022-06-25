@@ -1,7 +1,7 @@
 ---
 '11':
   name: Paro
-  code:
+  code: '11'
   unofficial_names:
   - Paro
   - Rinpung
@@ -64,9 +64,10 @@
     ca: Districte de Paro
     'no': Paro
   comments:
+  type: district
 '12':
   name: Chhukha
-  code:
+  code: '12'
   unofficial_names:
   - Chhuka
   - Chuka
@@ -129,9 +130,10 @@
     ca: Districte de Chukha
     'no': Chukha
   comments:
+  type: district
 '13':
   name: Ha
-  code:
+  code: '13'
   unofficial_names:
   - Ha
   - Haa
@@ -191,9 +193,10 @@
     ca: Districte de Haa
     'no': Haa
   comments:
+  type: district
 '14':
   name: Samtse
-  code:
+  code: '14'
   unofficial_names:
   - Samchi
   - Samtse
@@ -253,9 +256,10 @@
     ca: Districte de Samtse
     'no': Samtse
   comments:
+  type: district
 '15':
   name: Thimphu
-  code:
+  code: '15'
   unofficial_names:
   - Thimbu
   - Thimphu
@@ -322,9 +326,10 @@
     ccp: "\U00011117\U00011128\U0001111F\U00011134\U0001111C\U0001112A"
     'no': Thimphu distrikt
   comments:
+  type: district
 '21':
   name: Tsirang
-  code:
+  code: '21'
   unofficial_names:
   - Chirang
   - Tsirang
@@ -363,9 +368,10 @@
     ca: Districte de Tsirang
     'no': Tsirang
   comments:
+  type: district
 '22':
   name: Dagana
-  code:
+  code: '22'
   unofficial_names:
   - Daga
   - Dagana
@@ -406,9 +412,10 @@
     ca: Districte de Dagana
     'no': Dagana
   comments:
+  type: district
 '23':
   name: Punakha
-  code:
+  code: '23'
   unofficial_names: Punakha
   geo:
     latitude: 27.5920869
@@ -466,9 +473,10 @@
     sl: Okraj Punaka
     'no': Punakha
   comments:
+  type: district
 '24':
   name: Wangdue Phodrang
-  code:
+  code: '24'
   unofficial_names:
   - Wangdi Phodrang
   - Wangdiphodrang
@@ -531,9 +539,10 @@
     ca: Districte de Wangdue Phodrang
     'no': Wangdue Phodrang
   comments:
+  type: district
 '31':
   name: Sarpang
-  code:
+  code: '31'
   unofficial_names:
   - Gaylegphug
   - Geylegphug
@@ -576,9 +585,10 @@
     ca: Districte de Sarpang
     'no': Sarpang
   comments:
+  type: district
 '32':
   name: Trongsa
-  code:
+  code: '32'
   unofficial_names:
   - Tongsa
   - Trongsa
@@ -634,9 +644,10 @@
     ccp: "\U00011111\U00011133\U00011122\U00011127\U00011101\U00011125"
     'no': Trongsa
   comments:
+  type: district
 '33':
   name: Bumthang
-  code:
+  code: '33'
   unofficial_names: Bumthang
   geo:
     latitude: 27.641839
@@ -697,9 +708,10 @@
     ca: Districte de Bumthang
     'no': Bumthang
   comments:
+  type: district
 '34':
   name: Zhemgang
-  code:
+  code: '34'
   unofficial_names:
   - Shemgang
   - Zhemgang
@@ -755,9 +767,10 @@
     ca: Districte de Zhemgang
     'no': Zhemgang
   comments:
+  type: district
 '41':
   name: Trashigang
-  code:
+  code: '41'
   unofficial_names:
   - Tashigang
   - Trashigang
@@ -813,9 +826,10 @@
     ca: Districte de Trashigang
     'no': Trashigang
   comments:
+  type: district
 '42':
   name: Monggar
-  code:
+  code: '42'
   unofficial_names:
   - Monggar
   - Mongor
@@ -872,9 +886,10 @@
     ca: Districte de Mongar
     'no': Mongar
   comments:
+  type: district
 '43':
   name: Pemagatshel
-  code:
+  code: '43'
   unofficial_names:
   - Pema Gatshel
   - Pemagatsel
@@ -931,9 +946,10 @@
     ca: Districte de Pemagatshel
     'no': Pemagatshel
   comments:
+  type: district
 '44':
   name: Lhuentse
-  code:
+  code: '44'
   unofficial_names:
   - Lhuentse
   - Lhun Tshi
@@ -992,9 +1008,10 @@
     ca: Districte de Lhuntse
     'no': Lhuntse
   comments:
+  type: district
 '45':
   name: Samdrup Jongkha
-  code:
+  code: '45'
   unofficial_names:
   - Samdruk Jongkhar
   - Samdrup
@@ -1053,9 +1070,10 @@
     ca: Districte de Samdrup Jongkhar
     'no': Samdrup Jongkhar
   comments:
+  type: district
 GA:
   name: Gasa
-  code:
+  code: GA
   unofficial_names:
   - Gaza
   geo:
@@ -1112,9 +1130,10 @@ GA:
     ca: Districte de Gasa
     'no': Gasa
   comments:
+  type: district
 TY:
   name: Trashi Yangtse
-  code:
+  code: TY
   unofficial_names:
   - Tashiyangtse
   geo:
@@ -1172,3 +1191,4 @@ TY:
     ca: Districte de Trashiyamgtse
     'no': Trashiyangtse
   comments:
+  type: district

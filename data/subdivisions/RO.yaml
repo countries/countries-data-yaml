@@ -1,7 +1,7 @@
 ---
 AB:
   name: Alba
-  code:
+  code: AB
   unofficial_names: Alba
   geo:
     latitude: 46.1558924
@@ -70,9 +70,10 @@ AB:
     mk: Алба
     'no': Alba
   comments:
+  type: department
 AG:
   name: Arges
-  code:
+  code: AG
   unofficial_names:
   - Arges
   geo:
@@ -140,9 +141,10 @@ AG:
     mk: Арџеш
     'no': Argeș
   comments:
+  type: department
 AR:
   name: Arad
-  code:
+  code: AR
   unofficial_names: Arad
   geo:
     latitude: 46.166667
@@ -210,9 +212,10 @@ AR:
     mk: Арад
     'no': Arad
   comments:
+  type: department
 B:
   name: Bucuresti
-  code:
+  code: B
   unofficial_names:
   - Bucuresti
   - Bucureşti
@@ -310,9 +313,10 @@ B:
     'no': București
     yo_BJ: Bucharest
   comments:
+  type: municipality
 BC:
   name: Bacau
-  code:
+  code: BC
   unofficial_names:
   - Bacau
   geo:
@@ -370,9 +374,10 @@ BC:
     mk: Бакау
     'no': Bacău
   comments:
+  type: department
 BH:
   name: Bihor
-  code:
+  code: BH
   unofficial_names: Bihor
   geo:
     latitude: 47.01575159999999
@@ -439,9 +444,10 @@ BH:
     mk: Бихор
     'no': Bihor
   comments:
+  type: department
 BN:
   name: Bistrita-Nasaud
-  code:
+  code: BN
   unofficial_names:
   - Bistrita-Nasaud
   geo:
@@ -508,9 +514,10 @@ BN:
     mk: Бистрица-Насауд
     'no': Bistrița-Năsăud
   comments:
+  type: department
 BR:
   name: Braila
-  code:
+  code: BR
   unofficial_names:
   - Braila
   geo:
@@ -577,9 +584,10 @@ BR:
     mk: Браила
     'no': Brăila
   comments:
+  type: department
 BT:
   name: Botosani
-  code:
+  code: BT
   unofficial_names:
   - Botosani
   geo:
@@ -649,9 +657,10 @@ BT:
     mk: Ботошан
     'no': Botoșani
   comments:
+  type: department
 BV:
   name: Brasov
-  code:
+  code: BV
   unofficial_names:
   - Brasov
   geo:
@@ -717,9 +726,10 @@ BV:
     mk: Брашов
     'no': Brașov
   comments:
+  type: department
 BZ:
   name: Buzau
-  code:
+  code: BZ
   unofficial_names:
   - Buzau
   geo:
@@ -785,9 +795,10 @@ BZ:
     mk: Бузау
     'no': Buzău
   comments:
+  type: department
 CJ:
   name: Cluj
-  code:
+  code: CJ
   unofficial_names: Cluj
   geo:
     latitude: 46.766667
@@ -854,9 +865,10 @@ CJ:
     mk: Клуж
     'no': Cluj
   comments:
+  type: department
 CL:
   name: Calarasi
-  code:
+  code: CL
   unofficial_names:
   - Calarasi
   geo:
@@ -922,9 +934,10 @@ CL:
     mk: Калараш
     'no': Călărași
   comments:
+  type: department
 CS:
   name: Caras-Severin
-  code:
+  code: CS
   unofficial_names:
   - Caras-Severin
   geo:
@@ -989,9 +1002,10 @@ CS:
     mk: Караш-Северин
     'no': Caraș-Severin
   comments:
+  type: department
 CT:
   name: Constanta
-  code:
+  code: CT
   unofficial_names:
   - Constanta
   - Konstanza
@@ -1058,9 +1072,10 @@ CT:
     mk: Констанца
     'no': Constanța
   comments:
+  type: department
 CV:
   name: Covasna
-  code:
+  code: CV
   unofficial_names: Covasna
   geo:
     latitude: 45.849167
@@ -1123,9 +1138,10 @@ CV:
     ccp: "\U00011107\U0001112E\U0001111E\U0001110C\U00011134\U0001111A"
     'no': Covasna
   comments:
+  type: department
 DB:
   name: Dâmbovita
-  code:
+  code: DB
   unofficial_names:
   - Dambovita
   - Dimbovita
@@ -1193,9 +1209,10 @@ DB:
     be: жудзец Дымбавіца
     'no': Dâmbovița
   comments:
+  type: department
 DJ:
   name: Dolj
-  code:
+  code: DJ
   unofficial_names: Dolj
   geo:
     latitude: 44.1623022
@@ -1260,9 +1277,10 @@ DJ:
     be: жудзец Долж
     'no': Dolj
   comments:
+  type: department
 GJ:
   name: Gorj
-  code:
+  code: GJ
   unofficial_names: Gorj
   geo:
     latitude: 44.94855949999999
@@ -1327,9 +1345,10 @@ GJ:
     ccp: "\U00011109\U0001112E\U00011122\U00011134"
     'no': Gorj
   comments:
+  type: department
 GL:
   name: Galati
-  code:
+  code: GL
   unofficial_names:
   - Galati
   - Galatz
@@ -1396,9 +1415,10 @@ GL:
     be: Галац
     'no': Galați
   comments:
+  type: department
 GR:
   name: Giurgiu
-  code:
+  code: GR
   unofficial_names: Giurgiu
   geo:
     latitude: 43.900833
@@ -1461,9 +1481,10 @@ GR:
     ccp: "\U0001110E\U00011128\U00011120\U00011122\U00011134\U0001110E\U00011128\U00011105\U0001112A"
     'no': Giurgiu
   comments:
+  type: department
 HD:
   name: Hunedoara
-  code:
+  code: HD
   unofficial_names: Hunedoara
   geo:
     latitude: 45.76972199999999
@@ -1528,9 +1549,10 @@ HD:
     ccp: "\U00011126\U0001112A\U0001111A\U0001112C\U00011113\U0001112E\U00011120\U00011122"
     'no': Hunedoara
   comments:
+  type: department
 HR:
   name: Harghita
-  code:
+  code: HR
   unofficial_names: Harghita
   geo:
     latitude: 46.4928507
@@ -1593,9 +1615,10 @@ HR:
     ccp: "\U00011126\U00011122\U00011134\U0001110A\U00011128\U00011111"
     'no': Harghita
   comments:
+  type: department
 IF:
   name: Ilfov
-  code:
+  code: IF
   unofficial_names:
   - Sectorul Agricol Ilfov
   geo:
@@ -1659,9 +1682,10 @@ IF:
     ccp: "\U00011103\U00011128\U00011123\U00011134\U0001111C\U0001112E\U0001111B\U00011134"
     'no': Ilfov
   comments:
+  type: department
 IL:
   name: Ialomita
-  code:
+  code: IL
   unofficial_names:
   - Ialomita
   geo:
@@ -1725,9 +1749,10 @@ IL:
     ccp: "\U00011103\U0001112D\U00011103\U00011123\U0001112E\U0001111F\U00011128\U00011111"
     'no': Ialomiţa
   comments:
+  type: department
 IS:
   name: Iasi
-  code:
+  code: IS
   unofficial_names:
   - Iasi
   - Jasch
@@ -1797,9 +1822,10 @@ IS:
     mk: Јаш
     'no': Iași
   comments:
+  type: department
 MH:
   name: Mehedinti
-  code:
+  code: MH
   unofficial_names:
   - Mehedinti
   geo:
@@ -1864,9 +1890,10 @@ MH:
     be: жудзец Мехедынцы
     'no': Mehedinți
   comments:
+  type: department
 MM:
   name: Maramures
-  code:
+  code: MM
   unofficial_names:
   - Maramures
   geo:
@@ -1919,9 +1946,10 @@ MM:
     ccp: "\U0001111F\U00011122\U0001111F\U0001112A\U00011122\U0001112C\U0001110C\U00011134"
     'no': Maramureș
   comments:
+  type: department
 MS:
   name: Mures
-  code:
+  code: MS
   unofficial_names:
   - Mures
   geo:
@@ -1985,9 +2013,10 @@ MS:
     ccp: "\U0001111F\U0001112A\U00011122\U0001112C\U0001110C\U00011134"
     'no': Mureș
   comments:
+  type: department
 NT:
   name: Neamt
-  code:
+  code: NT
   unofficial_names:
   - Neamt
   geo:
@@ -2052,9 +2081,10 @@ NT:
     he: ניאמץ
     'no': Neamț
   comments:
+  type: department
 OT:
   name: Olt
-  code:
+  code: OT
   unofficial_names: Olt
   geo:
     latitude: 44.200797
@@ -2118,9 +2148,10 @@ OT:
     ccp: "\U00011103\U00011127\U00011123\U00011134\U00011111\U00011134"
     'no': Olt
   comments:
+  type: department
 PH:
   name: Prahova
-  code:
+  code: PH
   unofficial_names: Prahova
   geo:
     latitude: 45.08919059999999
@@ -2183,9 +2214,10 @@ PH:
     ccp: "\U0001111B\U00011133\U00011122\U00011127\U00011126\U0001112E\U0001111E"
     'no': Prahova
   comments:
+  type: department
 SB:
   name: Sibiu
-  code:
+  code: SB
   unofficial_names: Sibiu
   geo:
     latitude: 45.792784
@@ -2252,9 +2284,10 @@ SB:
     mk: Сибиу
     'no': Sibiu
   comments:
+  type: department
 SJ:
   name: Salaj
-  code:
+  code: SJ
   unofficial_names:
   - Salaj
   geo:
@@ -2320,9 +2353,10 @@ SJ:
     be: жудзец Сэлаж
     'no': Sălaj
   comments:
+  type: department
 SM:
   name: Satu Mare
-  code:
+  code: SM
   unofficial_names: Satu Mare
   geo:
     latitude: 47.79
@@ -2388,9 +2422,10 @@ SM:
     be: жудзец Сату-Марэ
     'no': Satu Mare
   comments:
+  type: department
 SV:
   name: Suceava
-  code:
+  code: SV
   unofficial_names: Suceava
   geo:
     latitude: 47.65138899999999
@@ -2456,9 +2491,10 @@ SV:
     ccp: "\U00011125\U0001112A\U0001110C\U00011128\U0001111E"
     'no': Suceava
   comments:
+  type: department
 TL:
   name: Tulcea
-  code:
+  code: TL
   unofficial_names: Tulcea
   geo:
     latitude: 45.1716165
@@ -2523,9 +2559,10 @@ TL:
     be: жудзец Тулча
     'no': Tulcea
   comments:
+  type: department
 TM:
   name: Timis
-  code:
+  code: TM
   unofficial_names:
   - Timis
   geo:
@@ -2593,9 +2630,10 @@ TM:
     mk: Тимиш
     'no': Timiș
   comments:
+  type: department
 TR:
   name: Teleorman
-  code:
+  code: TR
   unofficial_names: Teleorman
   geo:
     latitude: 44.0160491
@@ -2660,9 +2698,10 @@ TR:
     be: жудзец Тэлеарман
     'no': Teleorman
   comments:
+  type: department
 VL:
   name: Vâlcea
-  code:
+  code: VL
   unofficial_names:
   - Vîlcea
   geo:
@@ -2728,9 +2767,10 @@ VL:
     be: жудзец Вылча
     'no': Vâlcea
   comments:
+  type: department
 VN:
   name: Vrancea
-  code:
+  code: VN
   unofficial_names: Vrancea
   geo:
     latitude: 45.81348759999999
@@ -2795,9 +2835,10 @@ VN:
     ccp: "\U0001111E\U00011133\U00011122\U0001111A\U00011134\U00011125\U00011128"
     'no': Vrancea
   comments:
+  type: department
 VS:
   name: Vaslui
-  code:
+  code: VS
   unofficial_names: Vaslui
   geo:
     latitude: 46.638333
@@ -2863,3 +2904,4 @@ VS:
     mk: Васлуј
     'no': Vaslui
   comments:
+  type: department

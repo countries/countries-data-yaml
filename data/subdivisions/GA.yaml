@@ -1,7 +1,7 @@
 ---
 '1':
   name: Estuaire
-  code:
+  code: '1'
   unofficial_names: Estuaire
   geo:
     latitude: 0.4432864
@@ -61,9 +61,10 @@
     yue: 河口省
     'no': Estuaire
   comments:
+  type: province
 '2':
   name: Haut-Ogooué
-  code:
+  code: '2'
   unofficial_names: Haut-Ogooué
   geo:
     latitude: -1.4762544
@@ -122,9 +123,10 @@
     yue: 上奧果韋省
     'no': Haut-Ogooué
   comments:
+  type: province
 '3':
   name: Moyen-Ogooué
-  code:
+  code: '3'
   unofficial_names: Moyen-Ogooué
   geo:
     latitude: -0.442784
@@ -182,9 +184,10 @@
     yue: 中奧果韋省
     'no': Moyen-Ogooué
   comments:
+  type: province
 '4':
   name: Ngounié
-  code:
+  code: '4'
   unofficial_names:
   - Nʿgounié
   geo:
@@ -243,9 +246,10 @@
     yue: 恩古涅省
     'no': Ngounié
   comments:
+  type: province
 '5':
   name: Nyanga
-  code:
+  code: '5'
   unofficial_names: Nyanga
   geo:
     latitude: -2.8821033
@@ -303,9 +307,10 @@
     yue: 尼揚加省
     'no': Nyanga
   comments:
+  type: province
 '6':
   name: Ogooué-Ivindo
-  code:
+  code: '6'
   unofficial_names: Ogooué-Ivindo
   geo:
     latitude: 0.8818311
@@ -363,9 +368,10 @@
     yue: 奧果韋-伊溫多省
     'no': Ogooué-Ivindo
   comments:
+  type: province
 '7':
   name: Ogooué-Lolo
-  code:
+  code: '7'
   unofficial_names: Ogooué-Lolo
   geo:
     latitude: -0.8844093
@@ -423,9 +429,10 @@
     yue: 奧果韋-洛洛省
     'no': Ogooué-Lolo
   comments:
+  type: province
 '8':
   name: Ogooué-Maritime
-  code:
+  code: '8'
   unofficial_names: Ogooué-Maritime
   geo:
     latitude: -1.3465975
@@ -484,9 +491,10 @@
     yue: 濱海奧果韋省
     'no': Ogooué-Maritime
   comments:
+  type: province
 '9':
   name: Woleu-Ntem
-  code:
+  code: '9'
   unofficial_names:
   - Woleu-Nʿtem
   geo:
@@ -545,3 +553,4 @@
     yue: 禾勒-恩特姆省
     'no': Woleu-Ntem
   comments:
+  type: province

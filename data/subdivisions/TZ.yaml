@@ -1,7 +1,7 @@
 ---
 '01':
   name: Arusha
-  code:
+  code: '01'
   unofficial_names: Arusha
   geo:
     latitude: -3.372301
@@ -65,9 +65,10 @@
     'no': Arusha
     yo_BJ: Agbègbè Arusha
   comments:
+  type: region
 '02':
   name: Dar es Salaam
-  code:
+  code: '02'
   unofficial_names:
   - Daressalam
   geo:
@@ -131,9 +132,10 @@
     'no': Dar-es-Salaam
     yo_BJ: Agbègbè Dar es Salaam
   comments:
+  type: region
 '03':
   name: Dodoma
-  code:
+  code: '03'
   unofficial_names: Dodoma
   geo:
     latitude: -6.173056
@@ -184,9 +186,10 @@
     'no': Dodoma
     yo_BJ: Agbègbè Dodoma
   comments:
+  type: region
 '04':
   name: Iringa
-  code:
+  code: '04'
   unofficial_names: Iringa
   geo:
     latitude: -7.77
@@ -250,9 +253,10 @@
     'no': Iringa
     yo_BJ: Agbègbè Iringa
   comments:
+  type: region
 '05':
   name: Kagera
-  code:
+  code: '05'
   unofficial_names:
   - Akagera
   - Ziwa Magharibi
@@ -318,9 +322,10 @@
     'no': Kagera
     yo_BJ: Agbègbè Kagera
   comments:
+  type: region
 '06':
   name: Kaskazini Pemba
-  code:
+  code: '06'
   unofficial_names: Kaskazini Pemba
   geo:
     latitude: -5.031935199999999
@@ -384,9 +389,10 @@
     'no': Pemba Kaskazini
     yo_BJ: Agbègbè Pemba Àríwá
   comments:
+  type: region
 '07':
   name: Kaskazini Unguja
-  code:
+  code: '07'
   unofficial_names:
   - Unguja
   geo:
@@ -452,9 +458,10 @@
     'no': Unguja Kaskazini
     yo_BJ: Agbègbè Zanzibar Àríwá
   comments:
+  type: region
 '08':
   name: Kigoma
-  code:
+  code: '08'
   unofficial_names: Kigoma
   geo:
     latitude: -4.883332999999999
@@ -519,9 +526,10 @@
     'no': Kigoma
     yo_BJ: Agbègbè Kigoma
   comments:
+  type: region
 '09':
   name: Kilimanjaro
-  code:
+  code: '09'
   unofficial_names: Kilimanjaro
   geo:
     latitude: -4.1336927
@@ -585,9 +593,10 @@
     'no': Kilimanjaro
     yo_BJ: Agbègbè Kilimanjaro
   comments:
+  type: region
 '10':
   name: Kusini Pemba
-  code:
+  code: '10'
   unofficial_names: Kusini Pemba
   geo:
     latitude: -5.3146961
@@ -650,9 +659,10 @@
     'no': Pemba Kusini
     yo_BJ: Agbègbè Pemba Gúúsù
   comments:
+  type: region
 '11':
   name: Kusini Unguja
-  code:
+  code: '11'
   unofficial_names: Kusini Unguja
   geo:
     latitude: -6.2036563
@@ -695,9 +705,10 @@
     'no': Unguja Kusini
     yo_BJ: Agbègbè Zanzibar Àrin/Gúúsù
   comments:
+  type: region
 '12':
   name: Lindi
-  code:
+  code: '12'
   unofficial_names: Lindi
   geo:
     latitude: -9.996944
@@ -762,9 +773,10 @@
     'no': Lindi
     yo_BJ: Agbègbè Lindi
   comments:
+  type: region
 '13':
   name: Mara
-  code:
+  code: '13'
   unofficial_names: Mara
   geo:
     latitude: -1.7753538
@@ -828,9 +840,10 @@
     'no': Mara
     yo_BJ: Agbègbè Mara
   comments:
+  type: region
 '14':
   name: Mbeya
-  code:
+  code: '14'
   unofficial_names: Mbeya
   geo:
     latitude: -8.9
@@ -894,9 +907,10 @@
     'no': Mbeya
     yo_BJ: Agbègbè Mbeya
   comments:
+  type: region
 '15':
   name: Mjini Magharibi
-  code:
+  code: '15'
   unofficial_names: Mjini Magharibi
   geo:
     latitude: -6.229813600000001
@@ -956,9 +970,10 @@
     yo: Agbègbè Zanzibar Ìlú/Ìwọ̀orùn
     'no': Unguja Mjini Magharibi
   comments:
+  type: region
 '16':
   name: Morogoro
-  code:
+  code: '16'
   unofficial_names: Morogoro
   geo:
     latitude: -6.816667000000001
@@ -1022,9 +1037,10 @@
     'no': Morogoro
     yo_BJ: Agbègbè Morogoro
   comments:
+  type: region
 '17':
   name: Mtwara
-  code:
+  code: '17'
   unofficial_names:
   - Mtware
   geo:
@@ -1089,9 +1105,10 @@
     'no': Mtwara
     yo_BJ: Agbègbè Mtwara
   comments:
+  type: region
 '18':
   name: Mwanza
-  code:
+  code: '18'
   unofficial_names: Mwanza
   geo:
     latitude: -2.516667
@@ -1155,9 +1172,10 @@
     'no': Mwanza
     yo_BJ: Agbègbè Mwanza
   comments:
+  type: region
 '19':
   name: Pwani
-  code:
+  code: '19'
   unofficial_names:
   - Coast
   geo:
@@ -1222,9 +1240,10 @@
     'no': Pwani
     yo_BJ: Agbègbè Pwani
   comments:
+  type: region
 '20':
   name: Rukwa
-  code:
+  code: '20'
   unofficial_names: Rukwa
   geo:
     latitude: -6.965368499999999
@@ -1287,9 +1306,10 @@
     'no': Rukwa
     yo_BJ: Agbègbè Rukwa
   comments:
+  type: region
 '21':
   name: Ruvuma
-  code:
+  code: '21'
   unofficial_names: Ruvuma
   geo:
     latitude: -10.6878717
@@ -1353,9 +1373,10 @@
     'no': Ruvuma
     yo_BJ: Agbègbè Ruvuma
   comments:
+  type: region
 '22':
   name: Shinyanga
-  code:
+  code: '22'
   unofficial_names: Shinyanga
   geo:
     latitude: -3.661944
@@ -1418,9 +1439,10 @@
     'no': Shinyanga
     yo_BJ: Agbègbè Shinyanga
   comments:
+  type: region
 '23':
   name: Singida
-  code:
+  code: '23'
   unofficial_names: Singida
   geo:
     latitude: -4.819999999999999
@@ -1483,9 +1505,10 @@
     'no': Singida
     yo_BJ: Agbègbè Singida
   comments:
+  type: region
 '24':
   name: Tabora
-  code:
+  code: '24'
   unofficial_names: Tabora
   geo:
     latitude: -5.016667
@@ -1549,9 +1572,10 @@
     'no': Tabora
     yo_BJ: Agbègbè Tabora
   comments:
+  type: region
 '25':
   name: Tanga
-  code:
+  code: '25'
   unofficial_names: Tanga
   geo:
     latitude: -5.0888751
@@ -1616,9 +1640,10 @@
     'no': Tanga
     yo_BJ: Agbègbè Tanga
   comments:
+  type: region
 '26':
   name: Manyara
-  code:
+  code: '26'
   unofficial_names: Manyara
   geo:
     latitude: -4.3150058
@@ -1682,9 +1707,10 @@
     'no': Manyara
     yo_BJ: Agbègbè Manyara
   comments:
+  type: region
 '27':
   name: Mkoa wa Geita
-  code:
+  code: '27'
   unofficial_names:
   geo:
     latitude:
@@ -1740,9 +1766,10 @@
     yue: 蓋塔區
     'no': Geita
   comments:
+  type: region
 '28':
   name: Mkoa wa Katavi
-  code:
+  code: '28'
   unofficial_names:
   geo:
     latitude:
@@ -1796,9 +1823,10 @@
     yue: 卡塔維區
     'no': Katavi
   comments:
+  type: region
 '29':
   name: Mkoa wa Njombe
-  code:
+  code: '29'
   unofficial_names:
   geo:
     latitude:
@@ -1853,9 +1881,10 @@
     yue: 恩瓊貝區
     'no': Njombe
   comments:
+  type: region
 '30':
   name: Mkoa wa Simiyu
-  code:
+  code: '30'
   unofficial_names:
   geo:
     latitude:
@@ -1909,9 +1938,10 @@
     yue: 錫米尤區
     'no': Simiyu
   comments:
+  type: region
 '31':
   name: Songwe
-  code:
+  code: '31'
   unofficial_names:
   geo:
     latitude: -6.369028
@@ -1923,3 +1953,4 @@
   translations:
     en: Songwe
   comments:
+  type: region

@@ -1,7 +1,7 @@
 ---
 '11':
   name: Seoul Teugbyeolsi [Seoul-T'ukpyolshi]
-  code:
+  code: '11'
   unofficial_names:
   - Seoul
   - Soul
@@ -101,9 +101,10 @@
     'no': Seoul
     yo_BJ: Seoul
   comments:
+  type: special_city
 '26':
   name: Busan Gwang'yeogsi [Pusan-Kwangyokshi]
-  code:
+  code: '26'
   unofficial_names:
   - Busan
   geo:
@@ -192,9 +193,10 @@
     ha_NE: Busan
     'no': Busan
   comments:
+  type: metropolitan_city
 '27':
   name: Daegu Gwang'yeogsi [Taegu-Kwangyokshi]
-  code:
+  code: '27'
   unofficial_names:
   - Daegu
   geo:
@@ -271,9 +273,10 @@
     ha_NE: Daegu
     'no': Daegu
   comments:
+  type: metropolitan_city
 '28':
   name: Incheon Gwang'yeogsi [Inch'n-Kwangyokshi]
-  code:
+  code: '28'
   unofficial_names:
   - Incheon
   - Inchon
@@ -354,9 +357,10 @@
     ha_NE: Incheon
     'no': Incheon
   comments:
+  type: metropolitan_city
 '29':
   name: Gwangju Gwang'yeogsi [Kwangju-Kwangyokshi]
-  code:
+  code: '29'
   unofficial_names:
   - Gwangju
   geo:
@@ -432,9 +436,10 @@
     mk: Квангџу
     'no': Gwangju
   comments:
+  type: metropolitan_city
 '30':
   name: Daejeon Gwang'yeogsi [Taejon-Kwangyokshi]
-  code:
+  code: '30'
   unofficial_names:
   - Daejeon
   - Taejeon
@@ -512,9 +517,10 @@
     ha_NE: Daejeon
     'no': Daejeon
   comments:
+  type: metropolitan_city
 '31':
   name: Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]
-  code:
+  code: '31'
   unofficial_names: Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]
   geo:
     latitude: 35.5383773
@@ -584,9 +590,10 @@
     uz: Ulsan
     'no': Ulsan
   comments:
+  type: metropolitan_city
 '41':
   name: Gyeonggido [Kyonggi-do]
-  code:
+  code: '41'
   unofficial_names: Gyeonggido [Kyonggi-do]
   geo:
     latitude: 37.41379999999999
@@ -653,9 +660,10 @@
     yue: 京畿道
     'no': Gyeonggi
   comments:
+  type: province
 '42':
   name: Gang'weondo [Kang-won-do]
-  code:
+  code: '42'
   unofficial_names:
   - Kangwon
   geo:
@@ -724,9 +732,10 @@
     mk: Кангвон
     'no': Gangwon
   comments:
+  type: province
 '43':
   name: Chungcheongbugdo [Ch'ungch'ongbuk-do]
-  code:
+  code: '43'
   unofficial_names:
   - North Chungchong
   geo:
@@ -794,9 +803,10 @@
     be: Чхунчхон-Пукто
     'no': Nord-Chungcheong
   comments:
+  type: province
 '44':
   name: Chungcheongnamdo [Ch'ungch'ongnam-do]
-  code:
+  code: '44'
   unofficial_names:
   - South Chungchong
   geo:
@@ -862,9 +872,10 @@
     yue: 忠清南道
     'no': Sør-Chungcheong
   comments:
+  type: province
 '45':
   name: Jeonrabugdo[Chollabuk-do]
-  code:
+  code: '45'
   unofficial_names:
   - Chollapuk
   - North Cholla
@@ -933,9 +944,10 @@
     yue: 全羅北道
     'no': Nord-Jeolla
   comments:
+  type: province
 '46':
   name: Jeonranamdo [Chollanam-do]
-  code:
+  code: '46'
   unofficial_names:
   - South Cholla
   geo:
@@ -1002,9 +1014,10 @@
     yue: 全羅南道
     'no': Sør-Jeolla
   comments:
+  type: province
 '47':
   name: Gyeongsangbugdo [Kyongsangbuk-do]
-  code:
+  code: '47'
   unofficial_names:
   - North Kyongsang
   geo:
@@ -1072,9 +1085,10 @@
     be: Кёнсан-Пукта
     'no': Nord-Gyeongsang
   comments:
+  type: province
 '48':
   name: Gyeongsangnamdo [Kyongsangnam-do]
-  code:
+  code: '48'
   unofficial_names:
   - Gyeongsangnamdo/ Kyongsang-namdo/ South Kyongsang
   geo:
@@ -1140,9 +1154,10 @@
     yue: 慶尚南道
     'no': Sør-Gyeongsang
   comments:
+  type: province
 '49':
   name: Jejudo [Cheju-do]
-  code:
+  code: '49'
   unofficial_names:
   - Jeju
   - Quelpart
@@ -1216,9 +1231,10 @@
     mk: Чеџу
     'no': Jeju
   comments:
+  type: special_self-governing_province
 '50':
   name: 세종특별자치시
-  code:
+  code: '50'
   unofficial_names:
   geo:
     latitude:
@@ -1276,3 +1292,4 @@
     yue: 世宗特別自治市
     'no': Sejong by
   comments:
+  type: special_self-governing_city

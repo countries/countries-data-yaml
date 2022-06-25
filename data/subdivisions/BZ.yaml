@@ -1,7 +1,7 @@
 ---
 BZ:
   name: Belize
-  code:
+  code: BZ
   unofficial_names: Belize
   geo:
     latitude: 17.5045661
@@ -43,9 +43,10 @@ BZ:
     uk: Беліз
     'no': Belize
   comments:
+  type: district
 CY:
   name: Cayo
-  code:
+  code: CY
   unofficial_names: Cayo
   geo:
     latitude: 17.0984445
@@ -98,9 +99,10 @@ CY:
     uk: Район Кайо
     'no': Cayo
   comments:
+  type: district
 CZL:
   name: Corozal
-  code:
+  code: CZL
   unofficial_names: Corozal
   geo:
     latitude: 18.1349238
@@ -153,9 +155,10 @@ CZL:
     uk: Район Коросаль
     'no': Corozal
   comments:
+  type: district
 OW:
   name: Orange Walk
-  code:
+  code: OW
   unofficial_names: Orange Walk
   geo:
     latitude: 17.760353
@@ -209,9 +212,10 @@ OW:
     uk: Район Ориндж-Волк
     'no': Orange Walk
   comments:
+  type: district
 SC:
   name: Stann Creek
-  code:
+  code: SC
   unofficial_names: Stann Creek
   geo:
     latitude: 16.8116631
@@ -264,9 +268,10 @@ SC:
     ccp: "\U0001110C\U00011133\U00011111\U0001111A\U00011134 \U00011107\U00011133\U00011122\U00011128\U00011107\U00011134"
     'no': Stann Creek
   comments:
+  type: district
 TOL:
   name: Toledo
-  code:
+  code: TOL
   unofficial_names: Toledo
   geo:
     latitude: 16.2491923
@@ -320,3 +325,4 @@ TOL:
     uk: Толедо
     'no': Toledo
   comments:
+  type: district

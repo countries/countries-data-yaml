@@ -1,7 +1,7 @@
 ---
 AG:
   name: Aragacotn
-  code:
+  code: AG
   unofficial_names: Aragacotn
   geo:
     latitude:
@@ -73,9 +73,10 @@ AG:
     mk: Арагацотн
     'no': Aragatsotn
   comments:
+  type: region
 AR:
   name: Ararat
-  code:
+  code: AR
   unofficial_names: Ararat
   geo:
     latitude: 39.9753273
@@ -143,9 +144,10 @@ AR:
     mk: Арарат
     'no': Ararat
   comments:
+  type: region
 AV:
   name: Armavir
-  code:
+  code: AV
   unofficial_names: Armavir
   geo:
     latitude: 40.1315615
@@ -214,9 +216,10 @@ AV:
     mk: Армавир
     'no': Armavir
   comments:
+  type: region
 ER:
   name: Erevan
-  code:
+  code: ER
   unofficial_names: Erevan
   geo:
     latitude: 40.183333
@@ -306,9 +309,10 @@ ER:
     'no': Jerevan
     yo_BJ: Yerevan
   comments:
+  type: city
 GR:
   name: Gegark'unik'
-  code:
+  code: GR
   unofficial_names:
   - Gegharkunick
   geo:
@@ -378,9 +382,10 @@ GR:
     mk: Гехаркуник
     'no': Gegharkunik
   comments:
+  type: region
 KT:
   name: Kotayk'
-  code:
+  code: KT
   unofficial_names:
   - Kotaik
   geo:
@@ -450,9 +455,10 @@ KT:
     mk: Котајк
     'no': Kotajk
   comments:
+  type: region
 LO:
   name: Lory
-  code:
+  code: LO
   unofficial_names:
   - Lorri
   geo:
@@ -522,9 +528,10 @@ LO:
     mk: Лори
     'no': Lori
   comments:
+  type: region
 SH:
   name: Širak
-  code:
+  code: SH
   unofficial_names: Širak
   geo:
     latitude: 40.9630814
@@ -593,9 +600,10 @@ SH:
     mk: Ширак
     'no': Sjirak
   comments:
+  type: region
 SU:
   name: Syunik'
-  code:
+  code: SU
   unofficial_names: Syunik'
   geo:
     latitude: 39.3194392
@@ -665,9 +673,10 @@ SU:
     mk: Сјуник
     'no': Syunik
   comments:
+  type: region
 TV:
   name: Tavuš
-  code:
+  code: TV
   unofficial_names:
   - Tavoush
   geo:
@@ -737,9 +746,10 @@ TV:
     mk: Тавуш
     'no': Tavusj
   comments:
+  type: region
 VD:
   name: Vayoc Jor
-  code:
+  code: VD
   unofficial_names: Vayoc Jor
   geo:
     latitude: 39.8107912
@@ -810,3 +820,4 @@ VD:
     mk: Вајоц Ѕор
     'no': Vajots Dzor
   comments:
+  type: region

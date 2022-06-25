@@ -1,7 +1,7 @@
 ---
 '01':
   name: Zagrebačka županija
-  code:
+  code: '01'
   unofficial_names:
   - Zagreb County
   geo:
@@ -70,9 +70,10 @@
     mk: Загрепска жупанија
     'no': Zagreb
   comments:
+  type: county
 '02':
   name: Krapinsko-zagorska županija
-  code:
+  code: '02'
   unofficial_names:
   - Krapina-Zagorje
   geo:
@@ -137,9 +138,10 @@
     mk: Крапинско-загорска жупанија
     'no': Krapina-Zagorje
   comments:
+  type: county
 '03':
   name: Sisačko-moslavačka županija
-  code:
+  code: '03'
   unofficial_names:
   - Sisak-Moslavina
   geo:
@@ -205,9 +207,10 @@
     mk: Сисачко-мославачка жупанија
     'no': Sisak-Moslavina
   comments:
+  type: county
 '04':
   name: Karlovačka županija
-  code:
+  code: '04'
   unofficial_names:
   - Karlovac
   geo:
@@ -275,9 +278,10 @@
     mk: Карловачка жупанија
     'no': Karlovac
   comments:
+  type: county
 '05':
   name: Varaždinska županija
-  code:
+  code: '05'
   unofficial_names:
   - Varaždin
   geo:
@@ -345,9 +349,10 @@
     mk: Вараждинска жупанија
     'no': Varaždin
   comments:
+  type: county
 '06':
   name: Koprivničko-križevačka županija
-  code:
+  code: '06'
   unofficial_names:
   - Koprivnica-Križevci
   geo:
@@ -413,9 +418,10 @@
     mk: Копривничко-крижевачка жупанија
     'no': Koprivnica-Križevci
   comments:
+  type: county
 '07':
   name: Bjelovarsko-bilogorska županija
-  code:
+  code: '07'
   unofficial_names:
   - Bjelovar-Bilogora
   geo:
@@ -482,9 +488,10 @@
     mk: Бјеловарско-билогорска жупанија
     'no': Bjelovar-Bilogora
   comments:
+  type: county
 '08':
   name: Primorsko-goranska županija
-  code:
+  code: '08'
   unofficial_names:
   - Primorje-Gorski Kotar
   geo:
@@ -553,9 +560,10 @@
     mk: Приморско-горска жупанија
     'no': Primorje-Gorski Kotar
   comments:
+  type: county
 '09':
   name: Ličko-senjska županija
-  code:
+  code: '09'
   unofficial_names:
   - Lika-Senj
   geo:
@@ -622,9 +630,10 @@
     mk: Личко-сењска жупанија
     'no': Lika-Senj
   comments:
+  type: county
 '10':
   name: Virovitičko-podravska županija
-  code:
+  code: '10'
   unofficial_names:
   - Virovitica-Podravina
   geo:
@@ -690,9 +699,10 @@
     mk: Вировитичко-подравска жупанија
     'no': Virovitica-Podravina
   comments:
+  type: county
 '11':
   name: Požeško-slavonska županija
-  code:
+  code: '11'
   unofficial_names:
   - Požega-Slavonia
   geo:
@@ -757,9 +767,10 @@
     mk: Пожешко-славонска жупанија
     'no': Požega-Slavonia
   comments:
+  type: county
 '12':
   name: Brodsko-posavska županija
-  code:
+  code: '12'
   unofficial_names:
   - Brod-Posavina
   geo:
@@ -826,9 +837,10 @@
     mk: Бродско-посавска жупанија
     'no': Brod-Posavina
   comments:
+  type: county
 '13':
   name: Zadarska županija
-  code:
+  code: '13'
   unofficial_names:
   - Zadar
   geo:
@@ -900,9 +912,10 @@
     mk: Задарска жупанија
     'no': Zadar
   comments:
+  type: county
 '14':
   name: Osječko-baranjska županija
-  code:
+  code: '14'
   unofficial_names:
   - Osijek-Baranja
   geo:
@@ -968,9 +981,10 @@
     mk: Осиечко-барањска жупанија
     'no': Osijek-Baranja
   comments:
+  type: county
 '15':
   name: Šibensko-kninska županija
-  code:
+  code: '15'
   unofficial_names:
   - Šibenik-Knin
   geo:
@@ -1037,9 +1051,10 @@
     mk: Шибенско-книнска жупанија
     'no': Šibenik-Knin
   comments:
+  type: county
 '16':
   name: Vukovarsko-srijemska županija
-  code:
+  code: '16'
   unofficial_names:
   - Vukovar-Sirmium
   geo:
@@ -1105,9 +1120,10 @@
     mk: Вуковарско-сремска жупанија
     'no': Vukovar-Syrmia
   comments:
+  type: county
 '17':
   name: Splitsko-dalmatinska županija
-  code:
+  code: '17'
   unofficial_names:
   - Split-Dalmatia
   geo:
@@ -1174,9 +1190,10 @@
     mk: Сплитско-далматинска жупанија
     'no': Split-Dalmatia
   comments:
+  type: county
 '18':
   name: Istarska županija
-  code:
+  code: '18'
   unofficial_names:
   - Istria
   geo:
@@ -1244,9 +1261,10 @@
     mk: Истарска жупанија
     'no': Istria
   comments:
+  type: county
 '19':
   name: Dubrovačko-neretvanska županija
-  code:
+  code: '19'
   unofficial_names:
   - Dubrovnik-Neretva
   geo:
@@ -1315,9 +1333,10 @@
     mk: Дубровничко-неретванска жупанија
     'no': Dubrovnik-Neretva
   comments:
+  type: county
 '20':
   name: Međimurska županija
-  code:
+  code: '20'
   unofficial_names:
   - Međimurje
   geo:
@@ -1383,9 +1402,10 @@
     mk: Меѓимурска жупанија
     'no': Međimurje
   comments:
+  type: county
 '21':
   name: Grad Zagreb
-  code:
+  code: '21'
   unofficial_names:
   - City of Zagreb
   geo:
@@ -1477,3 +1497,4 @@
     'no': Zagreb²
     yo_BJ: Zagreb
   comments:
+  type: city

@@ -1,7 +1,7 @@
 ---
 AJ:
   name: Ajlun
-  code:
+  code: AJ
   unofficial_names:
   - Ajloan
   - Ajlun
@@ -59,9 +59,10 @@ AJ:
     uk: Муніципалітет Аджлун
     'no': Ailoun
   comments:
+  type: governorate
 AM:
   name: Amman
-  code:
+  code: AM
   unofficial_names:
   - Amman
   geo:
@@ -118,9 +119,10 @@ AM:
     be: Аман
     'no': Amman Governorate
   comments:
+  type: governorate
 AQ:
   name: Aqaba
-  code:
+  code: AQ
   unofficial_names:
   - Akaba
   - Aqaba
@@ -178,9 +180,10 @@ AQ:
     uk: Муніципалітет Акаба
     'no': Aqaba Givernorate
   comments:
+  type: governorate
 AT:
   name: At Tafilah
-  code:
+  code: AT
   unofficial_names:
   - Tafiela
   - Tafileh
@@ -237,9 +240,10 @@ AT:
     uk: Муніципалітет Тафіла
     'no': Tafilah Governorate
   comments:
+  type: governorate
 AZ:
   name: Az Zarqa'
-  code:
+  code: AZ
   unofficial_names:
   - Zarka
   - Zarqa
@@ -296,9 +300,10 @@ AZ:
     uk: Муніципалітет Ез-Зарка
     'no': Zarqa
   comments:
+  type: governorate
 BA:
   name: Al Balqa'
-  code:
+  code: BA
   unofficial_names: Al Balqa'
   geo:
     latitude: 31.9676039
@@ -353,9 +358,10 @@ BA:
     uk: Муніципалітет Ель-Балка
     'no': Balqa
   comments:
+  type: governorate
 IR:
   name: Irbid
-  code:
+  code: IR
   unofficial_names:
   - Irbit
   geo:
@@ -413,9 +419,10 @@ IR:
     uk: Муніципалітет Ірбід
     'no': Irbid
   comments:
+  type: governorate
 JA:
   name: Jarash
-  code:
+  code: JA
   unofficial_names:
   - Jarash
   - Jerash
@@ -473,9 +480,10 @@ JA:
     uk: Муніципалітет Джараш
     'no': Jerash
   comments:
+  type: governorate
 KA:
   name: Al Karak
-  code:
+  code: KA
   unofficial_names:
   - Karak
   - Kerak
@@ -532,9 +540,10 @@ KA:
     uk: Муніципалітет Карак
     'no': Karak Governorate
   comments:
+  type: governorate
 MA:
   name: Al Mafraq
-  code:
+  code: MA
   unofficial_names:
   - Mafraq
   geo:
@@ -591,9 +600,10 @@ MA:
     uk: Муніципалітет Ель-Мафрак
     'no': Magraq
   comments:
+  type: governorate
 MD:
   name: Madaba
-  code:
+  code: MD
   unofficial_names:
   - Madaba
   - Maʿdaba
@@ -651,9 +661,10 @@ MD:
     uk: Муніципалітет Мадаба
     'no': Madaba Governorate
   comments:
+  type: governorate
 MN:
   name: Ma`an
-  code:
+  code: MN
   unofficial_names:
   - Maan
   - Maʿan
@@ -709,3 +720,4 @@ MN:
     uk: Муніципалітет Маан
     'no': Maan Governorate
   comments:
+  type: governorate

@@ -1,7 +1,7 @@
 ---
 '01':
   name: Berat
-  code:
+  code: '01'
   unofficial_names:
   geo:
     latitude: 40.7086377
@@ -70,9 +70,10 @@
     mk: Белград
     'no': Berat
   comments:
+  type: county
 '02':
   name: Durrës
-  code:
+  code: '02'
   unofficial_names:
   geo:
     latitude: 41.316667
@@ -141,9 +142,10 @@
     mk: Драч
     'no': Durrës
   comments:
+  type: county
 '03':
   name: Elbasan
-  code:
+  code: '03'
   unofficial_names:
   geo:
     latitude: 41.11023
@@ -199,9 +201,10 @@
     mk: Елбасан
     'no': Elbasan
   comments:
+  type: county
 '04':
   name: Fier
-  code:
+  code: '04'
   unofficial_names:
   geo:
     latitude: 40.9191392
@@ -255,9 +258,10 @@
     mk: Фиер
     'no': Fier
   comments:
+  type: county
 '05':
   name: Gjirokastër
-  code:
+  code: '05'
   unofficial_names:
   geo:
     latitude: 40.0672874
@@ -327,9 +331,10 @@
     mk: Ѓирокастро
     'no': Gjirokastër
   comments:
+  type: county
 '06':
   name: Korçë
-  code:
+  code: '06'
   unofficial_names:
   geo:
     latitude: 40.6140785
@@ -396,9 +401,10 @@
     mk: Горица
     'no': Korçë
   comments:
+  type: county
 '07':
   name: Kukës
-  code:
+  code: '07'
   unofficial_names:
   geo:
     latitude: 42.076667
@@ -452,9 +458,10 @@
     mk: Кукуш
     'no': Kukës
   comments:
+  type: county
 '08':
   name: Lezhë
-  code:
+  code: '08'
   unofficial_names:
   geo:
     latitude: 41.78607299999999
@@ -509,9 +516,10 @@
     mk: Леска
     'no': Lezhë
   comments:
+  type: county
 '09':
   name: Dibër
-  code:
+  code: '09'
   unofficial_names:
   geo:
     latitude: 41.5888163
@@ -567,9 +575,10 @@
     mk: Дебар
     'no': Dibër
   comments:
+  type: county
 '10':
   name: Shkodër
-  code:
+  code: '10'
   unofficial_names:
   geo:
     latitude: 42.0692985
@@ -627,9 +636,10 @@
     mk: Скадар
     'no': Shkodër
   comments:
+  type: county
 '11':
   name: Tiranë
-  code:
+  code: '11'
   unofficial_names:
   - Tiranë
   - Tirana
@@ -690,9 +700,10 @@
     mk: Тирана
     'no': Tiranë
   comments:
+  type: county
 '12':
   name: Vlorë
-  code:
+  code: '12'
   unofficial_names:
   geo:
     latitude: 40.465
@@ -759,3 +770,4 @@
     mk: Валона
     'no': Vlorë
   comments:
+  type: county

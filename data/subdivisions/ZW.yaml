@@ -1,7 +1,7 @@
 ---
 BU:
   name: Bulawayo
-  code:
+  code: BU
   unofficial_names: Bulawayo
   geo:
     latitude: -20.1325066
@@ -18,9 +18,10 @@ BU:
     ccp: "\U0001111D\U0001112A\U00011123\U00011124\U00011103\U0001112E"
     be: Булавая
   comments:
+  type: province
 HA:
   name: Harare
-  code:
+  code: HA
   unofficial_names: Harare
   geo:
     latitude: -17.863889
@@ -43,9 +44,10 @@ HA:
     ne: हरारे प्रदेश
     'no': Harare Province
   comments:
+  type: province
 MA:
   name: Manicaland
-  code:
+  code: MA
   unofficial_names: Manicaland
   geo:
     latitude: -18.9216386
@@ -105,9 +107,10 @@ MA:
     ccp: "\U0001111F\U00011127\U0001111A\U00011128\U00011107\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
     'no': Manicaland
   comments:
+  type: province
 MC:
   name: Mashonaland Central
-  code:
+  code: MC
   unofficial_names: Mashonaland Central
   geo:
     latitude: -16.7644295
@@ -167,9 +170,10 @@ MC:
       \U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011123\U00011134"
     'no': Mashonaland Central
   comments:
+  type: province
 ME:
   name: Mashonaland East
-  code:
+  code: ME
   unofficial_names: Mashonaland East
   geo:
     latitude: -18.5871642
@@ -230,9 +234,10 @@ ME:
     he: משונאלנד מזרח פרובינציה
     'no': Mashonaland East
   comments:
+  type: province
 MI:
   name: Midlands
-  code:
+  code: MI
   unofficial_names: Midlands
   geo:
     latitude: -19.0552009
@@ -291,9 +296,10 @@ MI:
     ccp: "\U0001111F\U00011128\U00011116\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011125\U00011134"
     'no': Midlands
   comments:
+  type: province
 MN:
   name: Matabeleland North
-  code:
+  code: MN
   unofficial_names: Matabeleland North
   geo:
     latitude: -18.5331566
@@ -354,9 +360,10 @@ MN:
       \U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134"
     'no': Matabeleland North
   comments:
+  type: province
 MS:
   name: Matabeleland South
-  code:
+  code: MS
   unofficial_names: Matabeleland South
   geo:
     latitude: -21.052337
@@ -416,9 +423,10 @@ MS:
       \U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134"
     'no': Matabeleland South
   comments:
+  type: province
 MV:
   name: Masvingo
-  code:
+  code: MV
   unofficial_names: Masvingo
   geo:
     latitude: -20.074444
@@ -477,9 +485,10 @@ MV:
     ccp: "\U0001111F\U0001110C\U00011134\U0001111E\U00011128\U00011101\U00011109\U0001112E"
     'no': Masvingo
   comments:
+  type: province
 MW:
   name: Mashonaland West
-  code:
+  code: MW
   unofficial_names: Mashonaland West
   geo:
     latitude: -17.4851029
@@ -539,3 +548,4 @@ MW:
       \U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134"
     'no': Mashonaland West
   comments:
+  type: province

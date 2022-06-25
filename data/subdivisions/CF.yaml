@@ -1,7 +1,7 @@
 ---
 AC:
   name: Ouham
-  code:
+  code: AC
   unofficial_names: Ouham
   geo:
     latitude: 7.090910999999999
@@ -56,9 +56,10 @@ AC:
     ccp: "\U00011103\U00011127\U00011105\U0001112A\U00011126\U0001111F\U00011134"
     'no': Ouham
   comments:
+  type: prefecture
 BB:
   name: Bamingui-Bangoran
-  code:
+  code: BB
   unofficial_names: Bamingui-Bangoran
   geo:
     latitude: 8.2733455
@@ -112,9 +113,10 @@ BB:
     ccp: "\U0001111D\U00011127\U0001111F\U00011128\U00011101\U00011109\U0001112D\U0001112A-\U0001111D\U00011101\U00011109\U0001112E\U00011122\U0001111A\U00011134"
     'no': Bamingui-Bangoran
   comments:
+  type: prefecture
 BGF:
   name: Bangui
-  code:
+  code: BGF
   unofficial_names: Bangui
   geo:
     latitude: 4.366667
@@ -207,9 +209,10 @@ BGF:
     'no': Bangui
     yo_BJ: Bangui
   comments:
+  type: commune
 BK:
   name: Basse-Kotto
-  code:
+  code: BK
   unofficial_names: Basse-Kotto
   geo:
     latitude: 4.8719319
@@ -263,9 +266,10 @@ BK:
     ccp: "\U0001111D\U00011125\U0001112C-\U00011107\U00011127\U00011111\U00011133\U00011126\U00011127"
     'no': Basse-Kotto
   comments:
+  type: prefecture
 HK:
   name: Haute-Kotto
-  code:
+  code: HK
   unofficial_names: Haute-Kotto
   geo:
     latitude: 7.7964379
@@ -320,9 +324,10 @@ HK:
     ccp: "\U00011126\U00011105\U0001112A\U00011111\U0001112C-\U00011107\U00011127\U00011111\U00011133\U00011126\U00011127"
     'no': Haute-Kotto
   comments:
+  type: prefecture
 HM:
   name: Haut-Mbomou
-  code:
+  code: HM
   unofficial_names:
   - Haut-Mʿbomou
   geo:
@@ -377,9 +382,10 @@ HM:
     ccp: "\U00011126\U00011105\U0001112A\U00011116\U00011134-\U0001111D\U00011127\U0001111F\U0001112F"
     'no': Haut-Mbomou
   comments:
+  type: prefecture
 HS:
   name: Mambéré-Kadéï
-  code:
+  code: HS
   unofficial_names:
   - Haut-Sangha
   geo:
@@ -435,9 +441,10 @@ HS:
     ccp: "\U0001111F\U0001111F\U00011134\U0001111D\U0001112C\U00011122\U0001112C-\U00011107\U00011113\U0001112C\U0001112D"
     'no': Mambéré-Kadéï
   comments:
+  type: prefecture
 KB:
   name: Nana-Grébizi
-  code:
+  code: KB
   unofficial_names:
   - Gribingui
   - Nana-Grébisi
@@ -492,9 +499,10 @@ KB:
     ccp: "\U0001111F\U00011127\U0001111A-\U00011109\U00011133\U00011122\U0001112C\U0001111D\U00011128\U0001110E\U00011128"
     'no': Nana-Grébizi
   comments:
+  type: economic_prefecture
 KG:
   name: Kémo
-  code:
+  code: KG
   unofficial_names:
   - Kémo Gribingui
   geo:
@@ -549,9 +557,10 @@ KG:
     ccp: "\U00011107\U0001112C\U0001111F\U0001112E"
     'no': Kémo
   comments:
+  type: prefecture
 LB:
   name: Lobaye
-  code:
+  code: LB
   unofficial_names: Lobaye
   geo:
     latitude: 4.3525981
@@ -606,9 +615,10 @@ LB:
     ccp: "\U00011123\U00011127\U0001111D\U00011120\U0001112C"
     'no': Lobaye
   comments:
+  type: prefecture
 MB:
   name: Mbomou
-  code:
+  code: MB
   unofficial_names:
   - Mʿbomou
   geo:
@@ -663,9 +673,10 @@ MB:
     ccp: "\U0001111D\U00011127\U0001111F\U0001112F"
     'no': Mbomou
   comments:
+  type: prefecture
 MP:
   name: Ombella-Mpoko
-  code:
+  code: MP
   unofficial_names:
   - Ombella-Mʿpoko
   - Ombelle Mpoko
@@ -721,9 +732,10 @@ MP:
     ccp: "\U00011103\U00011127\U0001111F\U00011134\U0001111D\U0001112C\U00011123-\U00011103\U0001112C\U0001111F‘\U0001111B\U00011127\U00011107\U0001112E"
     'no': Ombella-M’Poko
   comments:
+  type: prefecture
 NM:
   name: Nana-Mambéré
-  code:
+  code: NM
   unofficial_names: Nana-Mambéré
   geo:
     latitude: 5.6932135
@@ -778,9 +790,10 @@ NM:
     ccp: "\U0001111A\U0001111A-\U0001111F\U0001111F\U00011134\U0001111D\U0001112C\U00011122\U0001112C"
     'no': Nana-Mambéré
   comments:
+  type: prefecture
 OP:
   name: Ouham-Pendé
-  code:
+  code: OP
   unofficial_names: Ouham-Pendé
   geo:
     latitude: 6.4850984
@@ -833,9 +846,10 @@ OP:
     ccp: "\U00011103\U00011127\U00011105\U0001112E\U00011126\U0001111F\U00011134-\U0001111B\U0001112C\U0001111A\U00011134\U00011113\U0001112C"
     'no': Ouham-Pendé
   comments:
+  type: prefecture
 SE:
   name: Sangha-Mbaéré
-  code:
+  code: SE
   unofficial_names:
   - Mbaeré
   - Sangha
@@ -891,9 +905,10 @@ SE:
     ccp: "\U00011125\U00011101\U00011126-\U0001111D\U00011103\U00011128\U00011122\U0001112C"
     'no': Sangha-Mbaéré
   comments:
+  type: economic_prefecture
 UK:
   name: Ouaka
-  code:
+  code: UK
   unofficial_names: Ouaka
   geo:
     latitude: 6.3168216
@@ -948,9 +963,10 @@ UK:
     ka: უაკა
     'no': Ouaka
   comments:
+  type: prefecture
 VK:
   name: Vakaga
-  code:
+  code: VK
   unofficial_names: Vakaga
   geo:
     latitude: 9.5113296
@@ -1004,3 +1020,4 @@ VK:
     ccp: "\U0001111E\U00011107\U0001110E"
     'no': Vakaga
   comments:
+  type: prefecture

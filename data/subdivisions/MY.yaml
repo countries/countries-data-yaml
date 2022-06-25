@@ -1,7 +1,7 @@
 ---
 '01':
   name: Johor
-  code:
+  code: '01'
   unofficial_names: Johor
   geo:
     latitude: 1.4853682
@@ -65,9 +65,10 @@
     mk: Џохор
     'no': Johor
   comments:
+  type: state
 '02':
   name: Kedah
-  code:
+  code: '02'
   unofficial_names: Kedah
   geo:
     latitude: 6.1183964
@@ -128,9 +129,10 @@
     mk: Кедах
     'no': Kedah
   comments:
+  type: state
 '03':
   name: Kelantan
-  code:
+  code: '03'
   unofficial_names: Kelantan
   geo:
     latitude: 6.1253969
@@ -193,9 +195,10 @@
     mk: Келантан
     'no': Kelantan
   comments:
+  type: state
 '04':
   name: Melaka
-  code:
+  code: '04'
   unofficial_names: Melaka
   geo:
     latitude: 2.189594
@@ -262,9 +265,10 @@
     mk: Малака
     'no': Malakka
   comments:
+  type: state
 '05':
   name: Negeri Sembilan
-  code:
+  code: '05'
   unofficial_names:
   - Negri Sembilan
   geo:
@@ -325,9 +329,10 @@
     mk: Негери Сембилан
     'no': Negeri Sembilan
   comments:
+  type: state
 '06':
   name: Pahang
-  code:
+  code: '06'
   unofficial_names: Pahang
   geo:
     latitude: 3.8126318
@@ -389,9 +394,10 @@
     mk: Паханг
     'no': Pahang
   comments:
+  type: state
 '07':
   name: Pulau Pinang
-  code:
+  code: '07'
   unofficial_names: Pulau Pinang
   geo:
     latitude: 5.4141675
@@ -455,9 +461,10 @@
     mk: Пенанг
     'no': Penang
   comments:
+  type: state
 '08':
   name: Perak
-  code:
+  code: '08'
   unofficial_names: Perak
   geo:
     latitude: 4.5921126
@@ -520,9 +527,10 @@
     mk: Перак
     'no': Perak
   comments:
+  type: state
 '09':
   name: Perlis
-  code:
+  code: '09'
   unofficial_names: Perlis
   geo:
     latitude: 6.444912899999999
@@ -583,9 +591,10 @@
     mk: Перлис
     'no': Perlis
   comments:
+  type: state
 '10':
   name: Selangor
-  code:
+  code: '10'
   unofficial_names: Selangor
   geo:
     latitude: 3.0738379
@@ -648,9 +657,10 @@
     mk: Селангор
     'no': Selangor
   comments:
+  type: state
 '11':
   name: Terengganu
-  code:
+  code: '11'
   unofficial_names: Terengganu
   geo:
     latitude: 5.3116916
@@ -712,9 +722,10 @@
     mk: Теренгану
     'no': Terengganu
   comments:
+  type: state
 '12':
   name: Sabah
-  code:
+  code: '12'
   unofficial_names: Sabah
   geo:
     latitude: 5.978839799999999
@@ -782,9 +793,10 @@
     mk: Сабах
     'no': Sabah
   comments:
+  type: state
 '13':
   name: Sarawak
-  code:
+  code: '13'
   unofficial_names: Sarawak
   geo:
     latitude: 1.5532783
@@ -855,9 +867,10 @@
     mk: Саравак
     'no': Sarawak
   comments:
+  type: state
 '14':
   name: Wilayah Persekutuan Kuala Lumpur
-  code:
+  code: '14'
   unofficial_names: Wilayah Persekutuan Kuala Lumpur
   geo:
     latitude: 3.1569486
@@ -957,9 +970,10 @@
     'no': Kuala Lumpur
     yo_BJ: Kuala Lumpur
   comments:
+  type: federal_territory
 '15':
   name: Wilayah Persekutuan Labuan
-  code:
+  code: '15'
   unofficial_names: Wilayah Persekutuan Labuan
   geo:
     latitude: 5.2770169
@@ -1021,9 +1035,10 @@
     mk: Лабуан
     'no': Labuan
   comments:
+  type: federal_territory
 '16':
   name: Wilayah Persekutuan Putrajaya
-  code:
+  code: '16'
   unofficial_names: Wilayah Persekutuan Putrajaya
   geo:
     latitude: 2.9353556
@@ -1101,3 +1116,4 @@
     mk: Путраџаја
     'no': Putrajaya
   comments:
+  type: federal_territory

@@ -1,7 +1,7 @@
 ---
 BA:
   name: Balaka
-  code:
+  code: BA
   unofficial_names: Balaka
   geo:
     latitude: -14.9876054
@@ -58,9 +58,10 @@ BA:
     uk: Район Балака
     'no': Balaka
   comments:
+  type: district
 BL:
   name: Blantyre
-  code:
+  code: BL
   unofficial_names: Blantyre
   geo:
     latitude: -15.786111
@@ -117,9 +118,57 @@ BL:
     uk: Блантайр
     'no': Blantyre
   comments:
+  type: district
+C:
+  name: Central
+  code: C
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    az: Mərkəz bölgəsi
+    bg: Централен регион
+    ca: Regió Central
+    de: Central Region
+    el: Κεντρική Περιφέρεια
+    en: Central
+    es: Región Central
+    fa: منطقه مرکزی مالاوی
+    fi: Keskinen alue
+    fr: Malawi central
+    gl: Rexión Central
+    id: Region Tengah
+    it: regione Centrale
+    ja: 中部州
+    ka: მალავის ცენტრალური რეგიონი
+    ko: 중부 주
+    lt: Centrinis regionas
+    nb: Central
+    nl: Central
+    pt: Região Central
+    ro: Regiunea Central
+    ru: Центральный регион
+    sr: Централни регион
+    sv: Central Region
+    tr: Merkez Bölgesi
+    uk: Центральний регіон
+    ur: وسطی علاقہ، ملاوی
+    ceb: Central Region
+    sr_Latn: Centralni region
+    zh: 中央区
+    ccp: "\U00011125\U0001112C\U0001111A\U00011111\U00011133\U00011122\U00011123\U00011134"
+    be: Цэнтральны рэгіён
+    'no': Central
+  comments:
+  type: region
 CK:
   name: Chikwawa
-  code:
+  code: CK
   unofficial_names: Chikwawa
   geo:
     latitude: -16.035
@@ -174,9 +223,10 @@ CK:
     uk: Район Чіквава
     'no': Chikwawa
   comments:
+  type: district
 CR:
   name: Chiradzulu
-  code:
+  code: CR
   unofficial_names: Chiradzulu
   geo:
     latitude: -15.6759485
@@ -231,9 +281,10 @@ CR:
     uk: Район Чірадзулу
     'no': Chiradzulu
   comments:
+  type: district
 CT:
   name: Chitipa
-  code:
+  code: CT
   unofficial_names: Chitipa
   geo:
     latitude: -9.7037655
@@ -290,9 +341,10 @@ CT:
     uk: Район Чітіпа
     'no': Chitipa
   comments:
+  type: district
 DE:
   name: Dedza
-  code:
+  code: DE
   unofficial_names: Dedza
   geo:
     latitude: -14.3816618
@@ -348,9 +400,10 @@ DE:
     uk: Район Дедза
     'no': Dedza
   comments:
+  type: district
 DO:
   name: Dowa
-  code:
+  code: DO
   unofficial_names: Dowa
   geo:
     latitude: -13.6514687
@@ -405,9 +458,10 @@ DO:
     uk: Район Дова
     'no': Dowa
   comments:
+  type: district
 KR:
   name: Karonga
-  code:
+  code: KR
   unofficial_names: Karonga
   geo:
     latitude: -9.933333
@@ -445,9 +499,10 @@ KR:
     ccp: "\U00011107\U00011122\U00011127\U00011101\U00011109"
     'no': Karonga
   comments:
+  type: district
 KS:
   name: Kasungu
-  code:
+  code: KS
   unofficial_names: Kasungu
   geo:
     latitude: -13.033333
@@ -503,9 +558,10 @@ KS:
     be: раён Касунгу
     'no': Kasungu
   comments:
+  type: district
 LI:
   name: Lilongwe
-  code:
+  code: LI
   unofficial_names: Lilongwe
   geo:
     latitude: -13.983333
@@ -561,9 +617,10 @@ LI:
     be: раён Лілонгвэ
     'no': Lilongwe
   comments:
+  type: district
 LK:
   name: Likoma Island
-  code:
+  code: LK
   unofficial_names: Likoma Island
   geo:
     latitude: -12.0584005
@@ -620,9 +677,10 @@ LK:
     uk: Район Лікома
     'no': Likoma
   comments:
+  type: district
 MC:
   name: Mchinji
-  code:
+  code: MC
   unofficial_names: Mchinji
   geo:
     latitude: -13.8000058
@@ -677,9 +735,10 @@ MC:
     uk: Район Мчіньї
     'no': Mchinji
   comments:
+  type: district
 MG:
   name: Mangochi
-  code:
+  code: MG
   unofficial_names: Mangochi
   geo:
     latitude: -14.4861733
@@ -734,9 +793,10 @@ MG:
     uk: Район Мангочі
     'no': Mangochi
   comments:
+  type: district
 MH:
   name: Machinga
-  code:
+  code: MH
   unofficial_names: Machinga
   geo:
     latitude: -15.1699934
@@ -792,9 +852,10 @@ MH:
     be: раён Мачынга
     'no': Machinga
   comments:
+  type: district
 MU:
   name: Mulanje
-  code:
+  code: MU
   unofficial_names: Mulanje
   geo:
     latitude: -16.033333
@@ -849,9 +910,10 @@ MU:
     uk: Район Муланье
     'no': Mulanje
   comments:
+  type: district
 MW:
   name: Mwanza
-  code:
+  code: MW
   unofficial_names: Mwanza
   geo:
     latitude: -15.609722
@@ -906,9 +968,10 @@ MW:
     uk: Район Мванза
     'no': Mwanza
   comments:
+  type: district
 MZ:
   name: Mzimba
-  code:
+  code: MZ
   unofficial_names: Mzimba
   geo:
     latitude: -11.9
@@ -966,9 +1029,56 @@ MZ:
     be: раён Мзімба
     'no': Mzimba
   comments:
+  type: district
+N:
+  name: Northern
+  code: N
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    az: Şimal bölgəsi
+    bg: Северен регион
+    de: Northern Region
+    el: Βόρεια Περιφέρεια
+    en: Northern
+    es: Región del Norte
+    fa: منطقه شمالی مالاوی
+    fi: Pohjoinen alue
+    fr: Région Nord
+    gl: Rexión Norte
+    it: regione Settentrionale
+    ja: 北部州
+    ka: მალავის ჩრდილოეთი რეგიონი
+    ko: 북부 주
+    lt: Šiaurės regionas
+    nb: Northern
+    nl: Northern
+    pt: Região Norte
+    ro: Regiunea Northern
+    ru: Северный регион
+    sr: Северни регион
+    sv: Northern Region
+    tr: Kuzey Bölgesi
+    uk: Північний регіон
+    ur: شمالی علاقہ، ملاوی
+    ceb: Northern Region
+    sr_Latn: Severni region
+    zh: 北部区
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C"
+    ca: Regió del Nort
+    be: Паўночны рэгіён
+    'no': Northern
+  comments:
+  type: region
 NB:
   name: Nkhata Bay
-  code:
+  code: NB
   unofficial_names: Nkhata Bay
   geo:
     latitude: -11.6085556
@@ -1025,9 +1135,67 @@ NB:
     uk: Район Нхата-Бей
     'no': Nkhata Bay
   comments:
+  type: district
+NE:
+  name: Neno
+  code: NE
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: مقاطعة نينو
+    az: Neno
+    bg: Нено
+    bn: নেনো জেলা
+    da: Neno District
+    de: Neno-Distrikt
+    el: Νένο
+    en: Neno
+    es: Distrito de Neno
+    fa: بخش ننو
+    fi: Nenon piirikunta
+    fr: District de Neno
+    gl: Distrito de Neno
+    gu: નેનો જિલ્લો
+    hi: नेनो जिला
+    id: Distrik Neno
+    it: Distretto di Neno
+    ja: ネノ
+    ka: ნენოს რაიონი
+    kn: ನೆನೊ ಜಿಲ್ಲೆ
+    ko: 네노 현
+    mr: नेनो जिल्हा
+    ms: Neno District
+    nb: Neno
+    nl: Neno District
+    pl: Dystrykt Neno
+    pt: Neno
+    ro: Districtul Neno
+    ru: Нено
+    si: නෙනෝ දිස්ත්‍රික්කය
+    sv: Neno
+    ta: நேனோ மாவட்டம்
+    te: నెనో జిల్లా
+    th: เขตนีโน
+    tr: Neno
+    ur: نینو ضلع
+    vi: Neno Quận
+    lv: Neno distrikts
+    ceb: Neno District
+    lt: Neno apskritis
+    ccp: "\U0001111A\U0001112C\U0001111A\U0001112E"
+    uk: Район Нено
+    'no': Neno
+  comments:
+  type: district
 NI:
   name: Ntchisi
-  code:
+  code: NI
   unofficial_names: Ntchisi
   geo:
     latitude: -13.2841992
@@ -1082,9 +1250,10 @@ NI:
     uk: Район Нтчісі
     'no': Ntchisi
   comments:
+  type: district
 NK:
   name: Nkhotakota
-  code:
+  code: NK
   unofficial_names: Nkhotakota
   geo:
     latitude: -12.9316863
@@ -1141,9 +1310,10 @@ NK:
     be: раён Нхатакота
     'no': Nkhotakota
   comments:
+  type: district
 NS:
   name: Nsanje
-  code:
+  code: NS
   unofficial_names: Nsanje
   geo:
     latitude: -16.916667
@@ -1198,9 +1368,10 @@ NS:
     uk: Район Нсанье
     'no': Nsanje
   comments:
+  type: district
 NU:
   name: Ntcheu
-  code:
+  code: NU
   unofficial_names: Ntcheu
   geo:
     latitude: -14.8219765
@@ -1255,9 +1426,10 @@ NU:
     uk: Нтчеу
     'no': Ntcheu
   comments:
+  type: district
 PH:
   name: Phalombe
-  code:
+  code: PH
   unofficial_names: Phalombe
   geo:
     latitude: -15.7633303
@@ -1313,9 +1485,10 @@ PH:
     ca: districte de Phalombe
     'no': Phalombe
   comments:
+  type: district
 RU:
   name: Rumphi
-  code:
+  code: RU
   unofficial_names: Rumphi
   geo:
     latitude: -11.016667
@@ -1372,9 +1545,56 @@ RU:
     uk: Район Румфі
     'no': Rumphi
   comments:
+  type: district
+S:
+  name: Southern
+  code: S
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    az: Cənub bölgəsi
+    bg: Южен регион
+    de: Southern Region
+    el: Νότια Περιφέρεια
+    en: Southern
+    es: Región del Sur
+    fa: منطقه جنوبی مالاوی
+    fi: Eteläinen alue
+    fr: Région Sud
+    gl: Rexión Sur
+    it: regione Meridionale
+    ja: 南部州
+    ka: მალავის სამხრეთი რეგიონი
+    ko: 남부 주
+    lt: Pietų regionas
+    nb: Southern
+    nl: Southern
+    pt: Região Sul
+    ro: Regiunea Southern
+    ru: Южный регион
+    sr: Јужни регион
+    sv: Southern Region
+    tr: Güney Bölgesi
+    uk: Південний регіон
+    ur: جنوبی علاقہ، ملاوی
+    ceb: Southern Region
+    sr_Latn: Južni region
+    zh: 南部区
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C"
+    ca: Regió del Sud
+    be: Паўднёвы рэгіён
+    'no': Southern
+  comments:
+  type: region
 SA:
   name: Salima
-  code:
+  code: SA
   unofficial_names: Salima
   geo:
     latitude: -13.7795533
@@ -1429,9 +1649,10 @@ SA:
     uk: Район Саліма
     'no': Salima
   comments:
+  type: district
 TH:
   name: Thyolo
-  code:
+  code: TH
   unofficial_names: Thyolo
   geo:
     latitude: -16.066667
@@ -1467,9 +1688,10 @@ TH:
     ccp: "\U00011112\U0001112D\U00011120\U0001112E\U00011123\U0001112E"
     'no': Thyolo
   comments:
+  type: district
 ZO:
   name: Zomba
-  code:
+  code: ZO
   unofficial_names: Zomba
   geo:
     latitude: -15.383333
@@ -1507,195 +1729,4 @@ ZO:
     be: раён Зомба
     'no': Zomba
   comments:
-NE:
-  name: Neno
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    ar: مقاطعة نينو
-    az: Neno
-    bg: Нено
-    bn: নেনো জেলা
-    da: Neno District
-    de: Neno-Distrikt
-    el: Νένο
-    en: Neno
-    es: Distrito de Neno
-    fa: بخش ننو
-    fi: Nenon piirikunta
-    fr: District de Neno
-    gl: Distrito de Neno
-    gu: નેનો જિલ્લો
-    hi: नेनो जिला
-    id: Distrik Neno
-    it: Distretto di Neno
-    ja: ネノ
-    ka: ნენოს რაიონი
-    kn: ನೆನೊ ಜಿಲ್ಲೆ
-    ko: 네노 현
-    mr: नेनो जिल्हा
-    ms: Neno District
-    nb: Neno
-    nl: Neno District
-    pl: Dystrykt Neno
-    pt: Neno
-    ro: Districtul Neno
-    ru: Нено
-    si: නෙනෝ දිස්ත්‍රික්කය
-    sv: Neno
-    ta: நேனோ மாவட்டம்
-    te: నెనో జిల్లా
-    th: เขตนีโน
-    tr: Neno
-    ur: نینو ضلع
-    vi: Neno Quận
-    lv: Neno distrikts
-    ceb: Neno District
-    lt: Neno apskritis
-    ccp: "\U0001111A\U0001112C\U0001111A\U0001112E"
-    uk: Район Нено
-    'no': Neno
-  comments:
-C:
-  name: Central
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    az: Mərkəz bölgəsi
-    bg: Централен регион
-    ca: Regió Central
-    de: Central Region
-    el: Κεντρική Περιφέρεια
-    en: Central
-    es: Región Central
-    fa: منطقه مرکزی مالاوی
-    fi: Keskinen alue
-    fr: Malawi central
-    gl: Rexión Central
-    id: Region Tengah
-    it: regione Centrale
-    ja: 中部州
-    ka: მალავის ცენტრალური რეგიონი
-    ko: 중부 주
-    lt: Centrinis regionas
-    nb: Central
-    nl: Central
-    pt: Região Central
-    ro: Regiunea Central
-    ru: Центральный регион
-    sr: Централни регион
-    sv: Central Region
-    tr: Merkez Bölgesi
-    uk: Центральний регіон
-    ur: وسطی علاقہ، ملاوی
-    ceb: Central Region
-    sr_Latn: Centralni region
-    zh: 中央区
-    ccp: "\U00011125\U0001112C\U0001111A\U00011111\U00011133\U00011122\U00011123\U00011134"
-    be: Цэнтральны рэгіён
-    'no': Central
-  comments:
-N:
-  name: Northern
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    az: Şimal bölgəsi
-    bg: Северен регион
-    de: Northern Region
-    el: Βόρεια Περιφέρεια
-    en: Northern
-    es: Región del Norte
-    fa: منطقه شمالی مالاوی
-    fi: Pohjoinen alue
-    fr: Région Nord
-    gl: Rexión Norte
-    it: regione Settentrionale
-    ja: 北部州
-    ka: მალავის ჩრდილოეთი რეგიონი
-    ko: 북부 주
-    lt: Šiaurės regionas
-    nb: Northern
-    nl: Northern
-    pt: Região Norte
-    ro: Regiunea Northern
-    ru: Северный регион
-    sr: Северни регион
-    sv: Northern Region
-    tr: Kuzey Bölgesi
-    uk: Північний регіон
-    ur: شمالی علاقہ، ملاوی
-    ceb: Northern Region
-    sr_Latn: Severni region
-    zh: 北部区
-    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C"
-    ca: Regió del Nort
-    be: Паўночны рэгіён
-    'no': Northern
-  comments:
-S:
-  name: Southern
-  code:
-  unofficial_names:
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    az: Cənub bölgəsi
-    bg: Южен регион
-    de: Southern Region
-    el: Νότια Περιφέρεια
-    en: Southern
-    es: Región del Sur
-    fa: منطقه جنوبی مالاوی
-    fi: Eteläinen alue
-    fr: Région Sud
-    gl: Rexión Sur
-    it: regione Meridionale
-    ja: 南部州
-    ka: მალავის სამხრეთი რეგიონი
-    ko: 남부 주
-    lt: Pietų regionas
-    nb: Southern
-    nl: Southern
-    pt: Região Sul
-    ro: Regiunea Southern
-    ru: Южный регион
-    sr: Јужни регион
-    sv: Southern Region
-    tr: Güney Bölgesi
-    uk: Південний регіон
-    ur: جنوبی علاقہ، ملاوی
-    ceb: Southern Region
-    sr_Latn: Južni region
-    zh: 南部区
-    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C"
-    ca: Regió del Sud
-    be: Паўднёвы рэгіён
-    'no': Southern
-  comments:
+  type: district

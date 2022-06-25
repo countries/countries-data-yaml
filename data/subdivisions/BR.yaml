@@ -1,7 +1,7 @@
 ---
 AC:
   name: Acre
-  code:
+  code: AC
   unofficial_names: Acre
   geo:
     latitude: -9.0237964
@@ -81,9 +81,10 @@ AC:
     'no': Acre
     yo_BJ: Acre
   comments:
+  type: state
 AL:
   name: Alagoas
-  code:
+  code: AL
   unofficial_names: Alagoas
   geo:
     latitude: -9.5713058
@@ -165,9 +166,10 @@ AL:
     'no': Alagoas
     yo_BJ: Alagoas
   comments:
+  type: state
 AM:
   name: Amazonas
-  code:
+  code: AM
   unofficial_names: Amazonas
   geo:
     latitude: -3.4168427
@@ -247,9 +249,10 @@ AM:
     'no': Amazonas
     yo_BJ: Amazonas
   comments:
+  type: state
 AP:
   name: Amapá
-  code:
+  code: AP
   unofficial_names: Amapá
   geo:
     latitude: 2.0447397
@@ -328,9 +331,10 @@ AP:
     'no': Amapá
     yo_BJ: Amapá
   comments:
+  type: state
 BA:
   name: Bahia
-  code:
+  code: BA
   unofficial_names: Bahia
   geo:
     latitude: -12.579738
@@ -412,9 +416,10 @@ BA:
     'no': Bahia
     yo_BJ: Bahia
   comments:
+  type: state
 CE:
   name: Ceará
-  code:
+  code: CE
   unofficial_names: Ceará
   geo:
     latitude: -5.4983977
@@ -493,9 +498,10 @@ CE:
     'no': Ceará
     yo_BJ: Ceará
   comments:
+  type: state
 DF:
   name: Distrito Federal
-  code:
+  code: DF
   unofficial_names: Distrito Federal
   geo:
     latitude: -15.826691
@@ -570,9 +576,10 @@ DF:
     'no': Distrito Federal
     yo_BJ: Brazilian Federal District
   comments:
+  type: federal_district
 ES:
   name: Espírito Santo
-  code:
+  code: ES
   unofficial_names: Espírito Santo
   geo:
     latitude: -19.1834229
@@ -651,9 +658,10 @@ ES:
     'no': Espírito Santo
     yo_BJ: Espírito Santo
   comments:
+  type: state
 GO:
   name: Goiás
-  code:
+  code: GO
   unofficial_names: Goiás
   geo:
     latitude: -15.93397
@@ -731,9 +739,10 @@ GO:
     'no': Goiás
     yo_BJ: Goiás
   comments:
+  type: state
 MA:
   name: Maranhão
-  code:
+  code: MA
   unofficial_names: Maranhão
   geo:
     latitude: -4.9609498
@@ -812,9 +821,10 @@ MA:
     'no': Maranhão
     yo_BJ: Maranhão
   comments:
+  type: state
 MG:
   name: Minas Gerais
-  code:
+  code: MG
   unofficial_names: Minas Gerais
   geo:
     latitude: -18.512178
@@ -895,9 +905,10 @@ MG:
     'no': Minas Gerais
     yo_BJ: Minas Gerais
   comments:
+  type: state
 MS:
   name: Mato Grosso do Sul
-  code:
+  code: MS
   unofficial_names: Mato Grosso do Sul
   geo:
     latitude: -20.7722295
@@ -977,9 +988,10 @@ MS:
     'no': Mato Grosso do Sul
     yo_BJ: Mato Grosso do Sul
   comments:
+  type: state
 MT:
   name: Mato Grosso
-  code:
+  code: MT
   unofficial_names: Mato Grosso
   geo:
     latitude: -12.6818712
@@ -1058,9 +1070,10 @@ MT:
     'no': Mato Grosso
     yo_BJ: Mato Grosso
   comments:
+  type: state
 PA:
   name: Pará
-  code:
+  code: PA
   unofficial_names: Pará
   geo:
     latitude: -1.9981271
@@ -1140,9 +1153,10 @@ PA:
     'no': Pará
     yo_BJ: Pará
   comments:
+  type: state
 PB:
   name: Paraíba
-  code:
+  code: PB
   unofficial_names: Paraíba
   geo:
     latitude: -7.239960900000001
@@ -1222,9 +1236,10 @@ PB:
     'no': Paraíba
     yo_BJ: Paraíba
   comments:
+  type: state
 PE:
   name: Pernambuco
-  code:
+  code: PE
   unofficial_names: Pernambuco
   geo:
     latitude: -8.8137173
@@ -1306,9 +1321,10 @@ PE:
     'no': Pernambuco
     yo_BJ: Pernambuco
   comments:
+  type: state
 PI:
   name: Piauí
-  code:
+  code: PI
   unofficial_names: Piauí
   geo:
     latitude: -7.718340100000001
@@ -1388,9 +1404,10 @@ PI:
     'no': Piauí
     yo_BJ: Piauí
   comments:
+  type: state
 PR:
   name: Paraná
-  code:
+  code: PR
   unofficial_names: Paraná
   geo:
     latitude: -25.2520888
@@ -1469,9 +1486,10 @@ PR:
     'no': Paraná
     yo_BJ: Paraná
   comments:
+  type: state
 RJ:
   name: Rio de Janeiro
-  code:
+  code: RJ
   unofficial_names: Rio de Janeiro
   geo:
     latitude: -22.9068467
@@ -1544,9 +1562,10 @@ RJ:
     mk: Рио де Жанеиро
     'no': Rio de Janeiro
   comments:
+  type: state
 RN:
   name: Rio Grande do Norte
-  code:
+  code: RN
   unofficial_names: Rio Grande do Norte
   geo:
     latitude: -5.402580299999999
@@ -1627,9 +1646,10 @@ RN:
     'no': Rio Grande do Norte
     yo_BJ: Rio Grande do Norte
   comments:
+  type: state
 RO:
   name: Rondônia
-  code:
+  code: RO
   unofficial_names: Rondônia
   geo:
     latitude: -11.5057341
@@ -1707,9 +1727,10 @@ RO:
     'no': Rondônia
     yo_BJ: Rondônia
   comments:
+  type: state
 RR:
   name: Roraima
-  code:
+  code: RR
   unofficial_names: Roraima
   geo:
     latitude: 2.7375971
@@ -1789,9 +1810,10 @@ RR:
     'no': Roraima
     yo_BJ: Roraima
   comments:
+  type: state
 RS:
   name: Rio Grande do Sul
-  code:
+  code: RS
   unofficial_names: Rio Grande do Sul
   geo:
     latitude: -30.0346316
@@ -1878,9 +1900,10 @@ RS:
     'no': Rio Grande do Sul
     yo_BJ: Rio Grande do Sul
   comments:
+  type: state
 SC:
   name: Santa Catarina
-  code:
+  code: SC
   unofficial_names: Santa Catarina
   geo:
     latitude: -27.2423392
@@ -1960,9 +1983,10 @@ SC:
     'no': Santa Catarina
     yo_BJ: Santa Catarina
   comments:
+  type: state
 SE:
   name: Sergipe
-  code:
+  code: SE
   unofficial_names: Sergipe
   geo:
     latitude: -10.5740934
@@ -2042,9 +2066,10 @@ SE:
     'no': Sergipe
     yo_BJ: Sergipe
   comments:
+  type: state
 SP:
   name: São Paulo
-  code:
+  code: SP
   unofficial_names: São Paulo
   geo:
     latitude: -23.5505199
@@ -2127,9 +2152,10 @@ SP:
     'no': São Paulo
     yo_BJ: Sao Paulo
   comments:
+  type: state
 TO:
   name: Tocantins
-  code:
+  code: TO
   unofficial_names: Tocantins
   geo:
     latitude: -10.17528
@@ -2207,3 +2233,4 @@ TO:
     'no': Tocantins
     yo_BJ: Tocantins
   comments:
+  type: state

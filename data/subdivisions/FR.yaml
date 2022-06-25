@@ -1,7 +1,7 @@
 ---
 '01':
   name: Ain
-  code:
+  code: '01'
   unofficial_names: Ain
   geo:
     latitude: 46.2475706
@@ -77,9 +77,10 @@
     az: En (departament)
     'no': Ain
   comments:
+  type: metropolitan_department
 '02':
   name: Aisne
-  code:
+  code: '02'
   unofficial_names: Aisne
   geo:
     latitude: 49.4769199
@@ -92,7 +93,7 @@
     af: Aisne
     ar: أيسن
     be: Дэпартамент Эна
-    bg: Ен
+    bg: Ен²
     bn: আইস্নে
     ca: Aisne
     cs: Aisne
@@ -108,7 +109,7 @@
     fr: Aisne
     gl: Aisne
     gu: એશને
-    he: אן
+    he: אן²
     hi: एयेन
     hu: Aisne
     hy: Էնա
@@ -119,7 +120,7 @@
     kn: ಐಸ್ನೆ
     ko: 엔 주
     lt: Ena
-    lv: Ēna
+    lv: Ēna²
     mr: अएन
     ms: Aisne
     nb: Aisne
@@ -131,7 +132,7 @@
     si: අයිස්නේ
     sk: Aisne
     sl: Aisne
-    sr: Ен
+    sr: Ен²
     sv: Aisne
     sw: Aisne
     ta: ஐஸின்
@@ -155,9 +156,10 @@
     mk: Ена
     'no': Aisne
   comments:
+  type: metropolitan_department
 '03':
   name: Allier
-  code:
+  code: '03'
   unofficial_names: Allier
   geo:
     latitude: 46.3115552
@@ -233,9 +235,10 @@
     az: Alye
     'no': Allier
   comments:
+  type: metropolitan_department
 '04':
   name: Alpes-de-Haute-Provence
-  code:
+  code: '04'
   unofficial_names: Alpes-de-Haute-Provence
   geo:
     latitude: 44.07787159999999
@@ -309,9 +312,10 @@
     mk: Горнопровансалски Алпи
     'no': Alpes-de-Haute-Provence
   comments:
+  type: metropolitan_department
 '05':
   name: Hautes-Alpes
-  code:
+  code: '05'
   unofficial_names: Hautes-Alpes
   geo:
     latitude: 44.6008723
@@ -384,9 +388,10 @@
     az: Yuxarı Alplar
     'no': Hautes-Alpes
   comments:
+  type: metropolitan_department
 '06':
   name: Alpes-Maritimes
-  code:
+  code: '06'
   unofficial_names: Alpes-Maritimes
   geo:
     latitude: 43.9466791
@@ -461,9 +466,10 @@
     mk: Приморски Алпи
     'no': Alpes-Maritimes
   comments:
+  type: metropolitan_department
 '07':
   name: Ardèche
-  code:
+  code: '07'
   unofficial_names: Ardèche
   geo:
     latitude: 44.759629
@@ -538,9 +544,10 @@
     mk: Ардеш
     'no': Ardèche
   comments:
+  type: metropolitan_department
 '08':
   name: Ardennes
-  code:
+  code: '08'
   unofficial_names: Ardennes
   geo:
     latitude: 49.7624642
@@ -616,9 +623,10 @@
     mk: Ардени
     'no': Ardennes
   comments:
+  type: metropolitan_department
 '09':
   name: Ariège
-  code:
+  code: '09'
   unofficial_names: Ariège
   geo:
     latitude: 42.9326292
@@ -691,9 +699,10 @@
     az: Aryej
     'no': Ariège
   comments:
+  type: metropolitan_department
 '10':
   name: Aube
-  code:
+  code: '10'
   unofficial_names: Aube
   geo:
     latitude: 48.1563418
@@ -769,9 +778,10 @@
     mk: Об
     'no': Aube
   comments:
+  type: metropolitan_department
 '11':
   name: Aude
-  code:
+  code: '11'
   unofficial_names: Aude
   geo:
     latitude: 43.0724667
@@ -846,9 +856,10 @@
     az: Od (departament)
     'no': Aude
   comments:
+  type: metropolitan_department
 '12':
   name: Aveyron
-  code:
+  code: '12'
   unofficial_names: Aveyron
   geo:
     latitude: 44.2179747
@@ -923,9 +934,10 @@
     mk: Аверон
     'no': Aveyron
   comments:
+  type: metropolitan_department
 '13':
   name: Bouches-du-Rhône
-  code:
+  code: '13'
   unofficial_names: Bouches-du-Rhône
   geo:
     latitude: 43.59116789999999
@@ -998,9 +1010,10 @@
     az: Buş-dü-Ron
     'no': Bouches-du-Rhône
   comments:
+  type: metropolitan_department
 '14':
   name: Calvados
-  code:
+  code: '14'
   unofficial_names: Calvados
   geo:
     latitude: 49.1213315
@@ -1075,9 +1088,10 @@
     yue: 卡爾華多斯
     'no': Calvados
   comments:
+  type: metropolitan_department
 '15':
   name: Cantal
-  code:
+  code: '15'
   unofficial_names: Cantal
   geo:
     latitude: 45.1191997
@@ -1151,9 +1165,10 @@
     az: Kantal
     'no': Cantal
   comments:
+  type: metropolitan_department
 '16':
   name: Charente
-  code:
+  code: '16'
   unofficial_names: Charente
   geo:
     latitude: 45.7519958
@@ -1227,9 +1242,10 @@
     az: Şaranta (departament)
     'no': Charente
   comments:
+  type: metropolitan_department
 '17':
   name: Charente-Maritime
-  code:
+  code: '17'
   unofficial_names: Charente-Maritime
   geo:
     latitude: 45.74948999999999
@@ -1303,9 +1319,10 @@
     mk: Приморска Шаранта
     'no': Charente-Maritime
   comments:
+  type: metropolitan_department
 '18':
   name: Cher
-  code:
+  code: '18'
   unofficial_names: Cher
   geo:
     latitude: 46.954005
@@ -1379,9 +1396,10 @@
     az: Şer (departament)
     'no': Cher
   comments:
+  type: metropolitan_department
 '19':
   name: Corrèze
-  code:
+  code: '19'
   unofficial_names: Corrèze
   geo:
     latitude: 45.372114
@@ -1455,7 +1473,8 @@
     az: Korrez
     'no': Corrèze
   comments:
-'20R':
+  type: metropolitan_department
+20R:
   name: Corse
   unofficial_names:
   - Corse
@@ -1537,14 +1556,16 @@
   comments:
   geo:
     latitude: 42.180721
-    longitude: 9.047040
+    longitude: 9.04704
     min_latitude:
     min_longitude:
     max_latitude:
     max_longitude:
+  code: 20R
+  type: metropolitan_collectivity_with_special_status
 '21':
   name: Côte-d'Or
-  code:
+  code: '21'
   unofficial_names: Côte-d'Or
   geo:
     latitude: 47.5126795
@@ -1615,9 +1636,10 @@
     mk: Златен Брег
     'no': Côte-d’Or
   comments:
+  type: metropolitan_department
 '22':
   name: Côtes-d'Armor
-  code:
+  code: '22'
   unofficial_names:
   - Côtes-du-Nord
   geo:
@@ -1686,9 +1708,10 @@
     az: Kot-d’Armor
     'no': Côtes-d’Armor
   comments:
+  type: metropolitan_department
 '23':
   name: Creuse
-  code:
+  code: '23'
   unofficial_names: Creuse
   geo:
     latitude: 46.03776329999999
@@ -1762,9 +1785,10 @@
     az: Kröz
     'no': Creuse
   comments:
+  type: metropolitan_department
 '24':
   name: Dordogne
-  code:
+  code: '24'
   unofficial_names: Dordogne
   geo:
     latitude: 45.14694859999999
@@ -1839,9 +1863,10 @@
     mk: Дордоња
     'no': Dordogne
   comments:
+  type: metropolitan_department
 '25':
   name: Doubs
-  code:
+  code: '25'
   unofficial_names: Doubs
   geo:
     latitude: 46.92760000000001
@@ -1915,9 +1940,10 @@
     az: Du (departament)
     'no': Doubs
   comments:
+  type: metropolitan_department
 '26':
   name: Drôme
-  code:
+  code: '26'
   unofficial_names: Drôme
   geo:
     latitude: 44.73118960000001
@@ -1991,9 +2017,10 @@
     az: Drom (departament)
     'no': Drôme
   comments:
+  type: metropolitan_department
 '27':
   name: Eure
-  code:
+  code: '27'
   unofficial_names: Eure
   geo:
     latitude: 49.11817629999999
@@ -2067,9 +2094,10 @@
     mk: Ер
     'no': Eure
   comments:
+  type: metropolitan_department
 '28':
   name: Eure-et-Loir
-  code:
+  code: '28'
   unofficial_names: Eure-et-Loir
   geo:
     latitude: 48.5525242
@@ -2143,9 +2171,10 @@
     mk: Ер и Лоар
     'no': Eure-et-Loir
   comments:
+  type: metropolitan_department
 '29':
   name: Finistère
-  code:
+  code: '29'
   unofficial_names: Finistère
   geo:
     latitude: 48.2520249
@@ -2222,9 +2251,10 @@
     mk: Финистер
     'no': Finistère
   comments:
-'2A':
+  type: metropolitan_department
+2A:
   name: Corse-du-Sud
-  code:
+  code: 2A
   unofficial_names: Corse-du-Sud
   geo:
     latitude: 41.8102633
@@ -2298,9 +2328,10 @@
     az: Cənubi Korsika
     'no': Corse-du-Sud
   comments:
-'2B':
+  type: metropolitan_department
+2B:
   name: Haute-Corse
-  code:
+  code: 2B
   unofficial_names: Haute-Corse
   geo:
     latitude: 42.4097877
@@ -2374,9 +2405,10 @@
     az: Yuxarı Korsika
     'no': Haute-Corse
   comments:
+  type: metropolitan_department
 '30':
   name: Gard
-  code:
+  code: '30'
   unofficial_names: Gard
   geo:
     latitude: 43.9446996
@@ -2450,9 +2482,10 @@
     az: Qar (departament)
     'no': Gard
   comments:
+  type: metropolitan_department
 '31':
   name: Haute-Garonne
-  code:
+  code: '31'
   unofficial_names: Haute-Garonne
   geo:
     latitude: 43.4010462
@@ -2524,9 +2557,10 @@
     yue: 上加龍
     'no': Haute-Garonne
   comments:
+  type: metropolitan_department
 '32':
   name: Gers
-  code:
+  code: '32'
   unofficial_names: Gers
   geo:
     latitude: 43.6366479
@@ -2599,9 +2633,10 @@
     yue: 熱爾
     'no': Gers
   comments:
+  type: metropolitan_department
 '33':
   name: Gironde
-  code:
+  code: '33'
   unofficial_names: Gironde
   geo:
     latitude: 44.84966499999999
@@ -2677,9 +2712,10 @@
     mk: Жиронда (департман)
     'no': Gironde
   comments:
+  type: metropolitan_department
 '34':
   name: Hérault
-  code:
+  code: '34'
   unofficial_names: Hérault
   geo:
     latitude: 43.5912356
@@ -2755,9 +2791,10 @@
     mk: Еро
     'no': Hérault
   comments:
+  type: metropolitan_department
 '35':
   name: Ille-et-Vilaine
-  code:
+  code: '35'
   unofficial_names: Ille-et-Vilaine
   geo:
     latitude: 48.2292016
@@ -2830,9 +2867,10 @@
     yue: 伊勒-維萊訥
     'no': Ille-et-Vilaine
   comments:
+  type: metropolitan_department
 '36':
   name: Indre
-  code:
+  code: '36'
   unofficial_names: Indre
   geo:
     latitude: 46.6613966
@@ -2907,9 +2945,10 @@
     az: Endr
     'no': Indre
   comments:
+  type: metropolitan_department
 '37':
   name: Indre-et-Loire
-  code:
+  code: '37'
   unofficial_names: Indre-et-Loire
   geo:
     latitude: 47.28949249999999
@@ -2983,9 +3022,10 @@
     mk: Ендр и Лоара
     'no': Indre-et-Loire
   comments:
+  type: metropolitan_department
 '38':
   name: Isère
-  code:
+  code: '38'
   unofficial_names: Isère
   geo:
     latitude: 44.9957745
@@ -3058,9 +3098,10 @@
     yue: 伊澤爾
     'no': Isère
   comments:
+  type: metropolitan_department
 '39':
   name: Jura
-  code:
+  code: '39'
   unofficial_names: Jura
   geo:
     latitude: 46.76247499999999
@@ -3133,9 +3174,10 @@
     yue: 侏羅省
     'no': Jura
   comments:
+  type: metropolitan_department
 '40':
   name: Landes
-  code:
+  code: '40'
   unofficial_names: Landes
   geo:
     latitude: 43.9412045
@@ -3209,9 +3251,10 @@
     mk: Ланд (департман)
     'no': Landes
   comments:
+  type: metropolitan_department
 '41':
   name: Loir-et-Cher
-  code:
+  code: '41'
   unofficial_names: Loir-et-Cher
   geo:
     latitude: 47.6761905
@@ -3284,9 +3327,10 @@
     mk: Лоар и Шер
     'no': Loir-et-Cher
   comments:
+  type: metropolitan_department
 '42':
   name: Loire
-  code:
+  code: '42'
   unofficial_names: Loire
   geo:
     latitude: 45.9846475
@@ -3360,9 +3404,10 @@
     az: Luara (departament)
     'no': Loire
   comments:
+  type: metropolitan_department
 '43':
   name: Haute-Loire
-  code:
+  code: '43'
   unofficial_names: Haute-Loire
   geo:
     latitude: 45.0821226
@@ -3436,9 +3481,10 @@
     yue: 上盧華爾
     'no': Haute-Loire
   comments:
+  type: metropolitan_department
 '44':
   name: Loire-Atlantique
-  code:
+  code: '44'
   unofficial_names: Loire-Atlantique
   geo:
     latitude: 47.27804680000001
@@ -3510,9 +3556,10 @@
     yue: 盧華爾-大西洋
     'no': Loire-Atlantique
   comments:
+  type: metropolitan_department
 '45':
   name: Loiret
-  code:
+  code: '45'
   unofficial_names: Loiret
   geo:
     latitude: 47.900771
@@ -3587,9 +3634,10 @@
     az: Luare (departament)
     'no': Loiret
   comments:
+  type: metropolitan_department
 '46':
   name: Lot
-  code:
+  code: '46'
   unofficial_names: Lot
   geo:
     latitude: 44.5379358
@@ -3663,9 +3711,10 @@
     mk: Лот
     'no': Lot
   comments:
+  type: metropolitan_department
 '47':
   name: Lot-et-Garonne
-  code:
+  code: '47'
   unofficial_names: Lot-et-Garonne
   geo:
     latitude: 44.2470173
@@ -3738,9 +3787,10 @@
     az: Lo və Qaronna
     'no': Lot-et-Garonne
   comments:
+  type: metropolitan_department
 '48':
   name: Lozère
-  code:
+  code: '48'
   unofficial_names: Lozère
   geo:
     latitude: 44.494203
@@ -3813,9 +3863,10 @@
     yue: 洛澤爾
     'no': Lozère
   comments:
+  type: metropolitan_department
 '49':
   name: Maine-et-Loire
-  code:
+  code: '49'
   unofficial_names: Maine-et-Loire
   geo:
     latitude: 47.2913545
@@ -3888,9 +3939,10 @@
     az: Men və Luara
     'no': Maine-et-Loire
   comments:
+  type: metropolitan_department
 '50':
   name: Manche
-  code:
+  code: '50'
   unofficial_names: Manche
   geo:
     latitude: 49.114712
@@ -3964,9 +4016,10 @@
     az: Manş (departament)
     'no': Manche
   comments:
+  type: metropolitan_department
 '51':
   name: Marne
-  code:
+  code: '51'
   unofficial_names: Marne
   geo:
     latitude: 49.128754
@@ -4041,9 +4094,10 @@
     az: Marna (departament)
     'no': Marne
   comments:
+  type: metropolitan_department
 '52':
   name: Haute-Marne
-  code:
+  code: '52'
   unofficial_names: Haute-Marne
   geo:
     latitude: 48.1260968
@@ -4117,9 +4171,10 @@
     az: Yuxarı Marna
     'no': Haute-Marne
   comments:
+  type: metropolitan_department
 '53':
   name: Mayenne
-  code:
+  code: '53'
   unofficial_names: Mayenne
   geo:
     latitude: 48.3061239
@@ -4193,9 +4248,10 @@
     az: Mayen (departament)
     'no': Mayenne
   comments:
+  type: metropolitan_department
 '54':
   name: Meurthe-et-Moselle
-  code:
+  code: '54'
   unofficial_names: Meurthe-et-Moselle
   geo:
     latitude: 48.7997007
@@ -4269,9 +4325,10 @@
     mk: Мерт и Мозел
     'no': Meurthe-et-Moselle
   comments:
+  type: metropolitan_department
 '55':
   name: Meuse
-  code:
+  code: '55'
   unofficial_names: Meuse
   geo:
     latitude: 49.0824319
@@ -4345,9 +4402,10 @@
     mk: Меза
     'no': Meuse
   comments:
+  type: metropolitan_department
 '56':
   name: Morbihan
-  code:
+  code: '56'
   unofficial_names: Morbihan
   geo:
     latitude: 47.8852929
@@ -4423,9 +4481,10 @@
     mk: Морбијан
     'no': Morbihan
   comments:
+  type: metropolitan_department
 '57':
   name: Moselle
-  code:
+  code: '57'
   unofficial_names: Moselle
   geo:
     latitude: 49.0983839
@@ -4501,9 +4560,10 @@
     mk: Мозел
     'no': Moselle
   comments:
+  type: metropolitan_department
 '58':
   name: Nièvre
-  code:
+  code: '58'
   unofficial_names: Nièvre
   geo:
     latitude: 47.2381708
@@ -4576,9 +4636,10 @@
     az: Nyevr
     'no': Nièvre
   comments:
+  type: metropolitan_department
 '59':
   name: Nord
-  code:
+  code: '59'
   unofficial_names: Nord
   geo:
     latitude: 50.3851246
@@ -4652,9 +4713,10 @@
     mk: Север
     'no': Nord
   comments:
+  type: metropolitan_department
 '60':
   name: Oise
-  code:
+  code: '60'
   unofficial_names: Oise
   geo:
     latitude: 49.42145679999999
@@ -4729,9 +4791,10 @@
     mk: Оаза
     'no': Oise
   comments:
+  type: metropolitan_department
 '61':
   name: Orne
-  code:
+  code: '61'
   unofficial_names: Orne
   geo:
     latitude: 48.6388567
@@ -4805,9 +4868,10 @@
     az: Orn
     'no': Orne
   comments:
+  type: metropolitan_department
 '62':
   name: Pas-de-Calais
-  code:
+  code: '62'
   unofficial_names: Pas-de-Calais
   geo:
     latitude: 50.5732769
@@ -4880,9 +4944,10 @@
     mk: Па де Кале
     'no': Pas-de-Calais
   comments:
+  type: metropolitan_department
 '63':
   name: Puy-de-Dôme
-  code:
+  code: '63'
   unofficial_names: Puy-de-Dôme
   geo:
     latitude: 45.7725738
@@ -4954,17 +5019,10 @@
     yue: 多姆山
     zh: 多姆山省
   comments:
-  geo:
-    latitude: 45.7725738
-    longitude: 2.9644431
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  name: Puy-de-Dôme
+  type: metropolitan_department
 '64':
   name: Pyrénées-Atlantiques
-  code:
+  code: '64'
   unofficial_names: Pyrénées-Atlantiques
   geo:
     latitude: 43.3269942
@@ -5038,9 +5096,10 @@
     az: Atlantik Pireney
     'no': Pyrénées-Atlantiques
   comments:
+  type: metropolitan_department
 '65':
   name: Hautes-Pyrénées
-  code:
+  code: '65'
   unofficial_names: Hautes-Pyrénées
   geo:
     latitude: 43.0193924
@@ -5114,9 +5173,10 @@
     mk: Горни Пиринеи
     'no': Hautes-Pyrénées
   comments:
+  type: metropolitan_department
 '66':
   name: Pyrénées-Orientales
-  code:
+  code: '66'
   unofficial_names: Pyrénées-Orientales
   geo:
     latitude: 42.6012912
@@ -5190,9 +5250,10 @@
     az: Şərqi Pireney
     'no': Pyrénées-Orientales
   comments:
+  type: metropolitan_department
 '67':
   name: Bas-Rhin
-  code:
+  code: '67'
   unofficial_names: Bas-Rhin
   geo:
     latitude: 48.6343172
@@ -5267,9 +5328,10 @@
     mk: Долна Рајна
     'no': Bas-Rhin
   comments:
+  type: metropolitan_department
 '68':
   name: Haut-Rhin
-  code:
+  code: '68'
   unofficial_names: Haut-Rhin
   geo:
     latitude: 47.9315041
@@ -5345,9 +5407,10 @@
     mk: Горна Рајна
     'no': Haut-Rhin
   comments:
+  type: metropolitan_department
 '69':
   name: Rhône
-  code:
+  code: '69'
   unofficial_names: Rhône
   geo:
     latitude: 45.7351456
@@ -5422,9 +5485,34 @@
     mk: Рона
     'no': Rhône
   comments:
+  type: metropolitan_department
+69M:
+  name: Métropole de Lyon
+  code: 69M
+  unofficial_names: Métropole de Lyon
+  geo:
+    latitude: 45.7351456
+    longitude: 4.6108043
+    min_latitude: 45.45413
+    min_longitude: 4.243647
+    max_latitude: 46.30650199999999
+    max_longitude: 5.1601089
+  translations:
+    fr: Métropole de Lyon
+    en: Lyon Metropolis
+  comments:
+  type: metropolitan_collectivity_with_special_status
+6AE:
+  name: Alsace
+  code: 6AE
+  unofficial_names: Alsace
+  type: european_collectivity
+  translations:
+    fr: Alsace
+    en: Alsace
 '70':
   name: Haute-Saône
-  code:
+  code: '70'
   unofficial_names: Haute-Saône
   geo:
     latitude: 47.7569806
@@ -5499,9 +5587,10 @@
     mk: Горна Сона
     'no': Haute-Saône
   comments:
+  type: metropolitan_department
 '71':
   name: Saône-et-Loire
-  code:
+  code: '71'
   unofficial_names: Saône-et-Loire
   geo:
     latitude: 46.5827512
@@ -5574,9 +5663,10 @@
     az: Sona və Luara
     'no': Saône-et-Loire
   comments:
+  type: metropolitan_department
 '72':
   name: Sarthe
-  code:
+  code: '72'
   unofficial_names: Sarthe
   geo:
     latitude: 47.9217014
@@ -5650,9 +5740,10 @@
     az: Sarta
     'no': Sarthe
   comments:
+  type: metropolitan_department
 '73':
   name: Savoie
-  code:
+  code: '73'
   unofficial_names: Savoie
   geo:
     latitude: 44.771079
@@ -5728,17 +5819,10 @@
     yue: 薩華
     zh: 萨瓦省
   comments:
-  geo:
-    latitude: 44.771079
-    longitude: 5.742806000000001
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  name: Savoie
+  type: metropolitan_department
 '74':
   name: Haute-Savoie
-  code:
+  code: '74'
   unofficial_names: Haute-Savoie
   geo:
     latitude: 46.1756788
@@ -5813,9 +5897,10 @@
     'no': Haute-Savoie
     yo_BJ: Haute-Savoie
   comments:
-'75':
+  type: metropolitan_department
+75C:
   name: Paris
-  code:
+  code: 75C
   unofficial_names: Paris
   geo:
     latitude: 48.856614
@@ -5915,9 +6000,10 @@
     'no': Paris
     yo_BJ: Parisi
   comments:
+  type: metropolitan_collectivity_with_special_status
 '76':
   name: Seine-Maritime
-  code:
+  code: '76'
   unofficial_names: Seine-Maritime
   geo:
     latitude: 49.922992
@@ -5990,9 +6076,10 @@
     bs: Seine-Maritime
     'no': Seine-Maritime
   comments:
+  type: metropolitan_department
 '77':
   name: Seine-et-Marne
-  code:
+  code: '77'
   unofficial_names: Seine-et-Marne
   geo:
     latitude: 48.841082
@@ -6065,9 +6152,10 @@
     az: Sena və Marna
     'no': Seine-et-Marne
   comments:
+  type: metropolitan_department
 '78':
   name: Yvelines
-  code:
+  code: '78'
   unofficial_names: Yvelines
   geo:
     latitude: 48.7850939
@@ -6142,9 +6230,10 @@
     mk: Ивлин
     'no': Yvelines
   comments:
+  type: metropolitan_department
 '79':
   name: Deux-Sèvres
-  code:
+  code: '79'
   unofficial_names: Deux-Sèvres
   geo:
     latitude: 46.5926541
@@ -6217,9 +6306,10 @@
     az: Dö-Sevr
     'no': Deux-Sèvres
   comments:
+  type: metropolitan_department
 '80':
   name: Somme
-  code:
+  code: '80'
   unofficial_names: Somme
   geo:
     latitude: 49.914518
@@ -6294,9 +6384,10 @@
     mk: Сома
     'no': Somme
   comments:
+  type: metropolitan_department
 '81':
   name: Tarn
-  code:
+  code: '81'
   unofficial_names: Tarn
   geo:
     latitude: 43.9264401
@@ -6371,9 +6462,10 @@
     az: Tarn (departament)
     'no': Tarn
   comments:
+  type: metropolitan_department
 '82':
   name: Tarn-et-Garonne
-  code:
+  code: '82'
   unofficial_names: Tarn-et-Garonne
   geo:
     latitude: 44.0126679
@@ -6446,9 +6538,10 @@
     az: Tarn və Qaronna
     'no': Tarn-et-Garonne
   comments:
+  type: metropolitan_department
 '83':
   name: Var
-  code:
+  code: '83'
   unofficial_names: Var
   geo:
     latitude: 43.46764599999999
@@ -6521,9 +6614,10 @@
     az: Var (departament)
     'no': Var
   comments:
+  type: metropolitan_department
 '84':
   name: Vaucluse
-  code:
+  code: '84'
   unofficial_names: Vaucluse
   geo:
     latitude: 44.0565054
@@ -6597,9 +6691,10 @@
     az: Voklüz (departament)
     'no': Vaucluse
   comments:
+  type: metropolitan_department
 '85':
   name: Vendée
-  code:
+  code: '85'
   unofficial_names: Vendée
   geo:
     latitude: 46.6613966
@@ -6676,9 +6771,10 @@
     mk: Вандеја (департман)
     'no': Vendée
   comments:
+  type: metropolitan_department
 '86':
   name: Vienne
-  code:
+  code: '86'
   unofficial_names: Vienne
   geo:
     latitude: 45.525587
@@ -6754,9 +6850,10 @@
     mk: Вјена
     'no': Vienne
   comments:
+  type: metropolitan_department
 '87':
   name: Haute-Vienne
-  code:
+  code: '87'
   unofficial_names: Haute-Vienne
   geo:
     latitude: 45.7435173
@@ -6829,9 +6926,10 @@
     mk: Горна Вјена
     'no': Haute-Vienne
   comments:
+  type: metropolitan_department
 '88':
   name: Vosges
-  code:
+  code: '88'
   unofficial_names: Vosges
   geo:
     latitude: 48.1446427
@@ -6906,9 +7004,10 @@
     mk: Вогези
     'no': Vosges
   comments:
+  type: metropolitan_department
 '89':
   name: Yonne
-  code:
+  code: '89'
   unofficial_names: Yonne
   geo:
     latitude: 47.8652728
@@ -6982,9 +7081,10 @@
     az: Yonna
     'no': Yonne
   comments:
+  type: metropolitan_department
 '90':
   name: Territoire de Belfort
-  code:
+  code: '90'
   unofficial_names: Territoire de Belfort
   geo:
     latitude: 47.59465729999999
@@ -7060,9 +7160,10 @@
     mk: Територија Белфор
     'no': Territoire de Belfort
   comments:
+  type: metropolitan_department
 '91':
   name: Essonne
-  code:
+  code: '91'
   unofficial_names: Essonne
   geo:
     latitude: 48.4585698
@@ -7138,9 +7239,10 @@
     mk: Есона
     'no': Essonne
   comments:
+  type: metropolitan_department
 '92':
   name: Hauts-de-Seine
-  code:
+  code: '92'
   unofficial_names: Hauts-de-Seine
   geo:
     latitude: 48.828508
@@ -7215,9 +7317,10 @@
     mk: Сенски Висови
     'no': Hauts-de-Seine
   comments:
+  type: metropolitan_department
 '93':
   name: Seine-Saint-Denis
-  code:
+  code: '93'
   unofficial_names: Seine-Saint-Denis
   geo:
     latitude: 48.9137455
@@ -7291,9 +7394,10 @@
     mk: Сена-Сен Дени
     'no': Seine-Saint-Denis
   comments:
+  type: metropolitan_department
 '94':
   name: Val-de-Marne
-  code:
+  code: '94'
   unofficial_names: Val-de-Marne
   geo:
     latitude: 48.7931426
@@ -7366,9 +7470,10 @@
     az: Val-de-Marn
     'no': Val-de-Marne
   comments:
+  type: metropolitan_department
 '95':
   name: Val-d'Oise
-  code:
+  code: '95'
   unofficial_names: Val-d'Oise
   geo:
     latitude: 49.0615901
@@ -7437,9 +7542,10 @@
     yue: 華茲河谷
     zh: 瓦勒德瓦兹省
   comments:
+  type: metropolitan_department
 '971':
   name: Guadeloupe
-  code:
+  code: '971'
   unofficial_names:
   geo:
     latitude: 16.1730949
@@ -7453,9 +7559,10 @@
     fr: Guadeloupe
     ccp: "\U00011109\U0001112A\U00011120\U00011113\U0001112C\U00011123\U0001112F\U0001111B\U00011134"
   comments:
+  type: overseas_departmental_collectivity
 '972':
-  name:
-  code:
+  name: Martinique
+  code: '972'
   unofficial_names:
   geo:
     latitude:
@@ -7468,6 +7575,7 @@
     en: Martinique
     ccp: "\U0001111F\U00011122\U00011134\U00011111\U00011128\U0001111A\U00011128\U00011107\U00011134"
   comments:
+  type: overseas_unique_territorial_collectivity
 '973':
   name: Guyane (française)
   unofficial_names:
@@ -7476,14 +7584,16 @@
     en: French Guiana
     fr: Guyane
     ccp: "\U0001111C\U00011133\U00011122\U0001112C\U0001111A\U00011134\U0001110C\U00011134\U00011109\U0001112D\U0001112A\U00011120\U0001111A"
+  code: '973'
+  type: overseas_unique_territorial_collectivity
 '974':
   name: La Réunion
-  code:
+  code: '974'
   unofficial_names:
   - Île Bourbon
   geo:
     latitude: 48.8499
-    longitude: 2.6370
+    longitude: 2.637
     min_latitude:
     min_longitude:
     max_latitude:
@@ -7492,9 +7602,10 @@
     en: La Réunion
     ccp: "\U00011123 \U00011122\U0001112C\U00011105\U0001112A\U0001111A\U00011128\U00011120\U00011127\U0001111A\U00011134"
   comments:
+  type: overseas_departmental_collectivity
 '976':
   name: Mayotte
-  code:
+  code: '976'
   unofficial_names:
   geo:
     latitude: -12.809645
@@ -7508,16 +7619,17 @@
     fr: Mayotte
     ccp: "\U0001111F\U00011120\U0001112E\U00011116\U00011133\U00011120\U0001112C"
   comments:
+  type: overseas_departmental_collectivity
 ARA:
   name: Auvergne-Rhône-Alpes
-  code:
+  code: ARA
   unofficial_names:
   - Auvergne-Rhône-Alpes
   - Auvèrnhe-Ròse-Aups
   - Ôvèrgne-Rôno-Arpes
   geo:
-    latitude: 45.460350
-    longitude: 4.624160
+    latitude: 45.46035
+    longitude: 4.62416
     min_latitude:
     min_longitude:
     max_latitude:
@@ -7577,15 +7689,16 @@ ARA:
     mk: Оверњ-Рона-Алпи
     'no': Auvergne-Rhône-Alpes
   comments:
+  type: metropolitan_region
 BFC:
   name: Bourgogne-Franche-Comté
-  code:
+  code: BFC
   unofficial_names:
   - Bourgogne-Franche-Comté
   - Borgogne-Franche-Comtât
   geo:
     latitude: 47.278111
-    longitude: 4.994210
+    longitude: 4.99421
     min_latitude:
     min_longitude:
     max_latitude:
@@ -7636,9 +7749,10 @@ BFC:
     yue: 布爾岡-法朗殊-康堤
     zh: 勃艮第-弗朗什-孔泰大區
   comments:
+  type: metropolitan_region
 BL:
   name: Saint-Barthélemy
-  code:
+  code: BL
   unofficial_names:
   - St. Barthélemy
   - Saint Barthélemy
@@ -7654,15 +7768,16 @@ BL:
     max_latitude:
     max_longitude:
   comments:
+  type: metropolitan_region
 BRE:
   name: Bretagne
-  code:
+  code: BRE
   unofficial_names:
   - Bretagne
   - Breizh
   geo:
     latitude: 47.002789
-    longitude: 1.682210
+    longitude: 1.68221
     min_latitude:
     min_longitude:
     max_latitude:
@@ -7720,9 +7835,23 @@ BRE:
     ur: بریتانیہ
     vi: Bretagne
     zh: 布列塔尼
+    am: ብረታኝ
+    bs: Bretanja
+    ccp: "\U0001111D\U00011133\U00011122\U00011111\U0001112C\U00011107\U00011134"
+    ceb: Bretagne
+    cy: Bretagne
+    jv: Bretagne
+    mk: Бретања
+    'no': Bretagne
+    sq: Bretagne
+    sr_Latn: Bretanja
+    uz: Bretan
+    yue: 布禮斯大區
+    yue_Hans: 布礼斯大区
+  type: metropolitan_region
 CP:
   name: Clipperton
-  code:
+  code: CP
   unofficial_names:
   - Clipperton Island
   geo:
@@ -7737,6 +7866,7 @@ CP:
     ccp: "\U00011107\U00011133\U00011123\U00011128\U0001111B\U00011122\U00011134\U00011111\U00011127\U0001111A\U00011134
       \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
   comments:
+  type: metropolitan_region
 CVL:
   name: Centre-Val de Loire
   unofficial_names:
@@ -7792,21 +7922,100 @@ CVL:
     ur: سانتر-وال دو لوار
     vi: Centre
     zh: 中央
+    bs: Centre
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011122\U00011134-\U0001111E\U00011127\U00011123\U00011134
+      \U00011113\U0001112C \U00011123\U00011130\U00011122\U0001112C"
+    ceb: Centre
+    cy: Centre
+    hi: सेंटर-वैल दे लोयर
+    jv: Centre
+    mk: Центар-Долина на Лоара
+    'no': Centre
+    pa: ਸੌਂਤਰ
+    sq: Centre
+    yue: 中央－盧華爾山谷大區
+    yue_Hans: 中央－卢华尔山谷大区
   geo:
-    latitude: 47.644050
-    longitude: 1.590460
+    latitude: 47.64405
+    longitude: 1.59046
     min_latitude:
     min_longitude:
     max_latitude:
     max_longitude:
+  code: CVL
+  type: metropolitan_region
+GES:
+  name: Grand Est
+  code: GES
+  unofficial_names:
+  - Grand Est
+  geo:
+    latitude: 49.92086
+    longitude: 4.41123
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    af: Grand Est
+    ar: غراند إيست
+    bg: Гранд Ест
+    ca: Gran Est
+    cs: Grand Est
+    da: Alsace-Champagne-Ardenne-Lorraine
+    de: der Große Osten
+    el: Αλσατία-Καμπανία-Αρδέννες-Λωρραίνη
+    en: Grand-Est
+    es: Gran Este
+    eu: Grand Est
+    fa: آلزاس-شامپاین-آردن-لورن
+    fi: Alsace-Champagne-Ardenne-Lorraine
+    fr: Grand Est
+    gl: Alsacia-Champaña-Ardenas-Lorena
+    he: גראנד אסט
+    id: Timur Raya
+    it: Grand Est
+    ja: グラン・テスト地域圏
+    ko: 그랑테스트
+    lb: de Grouss Osten
+    nl: Grand Est
+    pl: Grand Est
+    pt: Alsácia-Champanha-Ardenas-Lorena
+    ru: Гранд-Эст
+    sk: Alsasko-Champagne-Ardenne-Lotrinsko
+    sr: Гран ест
+    sv: Alsace-Champagne-Ardenne-Lorraine
+    th: แคว้นกร็องแต็สต์
+    uk: Гранд-Ест
+    ur: گرایت است
+    zh: 阿爾薩斯-香檳-阿登-洛林
+    cy: Dwyrain Mawr
+    ceb: Grand Est
+    tr: Grand Est
+    sr_Latn: Gran est
+    vi: Grand Est
+    yue_Hans: 大东部
+    hi: ग्रांड एस्ट
+    sq: Lindja e madhe
+    ccp: "\U00011109\U00011133\U00011122\U0001111A\U00011133\U00011113\U00011134-\U00011103\U00011128\U0001110C\U00011134\U00011111\U00011134"
+    ga: Alsace-Champagne-Ardenne-Lorraine
+    hy: Գրանդ Էստ
+    yue: 大東部
+    az: Qrand Est
+    nb: Grand Est
+    be: Гранд Эст
+    mk: Голем Исток
+    'no': Grand Est
+  comments:
+  type: metropolitan_region
 HDF:
   name: Hauts-de-France
-  code:
+  code: HDF
   unofficial_names:
   - Hauts-de-France
   geo:
     latitude:
-    longitude: 2.818770
+    longitude: 2.81877
     min_latitude:
     min_longitude:
     max_latitude:
@@ -7858,7 +8067,9 @@ HDF:
     be: рэгіён О-дэ-Франс
     mk: Горна Франција
     'no': Hauts-de-France
+    cy: Nord-Pas-de-Calais-Picardie
   comments:
+  type: metropolitan_region
 IDF:
   name: Île-de-France
   unofficial_names:
@@ -7939,69 +8150,16 @@ IDF:
     mk: Ил де Франс
     'no': Île-de-France
   comments:
-NOR:
-  name: Normandie
-  code:
-  unofficial_names:
-  - Normandie
-  - Normaundie
-  geo:
-    latitude: 48.8499
-    longitude: 2.6370
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    af: Normandië
-    ar: نورماندي
-    az: Normandiya
-    be: Рэгіён Нармандыя
-    bg: Нормандия
-    ca: Normandia
-    ccp: "\U0001111A\U00011127\U00011122\U00011134\U0001111F\U0001111A\U00011134\U00011113\U0001112D"
-    cs: Normandie
-    cy: Normandi
-    da: Normandie
-    de: Normandie
-    el: Νορμανδία
-    en: Normandie
-    es: Normandía
-    eu: Normandia
-    fa: نرماندی
-    fi: Normandia
-    fr: Normandie
-    gl: Normandía
-    he: נורמנדי
-    hi: नोर्मंडी
-    it: Normandia
-    ja: ノルマンディー地域圏
-    ka: ნორმანდია
-    ko: 노르망디
-    mk: Нормандија
-    nl: Normandië
-    pl: Normandia
-    pt: Normandia
-    ru: Нормандия
-    sk: Normandia
-    sq: Normandia
-    sv: Normandie (region)
-    th: แคว้นนอร์ม็องดี
-    tr: Normandiya
-    uk: Нормандія
-    ur: نورمینڈی
-    vi: Normandie
-    yue_Hans: 诺曼第
-    yue: 諾曼第
-    zh: 诺曼底大区
+  code: IDF
+  type: metropolitan_region
 MF:
   name: Saint-Martin
-  code:
+  code: MF
   unofficial_names:
   - St. Martin
   - Saint Martin
   translations:
-    en: Saint Martin
+    en: St. Martin
     fr: Saint-Martin
     ccp: "\U00011125\U0001112C\U0001111A\U00011134 \U0001111F\U00011122\U00011134\U00011111\U00011128\U0001111A\U00011134"
   geo:
@@ -8012,9 +8170,10 @@ MF:
     max_latitude:
     max_longitude:
   comments:
+  type: metropolitan_region
 NAQ:
   name: Nouvelle-Aquitaine
-  code:
+  code: NAQ
   unofficial_names:
   - Nouvelle-Aquitaine
   geo:
@@ -8078,9 +8237,10 @@ NAQ:
     mk: Нова Аквитанија
     'no': Nouvelle-Aquitaine
   comments:
+  type: metropolitan_region
 NC:
   name: New Caledonia
-  code:
+  code: NC
   unofficial_names: Nouvelle-Calédonie
   translations:
     en: New Caledonia
@@ -8094,9 +8254,66 @@ NC:
     max_latitude: 36.5881568
     max_longitude: -75.4599515
   comments:
+  type: metropolitan_region
+NOR:
+  name: Normandie
+  code: NOR
+  unofficial_names:
+  - Normandie
+  - Normaundie
+  geo:
+    latitude: 48.8499
+    longitude: 2.637
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    af: Normandië
+    ar: نورماندي
+    az: Normandiya
+    be: Рэгіён Нармандыя
+    bg: Нормандия
+    ca: Normandia
+    ccp: "\U0001111A\U00011127\U00011122\U00011134\U0001111F\U0001111A\U00011134\U00011113\U0001112D"
+    cs: Normandie
+    cy: Normandi
+    da: Normandie
+    de: Normandie
+    el: Νορμανδία
+    en: Normandie
+    es: Normandía
+    eu: Normandia
+    fa: نرماندی
+    fi: Normandia
+    fr: Normandie
+    gl: Normandía
+    he: נורמנדי
+    hi: नोर्मंडी
+    it: Normandia
+    ja: ノルマンディー地域圏
+    ka: ნორმანდია
+    ko: 노르망디
+    mk: Нормандија
+    nl: Normandië
+    pl: Normandia
+    pt: Normandia
+    ru: Нормандия
+    sk: Normandia
+    sq: Normandia
+    sv: Normandie (region)
+    th: แคว้นนอร์ม็องดี
+    tr: Normandiya
+    uk: Нормандія
+    ur: نورمینڈی
+    vi: Normandie
+    yue_Hans: 诺曼第
+    yue: 諾曼第
+    zh: 诺曼底大区
+  type: metropolitan_region
 OCC:
   name: Occitanie
-  code:
+  code: OCC
   unofficial_names:
   - Occitanie
   - Occitania
@@ -8157,6 +8374,7 @@ OCC:
     be: рэгіён Аксітанія
     'no': Occitanie
   comments:
+  type: metropolitan_region
 PAC:
   unofficial_names:
   - Provence-Alpes-Côte d'Azur
@@ -8233,9 +8451,11 @@ PAC:
     max_latitude:
     max_longitude:
   name: Provence-Alpes-Côte d'Azur
+  code: PAC
+  type: metropolitan_region
 PDL:
   name: Pays de la Loire
-  code:
+  code: PDL
   unofficial_names:
   - Pays de la Loire
   - Broioù al Liger
@@ -8310,79 +8530,18 @@ PDL:
     mk: Лоарски Крај
     'no': Pays de la Loire
   comments:
-GES:
-  name: Grand Est
-  code:
-  unofficial_names:
-  - Grand Est
-  geo:
-    latitude: 49.920860
-    longitude: 4.411230
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    af: Grand Est
-    ar: غراند إيست
-    bg: Гранд Ест
-    ca: Gran Est
-    cs: Grand Est
-    da: Alsace-Champagne-Ardenne-Lorraine
-    de: der Große Osten
-    el: Αλσατία-Καμπανία-Αρδέννες-Λωρραίνη
-    en: Grand-Est
-    es: Gran Este
-    eu: Grand Est
-    fa: آلزاس-شامپاین-آردن-لورن
-    fi: Alsace-Champagne-Ardenne-Lorraine
-    fr: Grand Est
-    gl: Alsacia-Champaña-Ardenas-Lorena
-    he: גראנד אסט
-    id: Timur Raya
-    it: Grand Est
-    ja: グラン・テスト地域圏
-    ko: 그랑테스트
-    lb: de Grouss Osten
-    nl: Grand Est
-    pl: Grand Est
-    pt: Alsácia-Champanha-Ardenas-Lorena
-    ru: Гранд-Эст
-    sk: Alsasko-Champagne-Ardenne-Lotrinsko
-    sr: Гран ест
-    sv: Alsace-Champagne-Ardenne-Lorraine
-    th: แคว้นกร็องแต็สต์
-    uk: Гранд-Ест
-    ur: گرایت است
-    zh: 阿爾薩斯-香檳-阿登-洛林
-    cy: Dwyrain Mawr
-    ceb: Grand Est
-    tr: Grand Est
-    sr_Latn: Gran est
-    vi: Grand Est
-    yue_Hans: 大东部
-    hi: ग्रांड एस्ट
-    sq: Lindja e madhe
-    ccp: "\U00011109\U00011133\U00011122\U0001111A\U00011133\U00011113\U00011134-\U00011103\U00011128\U0001110C\U00011134\U00011111\U00011134"
-    ga: Alsace-Champagne-Ardenne-Lorraine
-    hy: Գրանդ Էստ
-    yue: 大東部
-    az: Qrand Est
-    nb: Grand Est
-    be: Гранд Эст
-    mk: Голем Исток
-    'no': Grand Est
-  comments:
+  type: metropolitan_region
 PF:
   name: Polynésie française
-  code:
+  code: PF
   unofficial_names:
   - Polynésie française
   - La Polynésie française
   translations:
     en: French Polynesia
     fr: Polynésie française
-    ccp: "\U0001111C\U00011133\U00011122\U0001112C\U0001111A\U00011134\U0001110C\U00011134 \U0001111B\U00011127\U00011123\U00011128\U0001111A\U0001112C\U00011125\U00011128\U00011120"
+    ccp: "\U0001111C\U00011133\U00011122\U0001112C\U0001111A\U00011134\U0001110C\U00011134
+      \U0001111B\U00011127\U00011123\U00011128\U0001111A\U0001112C\U00011125\U00011128\U00011120"
   geo:
     latitude:
     longitude:
@@ -8391,16 +8550,18 @@ PF:
     max_latitude:
     max_longitude:
   comments:
+  type: overseas_collectivity
 PM:
   name: Saint-Pierre-et-Miquelon
-  code:
+  code: PM
   unofficial_names:
   - Saint Pierre et Miquelon
   - St. Pierre and Miquelon
   translations:
-    en: Saint Pierre and Miquelon
+    en: St. Pierre & Miquelon
     fr: Saint Pierre et Miquelon
-    ccp: "\U00011125\U0001112C\U0001111A\U00011134 \U0001111B\U00011128\U00011122\U0001112C & \U0001111F\U00011128\U00011107\U0001112D\U0001112A\U00011123\U00011127\U0001111A\U00011134"
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134 \U0001111B\U00011128\U00011122\U0001112C
+      & \U0001111F\U00011128\U00011107\U0001112D\U0001112A\U00011123\U00011127\U0001111A\U00011134"
   geo:
     latitude:
     longitude:
@@ -8409,6 +8570,7 @@ PM:
     max_latitude:
     max_longitude:
   comments:
+  type: overseas_collectivity
 TF:
   name: Terres Australes Françaises
   unofficial_names: Terres Australes Françaises
@@ -8426,14 +8588,17 @@ TF:
       \U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C
       \U00011122\U0001112C\U0001110E\U00011133\U00011120\U00011127\U0001111A\U00011128"
   comments:
+  code: TF
+  type: overseas_collectivity
 WF:
   name: Wallis-et-Futuna
   unofficial_names:
   - Wallis et Futuna
   - Wallis and Futuna
   translations:
-    en: Territory of the Wallis and Futuna Islands
-    fr: Wallis-et-Futuna
+    en: Wallis & Futuna
+    ccp: "\U00011124\U00011123\U00011133\U00011126\U00011128\U0001110C\U00011134 &
+      \U0001111C\U00011128\U00011105\U0001112A\U00011111\U0001111A"
   geo:
     latitude:
     longitude:
@@ -8441,8 +8606,6 @@ WF:
     min_longitude:
     max_latitude:
     max_longitude:
-  translations:
-    en: Wallis & Futuna
-    ccp: "\U00011124\U00011123\U00011133\U00011126\U00011128\U0001110C\U00011134 &
-      \U0001111C\U00011128\U00011105\U0001112A\U00011111\U0001111A"
   comments:
+  code: WF
+  type: overseas_collectivity

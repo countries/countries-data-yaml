@@ -1,7 +1,7 @@
 ---
 AB:
   name: Alberta
-  code:
+  code: AB
   unofficial_names:
   - Alberta
   geo:
@@ -89,9 +89,10 @@ AB:
     mk: Алберта
     'no': Alberta
   comments:
+  type: province
 BC:
   name: British Columbia
-  code:
+  code: BC
   unofficial_names:
   - Colombie-Britannique
   geo:
@@ -178,9 +179,10 @@ BC:
     mk: Британска Колумбија
     'no': Britisk Columbia
   comments:
+  type: province
 MB:
   name: Manitoba
-  code:
+  code: MB
   unofficial_names:
   - Manitoba
   geo:
@@ -266,9 +268,10 @@ MB:
     mk: Манитоба
     'no': Manitoba
   comments:
+  type: province
 NB:
   name: New Brunswick
-  code:
+  code: NB
   unofficial_names:
   - Nouveau-Brunswick
   geo:
@@ -351,9 +354,10 @@ NB:
     mk: Њу Бранзвик
     'no': New Brunswick
   comments:
+  type: province
 NL:
   name: Newfoundland and Labrador
-  code:
+  code: NL
   unofficial_names:
   - Terre-Neuve-et-Labrador
   - Newfoundland
@@ -442,9 +446,10 @@ NL:
     'no': Newfoundland og Labrador
     yo_BJ: Newfoundland àti Labrador
   comments:
+  type: province
 NS:
   name: Nova Scotia
-  code:
+  code: NS
   unofficial_names:
   - Nouvelle-Écosse
   geo:
@@ -529,9 +534,10 @@ NS:
     mk: Нова Шкотска
     'no': Nova Scotia
   comments:
+  type: province
 NT:
   name: Northwest Territories
-  code:
+  code: NT
   unofficial_names:
   - Territoires du Nord-Ouest
   geo:
@@ -615,9 +621,10 @@ NT:
     mk: Северозападни Територии
     'no': Nordvestterritoriene
   comments:
+  type: territory
 NU:
   name: Nunavut
-  code:
+  code: NU
   unofficial_names:
   - Nunavut
   geo:
@@ -702,9 +709,10 @@ NU:
     mk: Нунавут
     'no': Nunavut
   comments:
+  type: territory
 'ON':
   name: Ontario
-  code:
+  code: 'ON'
   unofficial_names:
   - Ontario
   geo:
@@ -791,9 +799,10 @@ NU:
     ne: ओन्टारियो
     'no': Ontario
   comments:
+  type: province
 PE:
   name: Prince Edward Island
-  code:
+  code: PE
   unofficial_names:
   - Île-du-Prince-Édouard
   geo:
@@ -878,9 +887,10 @@ PE:
     mk: Остров Принц Едвард
     'no': Prince Edward Island
   comments:
+  type: province
 QC:
   name: Quebec
-  code:
+  code: QC
   unofficial_names:
   - Québec
   geo:
@@ -972,9 +982,10 @@ QC:
     ha_NE: Kebek
     'no': Québec
   comments:
+  type: province
 SK:
   name: Saskatchewan
-  code:
+  code: SK
   unofficial_names:
   - Saskatchewan
   geo:
@@ -1058,9 +1069,10 @@ SK:
     mk: Саскачеван
     'no': Saskatchewan
   comments:
+  type: province
 YT:
   name: Yukon
-  code:
+  code: YT
   unofficial_names:
   - Yukon Territory
   geo:
@@ -1144,3 +1156,4 @@ YT:
     mk: Јукон
     'no': Yukon
   comments:
+  type: territory

@@ -1,7 +1,7 @@
 ---
 BC:
   name: Banskobystrický kraj
-  code:
+  code: BC
   unofficial_names: Banskobystrický kraj
   geo:
     latitude: 48.5312499
@@ -67,9 +67,10 @@ BC:
     bs: Banska Bistrica
     'no': Banská Bystrica
   comments:
+  type: region
 BL:
   name: Bratislavský kraj
-  code:
+  code: BL
   unofficial_names: Bratislavský kraj
   geo:
     latitude: 48.3118304
@@ -137,9 +138,10 @@ BL:
     mk: Братиславски крај
     'no': Bratislava
   comments:
+  type: region
 KI:
   name: Košický kraj
-  code:
+  code: KI
   unofficial_names: Košický kraj
   geo:
     latitude: 48.6375737
@@ -204,9 +206,10 @@ KI:
     bs: Košice
     'no': Košice
   comments:
+  type: region
 NI:
   name: Nitriansky kraj
-  code:
+  code: NI
   unofficial_names: Nitriansky kraj
   geo:
     latitude: 48.0143765
@@ -271,9 +274,10 @@ NI:
     bs: Nitra
     'no': Nitra
   comments:
+  type: region
 PV:
   name: Prešovský kraj
-  code:
+  code: PV
   unofficial_names: Prešovský kraj
   geo:
     latitude: 49.1716773
@@ -339,9 +343,10 @@ PV:
     bs: Prešov
     'no': Prešov
   comments:
+  type: region
 TA:
   name: Trnavský kraj
-  code:
+  code: TA
   unofficial_names: Trnavský kraj
   geo:
     latitude: 48.3943898
@@ -409,9 +414,10 @@ TA:
     bs: Trnava
     'no': Trnava
   comments:
+  type: region
 TC:
   name: Trenciansky kraj
-  code:
+  code: TC
   unofficial_names: Trenciansky kraj
   geo:
     latitude: 48.8086758
@@ -478,9 +484,10 @@ TC:
     bs: Trenčin
     'no': Trenčín
   comments:
+  type: region
 ZI:
   name: Žilinský kraj
-  code:
+  code: ZI
   unofficial_names: Žilinský kraj
   geo:
     latitude: 49.2031435
@@ -547,3 +554,4 @@ ZI:
     bs: Žilina
     'no': Žilina
   comments:
+  type: region

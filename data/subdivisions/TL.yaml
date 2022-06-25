@@ -1,7 +1,7 @@
 ---
 AL:
   name: Aileu
-  code:
+  code: AL
   unofficial_names: Aileu
   geo:
     latitude: -8.7043994
@@ -54,9 +54,10 @@ AL:
     ccp: "\U00011103\U0001112D\U00011123\U00011128\U00011105\U0001112A"
     'no': Aileu
   comments:
+  type: municipality
 AN:
   name: Ainaro
-  code:
+  code: AN
   unofficial_names: Ainaro
   geo:
     latitude: -9.0113171
@@ -109,9 +110,10 @@ AN:
     ccp: "\U00011103\U0001112D\U0001111A\U00011122\U0001112E"
     'no': Ainaro
   comments:
+  type: municipality
 BA:
   name: Baucau
-  code:
+  code: BA
   unofficial_names:
   - Baukau
   geo:
@@ -164,9 +166,10 @@ BA:
     ccp: "\U0001111D\U00011105\U0001112A\U00011107\U00011105\U0001112A"
     'no': Baucau
   comments:
+  type: municipality
 BO:
   name: Bobonaro
-  code:
+  code: BO
   unofficial_names: Bobonaro
   geo:
     latitude: -9.031944
@@ -218,9 +221,10 @@ BO:
     ccp: "\U0001111D\U0001112E\U0001111A\U0001112E\U0001111A\U00011122\U0001112E"
     'no': Bobonaro
   comments:
+  type: municipality
 CO:
   name: Cova Lima
-  code:
+  code: CO
   unofficial_names:
   - Kova-Lima
   geo:
@@ -273,9 +277,10 @@ CO:
     ccp: "\U00011107\U0001112E\U0001111E \U00011123\U00011128\U0001111F"
     'no': Cova Lima
   comments:
+  type: municipality
 DI:
   name: Dili
-  code:
+  code: DI
   unofficial_names: Dili
   geo:
     latitude: -8.549999999999999
@@ -328,9 +333,10 @@ DI:
     be: Дылі
     'no': Dili
   comments:
+  type: municipality
 ER:
   name: Ermera
-  code:
+  code: ER
   unofficial_names: Ermera
   geo:
     latitude: -8.752222
@@ -382,9 +388,10 @@ ER:
     ccp: "\U00011103\U00011128\U00011122\U00011134\U0001111F\U0001112C\U00011122"
     'no': Ermera
   comments:
+  type: municipality
 LA:
   name: Lautem
-  code:
+  code: LA
   unofficial_names: Lautem
   geo:
     latitude: -8.363999999999999
@@ -436,9 +443,10 @@ LA:
     ccp: "\U00011123\U00011127\U00011105\U0001112A\U00011111\U0001112C\U0001111F\U00011134"
     'no': Lautém
   comments:
+  type: municipality
 LI:
   name: Liquiça
-  code:
+  code: LI
   unofficial_names:
   - Likisia
   geo:
@@ -491,9 +499,10 @@ LI:
     ccp: "\U00011123\U00011128\U00011107\U0001112D\U0001112A\U00011107"
     'no': Liquiçá
   comments:
+  type: municipality
 MF:
   name: Manufahi
-  code:
+  code: MF
   unofficial_names: Manufahi
   geo:
     latitude: -9.0145495
@@ -546,9 +555,10 @@ MF:
     ccp: "\U0001111F\U0001111A\U0001112A\U0001111C\U00011126\U00011128"
     'no': Manufahi
   comments:
+  type: municipality
 MT:
   name: Manatuto
-  code:
+  code: MT
   unofficial_names: Manatuto
   geo:
     latitude: -8.7406923
@@ -600,9 +610,10 @@ MT:
     ccp: "\U0001111F\U0001111A\U00011111\U0001112A\U00011111\U0001112E"
     'no': Manatuto
   comments:
+  type: municipality
 OE:
   name: Oecussi
-  code:
+  code: OE
   unofficial_names:
   - Ambeno
   - Ambino
@@ -659,9 +670,10 @@ OE:
     ca: Oecusse
     'no': Oecusse
   comments:
+  type: special_administrative_region
 VI:
   name: Viqueque
-  code:
+  code: VI
   unofficial_names:
   - Vikeke
   geo:
@@ -714,3 +726,4 @@ VI:
     ccp: "\U0001111E\U00011128\U00011107\U0001112A\U00011107\U0001112A"
     'no': Viqueque
   comments:
+  type: municipality

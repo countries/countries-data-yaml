@@ -1,7 +1,7 @@
 ---
 A:
   name: Toamasina
-  code:
+  code: A
   unofficial_names:
   - Tamatave
   geo:
@@ -43,9 +43,10 @@ A:
     uz: Tuamasina
     'no': Toamasina
   comments:
+  type: province
 D:
   name: Antsiranana
-  code:
+  code: D
   unofficial_names:
   - Antseranana
   - Diégo Suarez
@@ -89,9 +90,10 @@ D:
     uz: Antsiranana
     'no': Antsiranana
   comments:
+  type: province
 F:
   name: Fianarantsoa
-  code:
+  code: F
   unofficial_names:
   - Fianar
   geo:
@@ -132,9 +134,10 @@ F:
     uz: Fianarantsua
     'no': Fianarantsoa
   comments:
+  type: province
 M:
   name: Mahajanga
-  code:
+  code: M
   unofficial_names:
   - Majunga
   geo:
@@ -177,9 +180,10 @@ M:
     uz: Maxadzanga
     'no': Mahajanga
   comments:
+  type: province
 T:
   name: Antananarivo
-  code:
+  code: T
   unofficial_names:
   - Tananarive
   geo:
@@ -226,9 +230,10 @@ T:
     uz: Antananarivu
     'no': Antananarivo
   comments:
+  type: province
 U:
   name: Toliara
-  code:
+  code: U
   unofficial_names:
   - Toliara
   - Tuléar
@@ -272,3 +277,4 @@ U:
     uz: Tuliara
     'no': Toliara
   comments:
+  type: province

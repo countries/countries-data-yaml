@@ -1,7 +1,7 @@
 ---
 ALX:
   name: Al Iskandariyah
-  code:
+  code: ALX
   unofficial_names:
   - El Iskandariya
   - al-Iskandariyah
@@ -70,9 +70,10 @@ ALX:
     bs: Aleksandrija
     'no': Guvernementet Al Iskandariyah
   comments:
+  type: governorate
 ASN:
   name: Aswan
-  code:
+  code: ASN
   unofficial_names:
   - Aswān
   - Assuan
@@ -127,9 +128,10 @@ ASN:
     bs: Asuan
     'no': Aswan
   comments:
+  type: governorate
 AST:
   name: Asyut
-  code:
+  code: AST
   unofficial_names:
   - Asiut
   - Assyût
@@ -198,9 +200,10 @@ AST:
     bs: Asyut
     'no': Guvernementet Asyut
   comments:
+  type: governorate
 BA:
   name: Al Bahr al Ahmar
-  code:
+  code: BA
   unofficial_names:
   - El Bahr el Ahmar
   geo:
@@ -264,9 +267,10 @@ BA:
     bs: Crveno more
     'no': Guvernementet Al-Bahr al-Ahmar
   comments:
+  type: governorate
 BH:
   name: Al Buhayrah
-  code:
+  code: BH
   unofficial_names:
   - El Buhayra
   - al-Buh̨ayrah
@@ -333,9 +337,10 @@ BH:
     bs: Beheira
     'no': Guvernementet Al Buhayrah
   comments:
+  type: governorate
 BNS:
   name: Bani Suwayf
-  code:
+  code: BNS
   unofficial_names:
   - Bani Suwayf
   - Banī Suwayf
@@ -399,9 +404,10 @@ BNS:
     bs: Beni Suef
     'no': Guvernementet Bani Suwayf
   comments:
+  type: governorate
 C:
   name: Al Qahirah
-  code:
+  code: C
   unofficial_names:
   - El Qahira
   - Le Caire-sur-Mer
@@ -469,9 +475,10 @@ C:
     bs: Kairo
     'no': Guvernementet Al Qahirah
   comments:
+  type: governorate
 DK:
   name: Ad Daqahliyah
-  code:
+  code: DK
   unofficial_names:
   - Dakahlia
   - El Daqahliya
@@ -534,9 +541,10 @@ DK:
     bs: Dakahlia
     'no': Ad Daqahliyah
   comments:
+  type: governorate
 DT:
   name: Dumyat
-  code:
+  code: DT
   unofficial_names:
   - Damiat
   - Dumyat
@@ -599,9 +607,10 @@ DT:
     bs: Damietta
     'no': Guvernementet Dumyat
   comments:
+  type: governorate
 FYM:
   name: Al Fayyum
-  code:
+  code: FYM
   unofficial_names:
   - El Faiyūm
   - al-Fayyum
@@ -653,9 +662,10 @@ FYM:
     bs: Faiyum
     'no': Guvernementet Al Fayyum
   comments:
+  type: governorate
 GH:
   name: Al Gharbiyah
-  code:
+  code: GH
   unofficial_names:
   - El Gharbiya
   - Gharbiya
@@ -720,9 +730,10 @@ GH:
     bs: Gharbia
     'no': Guvernementet Al Gharbiyah
   comments:
+  type: governorate
 GZ:
   name: Al Jizah
-  code:
+  code: GZ
   unofficial_names:
   - El Giza
   - Gise
@@ -794,9 +805,10 @@ GZ:
     bs: Giza
     'no': Guvernementet Al Jizah
   comments:
+  type: governorate
 IS:
   name: Al Ismā`īlīyah
-  code:
+  code: IS
   unofficial_names:
   - El Ismailia
   - Ismaʿiliya
@@ -861,9 +873,10 @@ IS:
     bs: Ismailija
     'no': Guvernementet Al Isma’iliyah
   comments:
+  type: governorate
 JS:
   name: Janub Sina'
-  code:
+  code: JS
   unofficial_names:
   - Sina al-Janūbīyah
   - Sinai al-Janubiyah
@@ -930,9 +943,10 @@ JS:
     mk: Јужен Синај
     'no': Guvernementet Janub Sina’
   comments:
+  type: governorate
 KB:
   name: Al Qalyubiyah
-  code:
+  code: KB
   unofficial_names:
   - El Qalubiya
   - al-Qalyubiyah
@@ -993,9 +1007,10 @@ KB:
     bs: Qalyubia
     'no': Al Qalyubiyah
   comments:
+  type: governorate
 KFS:
   name: Kafr ash Shaykh
-  code:
+  code: KFS
   unofficial_names:
   - Kafr-ash-Shaykh
   - Kafr-aš-Šayẖ
@@ -1057,9 +1072,10 @@ KFS:
     bs: Kafr el-Sheikh
     'no': Kafr ash Shaykh
   comments:
+  type: governorate
 KN:
   name: Qina
-  code:
+  code: KN
   unofficial_names:
   - Qina
   - Qinā
@@ -1122,9 +1138,10 @@ KN:
     bs: Qena
     'no': Guvernementet Qina
   comments:
+  type: governorate
 LX:
   name: al-Uqsur
-  code:
+  code: LX
   unofficial_names:
   - al-Uqsur
   - al-Uqşur
@@ -1178,9 +1195,10 @@ LX:
     bs: Luxor
     'no': Guvernementet Luxor
   comments:
+  type: governorate
 MN:
   name: Al Minya
-  code:
+  code: MN
   unofficial_names:
   - El Minya
   - Minia
@@ -1246,9 +1264,10 @@ MN:
     bs: Minya
     'no': Guvernementet Al Minya
   comments:
+  type: governorate
 MNF:
   name: Al Minufiyah
-  code:
+  code: MNF
   unofficial_names:
   - El Minufiya
   - Menufiya
@@ -1313,9 +1332,10 @@ MNF:
     bs: Monufia
     'no': Guvernementet Al Minufiyah
   comments:
+  type: governorate
 MT:
   name: Matrūh
-  code:
+  code: MT
   unofficial_names:
   - Matrah
   - Matrūh
@@ -1379,9 +1399,10 @@ MT:
     mk: Матрух
     'no': Guvernementet Matruh
   comments:
+  type: governorate
 PTS:
   name: Būr Sa`īd
-  code:
+  code: PTS
   unofficial_names:
   - Bur Said
   - Būr Saʿīd
@@ -1442,9 +1463,10 @@ PTS:
     bs: Port Said
     'no': Bur Sa’id
   comments:
+  type: governorate
 SHG:
   name: Suhaj
-  code:
+  code: SHG
   unofficial_names:
   - Sawhaj
   - Suhag
@@ -1510,9 +1532,10 @@ SHG:
     bs: Sohag
     'no': Suhaj
   comments:
+  type: governorate
 SHR:
   name: Ash Sharqiyah
-  code:
+  code: SHR
   unofficial_names:
   - ash-Sharqiyah
   - aš-Šarqīyah
@@ -1574,9 +1597,10 @@ SHR:
     bs: Sharqia
     'no': Ash Sharqiyah
   comments:
+  type: governorate
 SIN:
   name: Shamal Sina'
-  code:
+  code: SIN
   unofficial_names:
   - Shamal Sina
   - Sina aš-Šamālīyah
@@ -1643,9 +1667,10 @@ SIN:
     mk: Северен Синај
     'no': Guvernementet Shamal Sina’
   comments:
+  type: governorate
 SUZ:
   name: As Suways
-  code:
+  code: SUZ
   unofficial_names:
   - El Suweiz
   - as-Suways
@@ -1707,9 +1732,10 @@ SUZ:
     bs: Suez
     'no': As Suways
   comments:
+  type: governorate
 WAD:
   name: Al Wadi al Jadid
-  code:
+  code: WAD
   unofficial_names:
   - El Wadi el Jadid
   - El Wadi el Jedid
@@ -1773,3 +1799,4 @@ WAD:
     bs: Nova Dolina
     'no': Guvernementet Al Wadi al Jadid
   comments:
+  type: governorate

@@ -1,7 +1,7 @@
 ---
 KSA:
   name: Kosrae
-  code:
+  code: KSA
   unofficial_names:
   - Kosrae
   geo:
@@ -61,9 +61,10 @@ KSA:
     ccp: "\U00011107\U0001112E\U0001110C\U00011134\U00011122\U0001112C"
     'no': Kosrae
   comments:
+  type: state
 PNI:
   name: Pohnpei
-  code:
+  code: PNI
   unofficial_names:
   - Ascension
   - Ponape
@@ -117,9 +118,10 @@ PNI:
     uk: Понпеі
     'no': Pohnpei state
   comments:
+  type: state
 TRK:
   name: Chuuk
-  code:
+  code: TRK
   unofficial_names:
   - Chuk
   - Hogoley Islands
@@ -184,9 +186,10 @@ TRK:
     mk: Чук
     'no': Chuuk
   comments:
+  type: state
 YAP:
   name: Yap
-  code:
+  code: YAP
   unofficial_names: Yap
   geo:
     latitude: 9.539137199999999
@@ -215,3 +218,4 @@ YAP:
     ccp: "\U00011103\U00011128\U00011120\U0001111B\U00011134"
     ca: Estat de Yap
   comments:
+  type: state

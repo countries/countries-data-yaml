@@ -1,7 +1,7 @@
 ---
 '01':
   name: Adrar
-  code:
+  code: '01'
   unofficial_names:
   - Adrar
   geo:
@@ -66,9 +66,10 @@
     bs: Adrar
     'no': Adrar
   comments:
+  type: province
 '02':
   name: Chlef
-  code:
+  code: '02'
   unofficial_names:
   - Al Asnam
   - Al Asnām
@@ -137,9 +138,10 @@
     he: מחוז א-שלף
     'no': Chlef
   comments:
+  type: province
 '03':
   name: Laghouat
-  code:
+  code: '03'
   unofficial_names:
   - Laghouat
   geo:
@@ -199,9 +201,10 @@
     ccp: "\U00011123\U0001110A\U0001112F\U00011116\U00011134"
     'no': Laghouat
   comments:
+  type: province
 '04':
   name: Oum el Bouaghi
-  code:
+  code: '04'
   unofficial_names:
   - Canrobert
   - Oum el Bouaghi
@@ -264,9 +267,10 @@
     az: Umm-el-Buaqi vilayəti
     'no': Oum el-Bouaghi
   comments:
+  type: province
 '05':
   name: Batna
-  code:
+  code: '05'
   unofficial_names:
   - Batna
   geo:
@@ -329,9 +333,10 @@
     az: Batna vilayəti
     'no': Batna
   comments:
+  type: province
 '06':
   name: Béjaïa
-  code:
+  code: '06'
   unofficial_names:
   - Bejaïa
   - Béjaïa
@@ -395,9 +400,10 @@
     az: Becaya vilayəti
     'no': Béjaïa
   comments:
+  type: province
 '07':
   name: Biskra
-  code:
+  code: '07'
   unofficial_names:
   - Beskra
   - Biskara
@@ -461,9 +467,10 @@
     az: Biskra vilayəti
     'no': Biskra
   comments:
+  type: province
 '08':
   name: Béchar
-  code:
+  code: '08'
   unofficial_names:
   - Béchar
   geo:
@@ -526,9 +533,10 @@
     az: Beşar vilayəti
     'no': Béchar
   comments:
+  type: province
 '09':
   name: Blida
-  code:
+  code: '09'
   unofficial_names:
   - El Boulaida
   - Blida
@@ -591,9 +599,10 @@
     az: Blida vilayəti
     'no': Blida
   comments:
+  type: province
 '10':
   name: Bouira
-  code:
+  code: '10'
   unofficial_names:
   - Bouira
   geo:
@@ -654,9 +663,10 @@
     ccp: "\U0001111D\U0001112F\U00011103\U00011128\U00011122"
     'no': Bouira
   comments:
+  type: province
 '11':
   name: Tamanghasset
-  code:
+  code: '11'
   unofficial_names:
   - Fort-Laperrine
   - Tamanghist
@@ -720,9 +730,10 @@
     ca: Província de Tamanghasset
     'no': Tamanrasset
   comments:
+  type: province
 '12':
   name: Tébessa
-  code:
+  code: '12'
   unofficial_names:
   - Tbessa
   - Tébessa
@@ -783,9 +794,10 @@
     ccp: "\U00011111\U0001112C\U0001111D\U0001112C\U00011125"
     'no': Tébessa
   comments:
+  type: province
 '13':
   name: Tlemcen
-  code:
+  code: '13'
   unofficial_names:
   - Tilimsen
   - Tlemcen
@@ -848,9 +860,10 @@
     az: Tlemsen vilayəti
     'no': Tlemcen
   comments:
+  type: province
 '14':
   name: Tiaret
-  code:
+  code: '14'
   unofficial_names:
   - Tihert
   - Tiaret
@@ -913,9 +926,10 @@
     az: Tiaret vilayəti
     'no': Tiaret
   comments:
+  type: province
 '15':
   name: Tizi Ouzou
-  code:
+  code: '15'
   unofficial_names:
   - Tizi-Ouzou
   geo:
@@ -977,9 +991,10 @@
     az: Tizi-Uzu vilayəti
     'no': Tizi Ouzou
   comments:
+  type: province
 '16':
   name: Alger
-  code:
+  code: '16'
   unofficial_names:
   - Al-Jazair
   - Al-Jazaʿir
@@ -1034,9 +1049,10 @@
     da: Algier
     'no': Alger
   comments:
+  type: province
 '17':
   name: Djelfa
-  code:
+  code: '17'
   unofficial_names:
   - El Djelfa
   - Djelfa
@@ -1098,9 +1114,10 @@
     ccp: "\U0001110E\U0001112C\U00011123\U00011134\U0001111C"
     'no': Djelfa
   comments:
+  type: province
 '18':
   name: Jijel
-  code:
+  code: '18'
   unofficial_names:
   - Djidjel
   - Djidjelli
@@ -1163,9 +1180,10 @@
     ccp: "\U0001110E\U00011128\U0001110E\U0001112C\U00011123\U00011134"
     'no': Jijel
   comments:
+  type: province
 '19':
   name: Sétif
-  code:
+  code: '19'
   unofficial_names:
   - Setif
   - Stif
@@ -1228,9 +1246,10 @@
     ca: Província de Sétif
     'no': Sétif
   comments:
+  type: province
 '20':
   name: Saïda
-  code:
+  code: '20'
   unofficial_names:
   - Saida
   - Saïda
@@ -1292,9 +1311,10 @@
     cs: Saida
     'no': Saida
   comments:
+  type: province
 '21':
   name: Skikda
-  code:
+  code: '21'
   unofficial_names:
   - Skikda
   geo:
@@ -1354,9 +1374,10 @@
     ccp: "\U00011107\U00011128\U00011107\U00011134\U00011113"
     'no': Skikda
   comments:
+  type: province
 '22':
   name: Sidi Bel Abbès
-  code:
+  code: '22'
   unofficial_names:
   - Sidi bel Abbès
   geo:
@@ -1416,9 +1437,10 @@
       \U00011103\U0001111D\U0001112C\U0001110C\U00011134"
     'no': Sidi bel Abbès
   comments:
+  type: province
 '23':
   name: Annaba
-  code:
+  code: '23'
   unofficial_names:
   - Bona
   - Bône
@@ -1481,9 +1503,10 @@
     az: Annaba vilayəti
     'no': Annaba
   comments:
+  type: province
 '24':
   name: Guelma
-  code:
+  code: '24'
   unofficial_names:
   - Guelma
   geo:
@@ -1543,9 +1566,10 @@
     ccp: "\U00011109\U0001112A\U00011120\U0001112C\U00011123\U00011134\U0001111F"
     'no': Guelma
   comments:
+  type: province
 '25':
   name: Constantine
-  code:
+  code: '25'
   unofficial_names:
   - Ksontina
   - Qacentina
@@ -1609,9 +1633,10 @@
     ccp: "\U00011107\U00011127\U0001111A\U00011134\U00011125\U00011134\U00011111\U0001111A\U00011134\U00011111\U0001112D\U0001111A\U00011134"
     'no': Constantine
   comments:
+  type: province
 '26':
   name: Médéa
-  code:
+  code: '26'
   unofficial_names:
   - Lemdiyya
   - al-Midyah
@@ -1673,9 +1698,10 @@
     ca: Província de Médéa
     'no': Medea
   comments:
+  type: province
 '27':
   name: Mostaganem
-  code:
+  code: '27'
   unofficial_names:
   - Mestghanem
   - Mustaghanam
@@ -1739,9 +1765,10 @@
     ca: Província de Mostaganem
     'no': Mostaganem
   comments:
+  type: province
 '28':
   name: Msila
-  code:
+  code: '28'
   unofficial_names:
   - MʿSila
   - Msila
@@ -1800,9 +1827,10 @@
     ca: Província de M’Sila
     'no': M’Sila
   comments:
+  type: province
 '29':
   name: Mascara
-  code:
+  code: '29'
   unofficial_names:
   - Mouaskar
   - Mascara
@@ -1863,9 +1891,10 @@
     ccp: "\U0001111F\U0001110C\U00011134\U00011107\U00011122"
     'no': Muaskar
   comments:
+  type: province
 '30':
   name: Ouargla
-  code:
+  code: '30'
   unofficial_names:
   - Wargla
   - Ouargla
@@ -1927,9 +1956,10 @@
     ca: Província d’Ouargla
     'no': Ouargla
   comments:
+  type: province
 '31':
   name: Oran
-  code:
+  code: '31'
   unofficial_names:
   - Ouahran
   - Oran
@@ -1990,9 +2020,10 @@
     ccp: "\U00011103\U00011127\U00011122\U0001111A\U00011134"
     'no': Oran
   comments:
+  type: province
 '32':
   name: El Bayadh
-  code:
+  code: '32'
   unofficial_names:
   - El Bayadh
   geo:
@@ -2052,9 +2083,10 @@
     ca: Província d’El Bayadh
     'no': El Bayadh
   comments:
+  type: province
 '33':
   name: Illizi
-  code:
+  code: '33'
   unofficial_names:
   - Illizi
   geo:
@@ -2115,9 +2147,10 @@
     ccp: "\U00011103\U00011128\U00011123\U00011133\U00011123\U00011128\U0001110E\U00011128"
     'no': Illizi
   comments:
+  type: province
 '34':
   name: Bordj Bou Arréridj
-  code:
+  code: '34'
   unofficial_names:
   - Bordj Bou Arreridj
   geo:
@@ -2179,9 +2212,10 @@
     az: Borc-Bu-Arreric vilayəti
     'no': Bordj Bou Arréridj
   comments:
+  type: province
 '35':
   name: Boumerdès
-  code:
+  code: '35'
   unofficial_names:
   - Boumerdès
   geo:
@@ -2241,9 +2275,10 @@
     ca: Província de Boumerdès
     'no': Boumerdès
   comments:
+  type: province
 '36':
   name: El Tarf
-  code:
+  code: '36'
   unofficial_names:
   - El Taref
   - at-Tarf
@@ -2306,9 +2341,10 @@
     ccp: "\U00011103\U0001112C\U00011123\U00011134 \U00011111\U00011122\U00011134\U0001111B\U00011134"
     'no': El Tarf
   comments:
+  type: province
 '37':
   name: Tindouf
-  code:
+  code: '37'
   unofficial_names:
   - Tindouf
   geo:
@@ -2370,9 +2406,10 @@
     az: Tinduf vilayəti
     'no': Tindouf
   comments:
+  type: province
 '38':
   name: Tissemsilt
-  code:
+  code: '38'
   unofficial_names:
   - Tissemselt
   - Tissemsilt
@@ -2434,9 +2471,10 @@
     ca: Província de Tissemsilt
     'no': Tissemsilt
   comments:
+  type: province
 '39':
   name: El Oued
-  code:
+  code: '39'
   unofficial_names:
   - El Ouâdi
   - El Wad
@@ -2498,9 +2536,10 @@
     ccp: "\U00011103\U0001112C\U00011123\U00011134 \U00011103\U0001112E\U00011120\U0001112C\U00011116\U00011134"
     'no': El Oued
   comments:
+  type: province
 '40':
   name: Khenchela
-  code:
+  code: '40'
   unofficial_names:
   - Khenchla
   - Khenchela
@@ -2562,9 +2601,10 @@
     az: Xenşela vilayəti
     'no': Khenchela
   comments:
+  type: province
 '41':
   name: Souk Ahras
-  code:
+  code: '41'
   unofficial_names:
   - Souq Ahras
   - Souk Ahras
@@ -2625,9 +2665,10 @@
     ccp: "\U00011125\U0001112F\U00011107\U00011134 \U00011103\U00011126\U00011133\U00011122\U0001110C\U00011134"
     'no': Souk Ahras
   comments:
+  type: province
 '42':
   name: Tipaza
-  code:
+  code: '42'
   unofficial_names:
   - Tipaza
   geo:
@@ -2690,9 +2731,10 @@
     az: Tipaza vilayəti
     'no': Tipaza
   comments:
+  type: province
 '43':
   name: Mila
-  code:
+  code: '43'
   unofficial_names:
   - Mila
   geo:
@@ -2752,9 +2794,10 @@
     ccp: "\U0001111F\U00011128\U00011123"
     'no': Mila
   comments:
+  type: province
 '44':
   name: Aïn Defla
-  code:
+  code: '44'
   unofficial_names:
   - Aïn Eddefla
   - Aïn Defla
@@ -2816,9 +2859,10 @@
     az: Ayn-Defla vilayəti
     'no': Aïn Defla
   comments:
+  type: province
 '45':
   name: Naama
-  code:
+  code: '45'
   unofficial_names:
   - Naama
   geo:
@@ -2878,9 +2922,10 @@
     ccp: "\U0001111A\U0001111F"
     'no': Naama
   comments:
+  type: province
 '46':
   name: Aïn Témouchent
-  code:
+  code: '46'
   unofficial_names:
   - Aïn Temouchent
   geo:
@@ -2941,9 +2986,10 @@
     az: Ayn-Temuşent vilayəti
     'no': Aïn Témouchent
   comments:
+  type: province
 '47':
   name: Ghardaïa
-  code:
+  code: '47'
   unofficial_names:
   - Ghardaïa
   geo:
@@ -3002,9 +3048,10 @@
     ca: Província de Ghardaïa
     'no': Ghardaïa
   comments:
+  type: province
 '48':
   name: Relizane
-  code:
+  code: '48'
   unofficial_names:
   - Ghilizane
   - Ighil Izane
@@ -3067,3 +3114,4 @@
     ccp: "\U00011122\U0001112C\U00011123\U00011128\U0001110E\U0001111A\U0001112C"
     'no': Relizane
   comments:
+  type: province

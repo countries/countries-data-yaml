@@ -1,7 +1,7 @@
 ---
 BA:
   name: Banghazi
-  code:
+  code: BA
   unofficial_names: Banghazi
   geo:
     latitude: 32.116667
@@ -79,9 +79,10 @@ BA:
     bs: Bengazi
     'no': Benghazi
   comments:
+  type: popularate
 BU:
   name: Al Butnan
-  code:
+  code: BU
   unofficial_names: Al Butnan
   geo:
     latitude: 29.7579854
@@ -139,9 +140,10 @@ BU:
     be: Эль-Бутнан
     'no': Al Butnan
   comments:
+  type: popularate
 DR:
   name: Darnah
-  code:
+  code: DR
   unofficial_names: Darnah
   geo:
     latitude: 32.766667
@@ -182,9 +184,10 @@ DR:
     ccp: "\U00011113\U00011122\U00011134\U0001111A"
     'no': Darnah
   comments:
+  type: popularate
 GT:
   name: Ghat
-  code:
+  code: GT
   unofficial_names: Ghat
   geo:
     latitude: 24.9640371
@@ -238,9 +241,10 @@ GT:
     ccp: "\U0001110A\U00011116\U00011134"
     'no': Ghat
   comments:
+  type: popularate
 JA:
   name: Al Jabal al Akhḑar
-  code:
+  code: JA
   unofficial_names: Al Jabal al Akhḑar
   geo:
     latitude: 32.4032332
@@ -295,9 +299,10 @@ JA:
       \U00011103\U00011107\U00011134\U00011113\U00011122\U00011134"
     'no': Al Jabal al Akhdar
   comments:
+  type: popularate
 JG:
   name: Al Jabal al Gharbī
-  code:
+  code: JG
   unofficial_names: Al Jabal al Gharbī
   geo:
     latitude:
@@ -333,9 +338,10 @@ JG:
       \U0001110A\U00011122\U00011134\U0001111D\U00011128"
     pt: Jabal Algarbi
   comments:
+  type: popularate
 JI:
   name: Al Jifarah
-  code:
+  code: JI
   unofficial_names: Al Jifarah
   geo:
     latitude: 32.4525904
@@ -390,9 +396,10 @@ JI:
     ccp: "\U0001110E\U0001111C\U00011127\U00011122\U00011134"
     'no': Al Jfara
   comments:
+  type: popularate
 JU:
   name: Al Jufrah
-  code:
+  code: JU
   unofficial_names:
   - Al Jufrah
   - Jofra
@@ -451,9 +458,10 @@ JU:
     ccp: "\U0001110E\U0001112A\U0001111C\U00011133\U00011122"
     'no': Al Jufrah
   comments:
+  type: popularate
 KF:
   name: Al Kufrah
-  code:
+  code: KF
   unofficial_names:
   - Al Kufrah
   - Kofra
@@ -514,9 +522,10 @@ KF:
     ccp: "\U00011107\U0001112A\U0001111C\U00011133\U00011122"
     'no': Al Kufrah
   comments:
+  type: popularate
 MB:
   name: Al Murqub
-  code:
+  code: MB
   unofficial_names:
   - Al Murqub
   - Al Marqab
@@ -575,9 +584,10 @@ MB:
     ccp: "\U0001111F\U0001112A\U00011122\U00011134\U00011107\U0001112A\U0001111B\U00011134"
     'no': Al Murgub
   comments:
+  type: popularate
 MI:
   name: Mişrātah
-  code:
+  code: MI
   unofficial_names:
   - Mişrātah
   - Misurata
@@ -636,9 +646,10 @@ MI:
     ccp: "\U0001111F\U00011128\U00011125\U00011133\U00011122\U00011127\U00011116"
     'no': Misrata distrikt
   comments:
+  type: popularate
 MJ:
   name: Al Marj
-  code:
+  code: MJ
   unofficial_names:
   - Al Marj
   - The Meadows
@@ -696,9 +707,10 @@ MJ:
     ccp: "\U0001111F\U00011122\U00011134\U0001110E\U00011134"
     'no': Al Marj
   comments:
+  type: popularate
 MQ:
   name: Murzuq
-  code:
+  code: MQ
   unofficial_names: Murzuq
   geo:
     latitude: 25.9182262
@@ -755,9 +767,10 @@ MQ:
     hy: Մարզուկ
     'no': Murzuq distrikt
   comments:
+  type: popularate
 NL:
   name: Nālūt
-  code:
+  code: NL
   unofficial_names: Nālūt
   geo:
     latitude: 31.868333
@@ -797,9 +810,10 @@ NL:
     ccp: "\U0001111A\U00011123\U0001112A\U00011116\U00011134"
     'no': Nalut
   comments:
+  type: popularate
 NQ:
   name: An Nuqaţ al Khams
-  code:
+  code: NQ
   unofficial_names:
   - An Nuqaţ al Khams
   - Nuqāṭ al Ḫams
@@ -859,9 +873,10 @@ NQ:
       \U00011108\U0001111F\U00011134\U0001110C\U00011134"
     'no': An Nuqat al Khams
   comments:
+  type: popularate
 SB:
   name: Sabhā
-  code:
+  code: SB
   unofficial_names: Sabhā
   geo:
     latitude: 27.038889
@@ -916,9 +931,10 @@ SB:
     ccp: "\U00011125\U0001111E"
     'no': Sabha
   comments:
+  type: popularate
 SR:
   name: Sirte
-  code:
+  code: SR
   unofficial_names:
   - Sirt
   - Surt
@@ -961,9 +977,10 @@ SR:
     ccp: "\U00011125\U00011128\U00011122\U00011134\U00011111\U0001112C"
     'no': Surt
   comments:
+  type: popularate
 TB:
   name: Tarabulus
-  code:
+  code: TB
   unofficial_names:
   - Ţarābulus
   - Tripoli
@@ -1002,9 +1019,10 @@ TB:
     hy: Տարաբուլուս
     pt: Trípoli
   comments:
+  type: popularate
 WA:
   name: Al Wahat
-  code:
+  code: WA
   unofficial_names:
   - Al Wahat
   - The Oases
@@ -1049,9 +1067,10 @@ WA:
     ccp: "\U00011103\U00011123\U00011134 \U00011124\U00011126\U00011116\U00011134"
     'no': Al Wahat
   comments:
+  type: popularate
 WD:
   name: Wādī al Ḩayāt
-  code:
+  code: WD
   unofficial_names: Wādī al Ḩayāt
   geo:
     latitude: 29.5240753
@@ -1106,9 +1125,10 @@ WD:
     ccp: "\U00011124\U00011113\U00011128 \U00011103\U00011123\U00011134 \U00011126\U00011120"
     'no': Wadi Al Hayaa
   comments:
+  type: popularate
 WS:
   name: Wādī ash Shāţiʾ
-  code:
+  code: WS
   unofficial_names: Wādī ash Shāţiʾ
   geo:
     latitude:
@@ -1163,9 +1183,10 @@ WS:
     hy: Վադի ալ-Շատի
     'no': Wadi al Shatii distrikt
   comments:
+  type: popularate
 ZA:
   name: Az Zawiyah
-  code:
+  code: ZA
   unofficial_names: Az Zawiyah
   geo:
     latitude: 32.5394906
@@ -1220,3 +1241,4 @@ ZA:
     ccp: "\U0001110E\U00011103\U00011128\U00011120"
     'no': Az Zawiyah
   comments:
+  type: popularate

@@ -1,7 +1,7 @@
 ---
 AK:
   name: Atakora
-  code:
+  code: AK
   unofficial_names:
   - Atakora
   geo:
@@ -59,9 +59,10 @@ AK:
     'no': Atakora
     yo_BJ: Apá Atakora
   comments:
+  type: departments
 AL:
   name: Alibori
-  code:
+  code: AL
   unofficial_names: Alibori
   geo:
     latitude: 10.9681093
@@ -119,9 +120,10 @@ AL:
     'no': Alibori
     yo_BJ: Apá Alibori
   comments:
+  type: departments
 AQ:
   name: Atlantique
-  code:
+  code: AQ
   unofficial_names: Atlantique
   geo:
     latitude: 6.6588391
@@ -179,9 +181,10 @@ AQ:
     'no': Atlantique
     yo_BJ: Apá Atlantique
   comments:
+  type: departments
 BO:
   name: Borgou
-  code:
+  code: BO
   unofficial_names: Borgou
   geo:
     latitude: 9.5340864
@@ -239,9 +242,10 @@ BO:
     'no': Borgou
     yo_BJ: Apá Borgou
   comments:
+  type: departments
 CO:
   name: Collines
-  code:
+  code: CO
   unofficial_names: Collines
   geo:
     latitude: 8.3022297
@@ -299,9 +303,10 @@ CO:
     'no': Collines
     yo_BJ: Apá Collines
   comments:
+  type: departments
 DO:
   name: Donga
-  code:
+  code: DO
   unofficial_names: Donga
   geo:
     latitude: 9.7191867
@@ -359,9 +364,10 @@ DO:
     'no': Donga
     yo_BJ: Apá Donga
   comments:
+  type: departments
 KO:
   name: Kouffo
-  code:
+  code: KO
   unofficial_names:
   - Kouffo
   geo:
@@ -419,9 +425,10 @@ KO:
     'no': Kouffo
     yo_BJ: Apá Kouffo
   comments:
+  type: departments
 LI:
   name: Littoral
-  code:
+  code: LI
   unofficial_names: Littoral
   geo:
     latitude: 6.3806973
@@ -478,9 +485,10 @@ LI:
     'no': Littoral
     yo_BJ: Apá Littoral
   comments:
+  type: departments
 MO:
   name: Mono
-  code:
+  code: MO
   unofficial_names: Mono
   geo:
     latitude: 6.6607182
@@ -537,9 +545,10 @@ MO:
     'no': Mono
     yo_BJ: Apá Mono
   comments:
+  type: departments
 OU:
   name: Ouémé
-  code:
+  code: OU
   unofficial_names: Ouémé
   geo:
     latitude: 6.6148152
@@ -596,9 +605,10 @@ OU:
     'no': Ouémé
     yo_BJ: Apá Ouémé
   comments:
+  type: departments
 PL:
   name: Plateau
-  code:
+  code: PL
   unofficial_names: Plateau
   geo:
     latitude: 7.3445141
@@ -655,9 +665,10 @@ PL:
     'no': Plateau
     yo_BJ: Apá Plateau
   comments:
+  type: departments
 ZO:
   name: Zou
-  code:
+  code: ZO
   unofficial_names: Zou
   geo:
     latitude: 7.346926799999999
@@ -716,3 +727,4 @@ ZO:
     'no': Zou
     yo_BJ: Apá Zou
   comments:
+  type: departments

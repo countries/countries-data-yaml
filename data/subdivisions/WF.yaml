@@ -1,7 +1,7 @@
 ---
 AL:
   name: Alo
-  code:
+  code: AL
   unofficial_names:
   geo:
     latitude:
@@ -68,9 +68,10 @@ AL:
     uk: Ало
     'no': Alo
   comments:
+  type: administrative_precinct
 SG:
   name: Sigave
-  code:
+  code: SG
   unofficial_names:
   geo:
     latitude:
@@ -134,9 +135,10 @@ SG:
     uk: Сігаве
     'no': Sigave
   comments:
+  type: administrative_precinct
 UV:
   name: Uvea
-  code:
+  code: UV
   unofficial_names:
   geo:
     latitude:
@@ -199,3 +201,4 @@ UV:
     cs: Uvea
     'no': Uvea
   comments:
+  type: administrative_precinct

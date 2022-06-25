@@ -1,7 +1,7 @@
 ---
 AUK:
   name: Auckland
-  code:
+  code: AUK
   unofficial_names: Auckland
   geo:
     latitude: -36.8484597
@@ -61,9 +61,10 @@ AUK:
     mk: Окленд
     'no': Auckland
   comments:
+  type: region
 BOP:
   name: Bay of Plenty
-  code:
+  code: BOP
   unofficial_names: Bay of Plenty
   geo:
     latitude: -37.6825027
@@ -120,9 +121,10 @@ BOP:
     mk: Залив Пленти
     'no': Bay of Plenty
   comments:
+  type: region
 CAN:
   name: Canterbury
-  code:
+  code: CAN
   unofficial_names: Canterbury
   geo:
     latitude: -43.7542275
@@ -181,9 +183,10 @@ CAN:
     mk: Кантербери
     'no': Canterbury
   comments:
+  type: region
 CIT:
   name: Chatham Islands Territory
-  code:
+  code: CIT
   unofficial_names:
   geo:
     latitude: -43.9120964
@@ -248,9 +251,10 @@ CIT:
     ccp: "\U00011107\U00011117\U0001111F\U00011134 \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011125\U00011134"
     'no': Chathamøyene
   comments:
+  type: special_island_authority
 GIS:
   name: Gisborne
-  code:
+  code: GIS
   unofficial_names: Gisborne
   geo:
     latitude: -38.662334
@@ -305,9 +309,10 @@ GIS:
     mk: Гизборн
     'no': Gisborne
   comments:
+  type: region
 HKB:
   name: Hawke's Bay
-  code:
+  code: HKB
   unofficial_names: Hawke's Bay
   geo:
     latitude: -39.7711616
@@ -363,9 +368,10 @@ HKB:
     mk: Хоков Залив
     'no': Hawke’s Bay
   comments:
+  type: region
 MBH:
   name: Marlborough
-  code:
+  code: MBH
   unofficial_names: Marlborough
   geo:
     latitude: -41.57269
@@ -418,9 +424,10 @@ MBH:
     mk: Марлборо
     'no': Marlborough
   comments:
+  type: region
 MWT:
   name: Manawatu-Wanganui
-  code:
+  code: MWT
   unofficial_names:
   - Wanganui-Manawatu
   geo:
@@ -477,9 +484,10 @@ MWT:
     mk: Манавату-Вангануи
     'no': Manawatu-Wanganui
   comments:
+  type: region
 NSN:
   name: Nelson
-  code:
+  code: NSN
   unofficial_names: Nelson
   geo:
     latitude: -41.2706319
@@ -505,9 +513,10 @@ NSN:
     be: Нельсан
     mk: Нелсон
   comments:
+  type: region
 NTL:
   name: Northland
-  code:
+  code: NTL
   unofficial_names: Northland
   geo:
     latitude: -35.5795461
@@ -567,9 +576,10 @@ NTL:
     mk: Нортленд
     'no': Northland
   comments:
+  type: region
 OTA:
   name: Otago
-  code:
+  code: OTA
   unofficial_names: Otago
   geo:
     latitude: -44.8280041
@@ -628,9 +638,10 @@ OTA:
     mk: Отаго
     'no': Otago
   comments:
+  type: region
 STL:
   name: Southland
-  code:
+  code: STL
   unofficial_names: Southland
   geo:
     latitude: -45.84891589999999
@@ -686,9 +697,10 @@ STL:
     mk: Саутленд
     'no': Southland
   comments:
+  type: region
 TAS:
   name: Tasman
-  code:
+  code: TAS
   unofficial_names: Tasman
   geo:
     latitude: -41.2122123
@@ -742,9 +754,10 @@ TAS:
     mk: Тасман
     'no': Tasman
   comments:
+  type: region
 TKI:
   name: Taranaki
-  code:
+  code: TKI
   unofficial_names: Taranaki
   geo:
     latitude: -39.3538149
@@ -800,9 +813,10 @@ TKI:
     mk: Таранаки
     'no': Taranaki
   comments:
+  type: region
 WGN:
   name: Wellington
-  code:
+  code: WGN
   unofficial_names: Wellington
   geo:
     latitude: -41.2864603
@@ -858,9 +872,10 @@ WGN:
     mk: Велингтон
     'no': Wellington
   comments:
+  type: region
 WKO:
   name: Waikato
-  code:
+  code: WKO
   unofficial_names: Waikato
   geo:
     latitude: -38.0594263
@@ -920,9 +935,10 @@ WKO:
     mk: Ваикато
     'no': Waikato
   comments:
+  type: region
 WTC:
   name: West Coast
-  code:
+  code: WTC
   unofficial_names: West Coast
   geo:
     latitude: -42.4064185
@@ -977,3 +993,4 @@ WTC:
     mk: Западно Крајбрежје
     'no': West Coast
   comments:
+  type: region

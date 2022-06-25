@@ -1,7 +1,7 @@
 ---
 AA:
   name: Adis Abeba
-  code:
+  code: AA
   unofficial_names: Adis Abeba
   geo:
     latitude: 8.9806034
@@ -95,9 +95,10 @@ AA:
     'no': Addis Abeba
     yo_BJ: Addis Ababa
   comments:
+  type: administration
 AF:
   name: Afar
-  code:
+  code: AF
   unofficial_names:
   - Affar
   geo:
@@ -161,9 +162,10 @@ AF:
     ccp: "\U00011103\U0001111C\U00011122\U00011134"
     'no': Afar
   comments:
+  type: regional_state
 AM:
   name: Amara
-  code:
+  code: AM
   unofficial_names: Amara
   geo:
     latitude: 11.3494247
@@ -228,9 +230,10 @@ AM:
     eu: Amhara eskualdea
     'no': Amhara
   comments:
+  type: regional_state
 BE:
   name: Binshangul Gumuz
-  code:
+  code: BE
   unofficial_names: Binshangul Gumuz
   geo:
     latitude: 10.7802889
@@ -292,9 +295,10 @@ BE:
     zu: Benishangul-Gumaz
     'no': Benishangul-Gumuz
   comments:
+  type: regional_state
 DD:
   name: Dire Dawa
-  code:
+  code: DD
   unofficial_names: Dire Dawa
   geo:
     latitude: 9.6008747
@@ -364,9 +368,10 @@ DD:
     ha_NE: Dire Dawa
     'no': Dire Dawa
   comments:
+  type: administration
 GA:
   name: Gambela Hizboch
-  code:
+  code: GA
   unofficial_names:
   - Gambela
   geo:
@@ -429,9 +434,10 @@ GA:
     ccp: "\U00011109\U0001111F\U00011134\U0001111D\U0001112C\U00011123"
     'no': Gambela
   comments:
+  type: regional_state
 HA:
   name: Hareri Hizb
-  code:
+  code: HA
   unofficial_names: Hareri Hizb
   geo:
     latitude: 9.314866
@@ -493,9 +499,10 @@ HA:
     eu: Harari
     'no': Harar
   comments:
+  type: regional_state
 OR:
   name: Oromiya
-  code:
+  code: OR
   unofficial_names: Oromiya
   geo:
     latitude: 7.546037699999999
@@ -559,9 +566,10 @@ OR:
     be: Аромія
     'no': Oromia
   comments:
+  type: regional_state
 SN:
   name: YeDebub Biheroch Bihereseboch na Hizboch
-  code:
+  code: SN
   unofficial_names: YeDebub Biheroch Bihereseboch na Hizboch
   geo:
     latitude: 6.5156911
@@ -627,9 +635,10 @@ SN:
     eu: Hegoaldeko Nazioen, Nazionalitateen eta Herrien Eskualdea
     'no': Region for sørlige nasjoner, nasjonaliteter og folk
   comments:
+  type: regional_state
 SO:
   name: Sumale
-  code:
+  code: SO
   unofficial_names: Sumale
   geo:
     latitude: 6.6612293
@@ -693,9 +702,10 @@ SO:
     so: Soomaali Galbeed
     'no': Somali
   comments:
+  type: regional_state
 TI:
   name: Tigray
-  code:
+  code: TI
   unofficial_names: Tigray
   geo:
     latitude: 14.0323336
@@ -758,3 +768,4 @@ TI:
     ccp: "\U00011111\U0001112D\U00011109\U00011133\U00011122\U0001112C"
     'no': Tigray
   comments:
+  type: regional_state

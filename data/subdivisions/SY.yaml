@@ -1,7 +1,7 @@
 ---
 DI:
   name: Dimashq
-  code:
+  code: DI
   unofficial_names:
   - Dimashq
   - Madīnat Dimašq
@@ -47,9 +47,10 @@ DI:
     de: Gouvernement Damaskus
     'no': Damaskus
   comments:
+  type: province
 DR:
   name: Dar'ā
-  code:
+  code: DR
   unofficial_names:
   - Dara
   - Darā
@@ -101,9 +102,10 @@ DR:
     zh: 德拉省
     ccp: "\U00011113\U00011122\U00011133\U00011103"
   comments:
+  type: province
 DY:
   name: Dayr az Zawr
-  code:
+  code: DY
   unofficial_names:
   - Deir El-Zor
   - Deir-ez-Zor
@@ -167,9 +169,10 @@ DY:
     ccp: "\U00011113\U00011120\U0001112C\U00011122\U00011134 \U00011103\U0001112C\U0001110C\U00011134-\U0001110E\U0001112E\U00011122\U00011134"
     'no': Dayr az-Zawr
   comments:
+  type: province
 HA:
   name: Al Ḩasakah
-  code:
+  code: HA
   unofficial_names:
   - El Haseke
   - Hassetche
@@ -235,9 +238,10 @@ HA:
     ccp: "\U00011103\U00011123\U00011134-\U0001111D\U00011125\U00011107\U00011134\U00011126\U00011134"
     'no': Al-Hasakah
   comments:
+  type: province
 HI:
   name: Ḩimş
-  code:
+  code: HI
   unofficial_names:
   - Hims
   - Homs
@@ -303,9 +307,10 @@ HI:
     ccp: "\U00011126\U00011127\U0001111F\U00011134\U0001110C\U00011134"
     'no': Homs
   comments:
+  type: province
 HL:
   name: Ḩalab
-  code:
+  code: HL
   unofficial_names:
   - Halab
   - Haleb
@@ -362,9 +367,10 @@ HL:
     be: Халеб
     'no': Aleppo
   comments:
+  type: province
 HM:
   name: Ḩamāh
-  code:
+  code: HM
   unofficial_names:
   - Hama
   - Hamah
@@ -429,9 +435,10 @@ HM:
     ccp: "\U00011126\U0001111F"
     'no': Guvernementet Hama
   comments:
+  type: province
 ID:
   name: Idlib
-  code:
+  code: ID
   unofficial_names: Idlib
   geo:
     latitude: 35.933333
@@ -493,9 +500,10 @@ ID:
     ccp: "\U00011103\U00011128\U00011116\U00011134\U00011123\U00011128\U0001111B\U00011134"
     'no': Idlib
   comments:
+  type: province
 LA:
   name: Al Ladhiqiyah
-  code:
+  code: LA
   unofficial_names:
   - Latakia
   - Lattakia
@@ -551,9 +559,10 @@ LA:
     ccp: "\U00011123\U00011111\U00011107\U00011128\U00011120"
     'no': Latakia
   comments:
+  type: province
 QU:
   name: Al Qunaytirah
-  code:
+  code: QU
   unofficial_names:
   - Quneitra
   - al-Qunaytirah
@@ -615,9 +624,10 @@ QU:
     ca: governació de Quneitra
     'no': Al-Qunaytirah
   comments:
+  type: province
 RA:
   name: Ar Raqqah
-  code:
+  code: RA
   unofficial_names:
   - Raqqah
   - al-Rakka
@@ -670,9 +680,10 @@ RA:
     mk: Рака
     'no': Ar-Raqqah
   comments:
+  type: province
 RD:
   name: Rif Dimashq
-  code:
+  code: RD
   unofficial_names:
   - Dimashq
   - Dimašq
@@ -738,9 +749,10 @@ RD:
     ccp: "\U00011122\U00011128\U0001111B\U00011134 \U00011113\U00011128\U0001111F\U0001110C\U00011134\U00011107\U00011134"
     'no': Rif Dimashq
   comments:
+  type: province
 SU:
   name: As Suwayda'
-  code:
+  code: SU
   unofficial_names:
   - as-Suwayda
   geo:
@@ -802,9 +814,10 @@ SU:
     ccp: "\U00011103\U0001110C\U00011134-\U00011125\U0001112A\U00011120\U0001112C\U00011113"
     'no': as-Suwayda
   comments:
+  type: province
 TA:
   name: Tartus
-  code:
+  code: TA
   unofficial_names:
   - Tartoûs
   - Tartus
@@ -868,3 +881,4 @@ TA:
     ccp: "\U00011111\U00011122\U00011134\U00011111\U0001110C\U00011134"
     'no': Tartus
   comments:
+  type: province

@@ -1,7 +1,7 @@
 ---
 AB:
   name: Abkhazia
-  code:
+  code: AB
   unofficial_names:
   - Abhasia
   geo:
@@ -79,9 +79,10 @@ AB:
     kk: Абхазия Автономиялық Республикасы
     'no': Abkhasia
   comments:
+  type: autonomous_republic
 AJ:
   name: Ajaria
-  code:
+  code: AJ
   unofficial_names:
   - Achara
   - Adzharia
@@ -164,9 +165,10 @@ AJ:
     'no': Adsjaria
     yo_BJ: Adjara
   comments:
+  type: autonomous_republic
 GU:
   name: Guria
-  code:
+  code: GU
   unofficial_names: Guria
   geo:
     latitude: 41.9442736
@@ -231,9 +233,10 @@ GU:
     mk: Гурија
     'no': Guria
   comments:
+  type: region
 IM:
   name: Imereti
-  code:
+  code: IM
   unofficial_names: Imereti
   geo:
     latitude: 42.230108
@@ -300,9 +303,10 @@ IM:
     mk: Имеретија
     'no': Imereti
   comments:
+  type: region
 KA:
   name: Kakheti
-  code:
+  code: KA
   unofficial_names:
   - Kaheti
   geo:
@@ -369,9 +373,10 @@ KA:
     mk: Кахетија
     'no': Kakheti
   comments:
+  type: region
 KK:
   name: Kvemo Kartli
-  code:
+  code: KK
   unofficial_names: Kvemo Kartli
   geo:
     latitude: 41.4791833
@@ -436,9 +441,10 @@ KK:
     mk: Долна Картли
     'no': Kvemo Kartli
   comments:
+  type: region
 MM:
   name: Mtskheta-Mtianeti
-  code:
+  code: MM
   unofficial_names:
   - Mcheta-Mtianeti
   geo:
@@ -504,9 +510,10 @@ MM:
     mk: Мцхета-Мтијанетија
     'no': Mtskheta-Mtianeti
   comments:
+  type: region
 RL:
   name: Racha-Lechkhumi [and] Kvemo Svaneti
-  code:
+  code: RL
   unofficial_names:
   - Racha
   - Racha-Lechkumi and Kverno Svaneti
@@ -571,9 +578,10 @@ RL:
     mk: Рача-Лечхуми и Долна Сванетија
     'no': Racha-Lechkhumi og Kvemo Svaneti
   comments:
+  type: region
 SJ:
   name: Samtskhe-Javakheti
-  code:
+  code: SJ
   unofficial_names:
   - Samche-Žavaheti
   geo:
@@ -638,9 +646,10 @@ SJ:
     mk: Самцхе-Џавахетија
     'no': Samtskhe-Javakheti
   comments:
+  type: region
 SK:
   name: Shida Kartli
-  code:
+  code: SK
   unofficial_names:
   - Šida Kartli
   geo:
@@ -706,9 +715,10 @@ SK:
     mk: Внатрешен Картли
     'no': Shida Kartli
   comments:
+  type: region
 SZ:
   name: Samegrelo-Zemo Svaneti
-  code:
+  code: SZ
   unofficial_names: Samegrelo-Zemo Svaneti
   geo:
     latitude: 42.7352247
@@ -771,9 +781,10 @@ SZ:
     mk: Мегрелија-Горна Сванетија
     'no': Samegrelo-Zemo Svaneti
   comments:
+  type: region
 TB:
   name: Tbilisi
-  code:
+  code: TB
   unofficial_names:
   - Tiflis
   geo:
@@ -866,3 +877,4 @@ TB:
     'no': Tbilisi
     yo_BJ: Tbilisi
   comments:
+  type: city

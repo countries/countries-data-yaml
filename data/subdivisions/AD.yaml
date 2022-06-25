@@ -1,7 +1,7 @@
 ---
 '02':
   name: Canillo
-  code:
+  code: '02'
   unofficial_names: Canillo
   geo:
     latitude: 42.5666535
@@ -13,9 +13,10 @@
   translations:
     en: Canillo
   comments:
+  type: parish
 '03':
   name: Encamp
-  code:
+  code: '03'
   unofficial_names: Encamp
   geo:
     latitude: 42.5362652
@@ -27,9 +28,10 @@
   translations:
     en: Encamp
   comments:
+  type: parish
 '04':
   name: La Massana
-  code:
+  code: '04'
   unofficial_names: La Massana
   geo:
     latitude: 42.545625
@@ -41,9 +43,10 @@
   translations:
     en: La Massana
   comments:
+  type: parish
 '05':
   name: Ordino
-  code:
+  code: '05'
   unofficial_names: Ordino
   geo:
     latitude: 42.5556547
@@ -55,9 +58,10 @@
   translations:
     en: Ordino
   comments:
+  type: parish
 '06':
   name: Sant Julià de Lòria
-  code:
+  code: '06'
   unofficial_names:
   - Saint Julia de Loria
   geo:
@@ -70,9 +74,10 @@
   translations:
     en: Sant Julià de Lòria
   comments:
+  type: parish
 '07':
   name: Andorra la Vella
-  code:
+  code: '07'
   unofficial_names:
   - Andorra la Vieja
   - Andorre-la-Vieille
@@ -86,9 +91,10 @@
   translations:
     en: Andorra la Vella
   comments:
+  type: parish
 '08':
   name: Escaldes-Engordany
-  code:
+  code: '08'
   unofficial_names:
   - Les Escaldes
   geo:
@@ -101,3 +107,4 @@
   translations:
     en: Escaldes-Engordany
   comments:
+  type: parish

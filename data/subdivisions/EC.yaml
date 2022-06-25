@@ -1,7 +1,7 @@
 ---
 A:
   name: Azuay
-  code:
+  code: A
   unofficial_names: Azuay
   geo:
     latitude: -2.9633245
@@ -59,9 +59,10 @@ A:
     mk: Азуај
     'no': Azuay
   comments:
+  type: province
 B:
   name: Bolívar
-  code:
+  code: B
   unofficial_names: Bolívar
   geo:
     latitude: -1.5696244
@@ -117,9 +118,10 @@ B:
     hy: Բոլիվար
     'no': Bolívar
   comments:
+  type: province
 C:
   name: Carchi
-  code:
+  code: C
   unofficial_names: Carchi
   geo:
     latitude: 0.6625532
@@ -177,9 +179,10 @@ C:
     he: מחוז קארצ׳י
     'no': Carchi
   comments:
+  type: province
 D:
   name: Orellana
-  code:
+  code: D
   unofficial_names: Orellana
   geo:
     latitude: -0.7112664999999999
@@ -235,9 +238,10 @@ D:
     hy: Օրելյանա
     'no': Orellana
   comments:
+  type: province
 E:
   name: Esmeraldas
-  code:
+  code: E
   unofficial_names: Esmeraldas
   geo:
     latitude: 0.9681789
@@ -294,9 +298,10 @@ E:
     he: מחוז אסמרלדס
     'no': Esmeraldas
   comments:
+  type: province
 F:
   name: Cañar
-  code:
+  code: F
   unofficial_names: Cañar
   geo:
     latitude: -2.555695
@@ -351,9 +356,10 @@ F:
     ccp: "\U00011107\U0001112C\U0001111A\U00011122\U00011134"
     'no': Cañar
   comments:
+  type: province
 G:
   name: Guayas
-  code:
+  code: G
   unofficial_names: Guayas
   geo:
     latitude: -1.9574839
@@ -410,9 +416,10 @@ G:
     ccp: "\U00011109\U0001112A\U00011120\U00011120\U0001112C\U0001110C\U00011134"
     'no': Guayas
   comments:
+  type: province
 H:
   name: Chimborazo
-  code:
+  code: H
   unofficial_names: Chimborazo
   geo:
     latitude: -1.4693018
@@ -470,9 +477,10 @@ H:
     mk: Чимборасо
     'no': Chimborazo
   comments:
+  type: province
 I:
   name: Imbabura
-  code:
+  code: I
   unofficial_names: Imbabura
   geo:
     latitude: 0.367159
@@ -529,9 +537,10 @@ I:
     he: מחוז אימבאבורה
     'no': Imbabura
   comments:
+  type: province
 L:
   name: Loja
-  code:
+  code: L
   unofficial_names: Loja
   geo:
     latitude: -3.983333
@@ -586,9 +595,10 @@ L:
     ccp: "\U00011123\U0001112E\U0001110E"
     'no': Loja
   comments:
+  type: province
 M:
   name: Manabí
-  code:
+  code: M
   unofficial_names: Manabí
   geo:
     latitude: -0.7416532
@@ -646,9 +656,10 @@ M:
     cs: Manabí
     'no': Manabí
   comments:
+  type: province
 N:
   name: Napo
-  code:
+  code: N
   unofficial_names: Napo
   geo:
     latitude: -0.7371233
@@ -705,9 +716,10 @@ N:
     he: מחוז נפו
     'no': Napo
   comments:
+  type: province
 O:
   name: El Oro
-  code:
+  code: O
   unofficial_names: El Oro
   geo:
     latitude: -3.4454787
@@ -763,9 +775,10 @@ O:
     hy: Էլ Օրո
     'no': El Oro
   comments:
+  type: province
 P:
   name: Pichincha
-  code:
+  code: P
   unofficial_names: Pichincha
   geo:
     latitude: -0.1464847
@@ -822,9 +835,10 @@ P:
     hy: Պիչինչա
     'no': Pichincha
   comments:
+  type: province
 R:
   name: Los Ríos
-  code:
+  code: R
   unofficial_names: Los Ríos
   geo:
     latitude: -1.4191719
@@ -880,9 +894,10 @@ R:
     hy: Լոս Ռիո
     'no': Los Ríos
   comments:
+  type: province
 S:
   name: Morona-Santiago
-  code:
+  code: S
   unofficial_names: Morona-Santiago
   geo:
     latitude: -2.5628216
@@ -937,9 +952,124 @@ S:
     hy: Մորոնա Սանտյագո
     'no': Morona Santiago
   comments:
+  type: province
+SD:
+  name: Santo Domingo de los Tsachilas
+  code: SD
+  unofficial_names: Santo Domingo de los Tsachilas
+  geo:
+    latitude: -0.2205563
+    longitude: -79.29021329999999
+    min_latitude: -0.6861889999999999
+    min_longitude: -79.623871
+    max_latitude: 0.123351
+    max_longitude: -78.73494099999999
+  translations:
+    ar: سانتو دومينغو دا لوس تساتشيلاس
+    be: Правінцыя Санта-Дамінга-дэ-лос-Тсачылас
+    bg: Санто Доминго де лос Цачилас
+    bn: স্যান্তো ডোমিঙ্গ দে লস সাচিলাস প্রদেশ
+    da: Santo Domingo de los Tsáchilas Province
+    de: Provinz Santo Domingo de los Tsáchilas
+    el: Σάντο Δομίγκο δε λος Τσατσίλας
+    en: Santo Domingo de los Tsáchilas
+    es: Provincia de Santo Domingo de los Tsáchilas
+    fi: Santo Domingo de los Tsáchilas
+    fr: Santo Domingo de los Tsáchilas
+    gu: સાન્ટો ડોમિંગો દે લોસ સાચિલાસ પ્રાંત
+    hi: सैंटो डोमिंगो डी लोस सैकिलास प्रांत
+    id: Provinsi Santo Domingo de los Tsáchilas
+    it: provincia di Santo Domingo de los Tsáchilas
+    ja: サント・ドミンゴ・デ・ロス・ツァチラス県
+    ka: სანტო-დომინგო-დე-ლოს-ტსაჩილასის პროვინცია
+    kn: ಸ್ಯಾಂಟೋ ಡೊಮಿಂಗೊ ಡಿ ಲಾಸ್ ತ್ಸಾಚಿಲಾಸ್ ಪ್ರಾಂತ್ಯ
+    ko: 산토도밍고데로스차칠라스 주
+    lt: Santo Domingo de los Cačilaso provincija
+    mr: सँटो डोमिंगो डी लॉस त्साचिलास प्रांत
+    ms: Daerah Santo Domingo de los Tsáchilas
+    nb: Santo Domingo de las Tsachilas provins
+    nl: Santo Domingo de los Tsáchilas
+    pl: Prowincja Santo Domingo de los Tsáchilas
+    pt: Santo Domingo de los Tsáchilas
+    ru: Санто-Доминго-де-лос-Тсачилас
+    si: සැන්ටෝ ඩොමින්ගෝ ඩි ලොස් ට්සාචිලාස් පළාත
+    sv: Santo Domingo de los Tsáchilas
+    ta: சந்தோ டொமிங்கோ டி லாஸ் டச்சிலஸ் மாகாணம்
+    te: సాంటో డామింగో ద లాస్ సాచిలాస్ ప్రావిన్స్
+    th: จังหวัดซานโตโดมิงโกเดลาคัลซาดา
+    tr: Santo Domingo de los Tsachilas Province
+    uk: Санто-Домінго-де-лос-Тсачилас
+    ur: سانتو دومنگو دے لاس تسآچیلاس صوبہ
+    vi: Tỉnh Santo Domingo de los Tsáchilas
+    lv: Santodomingo de los Cačilasas province
+    ceb: Provincia de Santo Domingo de los Tsáchilas
+    zh: 聖多明各-德洛斯查奇拉斯省
+    ccp: "\U00011125\U0001111A\U00011134\U00011111\U0001112E \U00011113\U0001112E\U0001111F\U00011128\U0001111A\U00011134\U00011109\U0001112E
+      \U00011113\U0001112C \U00011123\U00011127\U0001110C\U00011134 \U00011125\U0001110C\U00011128\U00011123\U0001110C\U00011134"
+    hy: Սանտա Դոմինգո դե լոս Տսաչիլաս
+    'no': Santo Domingo de las Tsachilas provins
+  comments:
+  type: province
+SE:
+  name: Santa Elena
+  code: SE
+  unofficial_names: Santa Elena
+  geo:
+    latitude: -2.1934804
+    longitude: -80.54384499999999
+    min_latitude: -2.508378
+    min_longitude: -81.0067736
+    max_latitude: -1.647962
+    max_longitude: -80.2266889
+  translations:
+    ar: مقاطعة سانتا إيلينا
+    be: Правінцыя Санта-Элена
+    bg: Света Елена
+    bn: স্যান্টা এলেনা প্রদেশ
+    da: Santa Elena Province
+    de: Santa Elena
+    el: Επαρχία Σάντα Έλενα
+    en: Santa Elena
+    es: Provincia de Santa Elena
+    fa: استان سانتا النا
+    fi: Santa Elena
+    fr: Santa Elena
+    gu: સાંતા એલેના પ્રાંત
+    hi: सैंटा एलेना प्रांत
+    id: Provinsi Santa Elena
+    it: provincia di Santa Elena
+    ja: サンタ・エレーナ県
+    ka: სანტა-ელენას პროვინცია
+    kn: ಸಾಂಟಾ ಎಲೆನಾ ಪ್ರಾಂತ್ಯ
+    ko: 산타엘레나 주
+    lt: Santa Elenos provincija
+    mr: सांता एलेना प्रांत
+    ms: Santa Elena Province
+    nb: Santa Elena provins
+    nl: Santa Elena
+    pl: Prowincja Santa Elena
+    pt: Santa Elena (província)
+    ru: Санта-Элена
+    si: සැන්ටා එලේනා පළාත
+    sv: Santa Elena
+    ta: சாண்டா எலெனா மாகாணம்
+    te: సాంటా ఎలీనా ప్రావిన్స్
+    th: จังหวัดซานตา เอเลนา
+    tr: Santa Elena Province
+    uk: Санта-Елена
+    ur: سانتا الینا صوبہ
+    vi: Tỉnh Santa Elena
+    lv: Santaelenas province
+    ceb: Provincia de Santa Elena
+    zh: 聖埃倫娜省
+    ccp: "\U00011125\U0001111A\U00011134\U00011111 \U00011103\U0001112C\U00011123\U0001112C\U0001111A"
+    mk: Санта Елена
+    'no': Santa Elena provins
+  comments:
+  type: province
 T:
   name: Tungurahua
-  code:
+  code: T
   unofficial_names: Tungurahua
   geo:
     latitude: -1.2635284
@@ -994,9 +1124,10 @@ T:
     hy: Տունգուրահուա
     'no': Tungurahua
   comments:
+  type: province
 U:
   name: Sucumbíos
-  code:
+  code: U
   unofficial_names: Sucumbíos
   geo:
     latitude: -0.1452276
@@ -1051,9 +1182,10 @@ U:
     he: מחוז סוקומביוס
     'no': Sucumbíos
   comments:
+  type: province
 W:
   name: Galápagos
-  code:
+  code: W
   unofficial_names: Galápagos
   geo:
     latitude: -0.8292784
@@ -1107,9 +1239,10 @@ W:
     ccp: "\U00011109\U00011133\U00011120\U00011123\U0001111B\U00011134\U0001111B\U00011109\U0001112E\U0001110C\U00011134"
     'no': Galapagos provins
   comments:
+  type: province
 X:
   name: Cotopaxi
-  code:
+  code: X
   unofficial_names: Cotopaxi
   geo:
     latitude: -0.8139666999999999
@@ -1165,9 +1298,10 @@ X:
     hy: Կոտոպախի
     'no': Cotopaxi
   comments:
+  type: province
 Y:
   name: Pastaza
-  code:
+  code: Y
   unofficial_names: Pastaza
   geo:
     latitude: -1.6332034
@@ -1223,9 +1357,10 @@ Y:
     hy: Պաստասա
     'no': Pastaza
   comments:
+  type: province
 Z:
   name: Zamora-Chinchipe
-  code:
+  code: Z
   unofficial_names: Zamora-Chinchipe
   geo:
     latitude: -4.1535434
@@ -1279,115 +1414,4 @@ Z:
     ccp: "\U0001110E\U0001111F\U0001112E\U00011122-\U0001110C\U00011128\U0001111A\U00011134\U0001110C\U00011128\U0001111B\U0001112C"
     'no': Zamora Chinchipe
   comments:
-SD:
-  name: Santo Domingo de los Tsachilas
-  code:
-  unofficial_names: Santo Domingo de los Tsachilas
-  geo:
-    latitude: -0.2205563
-    longitude: -79.29021329999999
-    min_latitude: -0.6861889999999999
-    min_longitude: -79.623871
-    max_latitude: 0.123351
-    max_longitude: -78.73494099999999
-  translations:
-    ar: سانتو دومينغو دا لوس تساتشيلاس
-    be: Правінцыя Санта-Дамінга-дэ-лос-Тсачылас
-    bg: Санто Доминго де лос Цачилас
-    bn: স্যান্তো ডোমিঙ্গ দে লস সাচিলাস প্রদেশ
-    da: Santo Domingo de los Tsáchilas Province
-    de: Provinz Santo Domingo de los Tsáchilas
-    el: Σάντο Δομίγκο δε λος Τσατσίλας
-    en: Santo Domingo de los Tsáchilas
-    es: Provincia de Santo Domingo de los Tsáchilas
-    fi: Santo Domingo de los Tsáchilas
-    fr: Santo Domingo de los Tsáchilas
-    gu: સાન્ટો ડોમિંગો દે લોસ સાચિલાસ પ્રાંત
-    hi: सैंटो डोमिंगो डी लोस सैकिलास प्रांत
-    id: Provinsi Santo Domingo de los Tsáchilas
-    it: provincia di Santo Domingo de los Tsáchilas
-    ja: サント・ドミンゴ・デ・ロス・ツァチラス県
-    ka: სანტო-დომინგო-დე-ლოს-ტსაჩილასის პროვინცია
-    kn: ಸ್ಯಾಂಟೋ ಡೊಮಿಂಗೊ ಡಿ ಲಾಸ್ ತ್ಸಾಚಿಲಾಸ್ ಪ್ರಾಂತ್ಯ
-    ko: 산토도밍고데로스차칠라스 주
-    lt: Santo Domingo de los Cačilaso provincija
-    mr: सँटो डोमिंगो डी लॉस त्साचिलास प्रांत
-    ms: Daerah Santo Domingo de los Tsáchilas
-    nb: Santo Domingo de las Tsachilas provins
-    nl: Santo Domingo de los Tsáchilas
-    pl: Prowincja Santo Domingo de los Tsáchilas
-    pt: Santo Domingo de los Tsáchilas
-    ru: Санто-Доминго-де-лос-Тсачилас
-    si: සැන්ටෝ ඩොමින්ගෝ ඩි ලොස් ට්සාචිලාස් පළාත
-    sv: Santo Domingo de los Tsáchilas
-    ta: சந்தோ டொமிங்கோ டி லாஸ் டச்சிலஸ் மாகாணம்
-    te: సాంటో డామింగో ద లాస్ సాచిలాస్ ప్రావిన్స్
-    th: จังหวัดซานโตโดมิงโกเดลาคัลซาดา
-    tr: Santo Domingo de los Tsachilas Province
-    uk: Санто-Домінго-де-лос-Тсачилас
-    ur: سانتو دومنگو دے لاس تسآچیلاس صوبہ
-    vi: Tỉnh Santo Domingo de los Tsáchilas
-    lv: Santodomingo de los Cačilasas province
-    ceb: Provincia de Santo Domingo de los Tsáchilas
-    zh: 聖多明各-德洛斯查奇拉斯省
-    ccp: "\U00011125\U0001111A\U00011134\U00011111\U0001112E \U00011113\U0001112E\U0001111F\U00011128\U0001111A\U00011134\U00011109\U0001112E
-      \U00011113\U0001112C \U00011123\U00011127\U0001110C\U00011134 \U00011125\U0001110C\U00011128\U00011123\U0001110C\U00011134"
-    hy: Սանտա Դոմինգո դե լոս Տսաչիլաս
-    'no': Santo Domingo de las Tsachilas provins
-  comments:
-SE:
-  name: Santa Elena
-  code:
-  unofficial_names: Santa Elena
-  geo:
-    latitude: -2.1934804
-    longitude: -80.54384499999999
-    min_latitude: -2.508378
-    min_longitude: -81.0067736
-    max_latitude: -1.647962
-    max_longitude: -80.2266889
-  translations:
-    ar: مقاطعة سانتا إيلينا
-    be: Правінцыя Санта-Элена
-    bg: Света Елена
-    bn: স্যান্টা এলেনা প্রদেশ
-    da: Santa Elena Province
-    de: Santa Elena
-    el: Επαρχία Σάντα Έλενα
-    en: Santa Elena
-    es: Provincia de Santa Elena
-    fa: استان سانتا النا
-    fi: Santa Elena
-    fr: Santa Elena
-    gu: સાંતા એલેના પ્રાંત
-    hi: सैंटा एलेना प्रांत
-    id: Provinsi Santa Elena
-    it: provincia di Santa Elena
-    ja: サンタ・エレーナ県
-    ka: სანტა-ელენას პროვინცია
-    kn: ಸಾಂಟಾ ಎಲೆನಾ ಪ್ರಾಂತ್ಯ
-    ko: 산타엘레나 주
-    lt: Santa Elenos provincija
-    mr: सांता एलेना प्रांत
-    ms: Santa Elena Province
-    nb: Santa Elena provins
-    nl: Santa Elena
-    pl: Prowincja Santa Elena
-    pt: Santa Elena (província)
-    ru: Санта-Элена
-    si: සැන්ටා එලේනා පළාත
-    sv: Santa Elena
-    ta: சாண்டா எலெனா மாகாணம்
-    te: సాంటా ఎలీనా ప్రావిన్స్
-    th: จังหวัดซานตา เอเลนา
-    tr: Santa Elena Province
-    uk: Санта-Елена
-    ur: سانتا الینا صوبہ
-    vi: Tỉnh Santa Elena
-    lv: Santaelenas province
-    ceb: Provincia de Santa Elena
-    zh: 聖埃倫娜省
-    ccp: "\U00011125\U0001111A\U00011134\U00011111 \U00011103\U0001112C\U00011123\U0001112C\U0001111A"
-    mk: Санта Елена
-    'no': Santa Elena provins
-  comments:
+  type: province

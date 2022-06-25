@@ -1,7 +1,7 @@
 ---
 '11':
   name: Tunis
-  code:
+  code: '11'
   unofficial_names:
   - Toûnis
   - Tūnis
@@ -47,9 +47,10 @@
     ccp: "\U00011111\U0001112A\U0001111A\U00011128\U0001110C\U00011134"
     'no': Tunis
   comments:
+  type: governorate
 '12':
   name: L'Ariana
-  code:
+  code: '12'
   unofficial_names:
   - Ariano
   - Iryanah
@@ -99,9 +100,10 @@
     az: Aryana vilayəti
     'no': Ariana
   comments:
+  type: governorate
 '13':
   name: Ben Arous
-  code:
+  code: '13'
   unofficial_names:
   - Bin Arus
   - Ben Arous
@@ -161,9 +163,10 @@
     az: Ben Arus vilayəti
     'no': Ben Arous
   comments:
+  type: governorate
 '14':
   name: La Manouba
-  code:
+  code: '14'
   unofficial_names:
   - Manouba
   geo:
@@ -220,9 +223,10 @@
     az: Manuba vilayəti
     'no': Manouba
   comments:
+  type: governorate
 '21':
   name: Nabeul
-  code:
+  code: '21'
   unofficial_names:
   - Nabul
   - Nabeul
@@ -280,9 +284,10 @@
     az: Nabul vilayəti
     'no': Nabeul
   comments:
+  type: governorate
 '22':
   name: Zaghouan
-  code:
+  code: '22'
   unofficial_names:
   - Zaghwan
   - Zagwan
@@ -340,9 +345,10 @@
     ccp: "\U0001110E\U0001110A\U0001112F\U00011120\U0001111A\U00011134"
     'no': Zaghouan (guvernement)
   comments:
+  type: governorate
 '23':
   name: Bizerte
-  code:
+  code: '23'
   unofficial_names:
   - Banzart
   - Benzert
@@ -404,9 +410,10 @@
     az: Bizerta vilayəti
     'no': Bizerte
   comments:
+  type: governorate
 '31':
   name: Béja
-  code:
+  code: '31'
   unofficial_names:
   - Bajah
   - Béja
@@ -454,9 +461,10 @@
     az: Beca vilayəti
     'no': Béja
   comments:
+  type: governorate
 '32':
   name: Jendouba
-  code:
+  code: '32'
   unofficial_names:
   - Jundubah
   - Jendouba
@@ -514,9 +522,10 @@
     az: Cenduba vilayəti
     'no': Jendouba
   comments:
+  type: governorate
 '33':
   name: Le Kef
-  code:
+  code: '33'
   unofficial_names:
   - El Kef
   - Le Kef
@@ -574,9 +583,10 @@
     az: Kef vilayəti
     'no': Kef
   comments:
+  type: governorate
 '34':
   name: Siliana
-  code:
+  code: '34'
   unofficial_names:
   - Silyanah
   - Siliana
@@ -633,9 +643,10 @@
     ccp: "\U00011125\U00011128\U00011123\U00011128\U00011120\U0001111A"
     'no': Siliana
   comments:
+  type: governorate
 '41':
   name: Kairouan
-  code:
+  code: '41'
   unofficial_names:
   - al-Qayrawan
   - Kairouan
@@ -679,9 +690,10 @@
     az: Kayruan vilayəti
     'no': Kairouan
   comments:
+  type: governorate
 '42':
   name: Kasserine
-  code:
+  code: '42'
   unofficial_names:
   - Qasrayn
   - Kasserine
@@ -739,9 +751,10 @@
     az: Kasserin vilayəti
     'no': Kasserine
   comments:
+  type: governorate
 '43':
   name: Sidi Bouzid
-  code:
+  code: '43'
   unofficial_names:
   - Sidi Bu Zayd
   - Sidi Bouzid
@@ -799,9 +812,10 @@
     az: Sidi-Bu-Zid vilayəti
     'no': Sidi Bouzid
   comments:
+  type: governorate
 '51':
   name: Sousse
-  code:
+  code: '51'
   unofficial_names:
   - Susah
   - Sousse
@@ -859,9 +873,10 @@
     ccp: "\U00011125\U0001112F\U0001110C\U00011134"
     'no': Sousse
   comments:
+  type: governorate
 '52':
   name: Monastir
-  code:
+  code: '52'
   unofficial_names:
   - al-Munastir
   - Monastir
@@ -920,9 +935,10 @@
     az: Monastir vilayəti
     'no': Monastir
   comments:
+  type: governorate
 '53':
   name: Mahdia
-  code:
+  code: '53'
   unofficial_names:
   - Mahdia
   - al-Mahdiyah
@@ -981,9 +997,10 @@
     az: Mahdiya vilayəti
     'no': Mahdia
   comments:
+  type: governorate
 '61':
   name: Sfax
-  code:
+  code: '61'
   unofficial_names:
   - Safaqis
   - Sfax
@@ -1043,9 +1060,10 @@
     az: Sfaqs vilayəti
     'no': Sfax
   comments:
+  type: governorate
 '71':
   name: Gafsa
-  code:
+  code: '71'
   unofficial_names: Gafsa
   geo:
     latitude: 34.416667
@@ -1102,9 +1120,10 @@
     az: Qafsa vilayəti
     'no': Gafsa
   comments:
+  type: governorate
 '72':
   name: Tozeur
-  code:
+  code: '72'
   unofficial_names:
   - Tozeur
   geo:
@@ -1160,9 +1179,10 @@
     ccp: "\U00011111\U0001112E\U0001110E\U0001112C\U00011105\U0001112A\U00011122\U00011134"
     'no': Tozeur
   comments:
+  type: governorate
 '73':
   name: Kebili
-  code:
+  code: '73'
   unofficial_names:
   - Qabili
   - Qabilī
@@ -1222,9 +1242,10 @@
     az: Kebili vilayəti
     'no': Kebili
   comments:
+  type: governorate
 '81':
   name: Gabès
-  code:
+  code: '81'
   unofficial_names:
   - Qabis
   - Gabès
@@ -1283,9 +1304,10 @@
     az: Qabes vilayəti
     'no': Gabès
   comments:
+  type: governorate
 '82':
   name: Medenine
-  code:
+  code: '82'
   unofficial_names:
   - Madaniyin
   - Medenine
@@ -1343,9 +1365,10 @@
     az: Medenin vilayəti
     'no': Medenine
   comments:
+  type: governorate
 '83':
   name: Tataouine
-  code:
+  code: '83'
   unofficial_names:
   - Tatawin
   - Tatouine
@@ -1402,3 +1425,4 @@
     ccp: "\U00011111\U00011111\U0001112F\U00011103\U00011128\U0001111A\U00011134"
     'no': Tataouine
   comments:
+  type: governorate

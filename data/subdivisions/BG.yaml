@@ -1,7 +1,7 @@
 ---
 '01':
   name: Blagoevgrad
-  code:
+  code: '01'
   unofficial_names: Blagoevgrad
   geo:
     latitude: 42.0208569
@@ -73,9 +73,10 @@
     mk: Благоевградска област
     'no': Blagoevgrad oblast
   comments:
+  type: district
 '02':
   name: Burgas
-  code:
+  code: '02'
   unofficial_names: Burgas
   geo:
     latitude: 42.50479259999999
@@ -147,9 +148,10 @@
     mk: Бургаска област
     'no': Burgas oblast
   comments:
+  type: district
 '03':
   name: Varna
-  code:
+  code: '03'
   unofficial_names: Varna
   geo:
     latitude: 43.2140504
@@ -210,9 +212,10 @@
     mk: Варненска област
     'no': Varna oblast
   comments:
+  type: district
 '04':
   name: Veliko Tarnovo
-  code:
+  code: '04'
   unofficial_names: Veliko Tarnovo
   geo:
     latitude: 43.0756739
@@ -283,9 +286,10 @@
     mk: Великотрновска област
     'no': Veliko Tarnovo oblast
   comments:
+  type: district
 '05':
   name: Vidin
-  code:
+  code: '05'
   unofficial_names: Vidin
   geo:
     latitude: 43.996159
@@ -357,9 +361,10 @@
     mk: Видинска област
     'no': Vidin oblast
   comments:
+  type: district
 '06':
   name: Vratsa
-  code:
+  code: '06'
   unofficial_names: Vratsa
   geo:
     latitude: 43.2102375
@@ -432,9 +437,10 @@
     mk: Врачанска област
     'no': Vratsa oblast
   comments:
+  type: district
 '07':
   name: Gabrovo
-  code:
+  code: '07'
   unofficial_names: Gabrovo
   geo:
     latitude: 42.8742212
@@ -505,9 +511,10 @@
     mk: Габровска област
     'no': Gabrovo oblast
   comments:
+  type: district
 '08':
   name: Dobrich
-  code:
+  code: '08'
   unofficial_names: Dobrich
   geo:
     latitude: 43.57259
@@ -578,9 +585,10 @@
     mk: Добричка област
     'no': Dobritsj oblast
   comments:
+  type: district
 '09':
   name: Kardzhali
-  code:
+  code: '09'
   unofficial_names: Kardzhali
   geo:
     latitude: 41.6338439
@@ -652,9 +660,10 @@
     mk: Крџалиска област
     'no': Kardzhali provins
   comments:
+  type: district
 '10':
   name: Kjustendil
-  code:
+  code: '10'
   unofficial_names: Kjustendil
   geo:
     latitude: 42.2868817
@@ -724,9 +733,10 @@
     mk: Ќустендилска област
     'no': Kyustendil provins
   comments:
+  type: district
 '11':
   name: Lovech
-  code:
+  code: '11'
   unofficial_names: Lovech
   geo:
     latitude: 43.1369534
@@ -797,9 +807,10 @@
     mk: Ловечка област
     'no': Lovetsj oblast
   comments:
+  type: district
 '12':
   name: Montana
-  code:
+  code: '12'
   unofficial_names: Montana
   geo:
     latitude: 43.4085161
@@ -859,9 +870,10 @@
     mk: Монтанска област
     'no': Montana oblast
   comments:
+  type: district
 '13':
   name: Pazardzhik
-  code:
+  code: '13'
   unofficial_names: Pazardzhik
   geo:
     latitude: 42.1927654
@@ -932,9 +944,10 @@
     mk: Пазарџичка област
     'no': Pazardzhik provins
   comments:
+  type: district
 '14':
   name: Pernik
-  code:
+  code: '14'
   unofficial_names: Pernik
   geo:
     latitude: 42.6051862
@@ -1005,9 +1018,10 @@
     mk: Перничка област
     'no': Pernik oblast
   comments:
+  type: district
 '15':
   name: Pleven
-  code:
+  code: '15'
   unofficial_names: Pleven
   geo:
     latitude: 43.4170423
@@ -1078,9 +1092,10 @@
     mk: Плевенска област
     'no': Pleven oblast
   comments:
+  type: district
 '16':
   name: Plovdiv
-  code:
+  code: '16'
   unofficial_names: Plovdiv
   geo:
     latitude: 42.1354079
@@ -1151,9 +1166,10 @@
     mk: Пловдивска област
     'no': Plovdiv oblast
   comments:
+  type: district
 '17':
   name: Razgrad
-  code:
+  code: '17'
   unofficial_names: Razgrad
   geo:
     latitude: 43.53367189999999
@@ -1224,9 +1240,10 @@
     mk: Разградска област
     'no': Razgrad oblast
   comments:
+  type: district
 '18':
   name: Ruse
-  code:
+  code: '18'
   unofficial_names: Ruse
   geo:
     latitude: 43.83557130000001
@@ -1297,9 +1314,10 @@
     mk: Русенска област
     'no': Ruse oblast
   comments:
+  type: district
 '19':
   name: Silistra
-  code:
+  code: '19'
   unofficial_names: Silistra
   geo:
     latitude: 44.1147271
@@ -1370,9 +1388,10 @@
     mk: Силистренска област
     'no': Silistra oblast
   comments:
+  type: district
 '20':
   name: Sliven
-  code:
+  code: '20'
   unofficial_names: Sliven
   geo:
     latitude: 42.6816536
@@ -1443,9 +1462,10 @@
     mk: Сливенска област
     'no': Sliven oblast
   comments:
+  type: district
 '21':
   name: Smolyan
-  code:
+  code: '21'
   unofficial_names: Smolyan
   geo:
     latitude: 41.5774233
@@ -1516,9 +1536,10 @@
     mk: Смолјанска област
     'no': Smoljan oblast
   comments:
+  type: district
 '22':
   name: Sofia-Grad
-  code:
+  code: '22'
   unofficial_names: Sofia-Grad
   geo:
     latitude: 42.6977082
@@ -1560,9 +1581,10 @@
     bs: Oblast Sofija-grad
     mk: Софија-град
   comments:
+  type: district
 '23':
   name: Sofia
-  code:
+  code: '23'
   unofficial_names: Sofia
   geo:
     latitude: 42.6977082
@@ -1652,9 +1674,10 @@
     'no': Sofia provins
     yo_BJ: Sofia
   comments:
+  type: district
 '24':
   name: Stara Zagora
-  code:
+  code: '24'
   unofficial_names: Stara Zagora
   geo:
     latitude: 42.4257769
@@ -1724,9 +1747,10 @@
     mk: Старозагорска област
     'no': Stara Zagora oblast
   comments:
+  type: district
 '25':
   name: Targovishte
-  code:
+  code: '25'
   unofficial_names: Targovishte
   geo:
     latitude: 43.2493556
@@ -1797,9 +1821,10 @@
     mk: Трговишка област
     'no': Targovishte provins
   comments:
+  type: district
 '26':
   name: Haskovo
-  code:
+  code: '26'
   unofficial_names: Haskovo
   geo:
     latitude: 41.9344366
@@ -1870,9 +1895,10 @@
     mk: Хасковска област
     'no': Haskovo oblast
   comments:
+  type: district
 '27':
   name: Šumen
-  code:
+  code: '27'
   unofficial_names: Šumen
   geo:
     latitude: 43.2712398
@@ -1943,9 +1969,10 @@
     mk: Шуменска област
     'no': Sjumen oblast
   comments:
+  type: district
 '28':
   name: Yambol
-  code:
+  code: '28'
   unofficial_names: Yambol
   geo:
     latitude: 42.48419990000001
@@ -2017,3 +2044,4 @@
     mk: Јамболска област
     'no': Jambol oblast
   comments:
+  type: district

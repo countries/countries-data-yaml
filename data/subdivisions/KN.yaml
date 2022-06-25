@@ -1,7 +1,7 @@
 ---
 '01':
   name: Christ Church Nichola Town
-  code:
+  code: '01'
   unofficial_names: Christ Church Nichola Town
   geo:
     latitude: 17.3604812
@@ -53,9 +53,10 @@
     mk: Крајст Чрч Никола Таун
     'no': Christ Church Nichola Town prestegjeld
   comments:
+  type: parish
 '02':
   name: Saint Anne Sandy Point
-  code:
+  code: '02'
   unofficial_names: Saint Anne Sandy Point
   geo:
     latitude: 17.3725333
@@ -108,9 +109,10 @@
     mk: Сент Ен Сенди Поинт
     'no': Saint Anne Sandy Point prestegjeld
   comments:
+  type: parish
 '03':
   name: Saint George Basseterre
-  code:
+  code: '03'
   unofficial_names: Saint George Basseterre
   geo:
     latitude: 17.2350612
@@ -161,9 +163,10 @@
     uk: Парафія Сент-Джордж-Бастер
     'no': Saint George Basseterre prestegjeld
   comments:
+  type: parish
 '04':
   name: Saint George Gingerland
-  code:
+  code: '04'
   unofficial_names: Saint George Gingerland
   geo:
     latitude: 17.1257759
@@ -214,9 +217,10 @@
     uk: Парафія Сент-Джордж-Джинджерланд
     'no': Saint George Gingerland prestegjeld
   comments:
+  type: parish
 '05':
   name: Saint James Windward
-  code:
+  code: '05'
   unofficial_names: Saint James Windward
   geo:
     latitude: 17.1769633
@@ -267,9 +271,10 @@
     uk: Парафія Сент-Джеймс-Віндвард
     'no': Saint James Windward prestegjeld
   comments:
+  type: parish
 '06':
   name: Saint John Capisterre
-  code:
+  code: '06'
   unofficial_names: Saint John Capisterre
   geo:
     latitude: 17.3810341
@@ -320,9 +325,10 @@
     uk: Парафія Сент-Джон-Капістер
     'no': Saint John Capisterre prestegjeld
   comments:
+  type: parish
 '07':
   name: Saint John Figtree
-  code:
+  code: '07'
   unofficial_names: Saint John Figtree
   geo:
     latitude: 17.1155748
@@ -373,9 +379,10 @@
     uk: Парафія Сент-Джон-Фігтрі
     'no': Saint John Figtree prestegjeld
   comments:
+  type: parish
 '08':
   name: Saint Mary Cayon
-  code:
+  code: '08'
   unofficial_names: Saint Mary Cayon
   geo:
     latitude: 17.3462071
@@ -426,9 +433,10 @@
     uk: Парафія Сент-Мері-Кайон
     'no': Saint Mary Cayon prestegjeld
   comments:
+  type: parish
 '09':
   name: Saint Paul Capisterre
-  code:
+  code: '09'
   unofficial_names: Saint Paul Capisterre
   geo:
     latitude: 17.3924804
@@ -479,9 +487,10 @@
     uk: Парафія Сент-Пол-Капістер
     'no': Saint Paul Capisterre prestegjeld
   comments:
+  type: parish
 '10':
   name: Saint Paul Charlestown
-  code:
+  code: '10'
   unofficial_names: Saint Paul Charlestown
   geo:
     latitude: 17.1346297
@@ -532,9 +541,10 @@
     uk: Парафія Сент-Пол-Чарльзтаун
     'no': Saint Paul Charlestown prestegjeld
   comments:
+  type: parish
 '11':
   name: Saint Peter Basseterre
-  code:
+  code: '11'
   unofficial_names: Saint Peter Basseterre
   geo:
     latitude: 17.3102911
@@ -585,9 +595,10 @@
     uk: Парафія Сент-Пітер-Бастер
     'no': Saint Peter Basseterre prestegjeld
   comments:
+  type: parish
 '12':
   name: Saint Thomas Lowland
-  code:
+  code: '12'
   unofficial_names: Saint Thomas Lowland
   geo:
     latitude: 17.1650513
@@ -638,9 +649,10 @@
     uk: Парафія Сент-Томас-Лоуленд
     'no': Saint Thomas Lowland prestegjeld
   comments:
+  type: parish
 '13':
   name: Saint Thomas Middle Island
-  code:
+  code: '13'
   unofficial_names: Saint Thomas Middle Island
   geo:
     latitude: 17.3348813
@@ -690,9 +702,10 @@
     uk: Парафія Сент-Томас-Мідл-Айленд
     'no': Saint Thomas Middle Island prestegjeld
   comments:
+  type: parish
 '15':
   name: Trinity Palmetto Point
-  code:
+  code: '15'
   unofficial_names: Trinity Palmetto Point
   geo:
     latitude: 17.3063519
@@ -745,9 +758,10 @@
     mk: Тринити Палмето Поинт
     'no': Trinity Palmetto Point prestegjeld
   comments:
+  type: parish
 K:
   name: Saint Kitts
-  code:
+  code: K
   unofficial_names:
   geo:
     latitude:
@@ -802,9 +816,10 @@ K:
     mk: Свети Кристофер
     'no': Saint Kitts
   comments:
+  type: state
 N:
   name: Nevis
-  code:
+  code: N
   unofficial_names:
   geo:
     latitude:
@@ -860,3 +875,4 @@ N:
     mk: Невис
     'no': Nevis
   comments:
+  type: state

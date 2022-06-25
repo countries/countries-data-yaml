@@ -1,7 +1,7 @@
 ---
 '01':
   name: Balzers
-  code:
+  code: '01'
   unofficial_names: Balzers
   geo:
     latitude: 47.06887
@@ -48,9 +48,10 @@
     mk: Балцерс
     'no': Balzers
   comments:
+  type: commune
 '02':
   name: Eschen
-  code:
+  code: '02'
   unofficial_names: Eschen
   geo:
     latitude: 47.21239
@@ -98,9 +99,10 @@
     mk: Ешен
     'no': Eschen
   comments:
+  type: commune
 '03':
   name: Gamprin
-  code:
+  code: '03'
   unofficial_names: Gamprin
   geo:
     latitude: 47.2196376
@@ -146,9 +148,10 @@
     mk: Гамприн
     'no': Gamprin
   comments:
+  type: commune
 '04':
   name: Mauren
-  code:
+  code: '04'
   unofficial_names: Mauren
   geo:
     latitude: 47.21937
@@ -192,9 +195,10 @@
     mk: Маурен
     'no': Mauren
   comments:
+  type: commune
 '05':
   name: Planken
-  code:
+  code: '05'
   unofficial_names: Planken
   geo:
     latitude: 47.1855315
@@ -238,9 +242,10 @@
     mk: Планкен
     'no': Planken
   comments:
+  type: commune
 '06':
   name: Ruggell
-  code:
+  code: '06'
   unofficial_names:
   - Ruggel
   geo:
@@ -285,9 +290,10 @@
     mk: Ругел
     'no': Ruggell
   comments:
+  type: commune
 '07':
   name: Schaan
-  code:
+  code: '07'
   unofficial_names: Schaan
   geo:
     latitude: 47.16638529999999
@@ -343,9 +349,10 @@
     mk: Шан
     'no': Schaan
   comments:
+  type: commune
 '08':
   name: Schellenberg
-  code:
+  code: '08'
   unofficial_names: Schellenberg
   geo:
     latitude: 47.23968439999999
@@ -392,9 +399,10 @@
     mk: Шеленберг
     'no': Schellenberg
   comments:
+  type: commune
 '09':
   name: Triesen
-  code:
+  code: '09'
   unofficial_names: Triesen
   geo:
     latitude: 47.1111739
@@ -439,9 +447,10 @@
     mk: Тризен
     'no': Triesen
   comments:
+  type: commune
 '10':
   name: Triesenberg
-  code:
+  code: '10'
   unofficial_names: Triesenberg
   geo:
     latitude: 47.1173252
@@ -487,9 +496,10 @@
     mk: Тризенберг
     'no': Triesenberg
   comments:
+  type: commune
 '11':
   name: Vaduz
-  code:
+  code: '11'
   unofficial_names: Vaduz
   geo:
     latitude: 47.14136999999999
@@ -577,3 +587,4 @@
     'no': Vaduz
     yo_BJ: Vaduz
   comments:
+  type: commune

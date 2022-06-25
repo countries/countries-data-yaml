@@ -1,7 +1,7 @@
 ---
 BR:
   name: Brokopondo
-  code:
+  code: BR
   unofficial_names: Brokopondo
   geo:
     latitude: 4.7710247
@@ -54,9 +54,10 @@ BR:
     ccp: "\U0001111D\U00011133\U00011122\U0001112E\U00011107\U00011128\U0001111B\U0001112E\U0001111A\U00011134\U00011113\U0001112E"
     'no': Brokopondo
   comments:
+  type: district
 CM:
   name: Commewijne
-  code:
+  code: CM
   unofficial_names: Commewijne
   geo:
     latitude: 5.740211
@@ -109,9 +110,10 @@ CM:
     ccp: "\U00011107\U00011127\U0001111F\U0001112C\U00011105\U0001112A\U00011103\U00011128\U0001110C\U00011134\U0001111A\U0001112C"
     'no': Commewijne
   comments:
+  type: district
 CR:
   name: Coronie
-  code:
+  code: CR
   unofficial_names: Coronie
   geo:
     latitude: 5.6943271
@@ -163,9 +165,10 @@ CR:
     ccp: "\U00011107\U00011127\U0001112E\U00011122\U0001112E\U0001111A\U0001112D"
     'no': Coronie
   comments:
+  type: district
 MA:
   name: Marowijne
-  code:
+  code: MA
   unofficial_names: Marowijne
   geo:
     latitude: 5.6268128
@@ -217,9 +220,10 @@ MA:
     ccp: "\U0001111F\U0001112C\U00011122\U0001112E\U00011103\U00011128\U0001110C\U00011134\U0001111A\U0001112C"
     'no': Marowijne
   comments:
+  type: district
 NI:
   name: Nickerie
-  code:
+  code: NI
   unofficial_names: Nickerie
   geo:
     latitude: 5.5855469
@@ -271,9 +275,10 @@ NI:
     ccp: "\U0001111A\U00011128\U00011107\U0001112C\U00011122\U0001112D"
     'no': Nickerie
   comments:
+  type: district
 PM:
   name: Paramaribo
-  code:
+  code: PM
   unofficial_names: Paramaribo
   geo:
     latitude: 5.8520355
@@ -313,9 +318,10 @@ PM:
     ccp: "\U0001111B\U00011133\U00011120\U00011122\U0001111F\U00011122\U00011128\U0001111D\U0001112E"
     'no': Paramaribo
   comments:
+  type: district
 PR:
   name: Para
-  code:
+  code: PR
   unofficial_names: Para
   geo:
     latitude: 5.481731799999999
@@ -367,9 +373,10 @@ PR:
     ccp: "\U0001111B\U00011133\U00011120\U00011122"
     'no': Para
   comments:
+  type: district
 SA:
   name: Saramacca
-  code:
+  code: SA
   unofficial_names: Saramacca
   geo:
     latitude: 5.7240813
@@ -421,9 +428,10 @@ SA:
     ccp: "\U00011125\U00011122\U0001111F\U00011107\U00011133\U00011126"
     'no': Saramacca
   comments:
+  type: district
 SI:
   name: Sipaliwini
-  code:
+  code: SI
   unofficial_names: Sipaliwini
   geo:
     latitude: 2.0331027
@@ -474,9 +482,10 @@ SI:
     ccp: "\U00011125\U00011128\U0001111B\U00011123\U00011128\U00011105\U0001112A\U00011103\U00011128\U0001111A\U00011128"
     'no': Sipaliwini
   comments:
+  type: district
 WA:
   name: Wanica
-  code:
+  code: WA
   unofficial_names: Wanica
   geo:
     latitude: 5.7323762
@@ -531,3 +540,4 @@ WA:
     ca: Wanica
     'no': Wanica
   comments:
+  type: district

@@ -1,7 +1,7 @@
 ---
 AGU:
   name: Aguascalientes
-  code:
+  code: AGU
   unofficial_names: Aguascalientes
   geo:
     latitude: 21.8852562
@@ -76,9 +76,10 @@ AGU:
     mk: Агваскалиентес
     'no': Aguascalientes
   comments:
+  type: state
 BCN:
   name: Baja California
-  code:
+  code: BCN
   unofficial_names: Baja California
   geo:
     latitude: 30.8406338
@@ -158,9 +159,10 @@ BCN:
     mk: Долна Калифорнија
     'no': Baja California
   comments:
+  type: state
 BCS:
   name: Baja California Sur
-  code:
+  code: BCS
   unofficial_names: Baja California Sur
   geo:
     latitude: 26.0444446
@@ -236,9 +238,10 @@ BCS:
     mk: Јужна Долна Калифорнија
     'no': Baja California Sur
   comments:
+  type: state
 CAM:
   name: Campeche
-  code:
+  code: CAM
   unofficial_names: Campeche
   geo:
     latitude: 19.8301251
@@ -311,9 +314,10 @@ CAM:
     mk: Кампече
     'no': Campeche
   comments:
+  type: state
 CHH:
   name: Chihuahua
-  code:
+  code: CHH
   unofficial_names: Chihuahua
   geo:
     latitude: 28.6329957
@@ -391,9 +395,10 @@ CHH:
     mk: Чивава
     'no': Chihuahua
   comments:
+  type: state
 CHP:
   name: Chiapas
-  code:
+  code: CHP
   unofficial_names: Chiapas
   geo:
     latitude: 16.7569318
@@ -466,9 +471,10 @@ CHP:
     bs: Chiapas
     'no': Chiapas
   comments:
+  type: state
 CMX:
   name: Ciudad de México
-  code:
+  code: CMX
   unofficial_names: Ciudad de México
   geo:
     latitude: 19.2464696
@@ -562,9 +568,10 @@ CMX:
     ha_NE: Mexico
     'no': Mexico by
   comments:
+  type: capital
 COA:
   name: Coahuila
-  code:
+  code: COA
   unofficial_names: Coahuila de Zaragoza
   geo:
     latitude: 27.058676
@@ -637,9 +644,10 @@ COA:
     uz: Koauila
     'no': Coahuila
   comments:
+  type: state
 COL:
   name: Colima
-  code:
+  code: COL
   unofficial_names: Colima
   geo:
     latitude: 19.2452342
@@ -712,9 +720,10 @@ COL:
     uz: Kolima
     'no': Colima
   comments:
+  type: state
 DUR:
   name: Durango
-  code:
+  code: DUR
   unofficial_names: Durango
   geo:
     latitude: 24.0277202
@@ -788,9 +797,10 @@ DUR:
     mk: Дуранго
     'no': Durango
   comments:
+  type: state
 GRO:
   name: Guerrero
-  code:
+  code: GRO
   unofficial_names: Guerrero
   geo:
     latitude: 17.4391926
@@ -863,9 +873,10 @@ GRO:
     mk: Гереро
     'no': Guerrero
   comments:
+  type: state
 GUA:
   name: Guanajuato
-  code:
+  code: GUA
   unofficial_names: Guanajuato
   geo:
     latitude: 21.0190145
@@ -939,9 +950,10 @@ GUA:
     mk: Гванахуато
     'no': Guanajuato
   comments:
+  type: state
 HID:
   name: Hidalgo
-  code:
+  code: HID
   unofficial_names: Hidalgo
   geo:
     latitude: 20.0910963
@@ -1015,9 +1027,10 @@ HID:
     mk: Идалго
     'no': Hidalgo
   comments:
+  type: state
 JAL:
   name: Jalisco
-  code:
+  code: JAL
   unofficial_names: Jalisco
   geo:
     latitude: 20.6595382
@@ -1092,9 +1105,10 @@ JAL:
     mk: Халиско
     'no': Jalisco
   comments:
+  type: state
 MEX:
   name: México
-  code:
+  code: MEX
   unofficial_names: México
   geo:
     latitude: 19.4326077
@@ -1167,9 +1181,10 @@ MEX:
     uz: Mexiko
     'no': México
   comments:
+  type: state
 MIC:
   name: Michoacán
-  code:
+  code: MIC
   unofficial_names: Michoacán de Ocampo
   geo:
     latitude: 19.5665192
@@ -1241,9 +1256,10 @@ MIC:
     uz: Michoakan
     'no': Michoacán
   comments:
+  type: state
 MOR:
   name: Morelos
-  code:
+  code: MOR
   unofficial_names: Morelos
   geo:
     latitude: 18.6813049
@@ -1312,9 +1328,10 @@ MOR:
     uz: Morelos
     'no': Morelos
   comments:
+  type: state
 NAY:
   name: Nayarit
-  code:
+  code: NAY
   unofficial_names: Nayarit
   geo:
     latitude: 21.7513844
@@ -1388,9 +1405,10 @@ NAY:
     uz: Nayarit
     'no': Nayarit
   comments:
+  type: state
 NLE:
   name: Nuevo León
-  code:
+  code: NLE
   unofficial_names: Nuevo León
   geo:
     latitude: 25.592172
@@ -1462,9 +1480,10 @@ NLE:
     uz: Nuevoleon
     'no': Nuevo León
   comments:
+  type: state
 OAX:
   name: Oaxaca
-  code:
+  code: OAX
   unofficial_names: Oaxaca
   geo:
     latitude: 17.0594169
@@ -1545,9 +1564,10 @@ OAX:
     uz: Oaksaka
     'no': Oaxaca
   comments:
+  type: state
 PUE:
   name: Puebla
-  code:
+  code: PUE
   unofficial_names: Puebla
   geo:
     latitude: 19.0412967
@@ -1621,9 +1641,10 @@ PUE:
     uz: Puebla
     'no': Puebla
   comments:
+  type: state
 QUE:
   name: Querétaro
-  code:
+  code: QUE
   unofficial_names: Querétaro
   geo:
     latitude: 20.5887932
@@ -1696,9 +1717,10 @@ QUE:
     uz: Keretaro (Meksika)
     'no': Querétaro
   comments:
+  type: state
 ROO:
   name: Quintana Roo
-  code:
+  code: ROO
   unofficial_names: Quintana Roo
   geo:
     latitude: 19.1817393
@@ -1772,9 +1794,10 @@ ROO:
     mk: Кинтана Ро
     'no': Quintana Roo
   comments:
+  type: state
 SIN:
   name: Sinaloa
-  code:
+  code: SIN
   unofficial_names: Sinaloa
   geo:
     latitude: 25.825701
@@ -1852,9 +1875,10 @@ SIN:
     'no': Sinaloa
     yo_BJ: Sinaloa
   comments:
+  type: state
 SLP:
   name: San Luis Potosí
-  code:
+  code: SLP
   unofficial_names: San Luis Potosí
   geo:
     latitude: 22.1564699
@@ -1927,9 +1951,10 @@ SLP:
     uz: San-Luis-Potosi
     'no': San Luis Potosí
   comments:
+  type: state
 SON:
   name: Sonora
-  code:
+  code: SON
   unofficial_names: Sonora
   geo:
     latitude: 29.2972247
@@ -2005,9 +2030,10 @@ SON:
     mk: Сонора
     'no': Sonora
   comments:
+  type: state
 TAB:
   name: Tabasco
-  code:
+  code: TAB
   unofficial_names: Tabasco
   geo:
     latitude: 17.8409173
@@ -2081,9 +2107,10 @@ TAB:
     uz: Tabasko
     'no': Tabasco
   comments:
+  type: state
 TAM:
   name: Tamaulipas
-  code:
+  code: TAM
   unofficial_names: Tamaulipas
   geo:
     latitude: 24.26694
@@ -2156,9 +2183,10 @@ TAM:
     uz: Tamaulipas
     'no': Tamaulipas
   comments:
+  type: state
 TLA:
   name: Tlaxcala
-  code:
+  code: TLA
   unofficial_names: Tlaxcala
   geo:
     latitude: 19.3181521
@@ -2231,9 +2259,10 @@ TLA:
     uz: Tlaskala
     'no': Tlaxcala
   comments:
+  type: state
 VER:
   name: Veracruz
-  code:
+  code: VER
   unofficial_names: Veracruz de Ignacio de la Llave
   geo:
     latitude: 19.173773
@@ -2309,9 +2338,10 @@ VER:
     mk: Веракруз
     'no': Veracruz
   comments:
+  type: state
 YUC:
   name: Yucatán
-  code:
+  code: YUC
   unofficial_names: Yucatán
   geo:
     latitude: 20.7098786
@@ -2386,9 +2416,10 @@ YUC:
     mk: Јукатан
     'no': Yucatán
   comments:
+  type: state
 ZAC:
   name: Zacatecas
-  code:
+  code: ZAC
   unofficial_names: Zacatecas
   geo:
     latitude: 22.7709249
@@ -2463,3 +2494,4 @@ ZAC:
     mk: Закатекас
     'no': Zacatecas
   comments:
+  type: state

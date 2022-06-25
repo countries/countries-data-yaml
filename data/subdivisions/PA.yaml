@@ -1,7 +1,7 @@
 ---
 '1':
   name: Bocas del Toro
-  code:
+  code: '1'
   unofficial_names: Bocas del Toro
   geo:
     latitude: 9.340556
@@ -59,9 +59,43 @@
       \U00011111\U0001112E\U00011122\U0001112E"
     'no': Bocas del Toro
   comments:
+  type: province
+'10':
+  name: Panamá Oeste
+  code: '10'
+  unofficial_names: Panamá Oeste
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    cs: Západní Panama
+    de: Provinz Panamá Oeste
+    en: West Panamá
+    es: Provincia de Panamá Oeste
+    fr: Panama Ouest
+    ja: 西パナマ県
+    ko: 서파나마 주
+    lv: Rietumpanama
+    nl: Panama Oeste
+    pl: Panama Zachodnia
+    ru: Западная Панама
+    ur: پاناما غربی صوبہ
+    zh: 西巴拿馬省
+    fa: استان پاناما اوسته
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U0001111B\U0001111A\U0001111F"
+    hy: Արևմտյան Պանամա
+    eu: Mendebaldeko Panama
+    uk: Західна Панама
+    bg: Панама Оесте
+  comments:
+  type: province
 '2':
   name: Coclé
-  code:
+  code: '2'
   unofficial_names: Coclé
   geo:
     latitude: 8.400144899999999
@@ -117,9 +151,10 @@
     ccp: "\U00011107\U0001112E\U00011107\U00011134\U00011123\U0001112C"
     'no': Cocle provins
   comments:
+  type: province
 '3':
   name: Colón
-  code:
+  code: '3'
   unofficial_names: Colón
   geo:
     latitude: 9.333333
@@ -177,9 +212,10 @@
     be: Калон
     'no': Colon provins
   comments:
+  type: province
 '4':
   name: Chiriquí
-  code:
+  code: '4'
   unofficial_names: Chiriquí
   geo:
     latitude: 8.3866964
@@ -235,9 +271,10 @@
     ccp: "\U00011125\U00011128\U00011122\U00011128\U00011107\U0001112D\U0001112A"
     'no': Chiriqui Prrvins
   comments:
+  type: province
 '5':
   name: Darién
-  code:
+  code: '5'
   unofficial_names: Darién
   geo:
     latitude: 7.868171299999999
@@ -295,9 +332,10 @@
     ccp: "\U00011113\U00011122\U00011128\U00011120\U0001112C\U0001111A\U00011134"
     'no': Darien provins
   comments:
+  type: province
 '6':
   name: Herrera
-  code:
+  code: '6'
   unofficial_names: Herrera
   geo:
     latitude: 7.7704282
@@ -353,9 +391,10 @@
     ccp: "\U00011126\U0001112C\U00011122\U00011122"
     'no': Herrera Kommune
   comments:
+  type: province
 '7':
   name: Los Santos
-  code:
+  code: '7'
   unofficial_names: Los Santos
   geo:
     latitude: 7.5909302
@@ -411,9 +450,10 @@
     ccp: "\U00011123\U00011127\U0001110C\U00011134 \U00011125\U0001111A\U00011134\U00011111\U0001112E\U0001110C\U00011134"
     'no': Los Santos Provins
   comments:
+  type: province
 '8':
   name: Panamá
-  code:
+  code: '8'
   unofficial_names: Panamá
   geo:
     latitude: 8.983333
@@ -459,9 +499,10 @@
     th: จังหวัดปานามา
     'no': Panamá
   comments:
+  type: province
 '9':
   name: Veraguas
-  code:
+  code: '9'
   unofficial_names: Veraguas
   geo:
     latitude: 8.866667
@@ -518,41 +559,10 @@
     eu: Veraguas
     'no': Veraguas provins
   comments:
-'10':
-  name: Panamá Oeste
-  code:
-  unofficial_names: Panamá Oeste
-  geo:
-    latitude:
-    longitude:
-    min_latitude:
-    min_longitude:
-    max_latitude:
-    max_longitude:
-  translations:
-    cs: Západní Panama
-    de: Provinz Panamá Oeste
-    en: West Panamá
-    es: Provincia de Panamá Oeste
-    fr: Panama Ouest
-    ja: 西パナマ県
-    ko: 서파나마 주
-    lv: Rietumpanama
-    nl: Panama Oeste
-    pl: Panama Zachodnia
-    ru: Западная Панама
-    ur: پاناما غربی صوبہ
-    zh: 西巴拿馬省
-    fa: استان پاناما اوسته
-    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U0001111B\U0001111A\U0001111F"
-    hy: Արևմտյան Պանամա
-    eu: Mendebaldeko Panama
-    uk: Західна Панама
-    bg: Панама Оесте
-  comments:
+  type: province
 EM:
   name: Emberá-Wounaan
-  code:
+  code: EM
   unofficial_names: Emberá-Wounaan
   geo:
     latitude:
@@ -608,9 +618,10 @@ EM:
     eu: Emberá-Wounaan
     'no': Embera Wounaan Comarca
   comments:
+  type: indigenous_region
 KY:
   name: Guna Yala
-  code:
+  code: KY
   unofficial_names: Guna Yala
   geo:
     latitude: 8.537981
@@ -667,9 +678,10 @@ KY:
     eu: Guna Yala
     'no': Kuna Yala
   comments:
+  type: indigenous_region
 NB:
   name: Ngäbe-Buglé
-  code:
+  code: NB
   unofficial_names: Ngäbe-Buglé
   geo:
     latitude:
@@ -725,3 +737,4 @@ NB:
     eu: Ngäbe-Buglé
     'no': Ngobe-Bugle Comarca
   comments:
+  type: indigenous_region

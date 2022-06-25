@@ -1,7 +1,7 @@
 ---
 A:
   name: Maseru
-  code:
+  code: A
   unofficial_names: Maseru
   geo:
     latitude: -29.31
@@ -54,9 +54,10 @@ A:
     ccp: "\U0001111F\U00011125\U0001112C\U00011122\U0001112A"
     'no': Maseru
   comments:
+  type: district
 B:
   name: Butha-Buthe
-  code:
+  code: B
   unofficial_names: Butha-Buthe
   geo:
     latitude: -28.801561
@@ -110,9 +111,10 @@ B:
     ccp: "\U0001111D\U0001112A\U00011117-\U0001111D\U0001112A\U00011116\U00011134"
     'no': Butha-Buthe
   comments:
+  type: district
 C:
   name: Leribe
-  code:
+  code: C
   unofficial_names: Leribe
   geo:
     latitude: -28.873361
@@ -166,9 +168,10 @@ C:
     ccp: "\U00011123\U0001112C\U00011122\U00011128\U0001111D\U0001112C"
     'no': Leribe
   comments:
+  type: district
 D:
   name: Berea
-  code:
+  code: D
   unofficial_names: Berea
   geo:
     latitude: -29.1746723
@@ -223,9 +226,10 @@ D:
     ccp: "\U0001111D\U00011122\U00011128\U00011120"
     'no': Berea
   comments:
+  type: district
 E:
   name: Mafeteng
-  code:
+  code: E
   unofficial_names: Mafeteng
   geo:
     latitude: -29.8224312
@@ -279,9 +283,10 @@ E:
     ccp: "\U0001111F\U0001111C\U0001112C\U00011111\U0001112C\U00011101"
     'no': Mafeteng
   comments:
+  type: district
 F:
   name: Mohale's Hoek
-  code:
+  code: F
   unofficial_names: Mohale's Hoek
   geo:
     latitude: -30.15
@@ -333,9 +338,10 @@ F:
     ccp: "\U0001111F\U00011127\U00011126\U00011123\U00011128\U0001110C\U00011134 \U00011126\U0001112E\U00011120\U0001112C\U00011107\U00011134"
     'no': Mohale’s Hoek
   comments:
+  type: district
 G:
   name: Quthing
-  code:
+  code: G
   unofficial_names: Quthing
   geo:
     latitude: -30.400111
@@ -387,9 +393,10 @@ G:
     ccp: "\U00011107\U0001112A\U00011120\U00011117\U00011128\U00011101"
     'no': Quthing
   comments:
+  type: district
 H:
   name: Qacha's Nek
-  code:
+  code: H
   unofficial_names: Qacha's Nek
   geo:
     latitude: -30.116667
@@ -440,9 +447,10 @@ H:
     ccp: "\U00011107\U0001112E\U00011120\U0001110C\U00011133\U00011126 \U0001111A\U0001112C\U00011107\U00011134"
     'no': Qacha’s Nek
   comments:
+  type: district
 J:
   name: Mokhotlong
-  code:
+  code: J
   unofficial_names: Mokhotlong
   geo:
     latitude: -29.288495
@@ -494,9 +502,10 @@ J:
     ccp: "\U0001111F\U0001112E\U00011108\U0001112E\U00011116\U00011134\U00011123\U00011127\U00011101"
     'no': Mokhotlong
   comments:
+  type: district
 K:
   name: Thaba-Tseka
-  code:
+  code: K
   unofficial_names: Thaba-Tseka
   geo:
     latitude: -29.5157527
@@ -548,3 +557,4 @@ K:
     ccp: "\U00011117\U0001111D-\U00011125\U0001112C\U00011107"
     'no': Thaba-Tseka
   comments:
+  type: district

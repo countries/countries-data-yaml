@@ -1,7 +1,7 @@
 ---
 AG:
   name: Aargau (de)
-  code:
+  code: AG
   unofficial_names:
   - Argovie
   geo:
@@ -80,9 +80,10 @@ AG:
     mk: Аргау
     'no': Aargau
   comments:
+  type: canton
 AI:
   name: Appenzell Innerrhoden (de)
-  code:
+  code: AI
   unofficial_names: Appenzell Innerrhoden (de)
   geo:
     latitude: 47.3161925
@@ -157,9 +158,10 @@ AI:
     mk: Апенцел Инероден
     'no': Appenzell Innerrhoden
   comments:
+  type: canton
 AR:
   name: Appenzell Ausserrhoden (de)
-  code:
+  code: AR
   unofficial_names:
   - Appenzell-Ausser Rhoden
   geo:
@@ -236,9 +238,10 @@ AR:
     mk: Апенцел Аусероден
     'no': Appenzell Ausserrhoden
   comments:
+  type: canton
 BE:
   name: Bern (de)
-  code:
+  code: BE
   unofficial_names:
   - Berne
   geo:
@@ -313,9 +316,10 @@ BE:
     mk: Берн
     'no': Bern
   comments:
+  type: canton
 BL:
   name: Basel-Landschaft (de)
-  code:
+  code: BL
   unofficial_names:
   - Bâle-Campagne
   geo:
@@ -389,9 +393,10 @@ BL:
     mk: Базел-краина
     'no': Basel-Landschaft
   comments:
+  type: canton
 BS:
   name: Basel-Stadt (de)
-  code:
+  code: BS
   unofficial_names:
   - Basel
   - Basilea
@@ -468,9 +473,10 @@ BS:
     mk: Базел-град
     'no': Basel-Stadt
   comments:
+  type: canton
 FR:
   name: Fribourg (fr)
-  code:
+  code: FR
   unofficial_names:
   - Freiburg
   geo:
@@ -546,9 +552,10 @@ FR:
     mk: Фрибур
     'no': Fribourg
   comments:
+  type: canton
 GE:
   name: Genève (fr)
-  code:
+  code: GE
   unofficial_names:
   - Ginevra
   - Genève
@@ -621,9 +628,10 @@ GE:
     mk: Женева
     'no': Genève
   comments:
+  type: canton
 GL:
   name: Glarus (de)
-  code:
+  code: GL
   unofficial_names:
   - Glaris
   geo:
@@ -700,9 +708,10 @@ GL:
     mk: Гларус
     'no': Glarus
   comments:
+  type: canton
 GR:
   name: Graubünden (de)
-  code:
+  code: GR
   unofficial_names:
   - Grigioni
   - Grisons
@@ -781,9 +790,10 @@ GR:
     mk: Граубинден
     'no': Graubünden
   comments:
+  type: canton
 JU:
   name: Jura (fr)
-  code:
+  code: JU
   unofficial_names: Jura (fr)
   geo:
     latitude: 47.3444474
@@ -857,9 +867,10 @@ JU:
     mk: Кантон Јура
     'no': Jura
   comments:
+  type: canton
 LU:
   name: Luzern (de)
-  code:
+  code: LU
   unofficial_names:
   - Lucerna
   - Lucerne
@@ -935,9 +946,10 @@ LU:
     mk: Луцерн
     'no': Luzern
   comments:
+  type: canton
 NE:
   name: Neuchâtel (fr)
-  code:
+  code: NE
   unofficial_names:
   - Neuenburg
   geo:
@@ -1014,9 +1026,10 @@ NE:
     mk: Нешател
     'no': Neuchâtel
   comments:
+  type: canton
 NW:
   name: Nidwalden (de)
-  code:
+  code: NW
   unofficial_names:
   - Nidwald
   geo:
@@ -1090,9 +1103,10 @@ NW:
     mk: Нидвалден
     'no': Nidwalden
   comments:
+  type: canton
 OW:
   name: Obwalden (de)
-  code:
+  code: OW
   unofficial_names:
   - Obwald
   geo:
@@ -1167,9 +1181,10 @@ OW:
     mk: Обвалден
     'no': Obwalden
   comments:
+  type: canton
 SG:
   name: Sankt Gallen (de)
-  code:
+  code: SG
   unofficial_names:
   - Saint Galle
   - Sankt Gallen
@@ -1248,9 +1263,10 @@ SG:
     mk: Санкт Гален
     'no': Sankt Gallen
   comments:
+  type: canton
 SH:
   name: Schaffhausen (de)
-  code:
+  code: SH
   unofficial_names:
   - Schaffhouse
   geo:
@@ -1323,9 +1339,10 @@ SH:
     mk: Шафхаузен
     'no': Schaffhausen
   comments:
+  type: canton
 SO:
   name: Solothurn (de)
-  code:
+  code: SO
   unofficial_names:
   - Soleure
   geo:
@@ -1400,9 +1417,10 @@ SO:
     mk: Золотурн
     'no': Solothurn
   comments:
+  type: canton
 SZ:
   name: Schwyz (de)
-  code:
+  code: SZ
   unofficial_names: Schwyz (de)
   geo:
     latitude: 47.0198346
@@ -1479,9 +1497,10 @@ SZ:
     mk: Швиц
     'no': Schwyz
   comments:
+  type: canton
 TG:
   name: Thurgau (de)
-  code:
+  code: TG
   unofficial_names:
   - Thurgovie
   geo:
@@ -1557,9 +1576,10 @@ TG:
     mk: Тургау
     'no': Thurgau
   comments:
+  type: canton
 TI:
   name: Ticino (it)
-  code:
+  code: TI
   unofficial_names:
   - Tessin
   - Tessin
@@ -1639,9 +1659,10 @@ TI:
     mk: Тичино
     'no': Ticino
   comments:
+  type: canton
 UR:
   name: Uri (de)
-  code:
+  code: UR
   unofficial_names: Uri (de)
   geo:
     latitude: 46.7738629
@@ -1716,9 +1737,10 @@ UR:
     mk: Ури
     'no': Uri
   comments:
+  type: canton
 VD:
   name: Vaud (fr)
-  code:
+  code: VD
   unofficial_names:
   - Waadt
   geo:
@@ -1794,9 +1816,10 @@ VD:
     mk: Во
     'no': Vaud
   comments:
+  type: canton
 VS:
   name: Valais (fr)
-  code:
+  code: VS
   unofficial_names:
   - Vallese
   - Wallis
@@ -1874,9 +1897,10 @@ VS:
     mk: Вале
     'no': Wallis
   comments:
+  type: canton
 ZG:
   name: Zug (de)
-  code:
+  code: ZG
   unofficial_names:
   - Zoug
   geo:
@@ -1952,9 +1976,10 @@ ZG:
     mk: Цуг
     'no': Zug
   comments:
+  type: canton
 ZH:
   name: Zürich (de)
-  code:
+  code: ZH
   unofficial_names:
   - Zurigo
   - Zürich
@@ -2034,3 +2059,4 @@ ZH:
     mk: Цирих
     'no': Zürich
   comments:
+  type: canton

@@ -1,7 +1,7 @@
 ---
 '01':
   name: Acquaviva
-  code:
+  code: '01'
   unofficial_names: Acquaviva
   geo:
     latitude: 43.945153
@@ -61,9 +61,10 @@
     ccp: "\U00011103\U0001112C\U00011107\U0001112A\U00011120\U0001111E\U00011128\U0001111E"
     'no': Acquaviva
   comments:
+  type: municipality
 '02':
   name: Chiesanuova
-  code:
+  code: '02'
   unofficial_names:
   - Poggio di Chiesanuova
   geo:
@@ -124,9 +125,10 @@
     ccp: "\U0001110C\U00011128\U00011125\U0001112C\U0001111A\U0001112F\U0001111E"
     'no': Chiesanuova
   comments:
+  type: municipality
 '03':
   name: Domagnano
-  code:
+  code: '03'
   unofficial_names: Domagnano
   geo:
     latitude: 43.9501929
@@ -187,9 +189,10 @@
     kk: Доманьяно
     'no': Domagnano
   comments:
+  type: municipality
 '04':
   name: Faetano
-  code:
+  code: '04'
   unofficial_names: Faetano
   geo:
     latitude: 43.9257086
@@ -251,9 +254,10 @@
     kk: Фаэтано
     'no': Faetano
   comments:
+  type: municipality
 '05':
   name: Fiorentino
-  code:
+  code: '05'
   unofficial_names: Fiorentino
   geo:
     latitude: 43.9078337
@@ -314,9 +318,10 @@
     ccp: "\U0001111C\U0001112D\U00011120\U0001112E\U00011122\U0001112C\U0001111A\U00011134\U00011111\U00011128\U0001111A\U0001112E"
     'no': Fiorentino
   comments:
+  type: municipality
 '06':
   name: Borgo Maggiore
-  code:
+  code: '06'
   unofficial_names: Borgo Maggiore
   geo:
     latitude: 43.9574882
@@ -377,9 +382,10 @@
     kk: Борго-Маджоре
     'no': Borgo Maggiore
   comments:
+  type: municipality
 '07':
   name: San Marino
-  code:
+  code: '07'
   unofficial_names:
   - Saint Marin
   geo:
@@ -466,9 +472,10 @@
     'no': San Marino
     yo_BJ: Ìlú San Màrínò
   comments:
+  type: municipality
 '08':
   name: Montegiardino
-  code:
+  code: '08'
   unofficial_names: Montegiardino
   geo:
     latitude: 43.9097318
@@ -529,9 +536,10 @@
     ccp: "\U0001111F\U00011127\U0001111A\U00011134\U00011111\U00011128\U00011109\U00011122\U00011134\U00011113\U00011128\U0001111A\U0001112E"
     'no': Montegiardino
   comments:
+  type: municipality
 '09':
   name: Serravalle
-  code:
+  code: '09'
   unofficial_names: Serravalle
   geo:
     latitude: 43.9690367
@@ -594,3 +602,4 @@
     mk: Серавале
     'no': Serravalle
   comments:
+  type: municipality

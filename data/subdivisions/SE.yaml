@@ -1,7 +1,7 @@
 ---
 AB:
   name: Stockholms län
-  code:
+  code: AB
   unofficial_names: Stockholms län
   geo:
     latitude: 59.60249579999999
@@ -70,9 +70,10 @@ AB:
     mk: Стокхолм
     'no': Stockholms län
   comments:
+  type: county
 AC:
   name: Västerbottens län
-  code:
+  code: AC
   unofficial_names: Västerbottens län
   geo:
     latitude: 65.3337311
@@ -138,9 +139,10 @@ AC:
     mk: Вестерботен
     'no': Västerbottens län
   comments:
+  type: county
 BD:
   name: Norrbottens län
-  code:
+  code: BD
   unofficial_names: Norrbottens län
   geo:
     latitude: 66.8309216
@@ -208,9 +210,10 @@ BD:
     mk: Норботен
     'no': Norrbottens län
   comments:
+  type: county
 C:
   name: Uppsala län
-  code:
+  code: C
   unofficial_names: Uppsala län
   geo:
     latitude: 60.00922619999999
@@ -280,9 +283,10 @@ C:
     mk: Упсала
     'no': Uppsala län
   comments:
+  type: county
 D:
   name: Södermanlands län
-  code:
+  code: D
   unofficial_names: Södermanlands län
   geo:
     latitude: 59.03363489999999
@@ -350,9 +354,10 @@ D:
     mk: Седерманланд
     'no': Södermanlands län
   comments:
+  type: county
 E:
   name: Östergötlands län
-  code:
+  code: E
   unofficial_names: Östergötlands län
   geo:
     latitude: 58.3453635
@@ -420,9 +425,10 @@ E:
     mk: Естерјетланд
     'no': Östergötlands län
   comments:
+  type: county
 F:
   name: Jönköpings län
-  code:
+  code: F
   unofficial_names: Jönköpings län
   geo:
     latitude: 57.3708434
@@ -490,9 +496,10 @@ F:
     mk: Јеншепинг
     'no': Jönköpings län
   comments:
+  type: county
 G:
   name: Kronobergs län
-  code:
+  code: G
   unofficial_names: Kronobergs län
   geo:
     latitude: 56.71834029999999
@@ -558,9 +565,10 @@ G:
     mk: Крунуберг
     'no': Kronobergs län
   comments:
+  type: county
 H:
   name: Kalmar län
-  code:
+  code: H
   unofficial_names:
   - Calmar
   geo:
@@ -627,9 +635,10 @@ H:
     mk: Калмар
     'no': Kalmar län
   comments:
+  type: county
 I:
   name: Gotlands län
-  code:
+  code: I
   unofficial_names: Gotlands län
   geo:
     latitude: 57.46841209999999
@@ -696,9 +705,10 @@ I:
     mk: Готланд
     'no': Gotlands län
   comments:
+  type: county
 K:
   name: Blekinge län
-  code:
+  code: K
   unofficial_names: Blekinge län
   geo:
     latitude: 56.2783837
@@ -765,9 +775,10 @@ K:
     mk: Блекинге
     'no': Blekinge län
   comments:
+  type: county
 M:
   name: Skåne län
-  code:
+  code: M
   unofficial_names:
   - Scania
   geo:
@@ -837,9 +848,10 @@ M:
     mk: Сконе
     'no': Skåne län
   comments:
+  type: county
 N:
   name: Hallands län
-  code:
+  code: N
   unofficial_names: Hallands län
   geo:
     latitude: 56.8966805
@@ -906,9 +918,10 @@ N:
     mk: Халанд
     'no': Hallands län
   comments:
+  type: county
 O:
   name: Västra Götalands län
-  code:
+  code: O
   unofficial_names: Västra Götalands län
   geo:
     latitude: 58.2527926
@@ -977,9 +990,10 @@ O:
     mk: Вестра Јеталанд
     'no': Västra Götalands län
   comments:
+  type: county
 S:
   name: Värmlands län
-  code:
+  code: S
   unofficial_names: Värmlands län
   geo:
     latitude: 59.7294065
@@ -1046,9 +1060,10 @@ S:
     mk: Вермланд
     'no': Värmlands län
   comments:
+  type: county
 T:
   name: Örebro län
-  code:
+  code: T
   unofficial_names: Örebro län
   geo:
     latitude: 59.535036
@@ -1117,9 +1132,10 @@ T:
     mk: Еребру
     'no': Örebro län
   comments:
+  type: county
 U:
   name: Västmanlands län
-  code:
+  code: U
   unofficial_names: Västmanlands län
   geo:
     latitude: 59.6713879
@@ -1185,9 +1201,10 @@ U:
     mk: Вестманланд
     'no': Västmanlands län
   comments:
+  type: county
 W:
   name: Dalarnas län
-  code:
+  code: W
   unofficial_names:
   - Dalarnas
   - Dalecarlia
@@ -1257,9 +1274,10 @@ W:
     mk: Даларна
     'no': Dalarnas län
   comments:
+  type: county
 X:
   name: Gävleborgs län
-  code:
+  code: X
   unofficial_names: Gävleborgs län
   geo:
     latitude: 61.30119930000001
@@ -1325,9 +1343,10 @@ X:
     mk: Јевлеборг
     'no': Gävleborgs län
   comments:
+  type: county
 Y:
   name: Västernorrlands län
-  code:
+  code: Y
   unofficial_names: Västernorrlands län
   geo:
     latitude: 63.4276473
@@ -1392,9 +1411,10 @@ Y:
     mk: Вестернорланд
     'no': Västernorrlands län
   comments:
+  type: county
 Z:
   name: Jämtlands län
-  code:
+  code: Z
   unofficial_names: Jämtlands län
   geo:
     latitude: 63.1711922
@@ -1460,3 +1480,4 @@ Z:
     mk: Јемтланд
     'no': Jämtlands län
   comments:
+  type: county

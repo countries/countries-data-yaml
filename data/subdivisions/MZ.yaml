@@ -1,7 +1,7 @@
 ---
 A:
   name: Niassa
-  code:
+  code: A
   unofficial_names: Niassa
   geo:
     latitude: -12.7826202
@@ -61,9 +61,10 @@ A:
     mk: Њаса
     'no': Niassa
   comments:
+  type: province
 B:
   name: Manica
-  code:
+  code: B
   unofficial_names: Manica
   geo:
     latitude: -19.5059787
@@ -121,9 +122,10 @@ B:
     ccp: "\U0001111F\U00011127\U0001111A\U00011128\U00011107"
     'no': Manica
   comments:
+  type: province
 G:
   name: Gaza
-  code:
+  code: G
   unofficial_names: Gaza
   geo:
     latitude: -23.0221928
@@ -183,9 +185,10 @@ G:
     ml: ഗാസ പ്രവിശ്യ
     'no': Gaza
   comments:
+  type: province
 I:
   name: Inhambane
-  code:
+  code: I
   unofficial_names: Inhambane
   geo:
     latitude: -23.866667
@@ -243,9 +246,10 @@ I:
     ccp: "\U00011103\U00011128\U0001111A\U00011134\U00011126\U0001111F\U00011134\U0001111D\U0001111A\U00011134"
     'no': Inhambane
   comments:
+  type: province
 L:
   name: Maputo
-  code:
+  code: L
   unofficial_names: Maputo
   geo:
     latitude: -25.966667
@@ -290,9 +294,10 @@ L:
     sr: Мапуто (покрајина)
     'no': Maputo
   comments:
+  type: province
 MPM:
   name: Maputo City
-  code:
+  code: MPM
   unofficial_names: Maputo City
   geo:
     latitude: -25.966667
@@ -383,9 +388,10 @@ MPM:
     'no': Maputo²
     yo_BJ: Maputo
   comments:
+  type: city
 N:
   name: Nampula
-  code:
+  code: N
   unofficial_names: Nampula
   geo:
     latitude: -15.116667
@@ -442,9 +448,10 @@ N:
     ccp: "\U0001111A\U0001111F\U00011134\U0001111B\U0001112A\U00011123"
     'no': Nampula
   comments:
+  type: province
 P:
   name: Cabo Delgado
-  code:
+  code: P
   unofficial_names: Cabo Delgado
   geo:
     latitude: -12.3335474
@@ -505,9 +512,10 @@ P:
     be: Кабу-Дэлгаду
     'no': Cabo Delgado
   comments:
+  type: province
 Q:
   name: Zambézia
-  code:
+  code: Q
   unofficial_names: Zambézia
   geo:
     latitude: -16.5638987
@@ -564,9 +572,10 @@ Q:
     ccp: "\U0001110E\U0001111F\U00011134\U0001111D\U0001112C\U0001110E\U00011128\U00011120"
     'no': Zambezia
   comments:
+  type: province
 S:
   name: Sofala
-  code:
+  code: S
   unofficial_names: Sofala
   geo:
     latitude: -19.2039073
@@ -624,9 +633,10 @@ S:
     ccp: "\U00011125\U0001112E\U0001111C\U00011123"
     'no': Sofala
   comments:
+  type: province
 T:
   name: Tete
-  code:
+  code: T
   unofficial_names: Tete
   geo:
     latitude: -16.166667
@@ -686,3 +696,4 @@ T:
     ccp: "\U00011111\U0001112C\U00011111\U0001112C"
     'no': Tete
   comments:
+  type: province
