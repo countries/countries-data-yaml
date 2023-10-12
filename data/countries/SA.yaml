@@ -10,6 +10,8 @@ SA:
   continent: Asia
   country_code: '966'
   currency_code: SAR
+  distance_unit: KM
+  g20_member: true
   gec: SA
   geo:
     latitude: 23.885942

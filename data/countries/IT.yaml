@@ -10,8 +10,11 @@ IT:
   continent: Europe
   country_code: '39'
   currency_code: EUR
+  distance_unit: KM
   eea_member: true
   eu_member: true
+  g7_member: true
+  g20_member: true
   gec: IT
   geo:
     latitude: 41.87194

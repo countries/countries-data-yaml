@@ -5,6 +5,9 @@ MC:
   continent: Europe
   country_code: '377'
   currency_code: EUR
+  distance_unit: KM
+  eu_member: false
+  euvat_member: true
   gec: MN
   geo:
     latitude: 43.73841760000001
