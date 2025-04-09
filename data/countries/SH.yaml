@@ -22,7 +22,6 @@ SH:
         lat: -41.0371886
         lng: -15.4248047
   international_prefix: '00'
-  ioc:
   iso_long_name: Saint Helena, Ascension and Tristan da Cunha
   iso_short_name: Saint Helena, Ascension and Tristan da Cunha
   languages_official:
@@ -42,6 +41,7 @@ SH:
   start_of_week: monday
   subregion: Western Africa
   un_locode: SH
+  un_member: false
   unofficial_names:
   - Saint Helena
   - Sankt Helena

@@ -22,7 +22,6 @@ CW:
         lat: 11.9224
         lng: -69.29899999999999
   international_prefix: '00'
-  ioc:
   iso_long_name: The Country of Curaçao
   iso_short_name: Curaçao
   languages_official:
@@ -41,6 +40,7 @@ CW:
   start_of_week: monday
   subregion: Caribbean
   un_locode: CW
+  un_member: false
   unofficial_names:
   - Curaçao
   - キュラソー島

@@ -49,6 +49,7 @@ CD:
   start_of_week: monday
   subregion: Middle Africa
   un_locode: CD
+  un_member: true
   unofficial_names:
   - Congo (Dem. Rep.)
   - Kongo (Dem. Rep.)
@@ -59,4 +60,5 @@ CD:
   - Democratic Republic of the Congo
   - Congo, Democratic Republic of
   - Congo (Kinshasa)
+  vehicle_registration_code: CGO
   world_region: EMEA

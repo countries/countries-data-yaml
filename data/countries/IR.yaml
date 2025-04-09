@@ -42,10 +42,12 @@ IR:
   start_of_week: saturday
   subregion: Southern Asia
   un_locode: IR
+  un_member: true
   unofficial_names:
   - Iran
   - Irán
   - Iran (Islamic Republic Of)
   - イラン・イスラム共和国
   - Islamic Republic of Iran
+  vehicle_registration_code: IR
   world_region: EMEA

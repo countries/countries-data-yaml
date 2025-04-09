@@ -22,7 +22,6 @@ FK:
         lat: -52.4744161
         lng: -61.3792419
   international_prefix: '00'
-  ioc:
   iso_long_name: The Falkland Islands
   iso_short_name: Falkland Islands (Malvinas)
   languages_official:
@@ -42,6 +41,7 @@ FK:
   start_of_week: monday
   subregion: South America
   un_locode: FK
+  un_member: false
   unofficial_names:
   - Falkland Islands
   - Falklandinseln

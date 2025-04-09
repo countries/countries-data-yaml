@@ -22,7 +22,6 @@ AI:
         lat: 18.1465043
         lng: -63.4803
   international_prefix: '011'
-  ioc:
   iso_long_name: Anguilla
   iso_short_name: Anguilla
   languages_official:
@@ -43,7 +42,9 @@ AI:
   start_of_week: monday
   subregion: Caribbean
   un_locode: AI
+  un_member: false
   unofficial_names:
   - Anguilla
   - アンギラ
+  vehicle_registration_code: AXA
   world_region: AMER

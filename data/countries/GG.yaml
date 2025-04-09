@@ -21,8 +21,6 @@ GG:
       southwest:
         lat: 49.4167199
         lng: -2.6745361
-  international_prefix: ''
-  ioc:
   iso_long_name: The Bailiwick of Guernsey
   iso_short_name: Guernsey
   languages_official:
@@ -31,9 +29,6 @@ GG:
   languages_spoken:
   - en
   - fr
-  national_destination_code_lengths: []
-  national_number_lengths: []
-  national_prefix: ''
   nationality: Channel Islander
   number: '831'
   postal_code: true
@@ -42,6 +37,7 @@ GG:
   start_of_week: monday
   subregion: Northern Europe
   un_locode: GG
+  un_member: false
   unofficial_names:
   - Guernsey and Alderney
   - Guernsey und Alderney
@@ -49,4 +45,5 @@ GG:
   - Guernsey y Alderney
   - ガーンジー
   - Guernsey
+  vehicle_registration_code: GBA
   world_region: EMEA

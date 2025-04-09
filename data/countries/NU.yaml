@@ -22,7 +22,6 @@ NU:
         lat: -19.1555668
         lng: -169.9500846
   international_prefix: '00'
-  ioc:
   iso_long_name: Niue
   iso_short_name: Niue
   languages_official:
@@ -41,6 +40,7 @@ NU:
   start_of_week: monday
   subregion: Polynesia
   un_locode: NU
+  un_member: false
   unofficial_names:
   - Niue
   - ニウエ

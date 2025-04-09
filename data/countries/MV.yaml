@@ -42,10 +42,12 @@ MV:
   start_of_week: sunday
   subregion: Southern Asia
   un_locode: MV
+  un_member: true
   unofficial_names:
   - Maldives
   - Malediven
   - Maldivas
   - モルディブ
   - Maldiven
+  vehicle_registration_code: MV
   world_region: APAC

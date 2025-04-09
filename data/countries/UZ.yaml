@@ -43,6 +43,7 @@ UZ:
   start_of_week: monday
   subregion: Central Asia
   un_locode: UZ
+  un_member: true
   unofficial_names:
   - Uzbekistan
   - Usbekistan
@@ -50,4 +51,5 @@ UZ:
   - Uzbekistán
   - ウズベキスタン
   - Oezbekistan
+  vehicle_registration_code: UZ
   world_region: EMEA

@@ -22,7 +22,6 @@ SJ:
         lat: 70.4662074
         lng: -10.5468752
   international_prefix: '00'
-  ioc:
   iso_long_name: Svalbard and Jan Mayen
   iso_short_name: Svalbard and Jan Mayen
   languages_official:
@@ -42,6 +41,7 @@ SJ:
   start_of_week: monday
   subregion: Northern Europe
   un_locode: SJ
+  un_member: false
   unofficial_names:
   - Svalbard and Jan Mayen
   - Svalbard und Jan Mayen

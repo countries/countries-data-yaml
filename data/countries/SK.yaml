@@ -49,6 +49,7 @@ SK:
   start_of_week: monday
   subregion: Eastern Europe
   un_locode: SK
+  un_member: true
   unofficial_names:
   - Slovakia
   - Slowakei
@@ -57,9 +58,9 @@ SK:
   - スロバキア
   - Slowakije
   vat_rates:
-    standard: 20
+    standard: 23
     reduced:
-    - 10
-    super_reduced:
-    parking:
+    - 19
+    super_reduced: 5
+  vehicle_registration_code: SK
   world_region: EMEA

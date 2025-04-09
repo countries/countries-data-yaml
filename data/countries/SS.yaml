@@ -22,7 +22,6 @@ SS:
         lat: 3.48898
         lng: 23.4408491
   international_prefix: '0'
-  ioc:
   iso_long_name: The Republic of South Sudan
   iso_short_name: South Sudan
   languages_official:
@@ -43,9 +42,11 @@ SS:
   start_of_week: sunday
   subregion: Northern Africa
   un_locode: SS
+  un_member: true
   unofficial_names:
   - South Sudan
   - Südsudan
   - 南スーダン
   - Zuid-Soedan
+  vehicle_registration_code: SSD
   world_region: EMEA

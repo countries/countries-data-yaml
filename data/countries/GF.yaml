@@ -24,7 +24,6 @@ GF:
         lat: 2.109287
         lng: -54.5544379
   international_prefix: '00'
-  ioc:
   iso_long_name: Guyane
   iso_short_name: French Guiana
   languages_official:
@@ -44,6 +43,7 @@ GF:
   start_of_week: monday
   subregion: South America
   un_locode: GF
+  un_member: false
   unofficial_names:
   - French Guiana
   - Französisch Guyana

@@ -22,7 +22,6 @@ VA:
         lat: 41.9001896
         lng: 12.4457286
   international_prefix: '00'
-  ioc:
   iso_long_name: The Holy See
   iso_short_name: Holy See
   languages_official:
@@ -31,6 +30,7 @@ VA:
   languages_spoken:
   - it
   - la
+  nanp_prefix: '379'
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -44,6 +44,7 @@ VA:
   start_of_week: monday
   subregion: Southern Europe
   un_locode: VA
+  un_member: false
   unofficial_names:
   - Vatican City
   - Vatikan
@@ -52,4 +53,5 @@ VA:
   - バチカン市国
   - Vaticaanstad
   - Vatican City State (Holy See)
+  vehicle_registration_code: V
   world_region: EMEA

@@ -43,13 +43,12 @@ CL:
   start_of_week: monday
   subregion: South America
   un_locode: CL
+  un_member: true
   unofficial_names:
   - Chile
   - チリ
   - Chili
   vat_rates:
     standard: 19
-    reduced: []
-    super_reduced:
-    parking:
+  vehicle_registration_code: RCH
   world_region: AMER

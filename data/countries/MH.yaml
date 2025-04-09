@@ -44,6 +44,7 @@ MH:
   start_of_week: monday
   subregion: Micronesia
   un_locode: MH
+  un_member: true
   unofficial_names:
   - Marshall Islands
   - Marshallinseln
@@ -51,4 +52,5 @@ MH:
   - Islas Marshall
   - マーシャル諸島
   - Marshalleilanden
+  vehicle_registration_code: MH
   world_region: APAC

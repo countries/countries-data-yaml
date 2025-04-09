@@ -50,6 +50,7 @@ NL:
   start_of_week: monday
   subregion: Western Europe
   un_locode: NL
+  un_member: true
   unofficial_names:
   - Netherlands
   - The Netherlands
@@ -63,6 +64,5 @@ NL:
     standard: 21
     reduced:
     - 9
-    super_reduced:
-    parking:
+  vehicle_registration_code: NL
   world_region: EMEA

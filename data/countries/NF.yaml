@@ -22,7 +22,6 @@ NF:
         lat: -29.137506
         lng: 167.9134083
   international_prefix: '00'
-  ioc:
   iso_long_name: The Territory of Norfolk Island
   iso_short_name: Norfolk Island
   languages_official:
@@ -42,6 +41,7 @@ NF:
   start_of_week: monday
   subregion: Australia and New Zealand
   un_locode: NF
+  un_member: false
   unofficial_names:
   - Norfolk Island
   - Norfolkinsel

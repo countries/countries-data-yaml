@@ -49,6 +49,7 @@ NZ:
   start_of_week: monday
   subregion: Australia and New Zealand
   un_locode: NZ
+  un_member: true
   unofficial_names:
   - New Zealand
   - Neuseeland
@@ -60,6 +61,5 @@ NZ:
     standard: 15
     reduced:
     - 9
-    super_reduced:
-    parking:
+  vehicle_registration_code: NZ
   world_region: APAC
